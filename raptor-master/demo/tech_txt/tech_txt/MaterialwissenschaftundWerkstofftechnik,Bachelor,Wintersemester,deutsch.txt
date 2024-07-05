@@ -1,0 +1,330 @@
+
+Lehrveranstaltungen: Vorlesung: Allgemeine und Anorganische Chemie (mit Experimenten) (4 SWS )-
+Lehrende: Prof. Dr. Sjoerd Harder  
+Modulverantwortliche/r: Prof. Dr. Sjoerd Harder Dr. Anton Neubrand
+Inhalt: Allgemeine Chemie: Aufbau der Materie, Stöchiometrische Grundgesetze, Aggregatzustände, Gasgesetze und Atommassenbestimmung, Atombau und Periodensystem, Chemische Bindung, Molekülstrukturen (VSEPR, Hybridisierung), Struktur-Eigenschaftsbeziehungen, Chemische Reaktionen, Thermodynamik, Reaktionskinetik, Massenwirkungsgesetz, Löslichkeitsprodukt, Säure-Base- Gleichgewichte, Elektrochemie, Regeln und Einheiten. Anorganische Chemie: Ausgewählte Hauptgruppenelemente mit den Schwerpunkten: Physikalische Eigenschaften, Vorkommen, Darstellung in Labor und Technik, Chemische Eigenschaften, wichtigste Verbindungen, Anwendungen in Natur und Technik. Chemische Terminologie und Nomenklatur. 6Lernziele und KompetenzenDie Studierenden verstehen die Basiskonzepte und Methoden allgemeiner und anorganischer Chemie und beherrschen die zugrunde liegende Nomenklatur verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen bekommen einen ersten Einblick in den aktuellen Stand der Forschung in der anorganischen Chemie und deren Randbereiche. 7Voraussetzungen für die TeilnahmeVoraussetzungen für die Teilnahme an dem Praktikum: Erfolgreiche Teilnahme an der Vorlesung (Klausur) oder als Ersatz das Bestehen eines Eingangskolloquiums (Sicherheitsaspekte) 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (45 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 
+Lernziele und Kompetenzen: Die Studierenden verstehen die Basiskonzepte und Methoden allgemeiner und anorganischer Chemie und beherrschen die zugrunde liegende Nomenklatur verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen bekommen einen ersten Einblick in den aktuellen Stand der Forschung in der anorganischen Chemie und deren Randbereiche.
+Voraussetzungen für die Teilnahme: Voraussetzungen für die Teilnahme an dem Praktikum: Erfolgreiche Teilnahme an der Vorlesung (Klausur) oder als Ersatz das Bestehen eines Eingangskolloquiums (Sicherheitsaspekte)
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (45 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95763: Angewandte Materialwissenschaften I - Materialien mit unterschiedlichen Bindungstypen Applied materials science I7,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Peter Randelzhofer
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 135 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95765: Angewandte Materialwissenschaften II - Struktur und Funktionen von Materialien A Applied materials science II7,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Dr. Johannes Will
+Inhalt: Das Modul umfasst die Vorlesungen: •Glas und Keramik (Lehrstuhl für Glas und Keramik WW3) •Werkstoffe der Elektrotechnik (Institute Materials for Electronics and Energy Technology WW6) •Mikro- und Nanostrukturforschung (Lehrstuhl für Mikro- und Nanostrukturforschung WW9) Inhalt Glas und Keramik : wird noch eingepflegt Kontakt Tobias Fey Inhalt Werkstoffe der Elektrotechnik: wird noch eingepflegt Kontakt Chirstoph Brabec Inhalt Mikro- und Nanostrukturforschung (Kontakt Johannes Will) : In der Vorlesung wird an Hand von Hochtemperaturwerkstoffen, organischen Solarzellen, nanoporösen und -partikulären Materialien, dünnen Filmen und Nanostrukturen die Wichtigkeit von Struktur- Eigenschaftsbeziehungen dargelegt. Insbesondere wird gezeigt, wie die Struktur der genannten Materialklassen mikroskopisch untersucht werden kann. Hierbei kommen auch Aspekte des Umgangs mit großen Datenmengen zum Tragen. Insbesondere wie moderne Algorithmen genutzt werden können, um große mikroskopische Datensätze effizient auszuwerten. 6Lernziele und KompetenzenKernziele des Moduls angewandte Materialwissenschaften II - Struktur und Funktion von Materialien A ist es die Studierende an Hand von aktuellen Fragestellungen und Materialklassen an aktuelle Forschung heranzuführen. Hierbei erlangen die Studierenden fundamentale Einblicke in die Struktur und Eigenschaften von Gläsern, Keramiken, Werkstoffen der Elektrotechnik und nanostrukturierten Strukturen, sowie in verschiedene Charakterisierungs- und Herstellungsmethoden. Neben einer Grundlegenden Ausbildung in den genannten Materialklassen, deren Eigenschaften und Charakterisierungsmethoden, bereitet das Modul die Studierenden ebenfalls auf den konsekutiven Master und die darin vorgesehene Schwerpunktsetzung vor. 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Kernziele des Moduls angewandte Materialwissenschaften II - Struktur und Funktion von Materialien A ist es die Studierende an Hand von aktuellen Fragestellungen und Materialklassen an aktuelle Forschung heranzuführen. Hierbei erlangen die Studierenden fundamentale Einblicke in die Struktur und Eigenschaften von Gläsern, Keramiken, Werkstoffen der Elektrotechnik und nanostrukturierten Strukturen, sowie in verschiedene Charakterisierungs- und Herstellungsmethoden. Neben einer Grundlegenden Ausbildung in den genannten Materialklassen, deren Eigenschaften und Charakterisierungsmethoden, bereitet das Modul die Studierenden ebenfalls auf den konsekutiven Master und die darin vorgesehene Schwerpunktsetzung vor.
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%) Die Modulnote ergibt sich aus einer 90 minütigen Klausur, in welcher die verschiedenen Teilvorlesungen des Moduls im gleichen Maße geprüft werden.
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95768: Angewandte Materialwissenschaften III - Struktur und Funktionen von Materialien B Applied materials science III10 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Peter Randelzhofer
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenPraktikumsleistung Klausur (90 Minuten) 11Berechnung der ModulnotePraktikumsleistung (25%) Klausur (75%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 120 h Eigenstudium: 180 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Praktikumsleistung Klausur (90 Minuten)
+Berechnung der Modulnote: Praktikumsleistung (25%) Klausur (75%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und Prüfungsleistungenmündlich schriftlich (5 Monate) 11Berechnung der Modulnotemündlich (20%) schriftlich (80%) 12Turnus des Angebots in jedem Semester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden. 14Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 15 Dauer des Moduls 1 Semester 16Unterrichts- und PrüfungsspracheDeutsch 17 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: mündlich schriftlich (5 Monate)
+Berechnung der Modulnote: mündlich (20%) schriftlich (80%)
+Turnus des Angebots: in jedem Semester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95760: Datenerfassung und Modellierung Data collection and modeling10 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: PD Dr.habil. Tobias Fey
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3;4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 210 h 14 Dauer des Moduls 2 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3;4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 66681: Experimentalphysik 1 Experimental physics 15 ECTS
+Lehrveranstaltungen: Übung : Übungen zur Experimentalphysik für Nanotechnologen I (1 SWS )- Vorlesung: Experimentalphysik für Materialwissenschaftler, Nanotechnologen und Integrated Life Scientists I (3 SWS )5 ECTS Übung : Übungen zur Experimentalphysik für Materialwissenschaftler I (1 SWS )- Übung : Übungen zur Experimentalphysik für Integrated Life Scientists I (1 SWS )-
+Lehrende: Prof. Dr. Alexander Schneider  
+Modulverantwortliche/r: Prof. Dr. Vojislav Krstic Prof. Dr. Alexander Schneider Prof. Dr. Heiko Weber
+Inhalt: Mechanik: •Messungen, Einheiten, Dimensionen, Größenordungen •Bewegungen in einer Raumdimension •Bewegungen in drei Raumdimensionen •Newtonsche Gesetze: Kraft •Arbeit, Energie, Leistung •Schwerpunkt, Impuls, Stoßprozesse •Drehbewegungen •Gravitationsgesetz •Mechanik deformierbarer Körper, Flüssigkeiten, Gase Schwingungen und Wellen: •ungedämpfte, gedämpfte sowie erzwungene Schwingungen •Überlagerung •Wellenausbreitung •Beugung •geometrische Optik Thermodynamik: •Temperatur, ideales Gas •Kinetische Gastheorie •Reales Gas, Phasendiagramm •Wärmekapazität, Schmelz-, Verdampfungsenergie •Wärmeleitung, Wärmestrahlung •Wärmekraftmaschinen, Wirkungsgrad 6Lernziele und KompetenzenDie Studierenden •können die Grundlagen der Mechanik und Thermodynamik darstellen •haben ein grundlegendes Verständnis, wie Naturvorgänge auf grundlegende Naturgesetze zurückgeführt werden können •wenden in Übungen das erlernte Wissen auf spezielle Situationen und Fragestellungen der Mechanik und Thermodynamik an 
+Lernziele und Kompetenzen: Die Studierenden •können die Grundlagen der Mechanik und Thermodynamik darstellen •haben ein grundlegendes Verständnis, wie Naturvorgänge auf grundlegende Naturgesetze zurückgeführt werden können •wenden in Übungen das erlernte Wissen auf spezielle Situationen und Fragestellungen der Mechanik und Thermodynamik an 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: schriftlich (90 Minuten) PL: E-Prüfung im Antwort-Wahlverfahren (90 Min.)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Paul A. Tipler: Physik, Spektrum Akademischer Verlag (2009) Hering, Martin, Stohrer: Physik für Ingenieure, Springer (2012) Gerthsen: Physik, Springer (2010) 
+
+, Modulbezeichnung 66683: Experimentalphysik 2 Experimental Physics 27,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Vojislav Krstic Prof. Dr. Alexander Schneider
+Inhalt: *Elektrizität und Magnetismus:* •Ladung •elektrisches Feld •Strom •Magnetismus und instationäre Felder •Wechselströme *Nichtklassische Physik:* •Atomaufbau •Wellenmechanik •Röntgenstrahlung und Photonen •Atomkern *Festkörperphysik:* •Elektronische Zustände in Festkörpern •Elektr. Leitfähigkeit in Halbleitern •Halbleiterbauelemente *Moderne Physik:* •Energie-Masseäquivalenz •Quanteneigenschaften des Lichts •Quantenmechanik •Eindimensionale Potentiale •Atomphysik •Molekülphysik •Kern- und Elementarteilchenphysik 6Lernziele und KompetenzenDie Studierenden •können die Grundlagen der Elektrodynamik und ausgewählter Themen der modernen Physik darstellen •haben ein vertieftes Verständnis, wie Naturvorgänge auf grundlegende Naturgesetze zurückgeführt werden können •wenden in Übungen das erlernte Wissen auf spezielle Situationen und Fragestellungen der Elektrodynamik und weiterer Themen der modernen Physik an •besitzen vertiefte Kompetenz im analytischen Denken als Mittel zur exakten Beschreibung naturwissenschaftlicher Zusammenhänge •führen physikalische Messungen durch, werten diese aus und diskutieren die Ergebnisse 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 
+Lernziele und Kompetenzen: Die Studierenden •können die Grundlagen der Elektrodynamik und ausgewählter Themen der modernen Physik darstellen •haben ein vertieftes Verständnis, wie Naturvorgänge auf grundlegende Naturgesetze zurückgeführt werden können •wenden in Übungen das erlernte Wissen auf spezielle Situationen und Fragestellungen der Elektrodynamik und weiterer Themen der modernen Physik an •besitzen vertiefte Kompetenz im analytischen Denken als Mittel zur exakten Beschreibung naturwissenschaftlicher Zusammenhänge •führen physikalische Messungen durch, werten diese aus und diskutieren die Ergebnisse
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2 
+
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Praktikumsleistung schriftlich (90 Minuten)
+Berechnung der Modulnote: Praktikumsleistung (0%) schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Paul A. Tipler: Physik, Spektrum Akademischer Verlag (2009) Hering, Martin, Stohrer: Physik für Ingenieure, Springer (2012) Gerthsen: Physik, Springer (2010) 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenStudienleistung Studienleistung Studienleistung Studienleistung 11Berechnung der ModulnoteStudienleistung (0%) Studienleistung (0%) Studienleistung (0%) Studienleistung (0%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und Prüfungssprache 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Studienleistung Studienleistung Studienleistung Studienleistung
+Berechnung der Modulnote: Studienleistung (0%) Studienleistung (0%) Studienleistung (0%) Studienleistung (0%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: 1
+Literaturhinweise: 
+
+, Modulbezeichnung 95755: Materialwissenschaften I - Mechanik und Strukturcharakterisierung Materials science I12,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: PD Dr.Ing. Heinz Werner Höppel
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenPraktikumsleistung Klausur (90 Minuten) 11Berechnung der ModulnotePraktikumsleistung (0%) Klausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 120 h Eigenstudium: 255 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Praktikumsleistung Klausur (90 Minuten)
+Berechnung der Modulnote: Praktikumsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95758: Materialwissenschaften II - Funktionale Eigenschaften von Materialien Materials science II12,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Dr. Larry Lüer
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenPraktikumsleistung Klausur (90 Minuten) 11Berechnung der ModulnotePraktikumsleistung (0%) Klausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 120 h Eigenstudium: 255 h 14 Dauer des Moduls 2 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Praktikumsleistung Klausur (90 Minuten)
+Berechnung der Modulnote: Praktikumsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Dr. Johannes Will
+Inhalt: Das Modul umfasst die Lehrveranstaltungen: •Kristallographie (Institute for Crystallography and Structural Physics) Wintersemester •Materialdefekte (Lehrstuhl für Mikro- und Nanostrukturforschung WW9) Sommersemester •Physikalisches Praktikum II (Strukturphysik) Sommersemester Inhalt Kristallographie : Prinzipien der Klassifizierung kristalliner Materie; Grundlagen der Symmetrielehre; Verständnis von Punktgruppen und Raumgruppen; Grundlagen der Streutheorie; Klassische Methoden der Strukturanalyse; Beschreibung der Beugung im reziproken Raum; Struktur und Funktionalität. Inhalt Materialdefekte : Thermodynamik von Defekten; Eigenschaften von Defekten; Segregationsphänomene; Struktur-Eigenschaftsbeziehung. Inhalt Physikalisches Praktikum II : Anwendung des Vorlesungsstoffs an Hand von Röntgenversuchen. Die Studierenden erwerben die Fähigkeit mit Röntgendiffraktometern selbstständig grundlegende strukturelle Eigenschaften kristalliner Materie zu bestimmen 6Lernziele und KompetenzenDie Studierenden erhalten einen fundamentalen Einblick in die Struktur kristalliner Materie. In dem Modul Materialwissenschaften III - Kristallographie + Materialdefekte wird der Bogen von fundamentalen Symmetrieeigenschaften kristalliner Materie über die daraus resultierenden Kristallstrukturen, deren Eigenschaften und deren Defekte (Punktdefekte, Liniendefekte, 2D Defekte) bis hin zur praktischen Anwendung im Labor (Phasenbestimmung mittels Röntenpulverbeugung) geschlagen. Somit bildet das Modul die Grundlage zur Strukturbestimmung und den daraus resultierenden Eigenschaften jegliche Form kristalliner Materie und bereitet die Studierenden für die Angewandten Materialwissenschaften im 5. FS, sowie für die weitere Spezialisierung im Master vor. 
+Lernziele und Kompetenzen: Die Studierenden erhalten einen fundamentalen Einblick in die Struktur kristalliner Materie. In dem Modul Materialwissenschaften III - Kristallographie + Materialdefekte wird der Bogen von fundamentalen Symmetrieeigenschaften kristalliner Materie über die daraus resultierenden Kristallstrukturen, deren Eigenschaften und deren Defekte (Punktdefekte, Liniendefekte, 2D Defekte) bis hin zur praktischen Anwendung im Labor (Phasenbestimmung mittels Röntenpulverbeugung) geschlagen. Somit bildet das Modul die Grundlage zur Strukturbestimmung und den daraus resultierenden Eigenschaften jegliche Form kristalliner Materie und bereitet die Studierenden für die Angewandten Materialwissenschaften im 5. FS, sowie für die weitere Spezialisierung im Master vor. 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3;4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (0%) Klausur (100%) Die Modulnote ergibt sich aus der Note aus der schriftlichen Prüfung (90 min). Hier werden sowohl Grundlegende Aspekte der Kristallographie, sowie von Materialdefekten geprüft.
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 67780: Mathematik für MWT 1 Mathematics for MSET 17,5 ECTS
+Lehrveranstaltungen: Vorlesung: Mathematik für Ingenieure D1: CBI, CEN, LSE, MWT, NT (4 SWS )7,5 ECTS Übung : Übungen zur Mathematik für Ingenieure D1: MWT, NT (2 SWS )-
+Lehrende: Prof. Dr. Wolfgang Achtziger David Kanzler  
+Modulverantwortliche/r: Prof. Dr. Wolfgang Achtziger
+Inhalt: *Grundlagen* Aussagenlogik, Mengen, Relationen, Abbildungen *Zahlensysteme* natürliche, ganze, rationale und reelle Zahlen, komplexe Zahlen *Vektorräume* Grundlagen, Lineare Abhängigkeit, Spann, Basis, Dimension, euklidische Vektor- und Untervektorräume, affine Räume *Matrizen, Lineare Abbildungen, Lineare Gleichungssysteme* Matrixalgebra, Lösungsstruktur linearer Gleichungssysteme, Gauß-Algorithmus, inverse Matrizen, Matrixtypen, lineare Abbildungen, Determinanten, Kern und Bild, Eigenwerte und Eigenvektoren, Basis, Ausgleichsrechnung *Grundlagen Analysis einer Veränderlichen* Grenzwert, Stetigkeit, elementare Funktionen, Umkehrfunktionen 6Lernziele und KompetenzenDie Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 
+Lernziele und Kompetenzen: Die Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1 
+
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: schriftlich (90 Minuten) Übungsleistung
+Berechnung der Modulnote: schriftlich (100%) Übungsleistung (0%)
+Turnus des Angebots: nur im Wintersemester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 Fried, Mathematik für Ingenieure I für Dummies I, Wiley A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson v. Finckenstein et.al: Arbeitsbuch Mathematik fuer Ingenieure: Band I Analysis und Lineare Algebra. Teubner-Verlag 2006, ISBN 9783835100343 Meyberg, K., Vachenauer, P.: Höhere Mathematik 1. 6. Auflage, Sprinbger-Verlag, Berlin, 2001 
+
+, Modulbezeichnung 67791: Mathematik für MWT 2 Mathematics for MSET 27,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: apl.Prof.Dr. Wilhelm Merz
+Inhalt: *Differentialrechnung einer Veränderlichen* Ableitung mit Rechenregeln, Mittelwertsätze, LHospital, Taylor-Formel, Kurvendiskussion *Integralrechnung einer Veränderlichen* Riemann-Integral, Hauptsatz der Infinitesimalrechnung, Mittelwertsätze, Partialbruchzerlegung, uneigentliche Integration *Folgen und Reihen* reelle und komplexe Zahlenfolgen, Konvergenzbegriff und - sätze, Folgen und Reihen von Funktionen, gleichmäßige Konvergenz, Potenzreihen, iterative Lösung nichtlinearer Gleichungen *Grundlagen Analysis mehrerer Veränderlicher* Grenzwert, Stetigkeit, Differentiation, partielle Ableitungen, totale Ableitung, allgemeine Taylor-Formel 6Lernziele und KompetenzenDie Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenÜbungsleistung schriftlich (90 Minuten) 11Berechnung der ModulnoteÜbungsleistung (0%) schriftlich (100%) 
+Lernziele und Kompetenzen: Die Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Übungsleistung schriftlich (90 Minuten)
+Berechnung der Modulnote: Übungsleistung (0%) schriftlich (100%) 
+
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried, Mathematik für Ingenieure I für Dummies und Mathematik für Ingenieure II für Dummies, Wiley W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 K. Finck von Finckenstein, J. Lehn et. al., Arbeitsbuch für Ingenieure, Band I, Teubner A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson 
+
+, Modulbezeichnung 94660: Statik und Festigkeitslehre Statics and mechanics of materials7,5 ECTS
+Lehrveranstaltungen: Vorlesung: Statik und Festigkeitslehre (3 SWS ) - Sonstige Lehrveranstaltung : Tutoreneinführung zur Statik und Festigkeitslehre (2 SWS )- Tutorium: Übung Statik und Festigkeitslehre (2 SWS ) -
+Lehrende: Prof. Dr.-Ing. Silvia Budday Lucie Spannraft Dr.-Ing. Gunnar Possart Michael Lengger  
+Modulverantwortliche/r: Prof. Dr.-Ing. Kai Willner
+Inhalt: •Kraft- und Momentenbegriff, Axiome der Statik •ebene und räumliche Statik •Flächenmomente 1. und 2. Ordnung •Haft- und Gleitreibung •Spannung, Formänderung, Stoffgesetz •überbestimmte Stabwerke, Balkenbiegung •Torsion •Elastizitätstheorie und Festigkeitsnachweis •Stabilität 6Lernziele und KompetenzenWissen Die Studierenden kennen •die axiomatischen Grundlagen der Technischen Mechanik sowie die entsprechenden Fachtermini. •das Schnittprinzip und die Einteilung der Kräfte in eingeprägte und Reaktionskräfte bzw. in äußere und innere Kräfte. •die Gleichgewichtsbedingungen am starren Körper. •das Phänomen der Haft- und Gleitreibung. •die Begriffe der Verzerrung und Spannung sowie das linear- elastische Stoffgesetz. •den Begriff der Hauptspannungen sowie das Konzept der Vergleichsspannung und Festigkeitshypothesen. •das Problem der Stabilität und speziell die vier Eulerschen Knickfälle für ein schlankes Bauteil unter Drucklast. Verstehen Die Studierenden •können Kräfte nach verschiedenen Kriterien klassifizieren. •können verschiedene Lagerungsarten unterscheiden und die entsprechenden Lagerreaktionen angeben. •können den Unterschied zwischen statisch bestimmten und unbestimmten Systemen erklären. •können den Unterschied zwischen Haft- und Gleitreibung erläutern. •können das linear-elastische, isotrope Materialgesetz angeben und die Bedeutung der Konstanten erläutern. •können die Voraussetzungen der Euler-Bernoulli-Theorie schlanker Balken erklären. 
+Lernziele und Kompetenzen: Wissen Die Studierenden kennen •die axiomatischen Grundlagen der Technischen Mechanik sowie die entsprechenden Fachtermini. •das Schnittprinzip und die Einteilung der Kräfte in eingeprägte und Reaktionskräfte bzw. in äußere und innere Kräfte. •die Gleichgewichtsbedingungen am starren Körper. •das Phänomen der Haft- und Gleitreibung. •die Begriffe der Verzerrung und Spannung sowie das linear- elastische Stoffgesetz. •den Begriff der Hauptspannungen sowie das Konzept der Vergleichsspannung und Festigkeitshypothesen. •das Problem der Stabilität und speziell die vier Eulerschen Knickfälle für ein schlankes Bauteil unter Drucklast. Verstehen Die Studierenden •können Kräfte nach verschiedenen Kriterien klassifizieren. •können verschiedene Lagerungsarten unterscheiden und die entsprechenden Lagerreaktionen angeben. •können den Unterschied zwischen statisch bestimmten und unbestimmten Systemen erklären. •können den Unterschied zwischen Haft- und Gleitreibung erläutern. •können das linear-elastische, isotrope Materialgesetz angeben und die Bedeutung der Konstanten erläutern. •können die Voraussetzungen der Euler-Bernoulli-Theorie schlanker Balken erklären. 
+
+Einpassung in Studienverlaufsplan: Semester: 3 
+
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Gross, Hauger, Schnell, Wall: Technische Mechanik 1, Berlin:Springer 2006 •Gross, Hauger, Schnell, Wall: Technische Mechanik 2, Berlin:Springer 2007 
+
+, Modulbezeichnung 95750: Werkstoffe und ihre Struktur I - Metallische Materialien Materials and their structure I7,5 ECTS
+Lehrveranstaltungen: Übung : Ergänzungen zu Werkstoffe und ihre Struktur (1 SWS )1,5 ECTS Vorlesung: Werkstoffe und ihre Struktur (3 SWS ) 3,5 ECTS Vorlesung mit Übung: Vorlesung Grundlagen der Metalltechnologie (2 SWS )2,5 ECTS
+Lehrende: Jan Vollhüter Dr.-Ing. Steffen Neumeier Annalena Meermeier Prof. Dr. Mathias Göken Dr.-Ing. Christopher Zenk Peter Randelzhofer  
+Modulverantwortliche/r: PD Dr.Ing. Heinz Werner Höppel
+Inhalt: Werkstoffe und ihre Struktur: Diese Vorlesung stellt eine breite Einführung in die Grundlagen der Werkstoffkunde dar. Neben den allgemeinen Grundlagen zur inneren Struktur von Werkstoffen werden auch die Grundlagen von Organischen Werkstoffen und nichtmetallisch-anorganischen Werkstoffen vermittelt. Dabei werden in den verschiedenen Vorlesungen die Grundlagen für kristalline und amorphe Werkstoffe erarbeitet. Die verschiedenen Werkstoffgruppen werden übersichtsartig eingeführt und die unterschiedlichen chemischen Bindungstypen rekapituliert. Für die kristallinen Werkstoffe werden dann Abweichungen von der Idealstruktur (Gitterfehler und Realstruktur) und deren Auswirkungen auf die Eigenschaften von Werkstoffen besprochen. Ferner werden mikroskopischen und spektroskopischen Methoden der Materialanalyse behandelt. Außerdem werden die Grundlagen der Thermodynamik behandelt und Grundtypen der Zustandsdiagramme und insbesondere das Eisen- Kohlenstoff-Zustandsdiagramm, die Stähle und Gusseisen besprochen. Die Themengebiete Phasenumwandlungen und Diffusion ergänzen die allgemeinen Grundlagen. Grundlagen der Metalltechnologie Diese Vorlesung stellt eine breite Einführung in die Grundlagen der Metalltechnologie dar. Neben den allgemeinen Grundlagen zu metallischen Werkstoffen wird insbesondere metallkundliche Grundlagen vermittelt. 
+
+Lernziele und Kompetenzen: Anwenden Die Studierenden können die erlernten Grundlagen zur Struktur von Werkstoffen und deren Auswirkungen auf die Werkstoffeigenschaften erklären und ihr Wissen auf einfache Anwendungsfälle übertragen. Dazu müssen verschiedene Problemstellungen den jeweiligen Themenkreisen zugeordnet werden. Einfache Problemstellungen können analysiert werden und zugehörige Berechnungen durchgeführt werden.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1;
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 Studiengänge Bachelor MWT, NT, ENT
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%) anteilig ECTS
+Turnus des Angebots: nur im Wintersemester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+
+, Modulbezeichnung 95753: Werkstoffe und ihre Struktur II - Nichtorganische und Organische Materialien Materials and their structure II10 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: PD Dr.habil. Tobias Fey Dr.-Ing. Joachim Kaschta
+Inhalt: Diese Vorlesung stellt eine breite Einführung in die Grundlagen der Werkstoffkunde dar. Neben den allgemeinen Grundlagen zur inneren Struktur von Werkstoffen werden auch die Grundlagen von Organischen Werkstoffen und nichtmetallisch-anorganischen Werkstoffen vermittelt. Dabei werden in den verschiedenen Vorlesungen die Grundlagen für kristalline und amorphe Werkstoffe erarbeitet. Die verschiedenen Werkstoffgruppen werden übersichtsartig eingeführt und die unterschiedlichen chemischen Bindungstypen rekapituliert. Für die kristallinen Werkstoffe werden dann Abweichungen von der Idealstruktur (Gitterfehler und Realstruktur) und deren Auswirkungen auf die Eigenschaften von Werkstoffen besprochen. Ferner werden mikroskopischen und spektroskopischen Methoden der Materialanalyse behandelt. Die Vorlesungen nichtmetallisch anorganische Werkstoffe und organische Werkstoffe gehen insbesondere dabei auf die molekularen Strukturen von Polymerwerkstoffen bzw. auf die Besonderheiten von Glas und Keramik ein. Auch einige erste Grundlagen zu den Auswirkungen der Struktur auf die mechansichen Eigenschaften, insbesondere Verformung, Bruch und Festigkeitssteigerung werden behandelt. Ferner wird eine kurze Übersicht über(normgerechte) Werkstoffbezeichnungen gegeben. 6Lernziele und KompetenzenDie Studierenden können die erlernten Grundlagen zur Struktur von Werkstoffen und deren Auswirkungen auf die Werkstoffeigenschaften erklären und ihr Wissen auf Anwendungsfälle übertragen. Dazu müssen verschiedene Problemstellungen den jeweiligen Themenkreisen zugeordnet werden. Entsprechende Vorraussagen zum Werkstoffverhalten können ebenfalls von den Studierenden getroffen werden. Einfache Problemstellungen können analysiert werden und zugehörige Berechnungen durchgeführt werden. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) Praktikumsleistung 
+Lernziele und Kompetenzen: Die Studierenden können die erlernten Grundlagen zur Struktur von Werkstoffen und deren Auswirkungen auf die Werkstoffeigenschaften erklären und ihr Wissen auf Anwendungsfälle übertragen. Dazu müssen verschiedene Problemstellungen den jeweiligen Themenkreisen zugeordnet werden. Entsprechende Vorraussagen zum Werkstoffverhalten können ebenfalls von den Studierenden getroffen werden. Einfache Problemstellungen können analysiert werden und zugehörige Berechnungen durchgeführt werden.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (90 Minuten) Praktikumsleistung 
+
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Sommersemester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95770: Werkstofftechnologie I - Materialkreisläufe Materials engineering I5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Vorlesung Weiterverarbeitung von Werkstoffen (2 SWS )2,5 ECTS Vorlesung mit Übung: Vorlesung Materialkreisläufe und Nachhaltigkeit (2 SWS )2,5 ECTS
+Lehrende: Prof. Dr.-Ing. Carolin Körner PD Dr.Ing. Heinz Werner Höppel Dr.-Ing. Joachim Kaschta Dr.-Ing. Christopher Zenk  
+Modulverantwortliche/r: PD Dr.Ing. Heinz Werner Höppel
+Inhalt: Weiterverarbeitung von Werkstoffen: Es werden wesentliche Fertigungsverfahren (Urformen, Umformen, Spanen, Schweißen, Löten, Kleben, Beschichten) vorgestellt sowie die gegenseitige Beeinflussung von Mikrostruktur und Werkstoffeigenschaften einerseits und Fertigungsverfahren andererseits diskutiert. Materialkreisläufe und Nachhaltigkeit: Es werden die Umweltaspekte von Materialien, ihre Auswahl, Produktion, Verwendung und Entsorgung betrachtet und Wege aufgezeigt, umweltfreundlich Werkstoffe zu produzieren und weiter zu verarbeiten. 6Lernziele und KompetenzenDie Studierenden •kennen wesentliche Fertigungsverfahren. •haben Kenntnisse über die Abhängigkeiten von Werkstoff, Mikrostruktur und Herstellungsprozess. •sind sensibilisiert für die Umweltaspekte von Herstellung und Weiterverarbeitung von Werkstoffen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (60 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden. 14Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 
+Lernziele und Kompetenzen: Die Studierenden •kennen wesentliche Fertigungsverfahren. •haben Kenntnisse über die Abhängigkeiten von Werkstoff, Mikrostruktur und Herstellungsprozess. •sind sensibilisiert für die Umweltaspekte von Herstellung und Weiterverarbeitung von Werkstoffen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (60 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+
+, Modulbezeichnung 95773: Werkstofftechnologie II - Thermodynamik und Kinetik von Werkstoffen Materials engineering II5 ECTS
+Lehrveranstaltungen: Vorlesung: Festkörperthermodynamik (2 SWS, SoSe 2024 )2,5 ECTS Vorlesung: Festkörperkinetik (2 SWS, SoSe 2024 ) 2,5 ECTS
+Lehrende: Prof. Dr. Sannakaisa Virtanen Prof. Dr. Michael Zaiser  
+Modulverantwortliche/r: PD Dr. Paolo Moretti
+Inhalt: Festkörperthermodynamik: Grundlagen der Thermodynamik - Thermodynamik von Legierungen - Phasengleichgewichte - Punktdefekte - Festkörperelektrochemie - Thermodynamik von Grenz- und Oberflächen Festkörperkinetik: Grundlagen der Reaktionskinetik - Diffusion - Wärmeleitung - Keimbildung und Kristallwachstum - Kinetik des flüssig- fest Übergangs - Grenzflächenkinetik - Oberflächenreaktionen 6Lernziele und KompetenzenDie Studierenden •verstehen thermodynamische Prinzipien in Werkstoffwissenschaften, sowie die Relevanz für die Herstellung und Anwendung von Werkstoffen •verstehen die kinetischen Vorgänge in Werkstoffen, der ablaufenden Diffusions- und Reaktionsprozesse sowie den Einfluss der Temperatur auf die Kinetik und die Anwendung der kinetischen Prozesse auf die Herstellung, Verarbeitung und den Einsatz von Werkstoffen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (60 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 165 h Eigenstudium: 285 h 14 Dauer des Moduls 2 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die Studierenden •verstehen thermodynamische Prinzipien in Werkstoffwissenschaften, sowie die Relevanz für die Herstellung und Anwendung von Werkstoffen •verstehen die kinetischen Vorgänge in Werkstoffen, der ablaufenden Diffusions- und Reaktionsprozesse sowie den Einfluss der Temperatur auf die Kinetik und die Anwendung der kinetischen Prozesse auf die Herstellung, Verarbeitung und den Einsatz von Werkstoffen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (60 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95775: Werkstofftechnologie III - Interaktion von Werkstoffen und Umgebung Materials engineering III5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Dr.-Ing. Gerhard Frank
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3;4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (60 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 165 h Eigenstudium: 285 h 14 Dauer des Moduls 2 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3;4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (60 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95778: Werkstofftechnologie IV - Konstruieren mit Werkstoffen Materials engineering IV5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Dr.-Ing. Steffen Neumeier
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232 10Studien- und PrüfungsleistungenKlausur (60 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 165 h Eigenstudium: 285 h 14 Dauer des Moduls 2 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Materialwissenschaft und Werkstofftechnik 20232
+Method of examination: Klausur (60 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise:

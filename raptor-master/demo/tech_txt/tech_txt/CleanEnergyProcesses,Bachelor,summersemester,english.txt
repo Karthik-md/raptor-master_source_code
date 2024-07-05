@@ -1,0 +1,455 @@
+
+, Module name 92793: Active project 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Katharina Herkendell
+Contents: •Introduction to typical clean energy processes •Characterization and evaluation of corresponding raw materials and their properties •Introduction of important mechanisms, requirements and technical realizations •Selection of quantitative descriptions of clean energy production processes •Presentation of current topics in the field of clean energy processes
+Learning objectives and skills: Students who successfully participate in this module •know typical clean energy processes and corresponding raw materials •can characterize and evaluate these raw materials and the properties of products •know the main mechanisms, processes and technical realizations •recognize the connections between the contents of further lectures and the foundation for quantitative description of clean energy production processes •are able to present and discuss a new topic in the field of clean energy processes
+Prerequisites: None
+Integration in curriculum: semester: 3
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Seminarleistung Report (ca. 10 pages) and presentation (ca. 10 min.)
+Grading procedure: Seminarleistung (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: 1)Pautasso, M. (2013). Ten simple rules for writing a literature review. PLoS Computational Biology, 9(7), e1003149. 2)Purdue University, Online Writing Lab, https://owl.purdue.edu 
+
+
+Module coordinator: 5
+Contents: Independent work on a scientific problem in the field of clean energy processes in one of the following fields: •Energy technologies •Energy systems •Electrical energy engineering •Materials science and engineering •Process engineering The topic of the Bachelor’s thesis shall be allocated by a university lecturer from the Department of CBI at FAU.
+Learning objectives and skills: Students •are able to work independently on a scientific problem from a selected area of the study field clean energy processes within a given time limit •develop independent ideas and concepts to solve scientific problems •deal with theories, terminologies, specifics, limitations and doctrines of the subject in an in-depth and critical way and reflect on them •can apply and further develop suitable scientific methods largely independently - also in new and unfamiliar as well as interdisciplinary contexts - as well as present the results in a scientifically appropriate form. •can present subject-related content clearly and appropriately to the target group, both orally and in writing, and argue the case for it •expand their planning and structuring skills in the implementation of a thematic project.
+
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Module frequency: no Module frequency information available!
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: german
+Bibliography: 
+
+, Module name 92782: Chemical reaction engineering 5 ECTS
+Course / lectures: Vorlesung: CEP Chemical Reaction Engineering (2.0 SWS )5 ECTS Übung : CEP Chemical Reaction Engineering (Exercise) (2.0 SWS )-
+Lecturers: Marco Haumann  
+Module coordinator: Marco Haumann
+Contents: • Fundamental parameters of chemical reactions and processes • Micro-kinetics of chemical reactions • Heterogeneous catalysis - reaction processes on surfaces • Macro-kinetics - inner and outer mass transfer • Macro-kinetics - non-isothermal conditions • Types of chemical reactors • Reactor modelling – mass and energy balances • Real reactors - residence time and stable operation
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of chemical reaction engineering. Students who successfully participate in this module can: •Describe complex reactions by kinetic rate expressions •Analyze reactions on solid surfaces of heterogeneous catalysts •Describe and quantify the interplay between reaction kinetics and mass transport •Describe and quantify mass and heat balances in catalyst particles •Classify chemical reactors based on reacting phases or mode of operation •Balance mass and heat flows in ideal reactors •Find stable and safe operation points for reactors
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. physical chemistry, mathematics. A solid background in mathematics is required, since differential equations and integrals form the basis for the description of the chemical processes and their kinetics. Understanding of kinetics to describe the time dependent concentration changes in chemical reactions should be familiar from physical chemistry classes. Basic knowledge in thermodynamics and general chemistry is beneficial.
+Integration in curriculum: semester: 4
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%) 
+
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Jess and P. Wasserscheid, Chemical Technology, Wiley-VHC, Weinheim. O. Levenspiel, Chemical Reaction Engineering. John Wiley. 
+
+, Module name 92779: Chemical thermodynamics 5 ECTS
+Course / lectures: Übung : Chemical Thermodynamics (2.0 SWS ) - Vorlesung: Chemical thermodynamics CEP -
+Lecturers: Prof. Dr. Matthias Thommes Markus Terlinden Dr. Carlos Cuadrado Collados Jakob Söllner Peter Leicht  
+Module coordinator: Prof. Dr. Matthias Thommes
+Contents: • Basic thermodynamics terms and equations • Vapour-liquid equilibria • Liquid-liquid equilibria • Solid-liquid equilibria • Modelling of phase equilibria based on activity and fugacity • Equations of state • Reaction equilibria • Thermodynamics of interfaces
+Learning objectives and skills: Students who successfully participate in this module : • know fundamental thermodynamic terms and equations • explore phase change and phase equilibria from an intermolecular and energetic view which is key for understanding thermal separation processes • understand the driving forces and thermodynamic limitations of processes containing mixed phases • understand the equilibria of chemical reactions • learn also how to calculate these equilibria based on pure substance properties • can apply thermodynamic concepts for describing interface phenomena such as wetting, adsorption etc.
+Prerequisites: Basic knowledge of physical chemistry
+Integration in curriculum: semester: 4
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester 
+
+Teaching and examination language: english
+Bibliography: J. M. Smith, Hendrick C. Van Ness, Michael Abbott: Introduction to Chemical Engineering Thermodynamics 
+
+, Module name 92792: Data science for engineers 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Michael Engel
+Contents: Students who participate in this course will become familiar with basic concepts of Python programming, data science and statistics. • •Introduction to Python •Basic data types and data structures •Scientific algorithms •Visualizing data •Probability and statistics •Hypothesis testing and interference •Optimization: Gradient descent, deterministic and stochastic •Supervised learning: classification, regression •Clustering
+Learning objectives and skills: Students who successfully participate in this module can: •Understand and write scientific code in Python •Utilize good programming practices and describe algorithms •Select appropriate data structures and process data with them •Apply the concept of probability distributions •Perform elementary statistical analysis •Extract information from data sets •Make predictions, quantify their accuracy and reliability •Apply all of the concepts above to selected engineering problems
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from Mathematics I-III, in particular linear algebra and matrices. Knowledge of Python is not required and will be taught at the beginning of the course, partially through hands-on material to be completed at home.
+Integration in curriculum: semester: 5
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur
+Grading procedure: Klausur (100%) Module examination 100%
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester 
+
+Teaching and examination language: english
+
+, Module name 92783: Decentralized energy supply 5 ECTS
+Lecturers: Prof. Dr. Katharina Herkendell Dr.-Ing. Peter Treiber Kyra Böge  
+Module coordinator: Prof. Dr. Katharina Herkendell Prof. Dr.-Ing. Jürgen Karl
+Contents: •Introduction to the general conditions of the energy industry •Basics of energy technology •Fundamentals of material transformation •Combustion and useful heat generation •Steam power plants •Gas turbine power plants •CO2 free power plants •Decentralized energy systems
+Learning objectives and skills: The students learn •basic processes of energy technology •innovative technologies for energy conversion •the calculation of efficiencies and profitability of energy conversion •the assessment of environmentally relevant and social aspects of energy conversion
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. thermodynamics, chemistry and mathematics. Some background in thermodynamics, heat and mass transfer and fluid mechanics is required, in order to calculate process efficiencies. Basic knowledge in thermodynamics and general chemistry is beneficial.
+Integration in curriculum: semester: 4
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212 PF ET-BA 4
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%) 
+
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Energy, Aubrecht, Gordon J., 1989, Merrill Pub Co •Energy science : principles, technologies, and impacts, Andrews, John , Jelley, Nicholas A. 2022, Oxford University Press •Handbook of Energy Storage : Demand, Technologies, Integration, Sterner, Michael , Stadler, Ingo, 2019, Springer Berlin Heidelberg •Integrated gasification combined cycle (IGCC) technologies, Wang, Ting , Stiegel, Gary, Woodhead Publishing 
+
+, Module name 92786: Electrocatalysis 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Karl Mayrhofer
+Contents: •Electrochemical kinetics (Tafel-equation, Butler-Volmer equation, theories of electron transfer, transition state theory, introduction to electrocatalysis (single crystals), rate-coverage relations, structure-function relationship, electrocatalyst development) •Advanced electrochemical methods (electrochemistry coupled with spectroscopic techniques (in situ spectroelectrochemical techniques: UV-VIS, IR, X-ray, Raman etc), mass spectrometry, EQCM etc; coupled mass spectrometry techniques for stability and selectivity investigation) •Application-related challenges in electrocatalysis (Electrochemical reactors, water electrolyzers, chloralkali process, organic electrosynthesis, aluminum production, fuel cells, batteries, flow batteries, supercapacitors)
+Learning objectives and skills: The module focuses on the kinetics of electrochemical reactions and their catalysis. This will be discussed via practical electrochemical systems that are either already of great economic importance or will become crucial in future applications. After taking this module, students will have knowledge on the role of electrocatalysis for the most relevant applied electrochemical research topics, will have a clear view on the versatility of electrochemical devices and have an understanding of electrochemistry based energy systems and their potential. The students will thus receive an insight into the fundamental research problems of modern electrocatalysis.
+Prerequisites: Electrochemistry
+Integration in curriculum: semester: 5
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english 
+
+Bibliography: •Industrial Electrochemistry by D. Pletcher, F.C. Walsh, 2nd ed., Springer, 1990 •Electrochemical Engineering: Science and Technology in Chemical and Other Industries by H. Wendt, G. Kreysa, Springer, 2013 •Fundamentals of Electrochemistry by V. S. Bagotsky, 2nd ed., Wiley, 2005 
+
+, Module name 92774: Electrochemistry 5 ECTS
+Course / lectures: Übung : Exercise Electrochemistry (3.0 SWS ) 3 ECTS Vorlesung: Electrochemistry (2.0 SWS ) -
+Lecturers: Prof. Dr. Karl Mayrhofer Dr. Dominik Dworschak  
+Module coordinator: Prof. Dr. Karl Mayrhofer
+Contents: The lecture and Übung of the first semester provide a fundamental insight into electrochemical systems and discuss basic thermodynamics, double layer theory, conductance and migration etc. Based on this knowledge, students will be able to understand electrochemical problems, suggest methods to solve them and understand the background of many practical electrochemical systems and applications. Moreover, they will receive an intensive insight into electrochemical analytical methods necessary to investigate electrochemical reactions. In the practical part they will apply this knowledge and investigate standard electrochemical reactions, and will also design a program to model the results. -Electrochemical thermodynamics (5 lectures) introduction (scope and role of electrochemistry, short history), electrochemical potentials, Nernst-equation, electrodes, conductance, transference number, mobility, solvation of ions, the Born-equation, Debye-Hückel theory, junction potentials, ion selective electrodes (concept of pH, the glass electrode, other ion selective electrodes), transport phenomena, electrified interfaces: double layer theories, adsorption (adsorption isotherms), surface excesses, electrocapillary equation, electrokinetic properties -Electrochemical methods (7 lectures) electrochemical cells/reactors, electrochemical instrumentation, potential step methods, potential sweep methods, galvanostatic methods, stripping analysis, hydrodynamic methods (RDE, RRDE), impedance (1 lecture), scanning techniques (electrochemical STM, SECM, SFC, AFM ), intro to the second semester courses -Electrochemistry in applications (3 lectures) Corrosion, metal deposition (coatings); Electroanalysis, electrochemical sensors, modified electrodes; Lithography galvoforming, semiconductors, information storage, bioelectrochemistry, photoelectrochemistry, conducting polymers Student competencies achieved: •Understand the thermodynamic fundamentals of electrochemical processes •Knowledge of modern electrochemical methods and their application •Interpret data from electrochemical measurements
+Learning objectives and skills: The module provides a fundamental insight into electrochemical systems and discusses basic thermodynamics, double layer theory, conductance and migration etc. Based on this knowledge, students 
+
+Prerequisites: None
+Integration in curriculum: semester: 2
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Electrochemical methods: fundamentals and applications by A. J. Bard, L. R. Faulkner, 2nd ed., Wiley, 2000 •Elektrochemie by C. H. Hamann, W. Vielstich, 4th ed., Wiley, 2005 •Electrochemistry Principles, Methods, and Applications by C. M. A. Brett und A. M. O. Brett. Oxford University Press, 1993 •Electrode kinetics for chemists, chemical engineers, and materials scientists by E. Gileadi, Wiley-VCH, 1993 
+
+, Module name 92788: Energy economics 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Jürgen Karl
+Contents: •Energy Resources and energy exploitation •Economics for energy conversion and storage •Financing of energy systems and technologies •Innovation management •Energy exchange and trading systems •Europe’s legislative framework for the energy economy (emission control, taxation, markets and trade regulations) •Grid operation guidelines and security of supply
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of energy economics. Students who successfully participate in this module •Can discuss the fundamentals of energy economics. •Compare different sources of energy regarding their technical characteristics, environmental impacts and economic performance parameters. •Can calculate energy costs. •Critically assess the role of flexible demand and demand side management for future energy systems. •Analyse different forms of electricity market designs. •Understand the forms of stock exchange and over the counter energy trading. •Discuss the challenges and tasks of energy grids and analyse the roles of grid operators. •Compare different storage needs for energy systems, technical solutions and their economic performance and business cases. •Assess legal aspects of energy economics and renewable energy supporting schemes.
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. energy technologies and renewable energies.
+Integration in curriculum: semester: 5
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%) 
+
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+
+, Module name 92781: Fluid dynamics 5 ECTS
+Course / lectures: Vorlesung: Fluid Dynamics for Clean Energy Processes (2.0 SWS )2,5 ECTS Übung : Fluid Dynamics for Clean Energy Processes (2.0 SWS )2,5 ECTS
+Lecturers: Prof. Dr. Philipp Schlatter  
+Module coordinator: Prof. Dr. Andreas Wierschem
+Contents: •Fluid characteristics •Continuum hypothesis •Kinematics •Basic equations •Exact solutions •Hydrostatics •Similarity •Bernoulli equation •Turbulent pipe flow
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of fluid mechanics. Students who successfully participate in this module: •Understand the significance of fluid mechanics in everyday life as well as in industrial processes •Know and understand the basics of fluid mechanics •Have an overview over different fluid mechanical regimes and understand their range of applicability •Can apply the acquired knowledge with practiced methodology •Are able to assess fluid mechanical problems and can apply solution strategies
+Integration in curriculum: semester: 4
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester 
+
+Teaching and examination language: english
+Bibliography: •Spurk, Aksel: Fluid Mechanics, Springer •Kundu, Fluid Mechanics, Academic Press •White, Fluid Mechanics, McGraw Hill •Morrison, An Introduction to Fluid Mechanics, Cambridge University Press 
+
+, Module name 92771: Foundations of chemical reaction engineering 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Dr. Peter Schulz Prof. Dr. Peter Wasserscheid
+Contents: •Fundamentals of inorganic and organic chemistry •Types and mechanisms of chemical reactions •Chemical compounds for energy storage and conversion •Stability of chemical compounds •Chemical compounds for gas cleaning processes •Heterogeneous catalysis •Reduction and oxidation reactions •Hydrogenation/Dehydrogenation reactions
+Learning objectives and skills: Students who participate in this course will become familiar with the basic chemistry behind energy conversion and storage. Students who successfully participate in this module can •Understand the basic principles of chemical reactions •Assign the energy storage feasibility of chemical compounds •Analyze decomposition of chemical compounds •Understand the molecular basis for gas capture and cleaning •Describe the mechanisms of reduction and oxidation processes •Understand and apply the fundamental principles of catalysis •Describe the mechanisms of hydrogenation/dehydrogenation processes
+Prerequisites: To succeed in this course students will need to apply earlier acquired knowledge from e.g. organic, inorganic and physical chemistry (high school level). Fundamental understanding of mathematics is required. Basic knowledge in thermodynamics is beneficial.
+Integration in curriculum: semester: 1
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 Bibliography 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: 
+
+
+, Module name 92776: Fundamentals of electrical engineering 5 ECTS
+Course / lectures: Tutorium: Group Tutorial 2 (2.0 SWS ) - Vorlesung: Fundamentals of Electrical Engineering (2.0 SWS )5 ECTS Übung : Fundamentals of Electrical Engineering - Exercises (2.0 SWS )-
+Lecturers: Hans Rosenberger Prof. Dr.-Ing. Ralf Müller  
+Module coordinator: Prof. Dr.-Ing. Ralf Müller
+Contents: •Elektrostatisches Feld •Stationäres elektrisches Strömungsfeld •Gleichstromnetzwerke •Stationäres Magnetfeld •Zeitlich veränderliches elektromagnetisches Feld •Zeitlich periodische Vorgänge •Ausgleichsvorgänge •Halbleiterbauelemente und ausgewählte Grundschaltungen ==== •Electrostatic field •Stationary electric flow field •Direct current networks •Stationary magnetic field •Time-varying electromagnetic field •Time periodic processes •Transient processes •Semiconductor devices and selected basic circuits
+Learning objectives and skills: •Die Studierenden erläutern die Grundkonzepte von elektrische Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatisches Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. Die Studierenden beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •Die Studierenden erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •Die Studierenden erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetze. Mit Hilfe der Kirchhoffsche Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. 
+
+
+
+Prerequisites: The students use methods of vector analysis and use Cartesian coordinates, cylindrical and polar coordinates. They solve systems of linear equations and calculate with complex numbers. They use the trigonometric formulas and solve linear ordinary differential equations with constant coefficients in transient processes. Students know and understand basic physical concepts, especially quantities and quantity equations.
+Integration in curriculum: semester: 2
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Manuskript zur Vorlesung / Lecture notes •ALBACH, M.: Elektrotechnik, 1. Auflage, Pearson-Studium, München, 2011. •ALBACH, M., FISCHER, J.: Übungsbuch Elektrotechnik, 1. Auflage, Pearson-Studium, München, 2012. •FROHNE, H. et al.: Moeller Grundlagen der Elektrotechnik, 22., verbesserte Auflage, Vieweg+Teubner Verlag, Wiesbaden, 2011. 
+
+
+, Module name 92785: Fundamentals of energy resources 5 ECTS
+Course / lectures: Vorlesung mit Übung: Fundamentals of energy resources (4.0 SWS )5 ECTS
+Lecturers: Prof. Dr. Martin Hartmann  
+Module coordinator: Prof. Dr. Martin Hartmann
+Contents: • Resources, reserves, range • Reservoirs, exploration and mining • Fossil fuels: coal, gas, oil • Nuclear energy • Renewable energy resources: solar, wind, wave and tidal power, geothermal, hydropower • Metals: lithium, cobalt, platinum, rhodium • Important elements: silicon, rare earth metals
+Learning objectives and skills: Students will become familiar with basic concepts of basic energy resources. Students who successfully participate in this module can: •describe and explain the raw material base of the modern energy supply and their future development •assess the sustainability and the economics of energy resources including environmental and social aspects •identify strategies for the resource-saving use of raw materials using information giving in the lectures and from own research. •analyze this novel strategies and compare them with the current state of the art.
+Integration in curriculum: semester: 4
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten) written exam (90 minutes)
+Grading procedure: Klausur (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english 
+
+Bibliography: •V. Balzani and N. Armaroli, Energy for a Sustainable World: From the Oil Age to a Sun-Powered Future, Wiley-VCH, Weinheim (2010). •T. K. Ghosh and M. A. Prelas, Energy Resources and Systems Vol 1-3, Springer (2009-2011). 
+
+, Module name 92773: Interface engineering and particle technology 5 ECTS
+Course / lectures: Vorlesung mit Übung: Interface Engineering and Particle Technology (5.0 SWS )5 ECTS
+Lecturers: Prof. Dr. Robin Klupp Taylor  
+Module coordinator: Prof. Dr. Robin Klupp Taylor
+Contents: This module provides students with an overview of the following key concepts and practical aspects of the fields of interfacial engineering and particle technology: •Molecular interactions: Adsorption and adhesion •Particle nucleation and growth •Particle stabilization •Particle size and shape. •Particles in motion •Particle size distributions •Unit operations: separations, mixing, comminution •Packed and fluidized beds The associated exercises and homework cover all topics and allow students to develop their understanding independently with follow-up support from the course tutors.
+Learning objectives and skills: Students who successfully participate in this module can •understand the relevance of interfaces in the natural and artificial world. •master the fundamentals of the subject and apply them to the specific case of wetting, particle nucleation, growth and stabilization •analyse interfacial-dependent processes in their connection with engineering challenges and develop solutions. •define the societal relevance of particle technology •give examples of unit operations of particle technology •differentiate between the various approaches for defining particle size and shape •analyze the motion of particles according to physical and engineering principles •analyze particle size distributions, distinguish between accepted norms for their presentation, and apply them for the analysis of separation equipment •describe the structure of packings and bulk materials and the perfusion of those •describe the fundamentals of the processes of separation, mixing, comminution and fluidization •apply their acquired knowledge and skills in the additional exercises and tutorials in order to solve independently problems from interfacial and mechanical processes engineering
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. physics, physical chemistry and mathematics. 
+
+Integration in curriculum: semester: 2
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Unless stated, online texts are only available within the FAU network (or remotely via VPN) Interface Engineering •Adamson, A.W. and Gast, A.P. (1997) Physical chemistry of surfaces, 6th edn, Wiley, New York, Chichester. FAU library holdings •Berti, D. and Palazzo, G. (2014) Colloidal foundations of nanoscience, Elsevier, Amsterdam. Full Text •Butt, H.-J.B., Graf, K., Kappl, M. (2003) Physics and chemistry of interfaces, Wiley-VCH; Chichester : John Wiley, Weinheim. Full Text •Cosgrove, T. (2005) Colloid science: Principles, methods and applications / edited by Terence Cosgrove, Blackwell Pub, Oxford, Ames, Iowa. Full Text •Everett, D.H. (2007) Basic principles of colloid science, Royal Society of Chemistry, London. Full Text •Israelachvili, J.N. (2012) Intermolecular and surface forces, 3rd edn, Academic Press is an imprint of Elsevier, Amsterdam. Full Text •Kontogeorgis, G.M. and Kiil, S. (2016) Introduction to applied colloid and surface chemistry, Wiley, Chichester, UK. Full Text •Lyklema, J. (2005) Fundamentals of interface and colloid science. Elsevier/Academic Press, Amsterdam, London. Full Text •Mersmann, A. (2001) Crystallization Technology Handbook, CRC Press, Boca Raton FAU library holdings •Stokes, R.J. and Evans, D.F. (1997) Fundamentals of interfacial engineering, Wiley-VCH, New York, Chichester. FAU library holdings •Tadros, T.F. (2012) Dispersion of powders in liquids and stabilization of suspensions, Wiley-VCH, Weinheim, Germany. Full Text 
+
+
+
+, Module name 92775: Materials and structure 5 ECTS
+Course / lectures: Vorlesung mit Übung: Materials and Structure (CEP) (2.0 SWS )2 ECTS Vorlesung mit Übung: Materials and Structure (CEP, Seminar) (2.0 SWS )-
+Lecturers: Dr. Johannes Will Prof. Dr. Philipp Pelz Prof. Dr. Erdmann Spiecker  
+Module coordinator: Prof. Dr. Erdmann Spiecker
+Contents: The content of the module gives an overview of different fields of materials science and engineering. The following topics are included in the module: •Atomic structure and interatomic bonding •Structure of crystalline solids •Structure determination by X-ray diffraction •Imperfections in solids •Microscopic characterization of crystal defects •Mechanical properties of metals •Dislocations and strengthening mechanisms •Phase diagrams of binary alloys •Phase diagrams of metals: development of microstructure •Kinetics of phase transformations •Structure and properties of ceramics The lecture, which includes exercises, is accompanied by a seminar, in which the students prepare contributions about specific aspects in the framework of the above mentioned topics.
+Learning objectives and skills: Students who participate in this course will become familiar with basic, important concepts of materials and their structure. The course enables the students: • •to classify different types of bonding that occur in materials •to understand the relationship between bonding, structure and fundamental materials properties •to describe crystalline materials with basic concepts of crystallography •to classify crystal defects with respect to their dimensionality •to describe the importance of dislocations and interfaces for the mechanical properties of metals •to understand the development of microstructure based on phase diagrams and the kinetics of phase transformation •to describe basic crystal structures of ceramics •to prepare and give a talk in a scientific environment
+Prerequisites: Prerequisites: 
+
+Integration in curriculum: semester: 2
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 50 h Independent study: 100 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •William D. Callister, Jr., "Materials Science and Engineering: An Introduction", John Wiley & Sons, Inc., 7th edition (or later) 
+
+, Module name 62765: Mathematics I 7,5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Wilhelm Merz
+Contents: •Foundations: •logic, sets, relations, mappings •Number systems: •natural numbers; integers; rational, real and complex numbers •Vector spaces: •Foundations, linear dependence, span, basis, dimension, Euclidean vector space, subspaces, affince spaces •Matrices, linear maps, systems of linear equations: •Matrix algebra, structure of the solution sets of linear equations, Gauss algorithm, inverse matrix, types of matrices, linear maps, determinants, image and kernel, eigenvalues and eigenvectors, basis, least squares problems •Foundations of real analysis: •limits, continuity, elementary functions, inverse functions
+Learning objectives and skills: Students learn: •fundamental terms and structures of mathematics •structure of the number system •certain handling of vectores and matrices •solution techniques for linear systems of equations •fundamentals of analysis and exact mathematical analytical methods
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •W. Merz, P. Knabner: Mathematik für Ingenieure und Naturwissenschaftler, Lineare Algebra und Analysis in #. 1. Aufl., Berlin Heidelberg: Springer, 2013. 
+
+
+, Module name 62767: Mathematics II 7,5 ECTS
+Course / lectures: Vorlesung: Mathematics for Engineers II - Übung : Exercise Mathematics for Engineers II -
+Lecturers: Dr. Jean-Daniel Djida  
+Module coordinator: Wilhelm Merz
+Contents: •Calculus for functions of one real variable: •derivative with rules, mean value theorems, L'Hospital, Taylor's theorem, curve discussion •Integrals for functions of one real variable: •Riemann-Integral, Fundamental Theorem of Calculus, mean value theorems, improper integrals •Sequences and series: •real and complex sequences of numbers, convergence: definition and theorems, sequences and series of functions, uniform convergence, power series, Fourier series, iterative solution of nonlinear equations •Foundations of calculus for functions of several real variables: •limit, continuity, differentiation, partial derivative, total derivative, Taylor's theorem
+Learning objectives and skills: Students learn: •skilful handling of differential and integral calculus •handling of mathematical models •convergence of sequences and series •computing of limits •basic properties of multidimensional functions
+Prerequisites: None
+Integration in curriculum: semester: 2
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •W. Merz, P. Knabner: Mathematik für Ingenieure und Naturwissenschaftler, Lineare Algebra und Analysis in #. 1. Aufl., Berlin Heidelberg: Springer, 2013. 
+
+
+, Module name 62769: Mathematics III 7,5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Wilhelm Merz
+Contents: •Application of calculus in IR^n: •Unconstrained optimization problems; constrained optimization problems; Lagrange multiplie rules; implicit function theorem; examples of applications; •Vector analysis: •Potential, volume integrals, surface integrals, line integrals, parametrization, transformation theorem, integral theorems, differential operators, •Ordinary differential equations: •analytical solution methods; existence and uniqueness of solutions; linear differential equations; systems of differential equations; eigenvalues of differential operators; generalized eigenvectors; fundamental systems; stability
+Learning objectives and skills: Students learn: •extreme value determination in higher dimensions •identify significant differences compared to one dimensional optimization techniques •relationship between volume, surface and line integrals •knowledge of various differential operators •typing of ordinary differential equations •fundamental solution techniques •applications in engineering science
+Prerequisites: None
+Integration in curriculum: semester: 3
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •W. Merz, P. Knabner: Mathematik für Ingenieure und Naturwissenschaftler, Lineare Algebra und Analysis in R. 1. Aufl., Berlin Heidelberg: Springer, 2013. 
+
+
+, Module name 92778: Measurement systems 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Robin Klupp Taylor
+Contents: •Introduction and basic concepts •Data evaluation and measurement errors •Estimates, statistical tests and confidence intervals •Chemical analysis •Radiation measurement •Spectrometry •Electrical and magnetic sizes •Temperature •Pressure •Mechanical and geometric sizes •Fluid systems
+Learning objectives and skills: On completion of the module Students will be able to •Identify and explain the most important methods of electrical and non-electrical measurement as well as chemical analysis •Assess different approaches to measurement in terms of their advantages and disadvantages •Apply the fundamental criteria for the assessment of measurements to new analytical scenarios
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. physics, physical chemistry and mathematics.
+Integration in curriculum: semester: 3
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Patience, G.S. (2018) Experimental methods and instrumentation for chemical engineers, Elsevier, Amsterdam. •Morris, A.S. and Langari, R. (2016) Measurement and instrumentation: Theory and application, Elsevier, AP, Amsterdam, Boston. •Jones, E.B. and Noltingk, B.E. (1985-) Jones' Instrument technology, 4th edn, Butterworths, London, Boston 
+
+, Module name 87007: Microeconomics 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Veronika Grimm
+Contents: Microeconomics is an undergraduate course that introduces basic microeconomic concepts. The course opens with a general introduction to the field of Economics. The main topics of the course include: Choice under constraints, in strategic interaction, within the firm, under different institutions. The Firm production, price-setting, price-taking. The Market market equilibrium, market failures. If time permits, Environmental Economics will conclude the semester as an application of the models studied. The learning methodology of the course is to start from a question that arises from data or daily life, then study a model useful for answering the question and back to question at the end to apply the model we studied.
+Learning objectives and skills: The students will acquire the ability to - define the core concepts of microeconomics, describe some historical background of Economics science development, use models and data to analyze an economic question or phenomenon, fit a proper model to an economic issue, investigate a current microeconomic issue.
+Prerequisites: none
+Integration in curriculum: semester: 1
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 BibliographyThe CORE Team, The Economy: Economics for a changing world. (2017). The CORE Team, Economy, Society, and Public Policy, (2019) 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: The CORE Team, The Economy: Economics for a changing world. (2017). The CORE Team, Economy, Society, and Public Policy, (2019) 
+
+, Module name 62766: Physics I 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Christopher van Eldik
+Contents: Mechanics: •Measurements, units, dimensions, magnitudes •Motion in one spatial dimension •Motion in three spatial dimensions •Newton's laws and concept of forces •Work, energy, power •Centre of gravity, momentum, impact processes •Rotational motion •Law of gravity •Mechanics of deformable bodies, liquids, gases Oscillations and waves: •Undamped, damped and forced oscillations •Superposition •Wave propagation •Diffraction •Geometrical optics Thermodynamics: •Temperature, ideal gas •Kinetic theory of gases •Real gas, phase diagram •Heat capacity, melting, evaporation energy •Thermal conductivity, thermal radiation •Heat engines, conversion efficiency
+Learning objectives and skills: The students •can explain basics of mechanics and thermodynamics •have a basic understanding of how natural processes can be traced back to fundamental natural laws •apply the acquired knowledge to special situations and questions in mechanics and thermodynamics •have basic competence in analytical thinking as a means of describing scientific relationships accurately
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h 
+Workload in clock hours: Contact hours: 60 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Halliday & Resnick's Principles of Physics (Wiley) 
+
+, Module name 62768: Physics II 5 ECTS
+Course / lectures: Vorlesung: Physics II (3.0 SWS ) - Übung : Physics II (Clean Energy Processes, Exercise Class) (1.0 SWS )-
+Lecturers: Dr. Alison Mitchell  
+Module coordinator: Prof. Dr. Christopher van Eldik
+Contents: Electrodynamics: •Electrostatics •Electrical current, voltage, resistance •Magnetostatics •Electrodynamics Modern Physics: •Quantum properties of light •Quantum mechanics •Atomic physics •Solid state physics •Nuclear and particle physics
+Learning objectives and skills: The students •can explain basics of electrodynamics and modern physics •have a basic understanding of how natural processes can be traced back to fundamental natural laws •apply the acquired knowledge to special situations and questions in electrodynamics and modern physics •have basic competence in analytical thinking as a means of describing scientific relationships accurately
+Prerequisites: None
+Integration in curriculum: semester: 2
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Halliday & Resnick's Principles of Physics (Wiley) 
+
+, Module name 92787: Process systems dynamics 1 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Bück
+Contents: • º •Introduction to process modelling •Basic properties of processes: determinism, randomness &c. •Basic principles of analysis in time and frequency domain •Estimation of model parameters from experimental data •Basic numerical methods for dynamic analysis •In-depth study of examples from chemical, electro-chemical and bio-engineering
+Learning objectives and skills: Taking this module, students will acquire the methods and numerical tools to study and explain the qualitative and quantitative behaviour of linear dynamic processes arising in (electro-)chemical, bio engineering and (clean) energy processes. Students will be able to predict and design the dynamic behaviour of interconnected linear processes.
+Integration in curriculum: semester: 5
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Arrowsmith, Place: An introduction to dynamical systems, Cambridge University Press •Further references are made available in the lecture. 
+
+, Module name 92772: Renewable energies 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr. Katharina Herkendell
+Contents: •Climate change and energy transition •Renewable electricity generation and transmission •Wind energy •Photovoltaics •Bioenergy •Geothermal energy •Hydropower •Heat and electricity storage •Sector coupling and system integration
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of conventional energies. Students who successfully participate in this module will •know the fundamentals of renewable energy conversion processes •assess environmental and social aspects of renewable energy conversion.
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Slides published via StudOn •Karl; Dezentrale Energiesysteme; Oldenbourg-Verlag •Sterner, Stadler; Energiespeicher - Bedarf, Technologien, Integration; Springer Verlag •Quaschning; Regenerative Energiesysteme: Technologie - Berechnung Simulation; Carl Hanser Verlag 
+
+, Module name 92784: Scientific computing in engineering 5 ECTS
+Course / lectures: Praktikum : Scientific computing in engineering - Vorlesung: Scientific computing in engineering -
+Lecturers: Felix Buchele Prof. Dr. Thorsten Pöschel  
+Module coordinator: Prof. Dr. Thorsten Pöschel
+Contents: •introduction to programming with MATLAP or Python •fundamental algorithms for scientific computing
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of scientific computing. Students who successfully participate in this module can: •confidently use a programming language to solve simple numerical problems. •understand and confidently apply fundamental numerical algorithm basic to typical applications in science and engineering. •estimate the efficiency of numerical algorithms.
+Prerequisites: Prerequisites: Fundamentals of mathematics at the level of the Bavarian Abitur. Basic concepts of algebra, such as elementary functions, equations, linear systems of equations, calculus, basic geometry.
+Integration in curriculum: semester: 4
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 90 h Independent study: 60 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Hahn and Valentine, Essential MATLAB, Elsevier •Press et al, Numerical Recipes, Cambridge University Press 
+
+, Module name 92789: Storage technologies 5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Patrick Schühle Prof. Dr. Peter Wasserscheid
+Contents: •Long term vs short term storage scenarios •Physical storage of energy •Mechanical storage of energy •Electrochemical storage of energy •Chemical storage of energy •Storage of energy in form of heat •Basics of techno-economical evaluation •Energy storage in sustainable fuels
+Learning objectives and skills: Students who participate in this course will become an in-depth overview of modern storage technologies. Students who successfully participate in this module can •Understand the basic concepts behind the different storage concepts •Calculate energy and mass balances for the different processes •Evaluate energy and heat efficiencies for varying boundary conditions •Select the most appropriate storage technology for any given field case •Identify the relevant main components for a techno-economical evaluation
+Prerequisites: To succeed in this course students will need to apply earlier acquired knowledge from e.g. mathematics, chemistry, physics, electrochemistry, thermodynamics, heat and mass transfer and reaction engineering.
+Integration in curriculum: semester: 5
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english 
+
+Bibliography: •A. Jess, P. Wasserscheid, Chemical Technology, Wiley-VCH •D. Stolten, Hydrogen Science and Engineering, 2 Volume Set, Wiley-VCH •M. Sterner, I. Stadler, Handbook of Energy Storage: Demand, Technologies, Integration, Springer 
+
+, Module name 92777: Thermodynamics and heat and mass transfer 7,5 ECTS
+Course / lectures: No teaching units are offered for the module in the current semester. For further information on teaching units please contact the module managers.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Paul Fröba
+Contents: THERMODYNAMICS •Basics of Engineering Thermodynamics •Ideal Gas and Equations of States •First and Second Law of Thermodynamics •Efficiency Limits of Energy Conversion •Thermodynamic Properties of Pure Substances (and Mixtures) •Cycles (Power Cycle, Heat Pump, Refrigerator) •Mixtures of Ideal Gases and of Air and Steam •Processes with Humid Air HEAT & MASS TRANSFER •Basics of Heat & Mass Transfer •Steady and Transient Heat Conduction and Mass Diffusion •Natural Convection / Forced Convection Heat & Mass Transfer •Radiation Heat Transfer •Condensation and Evaporation Heat Transfer •Heat Exchangers
+Learning objectives and skills: Students who successfully participate in this module will •become familiar with the basics of engineering thermodynamics •establish energy and exergy balances •apply thermodynamic methodology for the calculation/ description of properties of state as well as changes of state of pure fluids •analyze important thermodynamic processes on the basis of key figures •design and optimize thermodynamic processes •solve fundamental problems related to themodynamics •become familiar with the basics of heat and mass transfer •understand the mechanisms of heat and mass transfer and assess/evaluate their individual contributions in technical problems •quantify different heat transfer mechanisms (heat conduction, convection, radiation, and two phase heat transfer) •perform independently the thermal design of simple heat exchangers •understand the analogy between heat and mass transfer and apply it to solving problems of mass transfer •solve fundamental problems related to heat and mass transfer
+Prerequisites: Prerequisites: 
+
+Integration in curriculum: semester: 3
+Module compatibility: Pflichtmodul Bachelor of Science Clean Energy Processes 20212
+Method of examination: Klausur (90 Minuten)
+Grading procedure: Klausur (100%)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Lecture Notes •Y. A. Çengel, R. H. Turner, and J. M. Cimbala, Fundamentals of Thermal-Fluid Sciences, McGraw-Hill 2017 (5th edition) •J. M. Smith, H. C. Van Ness und M. M. Abbott, Introduction to Chemical Engineering Thermodynamics, McGraw-Hill 2005 (7th edition) •A. Bejan, Advanced Engineering Thermodynamics, John Wiley & Sons 2016 (4th edition) •H. D. Baehr and K. Stephan, Heat and Mass Transfer, Springer 2011 (3rd edition)

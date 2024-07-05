@@ -1,0 +1,363 @@
+
+, Modulbezeichnung 93211: Didaktik der Informatik 1 Teaching computer science I5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung : Curriculare Themen der Fachdidaktik Informatik (LA RS/LA MS/MEd BPT) (2 SWS, SoSe 2024 )2,5 ECTS Vorlesung mit Übung : Einführung in die Fachdidaktik Informatik (2 SWS, WiSe 2023 )2,5 ECTS
+Lehrende: Claudia Neuner Prof. Dr. Marc-Pascal Berges  
+Modulverantwortliche/r: Prof. Dr. Marc-Pascal Berges
+Inhalt: •Grundlagen der informatikbezogenen Unterrichtsplanung und - gestaltung •Informatik und Informatikdidaktik im Wissenschaftskontext •Informatische Modellbildung •Programmieren im Informatikunterricht •Werkzeuge für den Informatikunterricht •Unterrichtsmethoden und -techniken •Aufgaben und Aufgabenkultur für einen kompetenzorientierten Informatikunterricht 6Lernziele und KompetenzenNach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, Informatikunterricht begründet zu planen, durchzuführen und zu reflektieren. Sie sind in der Lage, Unterrichtsinhalte motivierend, schülernah, verständlich und zielführend zu vermitteln. Sie können Elemente der Informatik in Alltagssituationen zur Motivation und als Modellierungsgrundlage heranziehen, Realsituationen informatisch modellieren, den Prozess des Modellierens schülerbezogen gestalten und Schülerinnen und Schüler beim Modellieren unterstützen. Sie •analysieren informatische Unterrichtsgegenstände fachdidaktisch und geben Unterrichtsziele outcomeorientiert an •charakterisieren die Wissenschaft Informatik und ihre Rolle im Bildungskontext (Computer Literacy, Great Principles of Computing, Computational Thinking) und geben eine eigene Definition für Informatik an •geben Ziele des Informatikunterrichts (gemäß Lehrplan Bayern) an und beschreiben beispielhaft Möglichkeiten zur Umsetzung dieser Ziele •geben zu Inhalten des Lehrplans konkrete durch die SuS zu erwerbende Kompetenzen an und gestalten entsprechenden Unterricht •beschreiben die "roten Fäden" in den Lehrplänen für Informatik in Bayern und berücksichtigen diese in der Gestaltung von Unterricht •erläutern den Informationszentrierten Ansatz und seinen Einfluss auf den bayerischen Lehrplan 
+Lernziele und Kompetenzen: Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, Informatikunterricht begründet zu planen, durchzuführen und zu reflektieren. Sie sind in der Lage, Unterrichtsinhalte motivierend, schülernah, verständlich und zielführend zu vermitteln. Sie können Elemente der Informatik in Alltagssituationen zur Motivation und als Modellierungsgrundlage heranziehen, Realsituationen informatisch modellieren, den Prozess des Modellierens schülerbezogen gestalten und Schülerinnen und Schüler beim Modellieren unterstützen. Sie •analysieren informatische Unterrichtsgegenstände fachdidaktisch und geben Unterrichtsziele outcomeorientiert an •charakterisieren die Wissenschaft Informatik und ihre Rolle im Bildungskontext (Computer Literacy, Great Principles of Computing, Computational Thinking) und geben eine eigene Definition für Informatik an •geben Ziele des Informatikunterrichts (gemäß Lehrplan Bayern) an und beschreiben beispielhaft Möglichkeiten zur Umsetzung dieser Ziele •geben zu Inhalten des Lehrplans konkrete durch die SuS zu erwerbende Kompetenzen an und gestalten entsprechenden Unterricht •beschreiben die "roten Fäden" in den Lehrplänen für Informatik in Bayern und berücksichtigen diese in der Gestaltung von Unterricht •erläutern den Informationszentrierten Ansatz und seinen Einfluss auf den bayerischen Lehrplan 
+
+Inhalt: e des Lehrplans dem Gesamtkonzept des Lehrplans zu •beschreiben Informatische Modellbildung, geben Beispiele und Darstellungsformen für Modellierungstechniken an und begründen die Relevanz informatischen Modellierens für die Schulinformatik •erläutern und illustrieren den Modellbegriff und Modellbildungsprozess aus Sicht der Informatik an selbst gewählten Beispielen •wenden Theorie und Begriffe informatischer Modellbildung in der Gestaltung und Bewertung von Unterrichtsszenarien an •ordnen Beispiele und Werkzeuge des Informatikunterrichts den Klassen von Modellen zu (EIS) •diskutieren Stellenwert, Rolle und Ziele des Programmierens in der informatischen Bildung und im informationszentrierten Ansatz •diskutieren den Stellenwert von Modellierung und Programmierung im Informatikunterricht ihrer Schulform •grenzen die Begriffe Modellieren, Programmieren und Codieren voneinander ab •begründen aus historischer und aktueller Perspektive den Einsatz von Methoden und Werkzeugen für die Vermittlung von Programmierkompetenz •diskutieren den Einsatz visueller und textueller Programmiersprachen •wenden Werkzeuge für den Informatikunterricht begründet in der Gestaltung von Unterricht an. •nennen Kriterien für Werkzeuge und wählen Werkzeuge für den Informatikunterricht begründet aus •begründen den Einsatz der Projektmethode im Informatikunterricht und erläutern deren Ziele •ordnen die Projektmethode in Kategorien der Sozial- und Lehr-/Lernformen ein •erstellen ein Szenario für ein Informatikunterrichtsprojekt •vergleichen Wasserfallmodell und Agile Methoden als Grundlage für die Durchführung eines Informatikprojekts •beschreiben agile Techniken und wenden diese in der methodischen Unterrichtsgestaltung an •strukturieren und bewerten Unterrichtsmethoden für den Informatikunterricht •wählen für gegebene Inhalte und Kompetenzen adäquate Unterrichtsmethoden begründet aus •erläutern verschiedene Unterrichtstechniken und -prinzipien anhand von adressierten Problemen, Zielen und Beispielen •nennen Qualitätskriterien für Aufgaben und Leitfragen zur Aufgabenentwicklung und wenden diese in der Analyse und Entwicklung von Aufgaben an •entwickeln Aufgaben hinsichtlich eines kompetenzorientierten Informatikunterrichts unter verschiedenen Gesichtspunkten 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Module Fachdidaktik Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Portfolio Im Rahmen des Moduls erstellen die Studierenden ein Portfolio im Umfang von 40-100 Seiten. Sie wenden dabei die Methode des reflexiven Schreibens an.
+Berechnung der Modulnote: Portfolio (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Hubwieser, Peter. Didaktik der Informatik. Springer-Verlag, 2007. •Schubert, Sigrid, and Andreas Schwill. Didaktik der Informatik. Spektrum Akademischer Verlag, 2011. •Werner Hartmann, Michael Näf, and Raimond Reichert. Informatikunterricht planen und durchführen. Springer, 2007. •Meyer, Hilbert. Leitfaden Unterrichtsvorbereitung. Cornelsen Scriptor, 2007. 
+
+, Modulbezeichnung 93224: Didaktik der Informatik 2 Teaching computer science II5 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum zur Anwendung von Informatiksystemen aus fachdidaktischer Sicht (4 SWS)2,5 ECTS
+Lehrende: Claudia Neuner  
+Modulverantwortliche/r: Prof. Dr. Marc-Pascal Berges
+Inhalt: •Theoretische Fundierung der Didaktik der Informatik •Voraussetzungen und Rahmenbedingungen für Informatikunterricht •Lern- und Kompetenzziele des Informatikunterrichts 6Lernziele und KompetenzenNach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, Informatikunterricht zu planen, durchzuführen, zu reflektieren und auf wissenschaftlicher Grundlage weiterzuentwickeln. Sie haben vertiefte fachbezogene Reflexionskompetenzen, informatikdidaktische Basis- und diagnostische Kompetenzen sowie informatikunterrichtsbezogene Handlungskompetenzen erworben. Sie sind in der Lage, Unterrichtsinhalte motivierend, schülernah, verständlich und zielführend zu vermitteln. Hierzu können sie entscheiden, welche Inhalte der Informatik für die Schule relevant sind und diese lerngruppenadäquat aufbereiten. Sie können Elemente der Informatik in Alltagssituationen zur Motivation und als Modellierungsgrundlage heranziehen und den Beitrag des Faches zur Allgemeinbildung beschreiben und transportieren. Sie können Realsituationen informatisch modellieren, den Prozess des Modellierens schülerbezogen gestalten und Schülerinnen und Schüler beim Modellieren unterstützen. 7Voraussetzungen für die TeilnahmeEs wird eine vorherige erfolgreiche Teilnahme am Modul "Didaktik der Informatik 1" (93211) wird empfohlen 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsModule Fachdidaktik Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 2007 Module Fachdidaktik Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPortfolio Im Rahmen des Moduls erstellen die Studierenden ein Portfolio im Umfang von 40-100 Seiten. Sie wenden dabei die Methode des reflexiven Schreibens an. 11Berechnung der ModulnotePortfolio (100%) 12 Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, Informatikunterricht zu planen, durchzuführen, zu reflektieren und auf wissenschaftlicher Grundlage weiterzuentwickeln. Sie haben vertiefte fachbezogene Reflexionskompetenzen, informatikdidaktische Basis- und diagnostische Kompetenzen sowie informatikunterrichtsbezogene Handlungskompetenzen erworben. Sie sind in der Lage, Unterrichtsinhalte motivierend, schülernah, verständlich und zielführend zu vermitteln. Hierzu können sie entscheiden, welche Inhalte der Informatik für die Schule relevant sind und diese lerngruppenadäquat aufbereiten. Sie können Elemente der Informatik in Alltagssituationen zur Motivation und als Modellierungsgrundlage heranziehen und den Beitrag des Faches zur Allgemeinbildung beschreiben und transportieren. Sie können Realsituationen informatisch modellieren, den Prozess des Modellierens schülerbezogen gestalten und Schülerinnen und Schüler beim Modellieren unterstützen.
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Module Fachdidaktik Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 2007 Module Fachdidaktik Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Portfolio Im Rahmen des Moduls erstellen die Studierenden ein Portfolio im Umfang von 40-100 Seiten. Sie wenden dabei die Methode des reflexiven Schreibens an.
+Berechnung der Modulnote: Portfolio (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Hubwieser, Peter. Didaktik der Informatik. Springer-Verlag, 2007. •Schubert, Sigrid, and Andreas Schwill. Didaktik der Informatik. Spektrum Akademischer Verlag, 2011. 
+
+, Modulbezeichnung 93226: Didaktik der Informatik 3 Teaching computer science 37 ECTS
+Lehrveranstaltungen: Seminar : Didaktik des Technischen Zeichnens (4 SWS, SoSe 2024 )2,5 ECTS Seminar : Hauptseminar Didaktik der Informatik (2 SWS) 2,5 ECTS Praktikum : Praktikum Informatik in der Bildung (LA) ( 4 SWS )2,5 ECTS
+Lehrende: Claudia Neuner  
+Modulverantwortliche/r: Prof. Dr. Marc-Pascal Berges
+Inhalt: •Didaktik der Informatik als Wissenschaft •Gamebased Learning im Informatikunterricht •Informatikwettbewerbe •Digitalisierung •Lehr-/Lernlabore •Physical Computing •Didaktik des technischen Zeichnens 6Lernziele und KompetenzenNach Abschluss des Moduls sind die Studierenden in der Lage, fachdidaktische Problemstellungen auch außerhalb der Schulcurricula zu reflektieren. Sie sind in der Lage, extracurriculare Inhalte zu planen und durchzuführen und geeignete Anküpfungspunkte an die curriculare Lehre zu identifizieren. Sie •erkennen die Fachdidaktik Informatik als eigenständige Wissenschaft und können aktuelle Fragestellungen nachvollziehen •erstellen Unterrichtsentwürfe nach der Theorie des gamebased learning •konzipieren und erzeugen Unterrichtsmaterialien (z.B. auf Basis von physical computing) •kennen die gängisten Wettbewerbe für Informatik •beschreiben die Rolle der Informatikdidaktik im Rahmen der Digitalisierung •wenden die Methode des explorativen Lernens auf Unterrichtsmaterialien und im Rahmen von Lehr-/Lernlaboren an. •sind in der Lage Werkzeugen zum technischen Zeichnen im Schulkontext anzuwenden (analog und digital) 7Voraussetzungen für die TeilnahmeEs wird dringend empfohlen, die Module "Didaktik der Informatik 1" (93211) und "Didaktik der Informatik 2" (93224) vorab erfolgreich abgeschlossen zu haben. 8Einpassung in StudienverlaufsplanSemester: 6;7 
+Lernziele und Kompetenzen: Nach Abschluss des Moduls sind die Studierenden in der Lage, fachdidaktische Problemstellungen auch außerhalb der Schulcurricula zu reflektieren. Sie sind in der Lage, extracurriculare Inhalte zu planen und durchzuführen und geeignete Anküpfungspunkte an die curriculare Lehre zu identifizieren. Sie •erkennen die Fachdidaktik Informatik als eigenständige Wissenschaft und können aktuelle Fragestellungen nachvollziehen •erstellen Unterrichtsentwürfe nach der Theorie des gamebased learning •konzipieren und erzeugen Unterrichtsmaterialien (z.B. auf Basis von physical computing) •kennen die gängisten Wettbewerbe für Informatik •beschreiben die Rolle der Informatikdidaktik im Rahmen der Digitalisierung •wenden die Methode des explorativen Lernens auf Unterrichtsmaterialien und im Rahmen von Lehr-/Lernlaboren an. •sind in der Lage Werkzeugen zum technischen Zeichnen im Schulkontext anzuwenden (analog und digital)
+Einpassung in Studienverlaufsplan: Semester: 6;7 
+
+Verwendbarkeit des Moduls: Module Fachdidaktik Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Portfolio Im Rahmen des Moduls erstellen die Studierenden ein Portfolio im Umfang von 40-100 Seiten. Sie wenden dabei die Methode des reflexiven Schreibens an.
+Berechnung der Modulnote: Portfolio (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Hubwieser, Peter. Didaktik der Informatik. Springer-Verlag, 2007. •Schubert, Sigrid, and Andreas Schwill. Didaktik der Informatik. Spektrum Akademischer Verlag, 2011. 
+
+, Modulbezeichnung 93106: Einführung in die Algorithmik Introduction to algorithms7,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Carina Köhner Prof. Dr. Dominique Schröder
+Inhalt: Die Vorlesung "Einfu ̈hrung in die Algorithmik" gibt eine fundierte Einfu ̈hrung in die Gebiete der Algorithmen und Datenstrukturen. Diese Einfu ̈hrung umfasst grundlegende Designkonzepte von Algorithmen und deren formale Analyse. Folgende Themen werden behandelt: •Grundlagen •Design und Analyse von Algorithmen Korrektheit von Algorithmen •Wachstumsfunktionen •Rekurrenz •Probabilistische Algorithmen und deren Analyse •Grundlegende Algorithmen und Datenstrukturen und deren formale Analyse •Datenstrukturen Sortierverfahren Graphalgorithmen •Ausgewa ̈hlte Themen •Algorithmen in der Zahlentheorie String matching •Matrix Operationen 6Lernziele und KompetenzenDie Studierenden erwerben eine grundlegende Einfu ̈hrung in die Konzepte und Methoden aus dem Bereich der Algorithmen und Datenstrukturen. Die Teilnehmer kennen grundlegende Techniken und Prinzipien zum Design von Algorithmen und Datenstrukturen. Die Studierenden kennen grundlegende Algorithmen im Bereich der Sortierung, der Graphentheorie und der Zahlentheorie. Des Weiteren kennen die Studierenden die notwendigen Datenstrukturen und verstehen deren Vor- und Nachteile in Bezug auf deren Effizienz und Komplexita ̈t. Die Studierenden ko ̈nnen die unterschiedlichen Designparadigmen von Datenstrukturen und Algorithmen auf neue Probleme anwenden und deren Korrektheit formal analysieren. Aus der Analyse ko ̈nnen die Studierenden Algorithmen bewerten und vergleichen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsModule Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenÜbungsleistung Klausur (90 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden erwerben eine grundlegende Einfu ̈hrung in die Konzepte und Methoden aus dem Bereich der Algorithmen und Datenstrukturen. Die Teilnehmer kennen grundlegende Techniken und Prinzipien zum Design von Algorithmen und Datenstrukturen. Die Studierenden kennen grundlegende Algorithmen im Bereich der Sortierung, der Graphentheorie und der Zahlentheorie. Des Weiteren kennen die Studierenden die notwendigen Datenstrukturen und verstehen deren Vor- und Nachteile in Bezug auf deren Effizienz und Komplexita ̈t. Die Studierenden ko ̈nnen die unterschiedlichen Designparadigmen von Datenstrukturen und Algorithmen auf neue Probleme anwenden und deren Korrektheit formal analysieren. Aus der Analyse ko ̈nnen die Studierenden Algorithmen bewerten und vergleichen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Übungsleistung Klausur (90 Minuten) 
+
+Berechnung der Modulnote: Übungsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Introduction to Algorithms, Thomas H. Cormen , Charles E. Leiserson, Ronald L. Rivest, Clifford Stein Weitere Literatur wird in der Vorlesung bekannt gegeben. 
+
+, Modulbezeichnung 93104: Grundlagen der Programmierung Foundations of programming5 ECTS
+Lehrveranstaltungen: Übung : UeGdP-01 (2 SWS ) - Vorlesung : Grundlagen der Programmierung ( 2 SWS ) -
+Lehrende: Vanessa Klein Mathias Harrer  
+Modulverantwortliche/r: Vanessa Klein Prof. Dr. Tim Weyrich
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93108: Konzeptionelle Modellierung und Grundlagen von Datenbanken Introduction to databases7,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Richard Lenz
+Inhalt: Ziel des Moduls ist die Vermittlung von Kenntnissen zur systematischen und bedarfsorientierten Erstellung konzeptioneller Datenbankschemata sowie die relationale Datenbanksprache SQL. Darüber hinaus werden Grundkenntnisse zur Funktionsweise und zur Implementierung von Datenbankmanagementsystemen vermittelt, im Einzelnen: •Grundbegriffe von Datenbanken •Entity-Relationship Modell und erweitertes E/R-Modell •UML Klassendiagramme •Das Relationale Datenmodell •Systematische Abbildung von ER-Diagrammen auf Relationale Datenbankschemata •Normalisierung •Relationale Algebra •SQL •Multidimensionale Modellierung und Data Warehousing •Schichtenmodell zur Implementierung von Datenbanksystemen •Pufferverwaltung •Indexstrukturen (B-Bäume, B+-Bäume) •Anfrageverarbeitung •Transaktionen •Synchronisation •Recovery •Andere Datenmodelle, No-SQL Systeme •Ontologien, Semantic Web, RDF, SPARQL 6Lernziele und KompetenzenDie Studierenden •Können die zentralen Begriffe aus der Datenbankfachliteratur definieren •Erstellen ER-Diagramme und erweiterte ER Diagramme •Können ER-Diagramme systematisch in geeignete relationale Datenbankschemata überführen •Definieren die Normalformen 1NF, 2NF, 3NF, BCNF und 4NF •Können ein nicht normalisiertes Relationenschema in 3NF überführen •Erstellen Anfragen auf der Basis der Relationalen Algebra •Erstellen Datenbankschemata mit Hilfe der SQL DDL •Erstellen Datenbankanfragen mit SQL •Erstellen multidimensionale ER-Diagramme und bilden diese auf Star- oder Snowflake-Schemata ab •Erklären die Funktionsweise von Datenbankpuffern 
+Lernziele und Kompetenzen: Die Studierenden •Können die zentralen Begriffe aus der Datenbankfachliteratur definieren •Erstellen ER-Diagramme und erweiterte ER Diagramme •Können ER-Diagramme systematisch in geeignete relationale Datenbankschemata überführen •Definieren die Normalformen 1NF, 2NF, 3NF, BCNF und 4NF •Können ein nicht normalisiertes Relationenschema in 3NF überführen •Erstellen Anfragen auf der Basis der Relationalen Algebra •Erstellen Datenbankschemata mit Hilfe der SQL DDL •Erstellen Datenbankanfragen mit SQL •Erstellen multidimensionale ER-Diagramme und bilden diese auf Star- oder Snowflake-Schemata ab •Erklären die Funktionsweise von Datenbankpuffern 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93040: Parallele und Funktionale Programmierung Parallel and functional programming5 ECTS
+Lehrveranstaltungen: Übung : PFP-R-Di16 (2 SWS ) 2,5 ECTS Vorlesung : Parallele und Funktionale Programmierung (2 SWS )2,5 ECTS
+Lehrende: Julian Brandner Prof. Dr. Michael Philippsen Dr.-Ing. Norbert Oster  
+Modulverantwortliche/r: Dr.-Ing. Norbert Oster Prof. Dr. Michael Philippsen
+Inhalt: •Grundlagen der funktionale Programmierung •Grundlagen der parallelen Programmierung •Datenstrukturen •Objektorientierung •Scala-Kenntnisse •Erweiterte JAVA-Kenntnisse •Aufwandsabschätzungen •Grundlegende Algorithmen 6Lernziele und KompetenzenDie Studierenden •erlernen die Grundlagen der funktionalen Programmierung anhand der Programmiersprache Scala •verstehen paralleles Programmieren mit Java •kennen fundamentale Datenstrukturen und Algorithmen •können funktionale und parallele Algorithmen entwickeln und analysieren 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsModule Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenKlausur (60 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12 Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die Studierenden •erlernen die Grundlagen der funktionalen Programmierung anhand der Programmiersprache Scala •verstehen paralleles Programmieren mit Java •kennen fundamentale Datenstrukturen und Algorithmen •können funktionale und parallele Algorithmen entwickeln und analysieren
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Klausur (60 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93085: Praktikum Maschinenprogrammierung Machine code lab5 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum Maschinenprogrammierung ( 4 SWS )5 ECTS
+Lehrende: Stefanie Senft  
+Modulverantwortliche/r: Prof. Dr. Marc-Pascal Berges
+Inhalt: Aufbau und Prinzip von Rechnern, Daten und ihre Codierung, Boolesche Algebra und Schaltalgebra, Schaltnetze (Symbole, Darstellung), Optimierung von Schaltnetzen (Minimierung Boolescher Funktionen), Realisierungsformen von Schaltnetzen (ROM, PLA, FPGA), Automaten und Schaltwerke (Moore/Mealy, Zustandscodierung und -minimierung), Flipflops, Register, Zähler, Speicher (RAM, ROM), Taktung und Synchronisation, Realisierungsformen von Schaltwerken, Realisierung der Grundrechenarten Addition/Subtraktion, Multiplikation und Division, Gleitkommazahlen (Darstellung, Fehler, Rundung, Standards, Einheiten), Steuerwerksentwurf, Spezialeinheiten und Co-Prozessoren, Mikrocontroller; vorlesungsbegleitende Einführung und Beschreibung der Schaltungen mit VHDL. 6Lernziele und Kompetenzen•Die Studierenden veranschaulichen fundierte theoretische und praxisorientierte Grundlagen der Informationstheorie, Rechnerarithmetik, Digitaltechnik und des Schaltungsentwurfs. •Die Studierenden führen den Entwurf, die Synthese und das Testen von digitalen Schaltungen auf programmierbarer Hardware (FPGAs) durch. •Die Studierenden verstehen, dass Hardware heutzutage mit Software am Rechner entwickelt und simuliert wird. •Die Studierenden verstehen den Schaltungsentwurf mittels einer Beschreibungssprache (VHDL). •Die Studierenden erarbeiten und diskutieren verschiedene Lösungswege für die Datencodierung sowie den Entwurf und die Optimierung von digitalen Hardwareschaltungen. •Die Studierenden erlernen die Fähigkeit, digitale Schaltungen und Systeme eigenständig zu konzipieren und zu implementieren. •Die Studierenden reflektieren den Umgang mit schulgeeigneten Mikrocontrollern 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 7 9Verwendbarkeit des ModulsModule Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und Prüfungsleistungenschriftlich/mündlich Die Prüfungsleistung besteht aus 8-10 praktischen Aufgaben sowie 3-4 schriftlichen Testaten 
+Lernziele und Kompetenzen: •Die Studierenden veranschaulichen fundierte theoretische und praxisorientierte Grundlagen der Informationstheorie, Rechnerarithmetik, Digitaltechnik und des Schaltungsentwurfs. •Die Studierenden führen den Entwurf, die Synthese und das Testen von digitalen Schaltungen auf programmierbarer Hardware (FPGAs) durch. •Die Studierenden verstehen, dass Hardware heutzutage mit Software am Rechner entwickelt und simuliert wird. •Die Studierenden verstehen den Schaltungsentwurf mittels einer Beschreibungssprache (VHDL). •Die Studierenden erarbeiten und diskutieren verschiedene Lösungswege für die Datencodierung sowie den Entwurf und die Optimierung von digitalen Hardwareschaltungen. •Die Studierenden erlernen die Fähigkeit, digitale Schaltungen und Systeme eigenständig zu konzipieren und zu implementieren. •Die Studierenden reflektieren den Umgang mit schulgeeigneten Mikrocontrollern
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93105: Sichere Systeme Secure Systems5 ECTS
+Lehrveranstaltungen: Übung : SecSysUE02 (2 SWS ) 2,5 ECTS Vorlesung : Sichere Systeme (2 SWS ) 2,5 ECTS
+Lehrende: Dr.Ing. Ralph Palutke Prof. Dr.-Ing. Felix Freiling  
+Modulverantwortliche/r: Prof. Dr.-Ing. Felix Freiling
+Inhalt: Die Vorlesung gibt einen einführenden Überblick über Konzepte und Methoden der IT-Sicherheit. Themen (unter anderem): •Angreifer und Schutzziele •Cyberkriminalität und Strafbarkeit •Ethik und Privatsphäre •grundlegende Muster von Unsicherheit in technischen Systemen •grundlegende Sicherheitsmechanismen •Techniken der Sicherheitsanalyse •ausgewählte Beispiele aus dem Bereich der Kryptographie und Internetsicherheit (Web-Security) In der Übung werden die Themen der Veranstaltung beispielhaft eingeübt. Themen (unter anderem): •Kryptanalyse und Angreifbarkeit kryptographischer Protokolle •Schutzziele und Strafbarkeit •Zertifikate und Public-Key-Infrastrukturen •Web-Security •anonyme Kommunikation •formale Sicherheitsanalyse •Sicherheitstesten 6Lernziele und KompetenzenDie Teilnehmenden erwerben einen Überblick über Konzepte und Methoden aus dem Bereich der IT-Sicherheit und können diese im Kontext der Informatik und der Lebenswirklichkeit anhand von Beispielen einordnen und erläutern. Die Studierenden können die Schwächen in Internetprotokollen erkennen und benennen. Sie können außerdem erläutern, wie man diese Schwachstellen ausnutzt und welche technischen und organisatorischen Maßnahmen geeignet sind, diese Schwachstellen zu vermeiden. Die Studierenden lernen, die Wirksamkeit von IT-Sicherheitsmechanismen im gesellschaftlichen Kontext und in Kenntnis professioneller Strukturen der Cyberkriminalität aus technischen, ethischen und rechtlichen Perspektiven zu bewerten. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsModule Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 
+Lernziele und Kompetenzen: Die Teilnehmenden erwerben einen Überblick über Konzepte und Methoden aus dem Bereich der IT-Sicherheit und können diese im Kontext der Informatik und der Lebenswirklichkeit anhand von Beispielen einordnen und erläutern. Die Studierenden können die Schwächen in Internetprotokollen erkennen und benennen. Sie können außerdem erläutern, wie man diese Schwachstellen ausnutzt und welche technischen und organisatorischen Maßnahmen geeignet sind, diese Schwachstellen zu vermeiden. Die Studierenden lernen, die Wirksamkeit von IT-Sicherheitsmechanismen im gesellschaftlichen Kontext und in Kenntnis professioneller Strukturen der Cyberkriminalität aus technischen, ethischen und rechtlichen Perspektiven zu bewerten.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 
+
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Dieter Gollmann: Computer Security. 3. Auflage, Wiley, 2010. •Joachim Biskup: Security in Computing Systems. Springer, 2008. Weitere Literatur wird in der Vorlesung bekanntgegeben. 
+
+, Modulbezeichnung 93160: Software-Entwicklung in Großprojekten Software development in large projects5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Francesca Saglietti
+Inhalt: •Einführung in die einzelnen Phasen der Softwareentwicklung: Anforderungsanalyse, Spezifikation, Entwurf, Implementierung, Test, Wartung •Beispielhafter Einsatz ausgewählter repräsentativer Verfahren zur Unterstützung dieser Entwicklungsphasen •Ergonomische Prinzipien Benutzungsoberfläche •Objektorientierte Analyse und Design mittels UML •Entwurfsmuster als konstruktive, wiederverwendbare Lösungsansätze für ganze Problemklassen •Automatisch unterstützte Implementierung aus UML- Diagrammen •Teststrategien •Refactoring zur Unterstützung der Wartungsphase 6Lernziele und KompetenzenDie Studierenden •wenden auf Basis der bereits erworbenen Programmierkenntnisse systematische und strukturierte Vorgehensweisen (wie das Wasserfall- und V-Modell) zur Bewältigung der Komplexität im Zusammenhang mit dem Programmieren-im-Großen" an; •benutzen ausgewählte Spezifikationssprachen (wie Endliche Automaten, Petri-Netze und OCL), um komplexe Problemstellungen eindeutig zu formulieren und durch ausgewählte Entwurfsverfahren umzusetzen; •wenden UML-Diagramme (wie Use Case-, Klassen-, Sequenz- und Kommunikationsdiagramme) zum Zweck objektorientierter Analyse- und Design-Aktivitäten an; •reproduzieren allgemeine Entwurfslösungen wiederkehrender Probleme des Software Engineering durch Verwendung von Entwurfsmustern; •erfassen funktionale und strukturelle Testansätze; •setzen Refactoring-Strategien zur gezielten Erhöhung der Software-Änderungsfreundlichkeit um. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsModule Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 
+Lernziele und Kompetenzen: Die Studierenden •wenden auf Basis der bereits erworbenen Programmierkenntnisse systematische und strukturierte Vorgehensweisen (wie das Wasserfall- und V-Modell) zur Bewältigung der Komplexität im Zusammenhang mit dem Programmieren-im-Großen" an; •benutzen ausgewählte Spezifikationssprachen (wie Endliche Automaten, Petri-Netze und OCL), um komplexe Problemstellungen eindeutig zu formulieren und durch ausgewählte Entwurfsverfahren umzusetzen; •wenden UML-Diagramme (wie Use Case-, Klassen-, Sequenz- und Kommunikationsdiagramme) zum Zweck objektorientierter Analyse- und Design-Aktivitäten an; •reproduzieren allgemeine Entwurfslösungen wiederkehrender Probleme des Software Engineering durch Verwendung von Entwurfsmustern; •erfassen funktionale und strukturelle Testansätze; •setzen Refactoring-Strategien zur gezielten Erhöhung der Software-Änderungsfreundlichkeit um.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 
+
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93201: Theoretische Informatik für Wirtschaftsinformatik und Lehramt Theoretical computer science for information systems and teaching degree students5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: apl.Prof.Dr. Stefan Milius
+Inhalt: Grundlegende Begriffe und Kernergebnisse der Automatentheorie, Berechenbarkeitstheorie und Komplexitätstheorie werden überblickhaft behandelt: •endliche Automaten und reguläre Grammatiken und Sprachen •Kellerautomaten, kontextfreue Grammatiken und Sprachen •Turingmaschinen und berechenbare Funktionen •Primitiv rekursive und mü-rekursive Funktionen •LOOP- und WHILE-Berechenbarkeit •Entscheidbare Sprachen und Unentscheidbarkeit •Chomsky-Hierarchie •Komplexitätsklassen P und NP •NP-Vollständigkeit 6Lernziele und KompetenzenFachkompetenz Wissen Die Studierenden geben elementare Definitionen und Fakten zu formalen Sprachen und entsprechenden Maschinenmodellen und Grammatiken wieder. Verstehen Die Studierenden •erklären grundlegende Konzepte der Begriffe der Automaten- und Berechenbarkeits- und Komplexitätstheorie. •beschreiben Beispiele dieser Konzepte. •erläutern grundlegende Konstruktionen, Algorithmen und wesentliche Resultate und entsprechende Beweise (z.B. Unentscheibarkeit des Halteproblems). Anwenden Die Studierenden •führen Konstruktionen auf vorgelegten Maschinen und Grammatiken und Sprachen durch (z.B. Automatenminiierung, Potenzmengen-Konstruktion, Chomsky-Normierung, CYK- Algorithmus). •wenden grundlegende Beweisverfahren der theoretischen Informatik an (z.B. Induktionsbeweise, Pumping-Lemma, Reduktionen). Analysieren Die Studierenden •analysieren formale Sprachen und ermitteln ihre Zugehörigkeit zu den Klassen der Chomsky-Hierarchie. 
+Lernziele und Kompetenzen: Fachkompetenz Wissen Die Studierenden geben elementare Definitionen und Fakten zu formalen Sprachen und entsprechenden Maschinenmodellen und Grammatiken wieder. Verstehen Die Studierenden •erklären grundlegende Konzepte der Begriffe der Automaten- und Berechenbarkeits- und Komplexitätstheorie. •beschreiben Beispiele dieser Konzepte. •erläutern grundlegende Konstruktionen, Algorithmen und wesentliche Resultate und entsprechende Beweise (z.B. Unentscheibarkeit des Halteproblems). Anwenden Die Studierenden •führen Konstruktionen auf vorgelegten Maschinen und Grammatiken und Sprachen durch (z.B. Automatenminiierung, Potenzmengen-Konstruktion, Chomsky-Normierung, CYK- Algorithmus). •wenden grundlegende Beweisverfahren der theoretischen Informatik an (z.B. Induktionsbeweise, Pumping-Lemma, Reduktionen). Analysieren Die Studierenden •analysieren formale Sprachen und ermitteln ihre Zugehörigkeit zu den Klassen der Chomsky-Hierarchie. 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Module Fachwissenschaft Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •U. Schöning: Theoretische Informatik - kurz gefasst, 5. Aufl., Spektrum 2008. •J.E. Hopcroft, R. Motwani und J.D. Ullman: Introduction to Automata Theory, Languages, and Computation, 2. Aufl., Addison Wesley, 2001. 
+
+
+, Modulbezeichnung 240715: Grafik-Praktikum Game Programming Laboratory course: Games programming (GraPra)10 ECTS
+Lehrveranstaltungen: Praktikum : GraPra Game Programming (10 SWS) 10 ECTS
+Lehrende: Prof. Dr. Marc Stamminger Laura Fink Linus Franke  
+Modulverantwortliche/r: Dr.-Ing. Frank Bauer Prof. Dr. Tim Weyrich
+Inhalt: Wie entstehen eigentlich digitale Inhalte in einem Museum? In diesem Projekt-Seminar lernen Sie den zugrundeliegenden Ablauf in Zusammenarbeit mit dem Germanischen Nationalmuseum kennen. Dabei arbeiten Sie selbst an jedem Schritt mit: vom Scan im Museum über die 3D-Rekonstruktion und Aufbereitung der Daten (in Blender) bis zur inhaltlichen Gestaltung (mit Unity 3D) und finalen Veröffentlichung z.B. über Sketchfab. Durch das Semester werden Sie immer begleitet von Experten aus dem Germanischen Nationalmuseum, Mitarbeitern der Computergrafik und der Digital Humanities in Erlangen. So können Sie im Laufe des Semesters eine digitale Ausstellung von Anfang bis Ende interaktiv und spannend gestalten. 6Lernziele und KompetenzenFachkompetenz Erschaffen Lernende planen, entwerfen und produzieren unter Zuhilfenahme von typischen Werkzeugen der Computergrafik eine digitale Ausstellung für eine reales Museumsobjekt. 7Voraussetzungen für die TeilnahmeSie sollten bereits über grundlegende Programmierkenntnisse verfügen. Mögliche Vorlesungen sind z.B. AuD, IWGS oder GdI. Idealerweise haben Sie auch bereits Erfahrung im Umgang mit 3D- Software oder die Veranstaltung Computergrafik absolviert. 8Einpassung in StudienverlaufsplanSemester: 7 9Verwendbarkeit des ModulsPraktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung 11Berechnung der ModulnotePraktikumsleistung (100%) 12 Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 40 h Eigenstudium: 260 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Fachkompetenz Erschaffen Lernende planen, entwerfen und produzieren unter Zuhilfenahme von typischen Werkzeugen der Computergrafik eine digitale Ausstellung für eine reales Museumsobjekt.
+Voraussetzungen für die Teilnahme: Sie sollten bereits über grundlegende Programmierkenntnisse verfügen. Mögliche Vorlesungen sind z.B. AuD, IWGS oder GdI. Idealerweise haben Sie auch bereits Erfahrung im Umgang mit 3D- Software oder die Veranstaltung Computergrafik absolviert.
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93199: IoT Security IoT security10 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Felix Freiling Philipp Klein
+Inhalt: Dieses Projekt wird in kleinen Teams bearbeitet. Jedes Team muss am Ende einen schriftlichen Bericht einreichen. Die Arbeit der einzelnen Teammitglieder muss hier klar ersichtlich sein. Jedes Team erhaelt eine Reihe von IoT- und Smart-Home-Geraeten. Diese sollen zunaechst zu einem funktionierenden, "smarten" System verknuepft werden. Es werden eigene Geraete gebaut und mit dem System verbunden. Im Anschluss wird detailliert fuer jedes Geraet eine Sicherheitsanalyse durchgefuehrt. Hier wird unter anderem betrachtet, welche Daten die Geraete wohin senden, welche Daten lokal gespeichert und erhoben werden und wie die Kommunikation abgesichert ist. Der schriftliche Bericht beinhaltet die Beschreibung und Dokumentation des Systems und der selbstgebauten IoT-Geraete sowie die Erkenntnisse der Sicherheitsanalyse. Zusammengefasster Inhalt: •Grundlagenvorlesungen zu IoT und Smart Home •Verknuepfung von diversen IoT-Geraeten •Bau eigener IoT-Geraete •Detaillierte Analyse von IoT-Geraeten bezueglich Datenverkehr, Datenschutz und Usability •Ausarbeitung und Anwendung von Angriffsszenarien auf IoT- Geraete 6Lernziele und KompetenzenFachkompetenz Evaluieren (Beurteilen) Lernende koennen aufgrund Ihrer Erfahrung im Projekt bewerten, ob ein IoT-Geraet als "sicher" einzustufen ist. Diese Bewertung erfolgt entweder auf Grundlage von frei verfuegbaren Daten oder ueber eine selbststaendige Evaluation des Geraets. Selbstkompetenz Lernende koennen eigenstaendig, ohne Aufsicht und Anleitung, ein IoT-Geraet detailliert analysieren und zu festgelegten Zeitpunkten Ergebnisse vorweisen. 
+Lernziele und Kompetenzen: Fachkompetenz Evaluieren (Beurteilen) Lernende koennen aufgrund Ihrer Erfahrung im Projekt bewerten, ob ein IoT-Geraet als "sicher" einzustufen ist. Diese Bewertung erfolgt entweder auf Grundlage von frei verfuegbaren Daten oder ueber eine selbststaendige Evaluation des Geraets. Selbstkompetenz Lernende koennen eigenstaendig, ohne Aufsicht und Anleitung, ein IoT-Geraet detailliert analysieren und zu festgelegten Zeitpunkten Ergebnisse vorweisen. 
+
+Voraussetzungen für die Teilnahme: Grundkenntnisse in Python
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%) Die Modulnote setzt sich aus der individuellen Arbeit, einem abschliessenden Report und dem Abschlussvortrag zusammen. Die Gewichtung liegt bei 50:40:10.
+Turnus des Angebots: Unregelmäßig
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 93203: Mobile Application Development and Security Mobile application development and security10 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Philipp Klein
+Inhalt: In diesem Projekt/Praktikum erlernt ihr anhand eines Vorlesungsteils und eines anschliessenden Team-Projekts, mobile Applikationen zu Erstellen (Backend und App) und auszuliefern (Deployment, DevOps). Inhalte sind u.a.: •Entwicklung von Android-Applikationen mit Kotlin •Entwicklung von Cross-Platform-Apps mit Flutter •Continuous Integration mit GitlabCI •Agile Entwicklung im Team, angepasst an die Bedürfnisse des Teams •Statische und dynamische Analyse von Apps •Sichere Entwicklung im Open-Source-Umfeld In diesem Praktikum/Projekt agieren wir wie ein Software-Unternehmen. Es wird einen Auftraggeber, ein Lasten- und Pflichtenheft sowie Meilensteine und Deadlines geben. Die Arbeit geschieht in einem Team mit einem woechentlichen Meeting. In der initialen Lernphase bekommt ihr Vorlesungsmaterial und Uebungen zur Verfuegung gestellt. In der anschliessenden Projektphase wird an einer App gearbeitet. Aktuell ist dies die offizielle FAU-App, die neu entwickelt wird. 6Lernziele und KompetenzenFachkompetenz Erschaffen Studierende planen und entwickeln Android- und iOS-Applikationen. Sie legen in der Konzeption und Umsetzung grossen Wert auf Sicherheit. Lern- bzw. Methodenkompetenz Studierende wenden sämtliche Arbeitsschritte in der Entwicklung mobiler Applikationen, von der Planung über die Erstellung einer CI-Pipeline bis zur Auslieferung, an. Selbstkompetenz Studierende integrieren sich in Teams, planen das gemeinsame Vorgehen und reflektieren über das bisher Geleistete. Sozialkompetenz Studierende dokumentieren ihre Arbeit nach aussen in Form eines Blogs auch für nicht-technische Studierende verständlich und nachvollziehbar. Sie kommunizieren innerhalb des Teams respektvoll und wertschätzend. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 7 
+Lernziele und Kompetenzen: Fachkompetenz Erschaffen Studierende planen und entwickeln Android- und iOS-Applikationen. Sie legen in der Konzeption und Umsetzung grossen Wert auf Sicherheit. Lern- bzw. Methodenkompetenz Studierende wenden sämtliche Arbeitsschritte in der Entwicklung mobiler Applikationen, von der Planung über die Erstellung einer CI-Pipeline bis zur Auslieferung, an. Selbstkompetenz Studierende integrieren sich in Teams, planen das gemeinsame Vorgehen und reflektieren über das bisher Geleistete. Sozialkompetenz Studierende dokumentieren ihre Arbeit nach aussen in Form eines Blogs auch für nicht-technische Studierende verständlich und nachvollziehbar. Sie kommunizieren innerhalb des Teams respektvoll und wertschätzend.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 7 
+
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%) Die Note berechnet sich aus der Arbeit im Team sowie einem Abschlussvortrag. Die Gewichtung beträgt 90:10. Bei der Teamarbeit wird sowohl der geschriebene Code, als auch das Verhalten im Team bewertet.
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93129: NWERC Praktikum NWERC Training10 ECTS
+Lehrveranstaltungen: Praktikum : NWERC Praktikum (8 SWS) 10 ECTS
+Lehrende: Prof. Dr. Michael Philippsen Daniela Novac Paul Wild  
+Modulverantwortliche/r: Prof. Dr. Michael Philippsen
+Inhalt: Programmierwettbewerbe wie der International Collegiate Programming Contest (ICPC) bieten eine Möglichkeit, die eigenen Programmier- und Teamfähigkeiten an einer Vielzahl algorithmischer Probleme zu testen. Dabei stammen die Aufgaben aus verschiedenen Gebieten, wie Geometrie, Kombinatorik, String-Verarbeitung und Zahlentheorie. Die Studierenden treten in 3er-Teams an, haben aber nur einen Computer zur Verfügung. Neben fachlichem Verständnis ist die Teamstrategie entscheidend für den Erfolg der Gruppe. Die Wettbewerbe werden auf drei Ebenen abgehalten: •Lokal an jeder Universität. In Deutschland findet diese in der Regel im Sommer unter dem Namen "German Collegiate Programming Contest - GCPC" statt. An diesem Wettbewerb können alle Studierenden teilnehmen. •Regional in weltweit mehr als 30 Regionalausscheidungen, zu denen jede Universität maximal 3 Teams entsenden darf. Die FAU nimmt am North Western European Regional Contest (NWERC) teil, bei dem jeweils im Herbst die besten Teams für das Finale ermittelt werden. •Die World Finals finden im Frühling des darauffolgenden Jahres statt. Die zwei besten Teams jeder Region dürfen an den World Finals teilnehmen. Dieses Praktikum richtet sich an Studierende, die bereits am lokalen Wettbewerb (GCPC) teilgenommen haben und sich dabei durch herausragende Leistung für die engere Auswahl qualifiziert haben, um für die FAU beim NWERC antreten zu dürfen. Das Praktikum setzt sich aus drei Komponenten zusammen: •Teamcontests (Juni bis Mitte November): Über die gesamte Praktikumsdauer werden voraussichtlich 25 Probe-Wettbewerbe (die genaue Anzahl kann erst zu Semesterbeginn festgelegt werden), zu je 5 Stunden abgehalten (insgesamt ca. 200 Aufgaben). Die Studierenden trainieren dabei in 3er-Teams mit wechselnder Besetzung. Nach jedem Probe-Wettbewerb werden die Lösungsansätze der gestellten Aufgaben besprochen. Danach haben die Teilnehmer zwei Wochen lang die Möglichkeit, eigenständig erarbeitete Lösungen für ungelöste Aufgaben auf der zur Verfügung gestellten Plattform (DOMJudge) einzureichen. Eine Aufgabe wird als gültig eingestuft, wenn sie alle Testfälle in einer vorgegebenen Zeit bestanden hat. Alle eingereichten Lösungsversuche werden sofort und automatisch evaluiert. 
+
+Lernziele und Kompetenzen: *A - Methodenkompetenz* Die Studierenden •bewerten verschiedene Algorithmen hinsichtlich ihrer Eignung für vorgegebene Problemstellungen •priorisieren die Bearbeitung verschiedener Aufgaben, indem sie den Schwierigkeitsgrad und Umfang der zu erwartenden Lösung bewerten •entwickeln eine Strategie, die benötigten Algorithmen in kurzer Zeit zu implementieren und anzupassen •erarbeiten neue effiziente Algorithmen zur Lösung der Aufgaben und setzen diese schnell und fehlerfrei um •testen/überprüfen eigenen und fremden Code und beheben selbständig dabei gefundene Fehler *B - Selbst- und Sozialkompetenz:* Die Studierenden •kennen die eigenen Stärken und Schwächen und setzen dieses Wissen bei der Auswahl und Priorisierung der zu bearbeitenden Aufgaben zielführend ein •entwickeln gemeinsam eine Lösung(sstrategie) und unterstützen sich gegenseitig bei der Umsetzung •arbeiten in Gruppen kooperativ und verantwortlich, halten sich an vereinbarte Regeln und gehen offen auf andere zu •zeigen eine positive Grundhaltung anderen gegenüber, handeln partner- und situationsgerecht 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: https://link.springer.com/book/10.1007/978-3-319-72547-5 
+
+, Modulbezeichnung 93142: The AMOS Project (SD Role, PROJ 10 ECTS) The AMOS Project (SD Role, Proj 10 ECTS)10 ECTS
+Lehrveranstaltungen: Übung : The AMOS Project (UE) (2 SWS) - Vorlesung : The AMOS Project (VL) ( 2 SWS ) -
+Lehrende: Prof. Dr. Dirk Riehle  
+Modulverantwortliche/r: Prof. Dr. Dirk Riehle
+Inhalt: This course teaches agile methods (Scrum and XP) and open source tools using a single semester-long project. Topics covered are: •Agile methods and related software development processes •Scrum roles, process practices, including product and engineering management •Technical practices like refactoring, continuous integration, and test-driven development •Principles and best practices of open source software development The project is a software development project in which each student team works with an industry partner who provides the idea for the project. This is a practical hands-on experience. Students can play one of two primary roles: •Product owner. In this function, a student defines, prioritizes, communicates, and reviews requirements. The total effort adds up to 5 ECTS. •Software developer. In this function, a student estimates their effort for requirements and implements them. The total effort adds up to 10 ECTS. Students will be organized into teams of 7-8 people, combining product owners with software developers. An industry partner will provide requirements to be worked out in detail by the product owners and to be realized by the software developers. The available projects will be presented in the run-up to the course. Class consists of a 90min lecture followed by a 90min team meeting. Rooms and times for team meetings are assigned at the beginning of the semester. You must be able to regularly participate in the team meetings. If you can't, do not sign up for this course. Students choosing the software developer role must have prior software development experience. Sign-up and further course information are available at https:// amos.uni1.de - please sign up for the course on StudOn (available through previous link) as soon as possible. The course information will also tell you how the course will be held (online or in person). 6Lernziele und Kompetenzen•Students learn about software products and software development in an industry context •Students learn about agile methods, in particular, Scrum and Extreme Programming 
+Lernziele und Kompetenzen: •Students learn about software products and software development in an industry context •Students learn about agile methods, in particular, Scrum and Extreme Programming 
+
+Voraussetzungen für die Teilnahme: - For software developer role: OSS-ADAP
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 113845: Praktikum angewandte Systemsoftwaretechnik Laboratory course: Applied systems software technology10 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPraktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung 11Berechnung der ModulnotePraktikumsleistung (100%) 12 Turnus des Angebots keine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 594684: Praktikum Enterprise Computing 10 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPraktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung 11Berechnung der ModulnotePraktikumsleistung (100%) 12 Turnus des Angebots keine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 93197: Praktikum: Entwicklung interaktiver eingebetteter Systeme Laboratory course: Development of cyber-physical embedded systems10 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum: Entwicklung interaktiver eingebetteter Systeme (8 SWS )10 ECTS
+Lehrende: Joachim Falk  
+Modulverantwortliche/r: Joachim Falk
+Inhalt: Technische Systeme machen den Alltag immer angenehmer. Unsere Ansprüche steigen dabei stetig und so erwarten wir, dass unsere Geräte immer mehr Funktionen bieten, und gleichzeitig immer einfacher zu bedienen sind. Eingebettete Systeme, also spezialisierte Computer, die direkt in technische Systeme integriert sind, sind dabei seit Jahren das Mittel der Wahl, um unseren Geräten die benötigte Intelligenz zu verpassen. Es hat sich gezeigt, dass es immer wichtiger wird, dass diese Systeme noch mehr mit ihrer Umwelt und vor allem dem Menschen interagieren. Ein Paradebeispiel hierfür sind Fahrerassistenzsysteme in modernen Fahrzeugen. Derartige Systeme erhöhen nicht nur den Komfort, sondern vor allem auch die Sicherheit aktueller Automobile. Diese stark mit ihrer Umwelt interagierenden, eingebetteten Systeme nennt man auch Cyberphysical Systems. Das Praktikum Entwicklung interaktiver eingebetteter Systeme" behandelt die Entwicklung und Programmierung derartiger Systeme. In drei Abschnitten bietet das Praktikum Einblick in alle Phasen der Entwicklung eingebetteter Systeme. Dabei entwickeln wir ein Objekterkennungssystem, bei dem ein Objekt erkannt werden soll, um dessen Position zur Steuerung der von Ihnen entwickelten Software einzusetzen. •In Phase I entwickeln wir Filter- und Objekterkennungsalgorithmen, mit deren Hilfe Objekte automatisch in einem Videostrom detektiert werden sollen. Das Erkennen soll möglichst zuverlässig und bei wechselnden Umgebungsbedingungen funktionieren. •In Phase II portieren wir die entwickelten Algorithmen auf das eingebettete System. Wir verändern allerdings nicht die Programmierung eines Autos, sondern führen die Umsetzung anhand eines virtuellen Prototypen durch. Mittels des virtuellen Prototypen entscheiden wir dann, was in Software und was in Hardware implementiert werden soll. •In Phase III testen wir unsere Entwicklungen auf einem realen System. Für diesen Zweck steht uns ein am Lehrstuhl entwickelter Demonstrator zur Verfügung. Dadurch lassen sich die entwickelten Filter auf einem realen System testen. Der Demonstrator verfügt über eine Kamera, die den Bereich vor dem Demonstrator überwacht. Die Kameradaten werden anschließend an die selbst entwickelten Module weitergeleitet. 
+
+Lernziele und Kompetenzen: Fachkompetenz - Wissen •Die Studierenden legen Konzepte des modellbasierten Entwurfs eingebetteter Systeme dar. Fachkompetenz - Verstehen •Die Studierenden veranschaulichen die Hauptaufgaben beim Systementwurf auf verschiedenen Abstraktionsebenen von der Anwendung selbst, dem Gesamtsystem, bis hinunter zu einem Hardwaremodul. •Die Studierenden schildern den Entwurf eines System von der Idee, über die Spezifikation bis zur Implementierung, der Analyse und letztendlich der Validierung an einem realen mechatronischen Versuchsaufbau. Fachkompetenz - Anwenden •Die Studierenden setzen die Integration von digitalen Hardware- und Software-Komponenten um. •Die Studierenden wenden die Programmiersprachen C/C++/ SystemC für die Entwicklung von Hardware- und Software- Komponenten an. Selbstkompetenz •Die Studierenden schätzen ihre individuellen Stärken ab, um einen geeignete Arbeitsaufteilung innerhalb der Gruppe festzulegen. Sozialkompetenz •Die Studierenden erarbeiten gemeinsam Schnittstellendefinitionen über Gruppengrenzen hinweg. •Die Studierenden erarbeiten kooperativ in Gruppen Lösungskonzepte und implementieren diese gemeinsam.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%) Die Bewertung der Prüfungsleistung setzt sich zusammen aus Abschlussvortrag (Dauer: 25 min) und erfolgreicher Bearbeitung aller wöchentlichen Praktikumsaufgaben (verpflichtend, vor Ort an den Rechnerarbeitsplätzen des Lehrstuhls). Die Modulnote ergibt sich aus 50% Abschlussvortrag und 50% Mitarbeit im Praktikum basierend auf den abgegebenen Praktikumsaufgaben.
+Turnus des Angebots: nur im Wintersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: Weitere Informationen: https://www.cs12.tf.fau.de/lehre/lehrveranstaltungen/praktika/ entwicklung-interaktiver-eingebetteter-systeme/ 
+
+, Modulbezeichnung 278855: Praktikum Lego Mindstorms Laboratory course: Lego mindstorms10 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Joachim Falk Dr.-Ing. Stefan Wildermann
+Inhalt: Informatik befasst sich nicht nur mit der Programmierung von Desktop- Rechnern. Vielmehr können Computer in immer mehr Gegenständen unseres Alltags oder in bestimmten technischen Kontexten gefunden werden. Man spricht hier von eingebetteten Systemen. Auch Roboter stellen solche eingebetteten Systeme dar. Ein Roboter erwacht durch sein Programm zum Leben. Die Programmierung von Robotern stellt einerseits eine Herausforderung dar. Andererseits ist sie aber auch mit viel Spaß verbunden. In diesem Modul werden LEGO Mindstorms Roboter verwendet, die mittels der Sprache Java programmiert werden. Dazu wird das Betriebssystem leJOS verwendet. Ziel des Moduls ist es, die Teamfähigkeit weiterzuentwickeln, indem ein praktisches Thema als Gruppe bearbeitet wird, Kenntnisse und Fertigkeiten in der Projektorganisation zu erwerben und die Fähigkeit der Problemlösung zu schulen. 6Lernziele und KompetenzenFachkompetenz - Erschaffen •Die Studierenden erstellen Lösungsideen für die Projekte und implementieren diese in Java für Lego Mindstorms Roboter. Selbstkompetenz •Die Studierenden schätzen ihre Stärken ab, um eine geeignete Arbeitsaufteilung innerhalb der Gruppe zu finden. Sozialkompetenz •Die Studierenden erarbeiten gemeinsam Projektpläne und - dokumentation im Themengebiet Robotik. •Die Studierenden organisieren selbstständig die gemeinsame Durchführung des Projekts und führen diese kooperativ in Gruppen durch. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 7 9Verwendbarkeit des ModulsPraktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung 11Berechnung der ModulnotePraktikumsleistung (100%) Die Bewertung der Prüfungsleistung setzt sich zusammen aus erfolgreicher Umsetzung einer Projektaufgabe, einem Abschlussvortrag (Dauer: ca. 25 min) und einem Praktikumsbericht (ca. 12 
+Lernziele und Kompetenzen: Fachkompetenz - Erschaffen •Die Studierenden erstellen Lösungsideen für die Projekte und implementieren diese in Java für Lego Mindstorms Roboter. Selbstkompetenz •Die Studierenden schätzen ihre Stärken ab, um eine geeignete Arbeitsaufteilung innerhalb der Gruppe zu finden. Sozialkompetenz •Die Studierenden erarbeiten gemeinsam Projektpläne und - dokumentation im Themengebiet Robotik. •Die Studierenden organisieren selbstständig die gemeinsame Durchführung des Projekts und führen diese kooperativ in Gruppen durch.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (100%) Die Bewertung der Prüfungsleistung setzt sich zusammen aus erfolgreicher Umsetzung einer Projektaufgabe, einem Abschlussvortrag (Dauer: ca. 25 min) und einem Praktikumsbericht (ca. 12 
+
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Weitere Informationen: https://www.cs12.tf.fau.de/lehre/lehrveranstaltungen/praktika/lego- mindstorms-praktikum/ 
+
+, Modulbezeichnung 93155: Praktikum Mustererkennung Laboratory course: Pattern recognition10 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum Mustererkennung (4 SWS) 5 ECTS
+Lehrende: Dr.-Ing. Vincent Christlein  
+Modulverantwortliche/r: Dr.-Ing. Vincent Christlein Felix Denzinger Fabian Wagner
+Inhalt: At the Pattern Recognition Lab we offer practical topics that are connected to our current research in the fields of pattern recognition & machine learning, medical image processing, and big data applications. Other than a course with fixed topic, topics are defined individually. The 10 ECTS project is directed towards students of computer science. Also smaller 5 ECTS projects are available. The goal of this practical course is to familiarize the students with a Pattern Recognition System. Am Lehrstuhl für Mustererkennung bieten wir Praktika an, die mit unserer aktuellen Forschung in den Bereichen Mustererkennung & maschinelles Lernen, medizinische Bildverarbeitung und große Datenanwendungen verbunden sind. Im Gegensatz zu einem Kurs mit festem Thema werden die Themen individuell festgelegt. Das 10 ECTS-Projekt richtet sich an Studierende der Informatik. Auch kleinere 5 ECTS-Projekte sind möglich. Das Ziel dieses Praktikums ist es, die Studenten mit einem Mustererkennungssystem vertraut zu machen. 6Lernziele und KompetenzenDie Studierenden •arbeiten sich in komplexe Softwaresysteme ein und erweitern diese •lernen, wie ein Mustererkennungssystem zu entwickeln ist •lernen, eigenständig Lösungsvorschläge auszuarbeiten und umzusetzen •dokumentieren die von ihnen geschriebene Software The students •familiarize themselves with complex software systems and extend them •learn to develop a pattern recognition system •learn to independently develop and implement proposed solutions •create documentation for the software written by them 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 7 9Verwendbarkeit des ModulsPraktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung At the Pattern Recognition Lab we offer practical topics that are connected to our current research in the fields of pattern recognition & 
+Lernziele und Kompetenzen: Die Studierenden •arbeiten sich in komplexe Softwaresysteme ein und erweitern diese •lernen, wie ein Mustererkennungssystem zu entwickeln ist •lernen, eigenständig Lösungsvorschläge auszuarbeiten und umzusetzen •dokumentieren die von ihnen geschriebene Software The students •familiarize themselves with complex software systems and extend them •learn to develop a pattern recognition system •learn to independently develop and implement proposed solutions •create documentation for the software written by them
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 7
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 93162: Softwareentwicklungspraktikum Lehramt Software development lab for teaching degree students10 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: Prof. Dr. Marc-Pascal Berges
+Inhalt: Agile Entwicklung eines Projektes/Programms für den Einsatz im Unterricht Organisation eines größeren Projektes Zeitmanagement Kommunikation in der Gruppe 6Lernziele und KompetenzenDie Studierenden - entwickeln in Gruppen ein lauffähiges Programm für den Einsatz im Unterricht - verwalten ihren Projektfortschritt mit Hilfe eines Projektboards - lernen agile Entwicklung und deren Einsatzmöglichkeit im Unterricht kennen 7Voraussetzungen für die TeilnahmeEs wird der erfolgreiche Abschluss der folgenden Module als Voraussetzung empfohlen: •Einführung in die Programmierung •Einführung in die Algorithmik •Einführung in Datenbanken •Einführung in das Software Engineering 8Einpassung in StudienverlaufsplanSemester: 7;5 9Verwendbarkeit des ModulsPraktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung Prüfungsleistung: Entwicklung und Vorstellung eines Softwareprojektes in Gruppen. Die Vorstellung erfolgt in einem 20-30minütigem Vortrag. Die Entwicklung wird durch einen 30-60 seitigen Praktikumsbericht dokumentiert. 11Berechnung der ModulnotePraktikumsleistung (100%) 12 Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 120 h Eigenstudium: 180 h 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 LiteraturhinweiseBest Practice Software-Engineering, A.Schatten, Spektrum Verlag 
+Lernziele und Kompetenzen: Die Studierenden - entwickeln in Gruppen ein lauffähiges Programm für den Einsatz im Unterricht - verwalten ihren Projektfortschritt mit Hilfe eines Projektboards - lernen agile Entwicklung und deren Einsatzmöglichkeit im Unterricht kennen
+Einpassung in Studienverlaufsplan: Semester: 7;5
+Verwendbarkeit des Moduls: Praktikum Informatik 1. Staatsprüfung für das Lehramt an Realschulen Informatik 20222
+Method of examination: Praktikumsleistung Prüfungsleistung: Entwicklung und Vorstellung eines Softwareprojektes in Gruppen. Die Vorstellung erfolgt in einem 20-30minütigem Vortrag. Die Entwicklung wird durch einen 30-60 seitigen Praktikumsbericht dokumentiert.
+Berechnung der Modulnote: Praktikumsleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Best Practice Software-Engineering, A.Schatten, Spektrum Verlag

@@ -1,0 +1,647 @@
+
+, Modulbezeichnung 62050: Allgemeine und Anorganische Chemie General and inorganic chemistry7,5 ECTS
+Lehrveranstaltungen: Vorlesung: Allgemeine und Anorganische Chemie (mit Experimenten) (4 SWS )5 ECTS Praktikum : Anorganisch-analytisch-chemischer Kurs für Anfänger (CBI/LSE/CEN)) (2 SWS )- Seminar : Seminar z. Anorgan.-Chemischen Praktikum für CBI, LSE, CEN (1 SWS )-
+Lehrende: Prof. Dr. Karsten Meyer  
+Modulverantwortliche/r: Prof. Dr. Karsten Meyer
+Inhalt: (1) Allgemeine Chemie: Aufbau der Materie, Stöchiometrische Grundgesetze, Aggregatzustände, Gasgesetze und Atommassenbestimmung, Atombau und Periodensystem, Chemische Bindung, Molekülstrukturen (VSEPR, Hybridisierung), Struktur-Eigenschafts-Beziehungen, Chemische Reaktionen, Thermodynamik, Reaktionskinetik, Massenwirkungsgesetz, Löslichkeitsprodukt, Säure-Base-Gleichgewichte, Elektrochemie, Regeln und Einheiten. (2) Anorganische Chemie: Ausgewählte Hauptgruppenelemente mit den Schwerpunkten: Physikalische Eigenschaften, Vorkommen, Darstellung in Labor und Technik, Chemische Eigenschaften, wichtigste Verbindungen, Anwendungen in Natur und Technik. Chemische Terminologie und Nomenklatur. Themen im Rahmen des Praktikums: Elementare Sicherheitsfragen beim Umgang mit Gefahrstoffen im nasschemischen und qualitativ analytischen Bereich. Sicherer Umgang mit den dabei verwendeten Chemikalien. Erlernen von Konzepten des chemischen Experimentierens. Erlernen der wissenschaftlichen Dokumentation durch Führen eines Laborjournals. Qualitative Analyse ausgewählter Kationen und Anionen. Quantitative Analyse durch Titration (Säure-Base, Komplexometrie, Iodometrie). 6Lernziele und KompetenzenDie Studierenden: •verstehen die Grundlagen der anorganischen Chemie sowie der qualitativen und quantitativen Analyse als Basis für die Kernfächer der technischen Chemie •kennen die chemische Terminologie und einfache Syntheseprinzipien •verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen •erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen •können mit Gefahrstoffen und Abfällen in chemischen Laboratorien sicher umgehen 
+Lernziele und Kompetenzen: Die Studierenden: •verstehen die Grundlagen der anorganischen Chemie sowie der qualitativen und quantitativen Analyse als Basis für die Kernfächer der technischen Chemie •kennen die chemische Terminologie und einfache Syntheseprinzipien •verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen •erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen •können mit Gefahrstoffen und Abfällen in chemischen Laboratorien sicher umgehen 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (180 Minuten) Praktikumsleistung
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesung: Lehrbuch der Anorganischen Chemie; Holleman-Wiberg; 2007 Allgemeine und Anorganische Chemie; Binnewies, Jäckel, Willner; 2003 Anorganische Chemie, Housecroft, Sharpe; 2006 Praktikum: Jander/Blasius Anorganische Chemie I+II: Einführung & Qualitative Analyse / Quantitative Analyse & Präparate; 2011 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: Die Bachelorarbeit umfasst eine praktische Tätigkeit an einem aktuellen Forschungsprojekt am Department Chemie- und Bioingenieurwesen. Folgende Themenbereiche stehen zur Verfügung: •Bioreaktions- und Bioverfahrenstechnik •Chemische Reaktionstechnik •Energieverfahrenstechnik •Mechanische Verfahrenstechnik •Medizinische Biotechnologie •Multiscale Simulation •Strömungsmechanik •Technische Thermodynamik •Thermische Verfahrenstechnik 6Lernziele und KompetenzenDie Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete des Life Science Engineerings und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern 7Voraussetzungen für die TeilnahmeZulassungsvoraussetzung zur Bachelorarbeit ist der Erwerb von mindestens 110 ECTS-Punkten sowie der erfolgreiche Abschluss der GOP (s. ABMPO/TechFak § 27 (3)). 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungenmündlich schriftlich (5 Monate) 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete des Life Science Engineerings und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: mündlich schriftlich (5 Monate) 
+
+Berechnung der Modulnote: mündlich (20%) schriftlich (80%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt! 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 63350: Bioanalytik Bioanalytics7,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Martin Vielreicher
+Inhalt: *Vorlesung*: •Einführung in Konzepte der Datenerhebung, Messdaten, Anwendungsgebiete in den Lebenswissenschaften (z.B. Forensische Bio-analytik, Lebensmittelanalytik, Labordiagnostik, analytische Trenntechnik), Einheiten und physiko-chemische Größen •Statistische Verfahren und Tests, Datenpopulationen, Verteilungen und Beschreibungen, Mittelwerte, Standardabweichungen, Statistische Tests und deren Gültigkeit (Student t-Test, ANOVA, nicht-parametrische Tests), Fehler 1. und 2. Art, Konfidenzintervalle, Beispiele •Allgemeine Messtechniken für, z.B., Temperatur, Druck, pH- Wert, Osmolarität, Ionen-Konzentrationen; Arbeitsweise der Mess-Sensoren (ionen-selektive Elektroden, Osmometer, etc.), Kalibration und Fit-Prozeduren, allgemeine Sensor-Antworten •Licht-Analytik (nicht bildgebend): Lichtabsorption, Extinktion, Lambert-Beer-Gesetz, Spektren, Spektrometrie, optische Filter, Plate-Reader und Anwendungen •Licht-Analytik (bildgebend): Lichtmikroskopie-Verfahren (Hellfeld, Dunkelfeld, Phasenkontrast, Differentieller Interferenz-Kontrast), Abbildung von Zellen und morphologische Beschreibungen •Chromatographie (Grundlagen und Messprinzipien), biologische Beispiele chromatographischer Analytik •Nukleinsäure-Analytik, Eigenschaften von Nukleinsäuren, Konzentrationsbestimmung, Polymerase-Kettenreaktion •Analytische elektrochemische Trenntechnik, Elektrophorese (Agarose-Gelelektrophorese, SDS-PAGE) •Proteinanalytik, Bestimmung von Proteinkonzentrationen (z.B. Bradford), Bestimmung einzelner Proteine, HPLC (|high pressure liquid chromatography|) •Übergreifende Anwendungsbereiche, z.B. aus der forensischen Analytik (Vaterschaftstests, Drogentests, Vergiftungen) *Praktikum*: Das Praktikum besteht aus zwei Messtechnik-Versuchen, die jeweils über einen Tag stattfinden. Versuche sind u.a. •Chemische und Proteindiagnostik im eigenen Urin unter Bedingungen normo-, Anti- und Wasserdiurese *(MBT)* •Bestimmung von wasserlöslichen Vitaminen in Nahrungsergänzungspräpa-raten mittels HPLC-UV/Vis *(BVT)* 
+
+Lernziele und Kompetenzen: Die Studierenden sollen •Anwendungsgebiete der Analytik in Bereichen der Lebenswissenschaften benennen und sinnvolle Messtechniken zur Erhebung von spezifischen Daten auswählen können •Messprinzipien verschiedener Sensoren erklären können und deren Limitationen gegenüber anderen Sensor-Typen gleicher Modalität für ihre eigenen Messungen erfassen können •Grundzüge der Datenerhebung und kritische Evaluation von Messdaten anhand statistischer Beschreibungen erlernen und bewerten lernen •die wichtigsten analytischen Verfahren für Biomoleküle (mit Fokus auf Proteinen und Nukleinsäuren) benennen und anwenden lernen sowie deren Nachweisgrenzen einordnen können •Grundzüge der bildgebenden Zell-Analytik für die Untersuchung von Zellen in Bereichen der Labormedizin, Zellbiologie und Biotechnologie kennen lernen und die für spätere Experimente besten Verfahren zur Visualisierung auswählen können
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten) Praktikumsleistung
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Lottspeich F, Engels JW, et al. (2012), 3.Aufl., Spektrum Akadem. Verlag, ISBN-10: 3827429420 •Gey MH (2015), 3. Aufl., Springer Verl., ISBN-10: 3662462540 •Langford A (2018), 3rd Edition, Pearsons Education Ltd., ISBN-10: 1292139463 
+
+, Modulbezeichnung 62900: Biochemie 1 und 2 Biochemistry 1 and 25 ECTS
+Lehrveranstaltungen: Vorlesung: Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 (2 SWS )- Vorlesung: Einführung in die Biochemie für Naturwissenschaftler Teil2 (2 SWS )-
+Lehrende: Prof. Dr. Christian Koch Prof. Dr. Yves Muller  
+Modulverantwortliche/r: Prof. Dr. Christian Koch
+Inhalt: BCNF1: •Proteine und deren Aufbau •Methoden in der Biochemie •Enzyme, Enzymkinetik, Enzymmechanismen, Regulierung der Enzymaktivität, Cofaktoren •Biochemie der Nukleinsäure, Kopartimentierung genetischen Materials, DNA Strukturen, DNA Topologie, Nukleosomen, DNA Polymerasen, Ligasen, Telomerase, Primase, Grundlagen der RNA Struktur. BCNF2: Grundlagen des Stoffwechsels, Ernährungsstrategien unterschiedlicher Zellen, Stofftransport, Glykolyse, Gluconeogenese, Pyruvatdehydrogenase, Citrat Cyclus, ATP Synthase, Photosynthese, Glykogenstoffwechsel, Phosphorylase, Insulinregulation des Blutzuckers, Stärke und Cellulose in Pflanzen, Lysosomen, RNA Synthese und Prozessierung, Proteinbiosynthese, Aminosäureaktivierung, gentechnische Methoden, DNA Sequenzierung, Herstellung rekombinanter Proteine. 6Lernziele und KompetenzenDie Studierenden •verstehen die Grundlagen der Biochemie, insb. die Grundprinzipien des Stoffwechsels in Zellen und die Regulationsprinzipien von Enzymen sowie deren Bedeutung für die Physiologie tierischer und pflanzlicher Organismen •können thermodynamische Gesetzmäßigkeiten auf biologische Systeme anwenden •kennen die Bausteine aller wesentlichen biologischen Makromoleküle und sind in der Lage, sie zu beschreiben und miteinander zu vergleichen •beherrschen die chemischen Grundlagen der wichtigsten biochemischen Reaktionen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3;4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 
+Lernziele und Kompetenzen: Die Studierenden •verstehen die Grundlagen der Biochemie, insb. die Grundprinzipien des Stoffwechsels in Zellen und die Regulationsprinzipien von Enzymen sowie deren Bedeutung für die Physiologie tierischer und pflanzlicher Organismen •können thermodynamische Gesetzmäßigkeiten auf biologische Systeme anwenden •kennen die Bausteine aller wesentlichen biologischen Makromoleküle und sind in der Lage, sie zu beschreiben und miteinander zu vergleichen •beherrschen die chemischen Grundlagen der wichtigsten biochemischen Reaktionen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3;4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192 
+
+Method of examination: schriftlich (90 Minuten) schriftlich (60 Minuten)
+Berechnung der Modulnote: schriftlich (50%) schriftlich (50%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •J.M. Berg, L. Stryer, J.L. Tymoczko: Biochemie (Spektrum Akademischer Verlag; Auflage: 7. Aufl.); •D.L. Voet et al: Lehrbuch der Biochemie (Wiley VCH); D. Nelson and Cox : Lehninger principles of biochemistry (Freeman; 5. Ed.. 2008); •T.A. Baker et al.:Watson: Molecular Biology of the Gene 7th ed. 2013) 
+
+, Modulbezeichnung 22050: Bioinformatik Bioinformatics5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Heinrich Sticht
+Inhalt: •Quellen für Sequenzdaten und Sequenzdatenbanken •Proteinähnlichkeit und Proteinevolution •Kriterien zur Bewertung der Proteinähnlichkeit •Methoden zum paarweisen Sequenzvergleich •Algorithmen für schnelle Datenbanksuchen •Sekundäre Datenbanken •Multiples Sequenzalignment •Grundlagen von Proteinstrukturen •Vergleich von Proteinstrukturen •Sekundärstrukturvorhersage •Vorhersage von Proteinstrukturen 6Lernziele und KompetenzenDie Studierenden •kennen und nachvollziehen elementare Fragestellungen und wesentliche Grundlagen der Bioinformatik •kennen die Standardwerkzeuge zum Durchführen von Sequenzvergleichen, zur Suche in Sequenzdatenbanken und zur Sekundärstrukturvorhersage •wählen geeignete Werkzeuge und Parameter zur Bewertung der entsprechenden Ergebnisse und zum Erkennen möglicher Fehler aus •kennen und bewerten elementare bioinformatische Verfahren zur Strukturvorhersage und Strukturanalyse •wenden die mathematischen und statistischen Grundlagen der Verfahren an •können geeignete bioinformatische Verfahren zur Bearbeitung molekularbiologischer Fragen selbständig auswählen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungenschriftlich 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 
+Lernziele und Kompetenzen: Die Studierenden •kennen und nachvollziehen elementare Fragestellungen und wesentliche Grundlagen der Bioinformatik •kennen die Standardwerkzeuge zum Durchführen von Sequenzvergleichen, zur Suche in Sequenzdatenbanken und zur Sekundärstrukturvorhersage •wählen geeignete Werkzeuge und Parameter zur Bewertung der entsprechenden Ergebnisse und zum Erkennen möglicher Fehler aus •kennen und bewerten elementare bioinformatische Verfahren zur Strukturvorhersage und Strukturanalyse •wenden die mathematischen und statistischen Grundlagen der Verfahren an •können geeignete bioinformatische Verfahren zur Bearbeitung molekularbiologischer Fragen selbständig auswählen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: schriftlich
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Literatur auf der (passwortgeschützten) Webseite http:// www.biochem.uni-erlangen.de/studium/index.php unter Downloads Bioinformatik" verfügbar 
+
+, Modulbezeichnung 63355: Bioprozesstechnik mit Hauptseminar Bioprocess engineering with advanced seminar5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Holger Hübner
+Inhalt: In der einsemestrigen Lehrveranstaltung werden ausgewählte typische chemische und biotechnologische Produktionsverfahren vorgestellt und im Sinne des integralen Charakters des Stoffverbundes in industriellen Produktionsverfahren behandelt. In den jeweiligen Abschnitten werden neben dem Produktionsverfahren, die dazugehörigen Rohstoffe und die Eigenschaften der Produkte charakterisiert und bewertet, sowie die für den Prozess wichtigen Grundreaktionen und Trennverfahren einschliesslich der dazugehörigen apparativen Lösungen vorgestellt. Dabei werden die fachlichen Zusammenhänge zu den Inhalten der Studienfächer des Grund- und Hauptstudiums aufgezeigt, die zur weiterführenden quanitiativen Beschreibung der Produktionsverfahren des CBI und des LSE erforderlich sind. 6Lernziele und KompetenzenDie Studierenden •kennen typische chemische und biotechnologische Produktionsverfahren und dazugehörige Rohstoffe. •charakterisieren und bewerten die Rohstoffe sowie die Eigenschaften der Produkte. •kennen die wichtigen chemischen Grundreaktionen und Trennverfahren einschließlich der dazugehörigen apparativen Lösungen. •erkennen die fachlichen Zusammenhänge zu den Inhalten anderer Studienfächer als Grundlage für weiterführende quantitative Beschreibung der Produktionsverfahren des CBI und des LSE. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenStudienleistung Klausur (120 Minuten) 11Berechnung der ModulnoteStudienleistung (0%) Klausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden •kennen typische chemische und biotechnologische Produktionsverfahren und dazugehörige Rohstoffe. •charakterisieren und bewerten die Rohstoffe sowie die Eigenschaften der Produkte. •kennen die wichtigen chemischen Grundreaktionen und Trennverfahren einschließlich der dazugehörigen apparativen Lösungen. •erkennen die fachlichen Zusammenhänge zu den Inhalten anderer Studienfächer als Grundlage für weiterführende quantitative Beschreibung der Produktionsverfahren des CBI und des LSE.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Studienleistung Klausur (120 Minuten)
+Berechnung der Modulnote: Studienleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 92121: Bioseparation 5 ECTS
+Lehrveranstaltungen: Übung : Übung zu Bioseparation (2 SWS ) - Vorlesung: Bioseparation (2 SWS ) 5 ECTS
+Lehrende: Prof. Dr.-Ing. Malte Kaspereit Malvina Supper  
+Modulverantwortliche/r: Prof. Dr.-Ing. Malte Kaspereit
+Inhalt: Das Modul gibt eine Einführung in die wesentlichen Trennverfahren zur Aufarbeitung biotechnologischer Produkte. Aufbauend auf einer kurzen Einführung in die thermodynamischen Grundlagen behandelt die Vorlesung zunächst die wichtigsten konventionellen thermischen Trennverfahren Destillation, Absorption, Extraktion und Kristallisation. Anschließend werden Verfahren erörtert, die speziell zur Aufarbeitung sensitiver Biomoleküle, wie z.B. rekombinanter Proteine, genutzt werden. Ein besonderer Schwerpunkt liegt dabei auf membranbasierten und chromatographischen Verfahren. Gliederung: 1. Einführung 2. Thermische Trennverfahren •Grundlagen •Destillation •Absorption •Extraktion •Kristallisation 3. Biotechnologische Aufarbeitungen •Biotechnologische Produktionsverfahren •Trennverfahren in der Biotechnologie •Zellaufschluss •Filtration •Extraktion •Membranverfahren •Sedimentationsverfahren •Chromatographie •Kristallisation und Fällung 6Lernziele und KompetenzenDie Studierenden: •kennen die wesentlichen thermischen und mechanischen Trennverfahren für chemische und biotechnologische Aufarbeitungen •verstehen die physikalischen Grundlagen dieser Verfahren •beherrschen die grundlegende Bilanzierung und Auslegung entsprechender Verfahren •beherrschen grundlegende experimentelle Techniken zur Untersuchung und Entwicklung biotechnologischer Trennverfahren 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Die Studierenden: •kennen die wesentlichen thermischen und mechanischen Trennverfahren für chemische und biotechnologische Aufarbeitungen •verstehen die physikalischen Grundlagen dieser Verfahren •beherrschen die grundlegende Bilanzierung und Auslegung entsprechender Verfahren •beherrschen grundlegende experimentelle Techniken zur Untersuchung und Entwicklung biotechnologischer Trennverfahren
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesungsbegleitendes Material. Weitere Literaturempfehlungen werden in der Vorlesung gegeben. 
+
+, Modulbezeichnung 63360: Biotechnologie 1: Grundlagen der Zellbiotechnologie Biotechnology 1: Introduction to cell bioengineering7,5 ECTS
+Lehrveranstaltungen: Übung : Praktische mikrobiologische Grundlagen für Biotechnologie 1 (3 SWS )- Vorlesung: Biotechnologie 1 (Grundlagen der Zellbiotechnologie) (2 SWS )5 ECTS Übung : Biotechnologie 1 Übung (Grundlagen der Zellbiotechnologie) (2 SWS )-
+Lehrende: Dr. Gerald Seidel Prof.Dr.Dr. Oliver Friedrich Prof. Dr. Kathrin Castiglione Justyna Luczak  
+Modulverantwortliche/r: Prof. Dr. Kathrin Castiglione
+Inhalt: •Einführung in die grundlegenden Methoden und Arbeitstechniken, die für die Entwicklung von zellulären Systemen für die industrielle (weiße) und medizinische (rote) Biotechnologie von Bedeutung sind. •*|Weiße Biotechnologie:|* Identifizierung von neuen Biokatalysatoren, heterologe Expressionssysteme und ihre Kultivierungsbedingungen, Protein Engineering (rationales Design, semi-rationale Ansätze, gerichtete Evolution), Cell Engineering •*|Rote Biotechnologie:|* Säuger-Zellen Aufbau und Verwendung unter biotechnologischen und diagnostischen Aspekten, stabile Zell-Linien und Einsatzgebiete, Immortalisierung von Zellen, Primärzellen und deren Gewinnung, Zellkulturmedien und physiologische Lösungen, Zellaufbewahrungstechniken (Kryokonseriverung) und Kultivierung von Säugerzellen, Zellkultur und Techniken zur Vermehrung, Splittung und Zellzählung, Sicherheitslabore und Arbeitsabläufe, Reporterzellen, Beispiele aus dem Bereich der Hochdurchsatz-Screening Technologien •Bearbeitung ausgewählter Probleme der Zellbiotechnologie (z.B. gerichtetes targeting von Zellsystemen für dauerhafte genomische oder transiente ribosomale Protein-Produktion; Design von Arbeitsabläufen für Zellkultur ausgewählter Zellsysteme, etc.) *Praktikum:* •Theorie: Mikroskop, Färbetechniken - Kultur- und Sterilisationsverfahren - Wachstum von Bakterien - Antibiotika - Transformation von Acinetobacter spec. - Identifizierung/ Diagnostik von Bakterien - Grundlegende Techniken der Molekularbiologie •Experimente: Beobachtung von Bakterien im Mikroskop, verschiedene Darstellungsverfahren - Nachweis von Keimen in der Luft - Erlernen verschiedener Techniken - 
+
+Lernziele und Kompetenzen: Die Studierenden •benennen die wichtigsten Geräte und Methoden für die gezielte Manipulation zellulärer Systeme in der weißen und roten Biotechnologie. •können einschätzen, welche Plattformorganismen für eine konkrete biotechnologische Stoffproduktion Vor- bzw. Nachteile bieten und welche Anforderungen diese Organismen haben. •kennen grundlegende Techniken der Molekularbiologie sowie verschiedene Darstellungsverfahren. •können einfache Versuche zur Isolierung von Antibiotika- Produzenten und Proteinen durchführen. •können Bakterien nachweisen und auf Resistenzen bestimmen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten) Praktikumsleistung
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: - Clark, David; Pazdernik, Nanette (2009) Molekulare Biotechnologie: Grundlagen und Anwendungen, Springer Verlag, ISBN 978-3-8274-2189-0 
+
+
+, Modulbezeichnung 92084: Biotechnologie 2: Bioreaktions- und Bioverfahrenstechnik Biotechnology 2: Bioreaction and bioprocess engineering5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Kathrin Castiglione
+Inhalt: Vorlesung: •Biotransformationen (Grundlagen, Enzymkinetik, Immobilisierung, ideale Reaktortypen für enzymatische Umsetzungen, Herstellung chiraler Verbindungen) •Fermentationen (Wachstumskinetik, Bilanzierung idealer Reaktoren, aerobe Prozesse, technische Anwendungen) •Bioreaktoren (Funktionskomponenten, Apparatebau) •Steriltechnik Übung: •Vertiefung der Inhalte aus der Vorlesung durch die Lösung von Übungsaufgaben und die Besprechung von beispielhaften Klausurfragen, die von den Studierenden selbst entwickelt worden sind. 6Lernziele und KompetenzenDie Studierenden •wenden die Reaktionskinetik auf biologische Prozesse an. •verstehen die Herstellungsverfahren von biologischen Produkten. •können die Bioreaktoren unter Berücksichtigung des Stoffübergangs und des Mischverhaltens auslegen. 7Voraussetzungen für die Teilnahme•Mikrobiologie •Biochemie I und II •Kenntnisse zur Bioreaktions- und Bioverfahrenstechnik 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •wenden die Reaktionskinetik auf biologische Prozesse an. •verstehen die Herstellungsverfahren von biologischen Produkten. •können die Bioreaktoren unter Berücksichtigung des Stoffübergangs und des Mischverhaltens auslegen.
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: •Bisswanger: Enzymkinetik •Chmiel: Bioprozesstechnik 
+
+, Modulbezeichnung 94072: Biotechnologie 3: Medizinische Biotechnologie Biotechnology 3: Medical biotechnology5 ECTS
+Lehrveranstaltungen: Vorlesung: Medizinische Biotechnologie (2 SWS ) 5 ECTS Übung : Übung zu Medizinische Biotechnologie (1 SWS )-
+Lehrende: Prof.Dr.Dr. Oliver Friedrich Dr. Martin Vielreicher PD Dr.habil. Sebastian Schürmann Michael Haug  
+Modulverantwortliche/r: Dr. Martin Vielreicher
+Inhalt: •Bioelektrizität: Grundlagen der elektrischen Informations- Generierung und Übertragung im Nervensystem höherer Organismen •Anwendungen und Technologien zur Bioelektrizität •Funktionsweise und biomedizinische Mechanismen der Sinnesorgane (Auge, Ohr) und technische Strategien zum Ersatz/Unterstützung der Sinnesfunktion •Immunsystem und Antikörper; Prozesstechnische Verfahren der Antikörperproduktion (polyklonal, Impfung, monoklonale AK, rekombinante AK, personalisierte AK) und Aufreinigung in der Biotechnologie •Grundzüge der Genetik und Gentechnik: Chimären, Klonierung, Transfektionen, transgene Tiere, knock-out Mäuse, Gensequenzierung •Stammzell-Technologien 6Lernziele und KompetenzenDie Studierenden •benennen die biophysikalischen und physikochemischen Grundlagen der Signalverarbeitung im Nervensystem und Sinnesorganen •beschreiben, klassifizieren und bewerten verschiedene Verfahren der Immuntechnologie in der Biomedizin •lösen spezifische Probleme der Klonierung in der Gentechnik für Forschung und Industrie durch Wahl der geeigneten Gentechnik-Verfahren •analysieren und bewerten verschiedene Techniken zur Plasmid-Aufreinigung 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 
+Lernziele und Kompetenzen: Die Studierenden •benennen die biophysikalischen und physikochemischen Grundlagen der Signalverarbeitung im Nervensystem und Sinnesorganen •beschreiben, klassifizieren und bewerten verschiedene Verfahren der Immuntechnologie in der Biomedizin •lösen spezifische Probleme der Klonierung in der Gentechnik für Forschung und Industrie durch Wahl der geeigneten Gentechnik-Verfahren •analysieren und bewerten verschiedene Techniken zur Plasmid-Aufreinigung
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%) 
+
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Wird in der Vorlesung bekannt gegeben 
+
+, Modulbezeichnung 63375: Biotechnologie 4: Metabolic Engineering Biotechnology 4: Metabolic engineering5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Sebastian Aljoscha Wahl
+Inhalt: •Experimentelle Ansätze zur Analyse biologischer Systeme mit Omics"-Technologien •Aktuelle Methoden im Bereich des Metabolic Engineering •Möglichkeiten und Herausforderungen der Analyse und Design von Stoffwechselwegen mit aktuellen Beispielen •Grundlagen der mathematischen Modellbildung für zelluläre Systeme (Stöchiometrische Netzwerke, Thermodynamik, Resource allocation, Kinetik) •Modellanalyse (Sensitivitätsanalyse, Parameterschätzung) •Ansätze aus der Datenanalyse für biotechnologische Systeme 6Lernziele und KompetenzenDie Studierenden •kennen grundlegende Arbeitstechniken für die umfassende Analyse und den gezielten Eingriff in den Stoffwechsel von Organismen. •haben ein Verständnis für die Möglichkeiten und Herausforderungen bei der systematischen gentechnischen Manipulation von Organismen. •können Bilanzgleichungen für komplexe zelluläre Netzwerke erstellen und analysieren. •können experimentelle Ergebnisse anhand von Modellen einordnen und interpretieren. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •kennen grundlegende Arbeitstechniken für die umfassende Analyse und den gezielten Eingriff in den Stoffwechsel von Organismen. •haben ein Verständnis für die Möglichkeiten und Herausforderungen bei der systematischen gentechnischen Manipulation von Organismen. •können Bilanzgleichungen für komplexe zelluläre Netzwerke erstellen und analysieren. •können experimentelle Ergebnisse anhand von Modellen einordnen und interpretieren.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: •Sahm, H.; Antranikian, G.; Stahmann, K.-P.; Takors, R. (Hrsg.), Industrielle Mikrobiologie Springer Spektrum Verlag, 2012, ISBN 978-3-8274-3039-7 •Kremling A., Systems Biology: Mathematical Modeling and Model Analysis. Chapman and Hall/CRC, 2013, ISBN 978146656789 •Orth, J., Thiele, I. & Palsson, B. What is flux balance analysis?. Nat Biotechnol 28, 245248 (2010). https://doi- org.tudelft.idm.oclc.org/10.1038/nbt.1614 
+
+, Modulbezeichnung 94101: Computeranwendungen in der Verfahrenstechnik 1 Scientific computing in engineering 15 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Thorsten Pöschel
+Inhalt: Modul #1 Einführung in MATLAB: •1.1. MATLAB 1 (Variablen, Vektoren) •1.2. MATLAB 2 (Funktionen) •1.3. MATLAB 3 (Kontrollstrukturen) •1.4. MATLAB 4 (Ein- und Ausgabe) •1.5. MATLAB 5 (Grafik, Datentypen) Modul #2 Grundlegende numerische Verfahren: •2.1. Nullstellenbestimmung •2.2. Regression •2.3. Integration •2.4. Gewöhnliche Differentialgleichungen •2.5. Partielle Differentialgleichungen 6Lernziele und KompetenzenDie Studierenden •können computergestützt in Wissenschaft und Technik arbeiten •rechnen und programmieren wissenschaftlich in MATLAB •implementieren numerische Verfahren 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 75 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise Vorlesungsskript 
+Lernziele und Kompetenzen: Die Studierenden •können computergestützt in Wissenschaft und Technik arbeiten •rechnen und programmieren wissenschaftlich in MATLAB •implementieren numerische Verfahren
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesungsskript 
+
+, Modulbezeichnung 66040: Experimentalphysik Experimental physics7,5 ECTS
+Lehrveranstaltungen: Übung : Übungen zur Experimentalphysik für Energietechnik (1 SWS )- Vorlesung: Experimentalphysik für CBI, LSE, CEN, Energietechnik (4 SWS )7,5 ECTS Übung : Übungen zur Experimentalphysik für Chemical Engineering CEN (1 SWS )- Übung : Übungen zur Experimentalphysik für Chemie- und Bio-Ing. (1 SWS )- Übung : Übungen zur Experimentalphysik für Life Science Engineering (1 SWS )-
+Lehrende: Prof. Dr. Reinhard Neder  
+Modulverantwortliche/r: Prof. Dr. Reinhard Neder
+Inhalt: •Mechanik: Bewegungsgleichungen im 1D-, 3D, Kreisbewegungen, Newton'sche Axiome, Kräfte, Potentielle Energie, Kinetische Energie, Energieerhaltung, Impuls, Stöße, Drehbewegungen, Drehmoment, Drehimpuls, Erhaltungssätze •Fluide: Dichte, Druck, Auftrieb; Fluide in Bewegung: Bernoulligleichung, reale Fluide, Viskosität •Schwingungen: Harmonische Schwingungen, Pendel, gedämpfte Schwingungen •Wellen: Wellengleichung, Geschwindigkeit, Interferenz •Optik: Grundlegende Strahlenoptik, Linsen •Wellenoptik: Beugung am Spalt, Beugung am Doppelspalt •Elektrizität: Elektrostatik: Coulombkraft, El. Feld, Kondensatoren, einfache Stromkreise; Magnetismus: Induktion, Wechselstromkreise 6Lernziele und KompetenzenDie Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungenschriftlich (120 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 
+Lernziele und Kompetenzen: Die Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: schriftlich (120 Minuten)
+Berechnung der Modulnote: schriftlich (100%) 
+
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: D. Halliday, R. Resnick: Halliday Physik, Bachelor Edition, Wiley-VCH P. A. Tipler, G. Mosca: Physik, Spektrum Akad. Verlag E. Hering, R. Martin, M. Stohrer: Physik für Ingenieure, Springer D. Meschede: Gehrtsen Physik, Springer 
+
+, Modulbezeichnung 63370: Grenzflächen in der Biotechnologie Process engineering interfaces in biotechnology5 ECTS
+Lehrveranstaltungen: Übung : Übung Grenzflächen in der Biotechnologie (3 SWS )- Vorlesung: Grenzflächen in der Biotechnologie (2 SWS )-
+Lehrende: Prof. Dr. Nicolas Vogel Sophie Mayer  
+Modulverantwortliche/r: Prof. Dr. Nicolas Vogel
+Inhalt: Einführung in Bedeutung von Grenzflächen in Natur und Biotechnologie Molekulare Wechselwirkungen: Wie wechselwirken einzelne Moleküle Mikroskopische Wechselwirkungen: Wie verhindert man Aggregation von Proteinen und kolloidalen Systemen? Makroskopische Wechselwirkungen: Wie erklärt man Haftkräfte auf Basis der molekularen Wechselwirkungen Flüssige Grenzflächen: Wie entsteht Oberflächenspannung? Was ist der Kontaktwinkel? Welchen Einfluss haben Tenside und Proteine auf Flüssigkeiten, Emulsionen und Schäume? Adsorption an Oberflächen: Warum adsorbieren Moleküle an Grenzflächen? Adsorption und Grenzflächenüberschuss Messmethoden und Adsorptionsisothermen Einfluss von Porengeometrie, Porengröße, Kontaktwinkel und Krümmung auf Adsorption- und Phasenverhalten Adsorption von Tensiden, Proteinen an Oberflächen und in porösen Materialien sowie ausgewählte Anwendungen (z.B. Trennverfahren) 6Lernziele und KompetenzenDie Studierenden: kennen grundlegende, verschiedene molekulare Wechselwirkungen in Materie verfügen über Grundkenntnisse zur physikalischen und chemischen Beschreibung von Grenzflächen verbinden molekulare und makroskopische Vorstellungen von Wechselwirkungen verstehen die Unterschiede zwischen Oberflächen- und Volumenmolekülen erklären Benetzungsphenomene ausgehend von molekularen Wechselwirkungen und Substratgeometrie verfügen über Grundkenntnisse von Adsorptionsprozessen an Oberflächen und porösen Materialien erklären entsprechende Ansätze und wenden diese auf Fragen der Biotechnologie an 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Die Studierenden: kennen grundlegende, verschiedene molekulare Wechselwirkungen in Materie verfügen über Grundkenntnisse zur physikalischen und chemischen Beschreibung von Grenzflächen verbinden molekulare und makroskopische Vorstellungen von Wechselwirkungen verstehen die Unterschiede zwischen Oberflächen- und Volumenmolekülen erklären Benetzungsphenomene ausgehend von molekularen Wechselwirkungen und Substratgeometrie verfügen über Grundkenntnisse von Adsorptionsprozessen an Oberflächen und porösen Materialien erklären entsprechende Ansätze und wenden diese auf Fragen der Biotechnologie an
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Lehrbuch: Butt, H.-J., Graf, K.; Kappl, M.; Physics and Chemistry of Interfaces, Wiley-VCH, Berlin 2013, ISBN 978-3-527-41216-7 Lehrbuch: Israelachvili J.; Intermolecular and Surface Forces, Rev. 3rd Edition, Academic Press, ISBN: 9780123919274 Lehrbuch: D. H. Everett : Basic Principles of Colloid Science, 1998, RCC, ISBN: 978-1-84755-020-0 
+
+, Modulbezeichnung 92040: Konstruktionslehre Machine design5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Wolfgang Wirth
+Lernziele und Kompetenzen: Die Studierenden: •verfügen über einen Überblick über wichtige Konstruktionselemente und deren Berechnungsverfahren •verstehen die Funktionsweise und Anwendungen verschiedener Konstruktionselemente (Verbindungselemente, Federn, Wellen, Welle-Nabe-Verbindungen, Lager) •können ausgewählte Maschinenelemente beanspruchungsgerecht dimensionieren und überprüfen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: •Klein,M.: Einführung in die DIN-Normen, 14. Auflage, Beuth- Verlag, Berlin, 2008 •DUBBEL - Taschenbuch für den Maschinenbau, 25. Auflage, Springer, Berlin, 2018 •Skript zur Vorlesung 
+
+, Modulbezeichnung 67721: Mathematik für LSE 1 Mathematics for LSE 17,5 ECTS
+Lehrveranstaltungen: Vorlesung: Mathematik für Ingenieure D1: CBI, CEN, LSE, MWT, NT (4 SWS )7,5 ECTS Übung : Übungen zur Mathematik für Ingenieure D1: CBI, CEN, LSE (2 SWS )-
+Lehrende: Prof. Dr. Wolfgang Achtziger David Kanzler  
+Modulverantwortliche/r: Dr. Wigand Rathmann
+Inhalt: *Grundlagen* Aussagenlogik, Mengen, Relationen, Abbildungen *Zahlensysteme* natürliche, ganze, rationale und reelle Zahlen, komplexe Zahlen *Vektorräume* Grundlagen, Lineare Abhängigkeit, Spann, Basis, Dimension, euklidische Vektor- und Untervektorräume, affine Räume *Matrizen, Lineare Abbildungen, Lineare Gleichungssysteme* Matrixalgebra, Lösungsstruktur linearer Gleichungssysteme, Gauß-Algorithmus, inverse Matrizen, Matrixtypen, lineare Abbildungen, Determinanten, Kern und Bild, Eigenwerte und Eigenvektoren, Basis, Ausgleichsrechnung *Grundlagen Analysis einer Veränderlichen* Grenzwert, Stetigkeit, elementare Funktionen, Umkehrfunktionen 6Lernziele und KompetenzenDie Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 
+Lernziele und Kompetenzen: Die Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1 
+
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 Fried, Mathematik für Ingenieure I für Dummies I, Wiley A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson v. Finckenstein et.al: Arbeitsbuch Mathematik fuer Ingenieure: Band I Analysis und Lineare Algebra. Teubner-Verlag 2006, ISBN 9783835100343 Meyberg, K., Vachenauer, P.: Höhere Mathematik 1. 6. Auflage, Sprinbger-Verlag, Berlin, 2001 
+
+, Modulbezeichnung 67731: Mathematik für LSE 2 Mathematics for LSE 27,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Wigand Rathmann
+Inhalt: *Differentialrechnung einer Veränderlichen* Ableitung mit Rechenregeln, Mittelwertsätze, LHospital, Taylor-Formel, Kurvendiskussion *Integralrechnung einer Veränderlichen* Riemann-Integral, Hauptsatz der Infinitesimalrechnung, Mittelwertsätze, Partialbruchzerlegung, uneigentliche Integration *Folgen und Reihen* reelle und komplexe Zahlenfolgen, Konvergenzbegriff und - sätze, Folgen und Reihen von Funktionen, gleichmäßige Konvergenz, Potenzreihen, iterative Lösung nichtlinearer Gleichungen *Grundlagen Analysis mehrerer Veränderlicher* Grenzwert, Stetigkeit, Differentiation, partielle Ableitungen, totale Ableitung, allgemeine Taylor-Formel 6Lernziele und KompetenzenDie Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungenschriftlich (90 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Sommersemester 
+Lernziele und Kompetenzen: Die Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried, Mathematik für Ingenieure I für Dummies und Mathematik für Ingenieure II für Dummies, Wiley W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 K. Finck von Finckenstein, J. Lehn et. al., Arbeitsbuch für Ingenieure, Band I, Teubner A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson 
+
+, Modulbezeichnung 67741: Mathematik für LSE 3 Mathematics for LSE 37,5 ECTS
+Lehrveranstaltungen: Vorlesung: Mathematik für Ingenieure D3: CBI, CEN, LSE, MWT, NT (4 SWS )7,5 ECTS Übung : Übungen zur Mathematik für Ingenieure D3: CBI, CEN, LSE ( SWS )-
+Lehrende:  
+Modulverantwortliche/r: Dr. Wigand Rathmann
+Inhalt: *Anwendung der Differentialrechnung im R^n^ * Extremwertaufgaben, Extremwertaufgaben mit Nebenbedingungen, Lagrange-Multiplikatoren, Theorem über implizite Funktionen, Anwendungsbeispiele *Vektoranalysis* Potentiale, Volumen-, Oberflächen- und Kurvenintegrale, Parametrisierung, Transformationssatz, Integralsätze, Differentialoperatoren *Gewöhnliche Differentialgleichungen* Explizite Lösungsmethoden, Existenz- und Eindeutungssätze, Lineare Differentialgleichungen, Systeme von Differentialgleichungen, Eigen- und Hauptwertaufgaben, Fundamentalsysteme, Stabilität 6Lernziele und KompetenzenDie Studierenden •klassifizieren verschiedene Extremwertaufgaben anhand der Nebenbedingungen und kennen die grundlegende Existenzaussagen •erschließen den Unterschied zur eindimensionalen Kurvendiskussion, •wenden die verschiedene Extremwertaufgaben bei Funktionen mehrerer Veränderlicher mit und ohne Nebenbedingungen •berechnen Integrale über mehrdimensionale Bereiche •beobachten Zusammenhänge zwischen Volumen-, Oberflächen- und Kurvenintegralen •ermitteln Volumen-, Oberflächen- und Kurvenintegrale •wenden grundlegende Differentialoperatoren an. •klassifizieren gewöhnliche Differentialgleichungen nach Typen •wenden elementare Lösungsmethoden auf Anfangswertprobleme bei gewöhnlichen Differentialgleichungen an •wenden allgemeine Existenz- und Eindeutigkeitsresultate an •erschließen den Zusammenhang zwischen Analysis und linearer Algebra •wenden die erlernten mathematischen Methoden auf die Ingenieurswissenschaften an. 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Die Studierenden •klassifizieren verschiedene Extremwertaufgaben anhand der Nebenbedingungen und kennen die grundlegende Existenzaussagen •erschließen den Unterschied zur eindimensionalen Kurvendiskussion, •wenden die verschiedene Extremwertaufgaben bei Funktionen mehrerer Veränderlicher mit und ohne Nebenbedingungen •berechnen Integrale über mehrdimensionale Bereiche •beobachten Zusammenhänge zwischen Volumen-, Oberflächen- und Kurvenintegralen •ermitteln Volumen-, Oberflächen- und Kurvenintegrale •wenden grundlegende Differentialoperatoren an. •klassifizieren gewöhnliche Differentialgleichungen nach Typen •wenden elementare Lösungsmethoden auf Anfangswertprobleme bei gewöhnlichen Differentialgleichungen an •wenden allgemeine Existenz- und Eindeutigkeitsresultate an •erschließen den Zusammenhang zwischen Analysis und linearer Algebra •wenden die erlernten mathematischen Methoden auf die Ingenieurswissenschaften an.
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried: | Mathematik für Ingenieure II für Dummies|, Wiley A. Hoffmann, B. Marx, W. Vogt: |Mathematik für Ingenieure 1,2| Pearson K. Finck von Finckenstein, J. Lehn et. al.: |Arbeitsbuch für Ingenieure, Band I und II|, Teubner H. Heuser: |Gewöhnliche Differentialgleichungen| Teubner 
+
+, Modulbezeichnung 92091: Mechanische Verfahrenstechnik Mechanical process engineering5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Mechanische Verfahrenstechnik (4 SWS )5 ECTS Übung : Übung Mechanischen Verfahrenstechnik (2 SWS )-
+Lehrende: Prof. Dr.-Ing. Wolfgang Peukert Florentin Tischer Nabi Traore  
+Modulverantwortliche/r: Prof. Dr.-Ing. Wolfgang Peukert
+Inhalt: Im Rahmen des Moduls werden die wichtigsten Grundlagen disperser Partikelsysteme behandelt. Ausgehend von der Kennzeichnung disperser Systeme (Partikelgröße und Partikelform) wird zunächst die Bewegung einzelner Partikeln in Fluiden behandelt. Dann werden Partikelgrößenverteilungen eingeführt, Grundlagen des Trennens und des Mischens behandelt. Mit Hilfe der Dimensionsanalyse wird auch das Mischen und Rühren in Flüssigkeiten angeschnitten. Als Beispiele für Wechselwirkungen in dispersen Systemen werden die Benetzung als Grundlagen der Entfeuchtung sowie Haftkräfte als Grundlage für die Agglomeration behandelt. Als Beispiel für die Partikelproduktion wird das Zerkleinern behandelt. Die Dynamik disperser Systeme wird durch Populationsbilanzen beschrieben. Die Kennzeichnung von Packungen sowie deren Durchströmung werden anschliessend behandelt. Wirbelschicht, Förderung und eine Einführung in das Fliessen von Schüttgütern schliessen die Vorlesung ab. 6Lernziele und KompetenzenDie Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren 
+Lernziele und Kompetenzen: Die Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Peukert: Skriptum zur Vorlesung H. Rumpf: Particle Technology Stiess: Mechanische Verfahrenstechnik Schubert: Handbuch der Mechanischen Verfahrenstechnik 
+
+, Modulbezeichnung 62863: Mikrobiologie Microbiology5 ECTS
+Lehrveranstaltungen: Vorlesung: Allgemeine Mikrobiologie für Naturwissenschaftler und Techniker (3 SWS )-
+Lehrende: Prof. Dr. Andreas Burkovski  
+Modulverantwortliche/r: Prof. Dr. Andreas Burkovski
+Inhalt: Morphologie, Anatomie der prokaryotischen Zelle, Bakteriophagen, bakterielle Transfersysteme, Taxonomie der Prokaryoten, Stoffwechselphysiologie (aerob, anaerob, chemotroph, phototroph), Anwendungsbeispiele aus der Biotechnologie. 6Lernziele und KompetenzenDie Studierenden •verstehen die Grundlagen der Mikrobiologie als Basis für die Kernfächer der Bioverfahrenstechnik, insbesondere bezüglich der Morphologie, Anatomie und Physiologie sowie der Herstellung rekombinanter Proteine als Therapeutika •kennen die wichtigsten pathogenen Bakterien •können die Unterschiede zwischen den prokaryotischen und eukaryotischen Zellen erklären •kennen die Bedeutung von Mikroorganismen und deren Stoffwechsel für die biotechnologische Anwendungen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise•Lehrbuch: Brock Mikrobiologie, M. T. Madigan & J. M. Martinko, aktuelle Ausgabe (z.Zt. 2009) •Lehrbuch: Allgemeine Mikrobiologie, G. Fuchs, aktuelle Ausgabe (z.Zt. 2007) 
+Lernziele und Kompetenzen: Die Studierenden •verstehen die Grundlagen der Mikrobiologie als Basis für die Kernfächer der Bioverfahrenstechnik, insbesondere bezüglich der Morphologie, Anatomie und Physiologie sowie der Herstellung rekombinanter Proteine als Therapeutika •kennen die wichtigsten pathogenen Bakterien •können die Unterschiede zwischen den prokaryotischen und eukaryotischen Zellen erklären •kennen die Bedeutung von Mikroorganismen und deren Stoffwechsel für die biotechnologische Anwendungen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Lehrbuch: Brock Mikrobiologie, M. T. Madigan & J. M. Martinko, aktuelle Ausgabe (z.Zt. 2009) •Lehrbuch: Allgemeine Mikrobiologie, G. Fuchs, aktuelle Ausgabe (z.Zt. 2007) 
+
+, Modulbezeichnung 63491: Organische Chemie Organic Chemistry7,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Seminar zum organisch-chemischen Praktikum für Chemieingenieure (1 SWS )- Praktikum : Organisch-chemisches Praktikum für Chemieingenieure (3 SWS )- Vorlesung: Organische Chemie (4 SWS ) -
+Lehrende: Prof. Dr. Andriy Mokhir  
+Modulverantwortliche/r: Prof. Dr. Andriy Mokhir
+Inhalt: (1) Grundlagen der Organischen Chemie: Die chemische Bindung, Schreibweisen in der Organischen Chemie, funktionelle Gruppen, IUPAC-Nomenklatur (2) Alkane: Radikalreaktionen, Stereochemie, Nukleophile aliphatische Substitution (SN-Reaktionen) (3) Alkene: Eliminierungsreaktionen (E), Additionsreaktionen (4) Alkine: Eigenschaften, Darstellung, Reaktionen (5) Carbonylverbindungen: Eigenschaften, Synthese, Reaktionen, C-C- Knüpfungsreaktionen (6) Carbonsäuren und ihre Derivate: Eigenschaften, Darstellung, Synthese von Derivaten, Reaktionen (7) Aromaten: Aromatizität, elektrophile und nukleophile aromatische Substitution, Reaktionen von Diazoniumsalzen (8) Chemie der Farbstoffe: Grundlagen, Azofarbstoffe, Triphenylmethanfarbstoffe (9) Waschmittel: Grundlagen, Beispiele (10) Polymere: Grundlagen, Beispiele 6Lernziele und KompetenzenDie Studierenden: beherrschen die Grundlagen der Organischen Chemie; haben die Grundkenntnisse über die wichtigsten organischen Stoffklassen; kennen die wichtigsten Reaktionen der Stoffumwandlungen und verstehen deren Mechanismen; besitzen die Fähigkeiten die Reaktivität der organischen Substanzen einzuschätzen; können die einfachsten organischen Reaktionen sicher, nachhaltig und umweltfreundlich durchführen und deren Produkte isolieren und charakterisieren. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenPraktikumsleistung schriftlich (180 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden: beherrschen die Grundlagen der Organischen Chemie; haben die Grundkenntnisse über die wichtigsten organischen Stoffklassen; kennen die wichtigsten Reaktionen der Stoffumwandlungen und verstehen deren Mechanismen; besitzen die Fähigkeiten die Reaktivität der organischen Substanzen einzuschätzen; können die einfachsten organischen Reaktionen sicher, nachhaltig und umweltfreundlich durchführen und deren Produkte isolieren und charakterisieren.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Praktikumsleistung schriftlich (180 Minuten) 
+
+Berechnung der Modulnote: Praktikumsleistung (0%) schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: K. P. C. Vollhardt, N. E. Schore Organische Chemie, Wiley-VCH, Weinheim 
+
+, Modulbezeichnung 62493: Physikalische Chemie Physical chemistry5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Jörg Libuda
+Inhalt: (1) Chemische Reaktionskinetik: Grundlagen der chemischen Kinetik; Experimentelle Methoden der Reaktionskinetik; Kinetik komplexer Reaktionssysteme; Theorie der Kinetik; Katalyse. (2) Aufbau der Materie: Grenzen der klassischen Mechanik u. Elektrodynamik; Einführung in die Quantenmechanik; einfache quantenmechanische Modelle; Aufbau der Atome; chemische Bindung u. Aufbau der Moleküle. (3) Spektroskopie: Wechselwirkung von Strahlung und Materie; Rotations- und Schwingungsspektroskopie; elektronische Spektroskopien. 6Lernziele und KompetenzenDie Studierenden •interpretieren die Grundprinzipien der chemischen Thermodynamik •fassen die Grundlagen die chemischen Reaktionskinetik zusammen und geben die theoretischen Hintergründe der Kinetik komplexer Systeme wieder •kennen die Grenzen der klassischen Physik und beschreiben einfache quantenmechanische Modelle •erläutern die Grundlagen des Aufbaus der Materie und der Wechselwirkung zwischen Strahlung und Materie 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungenschriftlich (90 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 75 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 LiteraturhinweiseG. Wedler, H.-J. Freund: Lehrbuch der Physikalischen Chemie, Wiley- VCH 
+Lernziele und Kompetenzen: Die Studierenden •interpretieren die Grundprinzipien der chemischen Thermodynamik •fassen die Grundlagen die chemischen Reaktionskinetik zusammen und geben die theoretischen Hintergründe der Kinetik komplexer Systeme wieder •kennen die Grenzen der klassischen Physik und beschreiben einfache quantenmechanische Modelle •erläutern die Grundlagen des Aufbaus der Materie und der Wechselwirkung zwischen Strahlung und Materie
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: G. Wedler, H.-J. Freund: Lehrbuch der Physikalischen Chemie, Wiley- VCH 
+
+
+, Modulbezeichnung 94191: Praktikum Life Science Engineering 1 Laboratory course: Life science engineering 15 ECTS
+Lehrveranstaltungen: Praktikum : Verfahrenstechnisches Praktikum für CBI, CEN und LSE (0 SWS )5 ECTS
+Lehrende: Dr.-Ing. Marcus Fischer  
+Modulverantwortliche/r: Dr.-Ing. Marcus Fischer
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und KompetenzenZiel des Praktikums ist, die bisher im Studium erworbenen Fach- und Methodenkompetenzen in der Laborpraxis umzusetzen. Die Studierenden wenden •die erworbenen theoretischen Grundlagen auf verfahrenstechnische, biologische und medizinische Fragenstellungen an, •kennen verfahrenstechnische, biologische und medizinische Grundreaktionen, Prozesse und apparative Lösungen, •führen wissenschaftliche Experimente selbständig durch, •protokollieren, analysieren und diskutieren experimentelle Ergebnisse kritisch. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenInformationen und Anmeldung: https://www.studon.fau.de/ cat1959349.html 11Berechnung der Modulnote 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 75 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Ziel des Praktikums ist, die bisher im Studium erworbenen Fach- und Methodenkompetenzen in der Laborpraxis umzusetzen. Die Studierenden wenden •die erworbenen theoretischen Grundlagen auf verfahrenstechnische, biologische und medizinische Fragenstellungen an, •kennen verfahrenstechnische, biologische und medizinische Grundreaktionen, Prozesse und apparative Lösungen, •führen wissenschaftliche Experimente selbständig durch, •protokollieren, analysieren und diskutieren experimentelle Ergebnisse kritisch.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Berechnung der Modulnote: 1
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 94192: Praktikum Life Science Engineering 2 Laboratory course: Life science engineering 25 ECTS
+Lehrveranstaltungen: Praktikum : Verfahrenstechnisches Praktikum für CBI, CEN und LSE (0 SWS, WiSe 2023 )5 ECTS
+Lehrende: Dr.-Ing. Marcus Fischer  
+Modulverantwortliche/r: Dr.-Ing. Marcus Fischer
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenInformationen und Anmeldung: https://www.studon.fau.de/ cat1959349.html 11Berechnung der Modulnote 12Turnus des Angebotskeine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Berechnung der Modulnote: 1
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 92050: Technisches Zeichnen Technical drawing2,5 ECTS
+Lehrveranstaltungen: Vorlesung: Technisches Zeichnen (3 SWS ) 2,5 ECTS
+Lehrende: Dr.-Ing. Wolfgang Wirth  
+Modulverantwortliche/r: Dr.-Ing. Wolfgang Wirth
+Inhalt: Im Rahmen des Moduls werden die geeignete Darstellung und normgerechte Ausführung von Konstruktionszeichnungen vorzugsweise aus den Bereichen Maschinen- und Anlagenbau behandelt. Schwerpunkte: •Fertigungsgerechte Konstruktion •Bemaßungsregeln •Kennzeichnung von Werkstoffen und Oberflächengüten •Berechnung und Angabe von Toleranzen - Darstellung von Normteilen •Diagramme •Fließbilder •CAD 6Lernziele und KompetenzenDie Studierenden: •verfügen über grundlegende Kenntnisse der normgerechten Darstellung von Bauteilen und Baugruppen in Konstruktionszeichnungen •sind mit Zeichnungslesen vertraut •sind fähig, normgerechte technische Zeichnungen selbständig anzufertigen •erkennen Maschinenelemente in technischen Zeichnungen •sind in der Lage, Fließbildern unterschiedlichen Detaillierungsgrades zu verstehen und damit Prozesse der Verfahrenstechnik zu beschreiben 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungen 11Berechnung der Modulnote 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 30 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden: •verfügen über grundlegende Kenntnisse der normgerechten Darstellung von Bauteilen und Baugruppen in Konstruktionszeichnungen •sind mit Zeichnungslesen vertraut •sind fähig, normgerechte technische Zeichnungen selbständig anzufertigen •erkennen Maschinenelemente in technischen Zeichnungen •sind in der Lage, Fließbildern unterschiedlichen Detaillierungsgrades zu verstehen und damit Prozesse der Verfahrenstechnik zu beschreiben
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: 1
+Berechnung der Modulnote: 1
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: • Labisch, S.; Wählisch, G.: Technisches Zeichnen, 6. Auflage, Springer-Fachmedien, Wiesbaden, 2020 • Geschke, H. W., Helmetag, M., Wehr, W.: Böttcher Forberg Technisches Zeichnen, 26. Auflage, B.G. Teubner Stuttgart, 2014 • Hoischen: Technisches Zeichnen, 30. Auflage, W. Girardet, Essen 2005 • Klein,M.: Einführung in die DIN-Normen, 14. Auflage, Beuth- Verlag, Berlin, 2008 • Skript zur Vorlesung 
+
+, Modulbezeichnung 92076: Thermodynamik und Wärmeübertragung 5 ECTS
+Lehrveranstaltungen: Übung : Übung zu Thermodynamik und Wärmeübertragung (2 SWS )- Vorlesung: Thermodynamik und Wärmeübertragung (3 SWS )-
+Lehrende: Dr.-Ing. Florian Bauer Dr.-Ing. Franz Huber  
+Modulverantwortliche/r: Dr.-Ing. Franz Huber Prof. Dr.-Ing. Stefan Will
+Inhalt: •Grundbegriffe der Technischen Thermodynamik •Ideale Gase und deren Zustandsgleichungen •1. und 2. Hauptsatz der Thermodynamik •Thermodynamische Eigenschaften reiner Stoffe •Ausgewählte Kreisprozesse •Grundlagen der Wärme- und Stoffübertragung •Wärmeleitung in ruhenden Körpern •Wärmeübertragung in einphasigen Strömungen durch konvektiven Wärmeübergang •Wärmeübertragung durch Strahlung 6Lernziele und KompetenzenDie Studierenden: •kennen die Begriffe und Grundlagen der Technischen Thermodynamik und der Wärmeübertragung •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bewerten diese aufgrund charakteristischer Kennzahlen •verstehen die Mechanismen der Wärme- und Stoffübertragung und können ihre Bedeutung und ihren Einzelbeitrag bei technischen Problemstellungen ermessen •können die Beiträge der verschiedenen Wärmeübertragungsmechanismen (Wärmeleitung, Konvektion, Strahlung) quantifizieren und einfache Wärmeübertragungsprobleme lösen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden: •kennen die Begriffe und Grundlagen der Technischen Thermodynamik und der Wärmeübertragung •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bewerten diese aufgrund charakteristischer Kennzahlen •verstehen die Mechanismen der Wärme- und Stoffübertragung und können ihre Bedeutung und ihren Einzelbeitrag bei technischen Problemstellungen ermessen •können die Beiträge der verschiedenen Wärmeübertragungsmechanismen (Wärmeleitung, Konvektion, Strahlung) quantifizieren und einfache Wärmeübertragungsprobleme lösen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten) 
+
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript •C. Cerbe, G. Wilhelms, Technische Thermodynamik •K. Langeheinecke, P. Jany, G. Thieleke, et al., Thermodynamik für Ingenieure •H. D. Baehr, K. Stephan, Wärme- und Stoffübertragung 
+
+, Modulbezeichnung 63365: Thermofluiddynamik der Biotechnologie Thermo-fluid dynamics in biotechnology7,5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Thomas Manfred Koller
+Inhalt: •Bedeutung der Thermofluiddynamik in der Biotechnologie •Grundlagen der Thermodynamik, insbesondere hinsichtlich der Einteilung von Zustands- und Prozessgrößen, dem Zustandsverhalten reiner Fluide, dem ersten und zweiten Hauptsatz der Thermodynamik sowie der Gemischthermodynamik •Grundlagen der Strömungsmechanik, insbesondere hinsichtlich Strömungsformen, Fluidstatik und Fluiddynamik sowie den Grundgleichungen der Strömungsmechanik einschließlich des Transports von Impuls •Grundlagen der Wärme- und Stoffübertragung, insbesondere hinsichtlich der Mechanismen zum Transport von Energie und Masse sowie deren zugrundeliegenden Gleichungen •Analyse und Auslegung von biologischen und bioverfahrenstechnischen Prozessen und Systemen auf verschiedenen Skalen vom menschlichen Kreislaufsystem und dessen Darstellung über Ersatzsysteme über Organsysteme und multizellulare Systeme bis hin zum Bioreaktor unter Anwendung der Thermofluiddynamik •Aufstellung von skalenübergreifenden Analogien bezüglich Kategorien wie Reaktor, Kreislauf, Wärmeübertrager und Stoffübertrager anhand von biotechnologischen Beispielen in der Verfahrenstechnik und am bzw. im Menschen •Berücksichtigung von entsprechender Messtechnik und Sensorik zur Kontrolle bzw. Überwachung von biologischen und bioverfahrenstechnischen Prozessen und Systemen innerhalb eines thermofluiddynamischen Kontextes 6Lernziele und KompetenzenDie Studierenden •sind mit der Bedeutung der Thermofluiddynamik in der Biotechnologie vertraut •kennen die Grundlagen der Thermodynamik, der Strömungsmechanik sowie der Wärme- und Stoffübertragung •sind mit der Analyse und Auslegung von biologischen und bioverfahrenstechnischen Prozessen und Systemen auf verschiedenen Skalen unter Anwendung der Thermofluiddynamik vertraut •können thermofluiddynamische Methodik für die Bilanzierung von biotechnologischen Systemen und Prozessen hinsichtlich Masse, Energie und Impuls anwenden 
+Lernziele und Kompetenzen: Die Studierenden •sind mit der Bedeutung der Thermofluiddynamik in der Biotechnologie vertraut •kennen die Grundlagen der Thermodynamik, der Strömungsmechanik sowie der Wärme- und Stoffübertragung •sind mit der Analyse und Auslegung von biologischen und bioverfahrenstechnischen Prozessen und Systemen auf verschiedenen Skalen unter Anwendung der Thermofluiddynamik vertraut •können thermofluiddynamische Methodik für die Bilanzierung von biotechnologischen Systemen und Prozessen hinsichtlich Masse, Energie und Impuls anwenden 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript (Folien und Notizen) •Y. A. Çengel, R. H. Turner, J. M. Cimbala, Fundamentals of Thermal-Fluid Sciences •H. D. Baehr, S. Kabelac, Thermodynamik •H. D. Baehr, K. Stephan, Wärme- und Stoffübertragung •F. Durst, Grundlagen der Strömungsmechanik •H. Chmiel, R. Takors, D. Weister-Botz, Bioprozesstechnik •W. J. Thieman, M. A. Palladino, Biotechnologie •H. Dellweg, Biotechnologie verständlich 
+
+, Modulbezeichnung 1500: Wahlmodul aus dem Angebot der FAU Elective modules from the university module catalog5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und KompetenzenDie individuell in den gewählten Modulen erworbenen Kompetenzen können den Modulbeschreibungen der gewählten Module entnommen werden. Vom individuellen Modul unabhängige Kompetenzen: Die Studierenden erwerben zusätzliche Kenntnisse und Kompetenzen in einem neuen Fachgebiet oder vertiefen vorhandenes Wissen in einem bereits im LSE-Curriculum enthaltenen Themenfeld. Die Studierenden erwerben Selbst- und Sozialkompetenz durch eine breite, fachrichtungsübergreifende Qualifizierung innerhalb der individuell gewählten Module. Die Studierenden schärfen durch die Wahlfreiheit ihr individuelles Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und Prüfungsleistungen 11Berechnung der Modulnote 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die individuell in den gewählten Modulen erworbenen Kompetenzen können den Modulbeschreibungen der gewählten Module entnommen werden. Vom individuellen Modul unabhängige Kompetenzen: Die Studierenden erwerben zusätzliche Kenntnisse und Kompetenzen in einem neuen Fachgebiet oder vertiefen vorhandenes Wissen in einem bereits im LSE-Curriculum enthaltenen Themenfeld. Die Studierenden erwerben Selbst- und Sozialkompetenz durch eine breite, fachrichtungsübergreifende Qualifizierung innerhalb der individuell gewählten Module. Die Studierenden schärfen durch die Wahlfreiheit ihr individuelles Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: 1
+Berechnung der Modulnote: 1
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+
+, Modulbezeichnung 94034: Bioprozessautomation Automation of Bioprocesses5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Andreas Bück
+Inhalt: Das Modul Bioprozessautomation gibt einen Überblick über die Grundlagen der Automatisierung mit dem Schwerpunkt auf biotechnologische Prozesse. Diese Spezialisierung zielt auf die Herausforderungen biotechnologischer Matrices ab, in denen sich entscheidende Prozessgrößen, z.B. Konzentrationen, häufig nicht oder nicht mit klassischen Methoden bestimmen lassen. Neben einer allgemeinen Einführung zu den Bereichen Steuern, Regeln und Leiten stellt die Verarbeitung von Informationen, z.B. Übermittlung und mögliche Störungen, einen wesentlichen Teil des Modules dar. Als Teile der Automatisierungstechnik werden hier auch Sensoren und Aktoren und deren Bedeutung für die Automatisierung behandelt. Schließlich werden auch Grundzüge der Programmierung von Automatisierungssystemen behandelt. Im Praktikum (optional) werden die theoretisch erarbeiteten Kenntnisse, insbesondere die Programmierung anhand praktischer Aufgaben vertieft. 6Lernziele und KompetenzenDie Studierenden: •verstehen die Grundlagen der Automatisierungstechnik und wenden diese in einfachen Beispielen an •erkennen potentielle Problemen im Informationsmanagement eines Automatisierungssystems •wissen, wie Sensoren in Schaltplänen gemäß DIN angegeben werden •können das Verhaltens von Regelstrecken mittels etablierter Verfahren (insbesondere Prüffunktionen) abschätzen •wenden die Boolsche Logik sowie Codes an •entwickeln Codezeilen eines Automatisierungsprogramms gemäß vorgegebener Angaben 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenVariabel 
+Lernziele und Kompetenzen: Die Studierenden: •verstehen die Grundlagen der Automatisierungstechnik und wenden diese in einfachen Beispielen an •erkennen potentielle Problemen im Informationsmanagement eines Automatisierungssystems •wissen, wie Sensoren in Schaltplänen gemäß DIN angegeben werden •können das Verhaltens von Regelstrecken mittels etablierter Verfahren (insbesondere Prüffunktionen) abschätzen •wenden die Boolsche Logik sowie Codes an •entwickeln Codezeilen eines Automatisierungsprogramms gemäß vorgegebener Angaben
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Variabel 
+
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 92491: Chemische Reaktionstechnik Chemical reaction Engineering5 ECTS
+Lehrveranstaltungen: Vorlesung: Chemische Reaktionstechnik (2 SWS ) 5 ECTS Übung : Übungen zur Chemischen Reaktionstechnik (2 SWS )-
+Lehrende: Prof. Dr. Tanja Franken Patrick Schühle Adrian Seitz Dennis Weber  
+Modulverantwortliche/r: Prof. Dr. Tanja Franken
+Inhalt: •Einführung in die Chemische Reaktionstechnik (Introduction to chemical reaction engineering) •Grundlagen der Chemischen Reaktionstechnik (Fundamentals of chemical reaction engineering) •Kinetik chemischer Reaktionen Mikrokinetik (Kinetics of chemical reactions Microkinetics) •Chemische Reaktion und Transportprozesse Makrokinetik (Chemical reaction and transport processes Macrokinetics) •Messung und Auswertung reaktionskinetischer Daten (Measurement and evaluation of reaction kinetic data) •Chemische Reaktoren (Chemical reactors) •Modellierung chemischer Reaktoren (Modelling of chemical reactors) 6Lernziele und KompetenzenDie Studierenden •kennen und verstehen grundlegende Vorgehensweisen der chemischen Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und lösen diese kooperativ. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden •kennen und verstehen grundlegende Vorgehensweisen der chemischen Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und lösen diese kooperativ.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 97040: Einführung in die Regelungstechnik Introduction to control engineering5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Einführung in die Regelungstechnik (4 SWS )5 ECTS
+Lehrende: Prof. Dr. Thomas Moor  
+Modulverantwortliche/r: Prof. Dr. Thomas Moor
+Inhalt: Grundlagen der klassischen Regelungstechnik •Lineare zeitinvariante Eingrößensysteme im Frequenz- und Zeitbereich •Sensitivitäten des Standardregelkreises •Bode-Diagramm und Nyquist-Kriterium •Entwurf von Standardreglern •Algebraische Entwurfsmethoden •Erweiterte Regelkreisarchitekturen Anwendungsstudien aus den Bereichen •Mechanische Systeme •Verfahrenstechnische Prozesse 6Lernziele und KompetenzenDie Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 LiteraturhinweiseUnbehauen, H.: Regelungstechnik I, Vieweg, 1982 
+Lernziele und Kompetenzen: Die Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Unbehauen, H.: Regelungstechnik I, Vieweg, 1982 
+
+
+, Modulbezeichnung 42933: Experimental fluid mechanics 5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Andreas Wierschem
+Inhalt: Content: •Flow visualization •Measurement techniques for velocity: Particle Image and Tracking Velocimetry and Laser Doppler anemometry, ultrasound, •Measurement techniques for flow rate, pressure, temperature, concentration, free surfaces •Applicability and limitations, typical errors •2-, 2+1-, 3-dimensional techniques, time-resolved techniques •Data acquisition and processing 6Lernziele und KompetenzenStudents who participate in this course will become familiar with measurement techniques in fluid mechanics. Students who successfully participate in this module: •Have an overview over the most extended and important measurement techniques •Understand the principles of the different techniques •Know and understand the abilities and limitations of the techniques •Can to select an appropriate technique for a given task •Can identify and avoid typical measurement errors 7Voraussetzungen für die Teilnahme*Prerequisites:* To succeed in this course, students will need to apply acquired knowledge from fluid mechanics. Basic knowledge in physics and measurement techniques is beneficial. 8Einpassung in StudienverlaufsplanSemester: 6;4 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenVariabel mündlich, 30 min 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheEnglisch 
+Lernziele und Kompetenzen: Students who participate in this course will become familiar with measurement techniques in fluid mechanics. Students who successfully participate in this module: •Have an overview over the most extended and important measurement techniques •Understand the principles of the different techniques •Know and understand the abilities and limitations of the techniques •Can to select an appropriate technique for a given task •Can identify and avoid typical measurement errors
+Einpassung in Studienverlaufsplan: Semester: 6;4
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Variabel mündlich, 30 min
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch 
+
+Literaturhinweise: •Tropea, Yarin, Foss: Handbook of Experimental Fluid Mechanics, Springer •Merzkirch: Flow Visualization, Academic Press •Mayinger, Feldmann: Optical Measurements, Springer 
+
+, Modulbezeichnung 92130: Genetic Engineering (Gentechnik) Genetic engineering5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Bärbel Kappes
+Inhalt: •Geschichte des Genetic Engineering •Molekularbiologische Grundlagen gentechnologischer Verfahren •Methoden des Genetic Engineering •Das Humane Genomprojekt als erstes Großprojekt im Bereich Genetic Engineering •Epigenetik und ihre Konsequenzen für das Genetic Engineering •Stammzelltechnologien •Transgene Pflanzen und Tiere Anwendungen und Restriktionen" •Ausblick in die Synthetische Biologie 6Lernziele und KompetenzenDie Studierenden •verstehen und beschreiben grundlegende gentechnologische Techniken und können deren molekularen oder biochemischen Grundlagen erklären •sind mit verschiedenen Vektorsystemen vertraut und können diese hinsichtlich ihre Verwendbarkeit für die jeweiligen Klonierungsstrategien beurteilen •kennen grundlegende Klonierungsabläufe und können selbständig Klonierungsstrategien entwickeln •sind mit den Verfahren zur Herstellung transgener pflanzlicher und tierischer Organismen vertraut •erlangen die Kompetenz wissenschaftliche Ergebnisse und Technologien im Bereich Genetic Engineering zu analysieren und zu bewerten •erweitern ihre soft skills, in dem sie selbständig einen Vortrag zu einem spezifischen Thema im Bereich Genetic Engineering ausarbeiten, im Plenum präsentieren, die Diskussion leiten und ein Handout erstellen (optional) 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6;4 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenPraktikumsleistung Variabel 
+Lernziele und Kompetenzen: Die Studierenden •verstehen und beschreiben grundlegende gentechnologische Techniken und können deren molekularen oder biochemischen Grundlagen erklären •sind mit verschiedenen Vektorsystemen vertraut und können diese hinsichtlich ihre Verwendbarkeit für die jeweiligen Klonierungsstrategien beurteilen •kennen grundlegende Klonierungsabläufe und können selbständig Klonierungsstrategien entwickeln •sind mit den Verfahren zur Herstellung transgener pflanzlicher und tierischer Organismen vertraut •erlangen die Kompetenz wissenschaftliche Ergebnisse und Technologien im Bereich Genetic Engineering zu analysieren und zu bewerten •erweitern ihre soft skills, in dem sie selbständig einen Vortrag zu einem spezifischen Thema im Bereich Genetic Engineering ausarbeiten, im Plenum präsentieren, die Diskussion leiten und ein Handout erstellen (optional)
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6;4
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Praktikumsleistung Variabel 
+
+Berechnung der Modulnote: Praktikumsleistung (0%) Variabel (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •An Introduction to Genetic Engineering Third Edition, Dr Desmond S. T. Nicholl •Biotechnologie für Einsteiger - Reinhard Renneberg, Darja Süßbier •Molekulare Biotechnologie: Konzepte, Methode und Anwendungen Michael Wink 
+
+, Modulbezeichnung 95801: Medizintechnik I (Biomaterialien) Medical engineering I (biomaterials)5 ECTS
+Lehrveranstaltungen: Übung : Übungen zu Medizintechnik I (Biomaterialien) (2 SWS )2,5 ECTS Vorlesung: Medizintechnik I (Biomaterialien) (2 SWS ) 2,5 ECTS
+Lehrende: Dr. Julia Will Prof. Dr.-Ing. Aldo Boccaccini  
+Modulverantwortliche/r: Prof. Dr.-Ing. Aldo Boccaccini
+Inhalt: •Biomaterialien: Definition •Bioabbaubare Polymere, bioaktive Keramiken und biokompatible Metalle •Biomaterialien für Dauerimplantate •Orthopädische Beschichtungen •Biomaterialien fuer Tissue Engineering: Soft- und Hardgewebe •Einführung in die Scaffold-Technologie •Einführung in Scaffold-Charakterisierung •Biomaterialien für Drug Delivery 6Lernziele und KompetenzenDie Studierenden •kennen die Vielfalt verschiedener Werkstoffe, die bei der Herstellung von Biomaterialien und als Werkstoffe in der Medizin Anwendung finden. •können die notwendigen Eigenschaften und Herstellungsmethoden von Biomaterialien für Dauerimplantate, Tissue Engineering und Drug Delivery benennen und differenzieren. •können Biomaterialien für verschiedene Anwendungen auswählen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch Englisch 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Vielfalt verschiedener Werkstoffe, die bei der Herstellung von Biomaterialien und als Werkstoffe in der Medizin Anwendung finden. •können die notwendigen Eigenschaften und Herstellungsmethoden von Biomaterialien für Dauerimplantate, Tissue Engineering und Drug Delivery benennen und differenzieren. •können Biomaterialien für verschiedene Anwendungen auswählen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch 
+
+Literaturhinweise: •Wintermantel, Suk-Woo: Medizintechnik; Berlin, 5. Auflage, 2009 •Hench, Jones (eds.): Biomaterials, artifical organs und tissue engineering; Oxford, 2005 •B.D. Ratner, W.S. Hoffman, F.J. Schoen, J.E. Lemons, Biomaterials Science: An Introduction to Materials in Medicine, Elsevier, Amsterdam, (2004) 
+
+, Modulbezeichnung 642026: Organ-Funktion und Organ-Technik Organ function and organ technology5 ECTS
+Lehrende: Dominik Schneidereit Prof.Dr.Dr. Oliver Friedrich  
+Modulverantwortliche/r: Dominik Schneidereit
+Inhalt: •Grundzüge der Architektur von inneren Organen und des biomechatronischen Apparates •Physikalische und biomedizinische Funktionsprinzipien ausgewählter Organsysteme (v.a. Lunge, Herz-Kreislauf- System) •Interaktion und Stoffumwandlung zwischen Organsystemen •System-Fehlfunktionen von Organen und Gewebsanteilen •Strategien der Organ-Ersatz-Technologien und Assist-Device- Technologien aus dem Bereich Medizintechnik, Organ- Mechatronik, Prothetik, Tissue Engineering 6Lernziele und KompetenzenDie Studierenden •verstehen und beschreiben die biomedizinischen Grundlagen der Organfunktion und der Gewebsarchitektur •bewerten, konzipieren und wenden die Applikationen technologischer Möglichkeiten zum Ersatz/Erhalt gestörter Organfunktion aus der Beurteilung von Struktur- Funktionsbeziehungen an •analysieren und beurteilen die Vorzüge und Limitationen technischer Lösungen, Bio-Hybrid-Lösungen und reiner Organtransplantationslösungen •erweitern ihre soft skills, indem sie anhand eigener Literaturrecherche spezielle Probleme aus dem Bereich Organ-Funktion/-Technik als Vortrag ausarbeiten und halten sowie ein Handout zur Verfügung stellen •erkennen und vertiefend beurteilen die Zusammenhänge von Organ-Support oder Ersatz-Prozessverfahren 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 
+Lernziele und Kompetenzen: Die Studierenden •verstehen und beschreiben die biomedizinischen Grundlagen der Organfunktion und der Gewebsarchitektur •bewerten, konzipieren und wenden die Applikationen technologischer Möglichkeiten zum Ersatz/Erhalt gestörter Organfunktion aus der Beurteilung von Struktur- Funktionsbeziehungen an •analysieren und beurteilen die Vorzüge und Limitationen technischer Lösungen, Bio-Hybrid-Lösungen und reiner Organtransplantationslösungen •erweitern ihre soft skills, indem sie anhand eigener Literaturrecherche spezielle Probleme aus dem Bereich Organ-Funktion/-Technik als Vortrag ausarbeiten und halten sowie ein Handout zur Verfügung stellen •erkennen und vertiefend beurteilen die Zusammenhänge von Organ-Support oder Ersatz-Prozessverfahren
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •*Speckmann & Wittokowski*, Handbuch Anatomie - Bau und Funktion des menschlichen Körpers (2009), 7Hill Publishing •*Myer Kutz (Ed.)*, Biomedical Engineering and Design Handbook (2009), 2^nd^ Edt., McGraw-Hill Publ. 
+
+, Modulbezeichnung 92101: Prozessmaschinen und Apparatetechnik Process machines and process technology5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Sebastian Rieß Prof. Dr.-Ing. Michael Wensing
+Inhalt: Einführung (Charakterisierung der Stoffeigenschaften), Lagerung (Silos, Tanks), Förderung (Pumpen, Verdichter, Schüttgutdosierung, elektrische Antriebe und Getriebe), Rohrleitungen und Armaturen, Wärmeübertragung (Rohrbündel-Wärmeübertrager, Platten- Wärmeübertrager, Kondensatoren, Verdampfer), Reaktoren (Gasphasen-, Flüssigphasen-Reaktoren). Trennung (Kolonnen und Kolonneneinbauten), Durchflussmesser (Durchflussmesser für Flüssigkeiten und Gase, Durchflussmesser für Feststoffe). 6Lernziele und KompetenzenDie Studierenden: •sind mit dem Aufbau verschiedener Maschinen und Apparate der chemischen Verfahrenstechnik zum Fördern von Gasen und Flüssigkeiten sowie zur Wärme- und Stoffübertragung vertraut •verstehen die Grundlagen elektrischer Motoren •können die Funktionsweise von Pumpen und Verdichtern verschiedener Bauarten und Funktionsprinzipien nachvollziehen, sie bezüglich ihrer Energieeffizienz bewerten und darauf aufbauend anwendungsorientiert auswählen •können die Versuchsergebnisse eigenständig protokollieren, auswerten und kritisch diskutieren 7Voraussetzungen für die TeilnahmeTechnisches Zeichnen (Modul B19), Konstruktionslehre (Modul B18) 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Life Science Engineering 20152 Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden: •sind mit dem Aufbau verschiedener Maschinen und Apparate der chemischen Verfahrenstechnik zum Fördern von Gasen und Flüssigkeiten sowie zur Wärme- und Stoffübertragung vertraut •verstehen die Grundlagen elektrischer Motoren •können die Funktionsweise von Pumpen und Verdichtern verschiedener Bauarten und Funktionsprinzipien nachvollziehen, sie bezüglich ihrer Energieeffizienz bewerten und darauf aufbauend anwendungsorientiert auswählen •können die Versuchsergebnisse eigenständig protokollieren, auswerten und kritisch diskutieren
+Voraussetzungen für die Teilnahme: Technisches Zeichnen (Modul B19), Konstruktionslehre (Modul B18)
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Life Science Engineering 20152 Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: •Gülich, J. F.: Kreiselpumpen -Handbuch für Entwicklung, Anlagenplanung und Betrieb, Springer Verlag, 2013 •Eifler, W., Schlücker, E., Spicher, U., Will, G: Küttner Kolbenmaschinen, Springer Verlag, 2009 •Vetter, G.: Handbuch Dosieren, 2. Auflage, Vulkan-Verlag, Essen, 2002 •Vetter, G.: Leckfreie Pumpen, Verdichter und Vakuumpumpen, Vulkan-Verlag, Essen, 1998 •Vetter, G.: Rotierende Verdrängerpumpen in der Prozesstechnik, Vulkan-Verlag, Essen, 2006 •VDI-Wärmeatlas •Thier, B.: Wärmetauscher, Vulkan-Verlag, Essen, 1994 •Sattler, K.: Thermische Trennverfahren, VCH, Weinheim, 1995 •Skript zur Vorlesung 
+
+, Modulbezeichnung 94732: Reaktionstechnik Chemical Reaction Engineering5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Patrick Schühle Dr. Peter Schulz Prof. Dr. Peter Wasserscheid
+Inhalt: Im Rahmen des Moduls Chemische Reaktionstechnik (Kernfach) werden folgende Themen behandelt: The subject Chemical Reaction Engineering (B.Sc.) comprises the following topics: • ºBilanzierung chemischer Anlagen (Mass and energy balancing of chemical plants) Kinetik und Auswertung kinetischer Messungen (Kinetics and Analysis of kinetic measurements) Kinetik heterogen katalysierter Oberflächenreaktionen (Kinetics of heterogeneously catalyzed reactions) Stofftransport und Chemische Reaktion (Mass Transport and chemical reaction) Verweilzeitmessungen idealer Reaktoren (Residence Time Distribution Measurements of ideal reactors) Umsatz/ Ausbeute in idealen, isothermen Reaktoren (Conversion/ Yield in ideal, isothermal reactors) Beschreibung realer Reaktoren (Description of real reactors) 6Lernziele und KompetenzenDie Studierenden •kennen und verstehen grundlegende Vorgehensweisen der Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und Praktikumsversuche und lösen diese kooperativ 7Voraussetzungen für die TeilnahmeUm an den Veranstaltungen teilzunehmen, ist die Anmeldung für den zugehörigen StudOn-Kurs verpflichtend. Der Link zum Kurs sowie das Passwort werden in der ersten Vorlesung mitgeteilt. 8Einpassung in StudienverlaufsplanSemester: 6;4 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden •kennen und verstehen grundlegende Vorgehensweisen der Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und Praktikumsversuche und lösen diese kooperativ
+Voraussetzungen für die Teilnahme: Um an den Veranstaltungen teilzunehmen, ist die Anmeldung für den zugehörigen StudOn-Kurs verpflichtend. Der Link zum Kurs sowie das Passwort werden in der ersten Vorlesung mitgeteilt.
+Einpassung in Studienverlaufsplan: Semester: 6;4
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Klausur (120 Minuten) 
+
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Fitzer, Fritz, Emig, Einführung in die Chemische Reaktionstechnik, Springer Verlag, 4. Auflage, Berlin 1995 Baerns, Hofmann, Renken, Chemische Reaktionstechnik, Thieme Verlag, Stuttgart. Jess, Wasserscheid, Chemical Technology, Wiley Verlag, 2019. 
+
+, Modulbezeichnung 42932: Scientific computing in engineering 2 5 ECTS
+Lehrveranstaltungen: Vorlesung: Scientific computing in engineering 2 (2 SWS )- Übung : Tutorial Scientific computing in engineering 2 (2 SWS )-
+Lehrende: Prof. Dr. Jens Harting  
+Modulverantwortliche/r: Prof. Dr. Jens Harting
+Inhalt: •Process system modeling •Fluid mechanics and dimensionless parameters •Cellular automata •Lattice gas and lattice Boltzmann methods •Multiphase flows •Reaction-diffusion systems •Molecular dynamics •Monte Carlo simulations •Programming in modern programming languages such as Python or Julia. 6Lernziele und KompetenzenThe students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Life Science Engineering 20192 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheEnglisch 16 Literaturhinweise 
+Lernziele und Kompetenzen: The students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 959016: Zellkulturtechnik für LSE (Wahlpflichtfach) Cell Culture Technology for LSE5 ECTS
+Lehrveranstaltungen: Die Lehrveranstaltungen des Moduls werden nur im Sommersemester angeboten.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Holger Hübner
+Inhalt: *Vorlesung* •Gemeinsamkeiten und Unterschiede zwischen der Kultivierung von Mikroorganismen und Zellkulturen •Grundlagen der Zellkulturtechnik - Organismen, grundlegende Stoffwechselvorgänge und Zellproliferation •Handling von Zellkulturen - Adherente und Suspensionskulturen, Kryokonservierung •Prozessbegleitende Analyse von Zellkulturen - Quantitative Erfassung charakteristischer Parameter, Zytotoxizitäts- und Vitalitätstests •Kultursysteme, Reaktortechnologien und Reaktorführung •Sterilisationsmethoden •Kulturbedingungen - Substrate, Gasphase, Medien und Supplemente, sonstige Zusätze, Einfluss von Kultivierungstemperatur und pH •Immobilisierungsverfahren von Zellkulturen •Praxisbeispiel: Hybridomatechnologie zur Produktion monoklonaler Antikörper •Praxisbeispiel: Baculovirus Expressionssystem zur Produktion rekombinanter, posttranslational modifizierter Proteine *Übung* Die Übung behandelt begleitend zur Vorlesung typische Auswertungen und Auswertungsmethoden der Bioverfahrenstechnik. •Troubleshooting von Zellkulturprozessen •Berechnungen zur Analyse der begleitenden Analytik von Zellkulturprozessen 6Lernziele und KompetenzenDie Studierenden •kennen und verstehen die Grundlagen, um erste Versuche in der Zellkultur zu planen und durchzuführen •kennen die Theorie sowie die praktische Ausführung prozessbegleitender analytischer Verfahren und können erhaltene Messdaten kritisch analysieren und Fehlerquellen ermitteln. Hauptaugenmerk liegt dabei auf der Evaluation wachstumscharakteristischer Parameter, wie die Wachstumsgeschwindigkeit der Zellkultur, deren Vitalität und metabolische Aktivität. •kennen theoretisch Techniken und Methoden, um praktische Arbeiten im Zusammenhang mit Zellkulturen durchzuführen. •kennen die Regeln zur Auswahl verschiedene Kultivierungssysteme und können diese anhand ihrer Vor- und Nachteile für verschiedene Kultivierungsprozesse auswählen. 
+Lernziele und Kompetenzen: Die Studierenden •kennen und verstehen die Grundlagen, um erste Versuche in der Zellkultur zu planen und durchzuführen •kennen die Theorie sowie die praktische Ausführung prozessbegleitender analytischer Verfahren und können erhaltene Messdaten kritisch analysieren und Fehlerquellen ermitteln. Hauptaugenmerk liegt dabei auf der Evaluation wachstumscharakteristischer Parameter, wie die Wachstumsgeschwindigkeit der Zellkultur, deren Vitalität und metabolische Aktivität. •kennen theoretisch Techniken und Methoden, um praktische Arbeiten im Zusammenhang mit Zellkulturen durchzuführen. •kennen die Regeln zur Auswahl verschiedene Kultivierungssysteme und können diese anhand ihrer Vor- und Nachteile für verschiedene Kultivierungsprozesse auswählen. 
+
+Voraussetzungen für die Teilnahme: Solide Kenntnisse der Biochemie und Mikrobiologie werden für die mündliche Prüfung vorausgesetzt und nur in Ausnahmen in der Vorlesung wiederholt.
+Einpassung in Studienverlaufsplan: Semester: 6;
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Life Science Engineering 20192
+Method of examination: mündlich
+Berechnung der Modulnote: mündlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsunterlagen zur Vorlesung über StudOn

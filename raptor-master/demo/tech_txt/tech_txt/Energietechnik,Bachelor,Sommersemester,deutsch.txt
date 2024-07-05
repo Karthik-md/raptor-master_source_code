@@ -1,0 +1,835 @@
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: Die Bachelorarbeit umfasst eine praktische Tätigkeit an einem aktuellen Forschungsprojekt an den Departments Chemie- und Bioingenieurwesen, Werkstoffwissenschaften oder Elektrotechnik - Elektronik - Informationstechnik 6Lernziele und KompetenzenDie Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenmündlich (30 Minuten) schriftlich/mündlich (5 Monate) Die Bearbeitungszeit der Bachelorarbeit beträgt ca. 330 Stunden. Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen. 11Berechnung der Modulnotemündlich (6%) schriftlich/mündlich (94%) 12Turnus des Angebotskeine Angaben zum Turnus des Angebots hinterlegt! 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden. 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt! 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden. 
+
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 92800: Chemische Grundlagen der Energietechnik Chemical Principles of Electrical Engineering2,5 ECTS
+Lehrveranstaltungen: Vorlesung: Chemische Grundlagen der Energietechnik (2.0 SWS )-
+Lehrende: Dr. Peter Schulz  
+Modulverantwortliche/r: Dr. Peter Schulz
+Inhalt: Atombau, chemische Bindung, chemische Reaktionen Energie- und Rohstoffversorgung, fossile Rohstoffe, Ressourcen,Reserven, Verbrauch, Reichweite, chemische Transport- und Speicherformen für Energie Erdölverarbeitung: Raffinerie, HDS-Verfahren, Reformieren, FCC-Verfahren Synthesegas: Herstellung, Verwendung Synthetische Kraftstoffe: MTG-Verfahren, SMDS, Fischer-Tropsch- Synthese Biokraftstoffe: Biodiesel, Bioalkohole, Pyrolyse und Verflüssigung von Biomasse Brennstoffzellen: Entwicklung, Technologie, Anwendungen, Speicherung von Wasserstoff Li-Ionen-Batterien: Grundlagen Katalyse 6Lernziele und KompetenzenStudierende •verfügen über grundlegendes Wissen und Verständnis der derzeitigen Energie- und Rohstoffversorgung •sind mit den chemischen Grundlagen der Herstellung synthetischer und Biokraftstoffe vertraut •verstehen den Aufbau und die Eigenschaften von Batterien, Brennstoff- und Solarzellen •können die Entwicklungsmöglichkeiten für eine nachhaltige Energieversorgung auf der Basis von Biomasse beurteilen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 30 h Eigenstudium: 45 h 
+Lernziele und Kompetenzen: Studierende •verfügen über grundlegendes Wissen und Verständnis der derzeitigen Energie- und Rohstoffversorgung •sind mit den chemischen Grundlagen der Herstellung synthetischer und Biokraftstoffe vertraut •verstehen den Aufbau und die Eigenschaften von Batterien, Brennstoff- und Solarzellen •können die Entwicklungsmöglichkeiten für eine nachhaltige Energieversorgung auf der Basis von Biomasse beurteilen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: vorbereitende Literatur: - J. Hoinkis "Chemie für Ingenieure" A. Jess, P. Wasserscheid "Chemical Technology" •P. Gruss, F. Schüth, "Die Zukunft der Energie, C.H. Beck, München (2008). •G.A. Olah, A. Goeppert, G.K. Surya Prakash, "Beyond Oil and Gas: The Methanol Economy, Wiley-VCH, Weinheim (2006). 
+
+, Modulbezeichnung 92491: Chemische Reaktionstechnik Chemical reaction Engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Tanja Franken
+Inhalt: •Einführung in die Chemische Reaktionstechnik (Introduction to chemical reaction engineering) •Grundlagen der Chemischen Reaktionstechnik (Fundamentals of chemical reaction engineering) •Kinetik chemischer Reaktionen Mikrokinetik (Kinetics of chemical reactions Microkinetics) •Chemische Reaktion und Transportprozesse Makrokinetik (Chemical reaction and transport processes Macrokinetics) •Messung und Auswertung reaktionskinetischer Daten (Measurement and evaluation of reaction kinetic data) •Chemische Reaktoren (Chemical reactors) •Modellierung chemischer Reaktoren (Modelling of chemical reactors) 6Lernziele und KompetenzenDie Studierenden •kennen und verstehen grundlegende Vorgehensweisen der chemischen Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und lösen diese kooperativ. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •kennen und verstehen grundlegende Vorgehensweisen der chemischen Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und lösen diese kooperativ.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: 
+
+, Modulbezeichnung 97040: Einführung in die Regelungstechnik Introduction to control engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Thomas Moor
+Inhalt: Grundlagen der klassischen Regelungstechnik •Lineare zeitinvariante Eingrößensysteme im Frequenz- und Zeitbereich •Sensitivitäten des Standardregelkreises •Bode-Diagramm und Nyquist-Kriterium •Entwurf von Standardreglern •Algebraische Entwurfsmethoden •Erweiterte Regelkreisarchitekturen Anwendungsstudien aus den Bereichen •Mechanische Systeme •Verfahrenstechnische Prozesse 6Lernziele und KompetenzenDie Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: Unbehauen, H.: Regelungstechnik I, Vieweg, 1982 Glattfelder, A.H., Schaufelberger, W.: Lineare Regelsysteme, VDH Verlag, 1996 Goodwin, G.C., et al.: Control System Design, Prentice Hall, 2001 
+
+, Modulbezeichnung 92811: Energietechnik Energy Technology7,5 ECTS
+Lehrveranstaltungen: Tutorium: Energietechnik Tutorium (1.0 SWS ) - Praktikum : Praktikum Energietechnik (3.0 SWS ) 2,5 ECTS Vorlesung: Vorlesung Energietechnik (2.0 SWS ) - Übung : Übung Energietechnik (2.0 SWS ) -
+Lehrende: Nora Elhaus Agnes Kutz Steffen Leimbach Prof. Dr.-Ing. Jürgen Karl  
+Modulverantwortliche/r: Prof. Dr.-Ing. Jürgen Karl
+Inhalt: •Einführung in die Rahmenbedingungen der Energiewirtschaft •Thermodynamische Grundlagen der Energietechnik •Grundlagen der Stoffwandlung •Verbrennung und Nutzwärmeerzeugung •Dampfkraftwerke •Gasturbinen-Kraftwerke •CO2 freie Kraftwerke •Brennstoffzellen •Dezentrale Energiesysteme 6Lernziele und KompetenzenDie Studierenden •verstehen grundlegende Prozesse der Energietechnik •kennen innovative Technologien zur Energiewandlung •können die Wirkungsgrade berechnen sowie die Wirtschaftlichkeit der Energiewandlung nachvollziehen •beurteilen umweltrelevante und gesellschaftliche Aspekte der Energiewandlung. 7Voraussetzungen für die TeilnahmeDer erfolgreiche Abschluss der Prüfung "Technische Thermodynamik" wird empfohlen 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung Klausur (120 Minuten) 11Berechnung der ModulnotePraktikumsleistung (0%) Klausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 105 h Eigenstudium: 120 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •verstehen grundlegende Prozesse der Energietechnik •kennen innovative Technologien zur Energiewandlung •können die Wirkungsgrade berechnen sowie die Wirtschaftlichkeit der Energiewandlung nachvollziehen •beurteilen umweltrelevante und gesellschaftliche Aspekte der Energiewandlung.
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Praktikumsleistung Klausur (120 Minuten)
+Berechnung der Modulnote: Praktikumsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: •Folien zur Vorlesung und Übung StudOn •Karl, Dezentrale Energiesysteme, Oldenbourg-Verlag •Effenberger, Kraftwerkstechnik, Springer Verlag 
+
+, Modulbezeichnung 92540: Energie- und Antriebstechnik Power engineering and drives7,5 ECTS
+Lehrveranstaltungen: Übung : Übungen zu Grundlagen der Elektrischen Energieversorgung (2.0 SWS, )- Vorlesung: Grundlagen der Elektrischen Antriebstechnik (2.0 SWS, )3,5 ECTS Übung : Übungen zu Grundlagen der Elektrischen Antriebstechnik (1.0 SWS, )- Vorlesung: Grundlagen der Elektrischen Energieversorgung (2.0 SWS, )4 ECTS
+Lehrende: Prof. Dr.-Ing. Matthias Luther Timo Wagner Prof. Dr.-Ing. Ingo Hahn Shima Khoshzaman  
+Modulverantwortliche/r: Prof. Dr.-Ing. Ingo Hahn Prof. Dr.-Ing. Matthias Luther
+Inhalt: 17-1 Grundlagen der Elektrischen Antriebstechnik Einleitung; Grundlagen: Leistung und Wirkungsgrad, Physikalische Grundgesetze, Induktivitäten Gleichstromantriebe: Gleichstrommotor, Konventionelle Drehzahlstellung, Elektronische Drehzahlstellung Drehstromantriebe:Grundlagen und Drehfeld, Synchronmaschine, Asynchronmaschine, Konventionelle Drehzahlstellung, Elektronische Drehzahlstellung 17-2 Grundlagen der Elektrischen Energieversorgung Elektrische Energieversorgungssysteme: Eigenschaften der elektrischen Energie, Aufbau von Energieversorgungsnetzen, Betriebsmittel in Netzen Grundlagen der Wechselstromtechnik: kosinus- und nichtkosinusförmige periodische Größen, komplexe Wechselstromrechnung, Vierpole Transformationen für Dreiphasensysteme: Nullgröße und Raumzeiger, Symmetrische Komponenten, Diagonal- und Zwei-Achsen- Komponenten; Transformation symmetrischer Drehstromnetze; unsymmetrische Betriebszustände Leistungen: Grundbegriffe, Leistungen in Drehstromnetzen, Blindleistungskompensation Wirtschaftliche Energieversorgung: Kostenarten, Investitions- und Kostenrechnung, wirtschaftlicher Betrieb von Netzen 6Lernziele und Kompetenzen17-1 Grundlagen der Elektrischen Antriebstechnik Kenntnisse und Verständnis der grundsätzlichen Funktionsweise elektrischer Maschinen, deren stationären Betrieb, die konventionelle (verlustbehaftete) Drehzahlstellung und einfache Grundlagen der elektronischen Drehzahlstellung. 17-2 Grundlagen der Elektrischen Energieversorgung Kenntnisse und Verständnis: 
+Lernziele und Kompetenzen: 17-1 Grundlagen der Elektrischen Antriebstechnik Kenntnisse und Verständnis der grundsätzlichen Funktionsweise elektrischer Maschinen, deren stationären Betrieb, die konventionelle (verlustbehaftete) Drehzahlstellung und einfache Grundlagen der elektronischen Drehzahlstellung. 17-2 Grundlagen der Elektrischen Energieversorgung Kenntnisse und Verständnis: 
+
+Voraussetzungen für die Teilnahme: 17-1 Grundlagen der Elektrotechnik I und II 17-2 Grundlagen der Elektrotechnik I bis III
+Einpassung in Studienverlaufsplan: Semester: 3;4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur mit MultipleChoice (90 Minuten) Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur mit MultipleChoice (47%) Klausur (53%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 17-1: Skript zur Vorlesung 17-2: Lehrbuch: Elektrische Energieversorgung I, G. Herold,2005 
+
+, Modulbezeichnung 66040: Experimentalphysik Experimental physics7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Reinhard Neder
+Inhalt: •Mechanik: Bewegungsgleichungen im 1D-, 3D, Kreisbewegungen, Newton'sche Axiome, Kräfte, Potentielle Energie, Kinetische Energie, Energieerhaltung, Impuls, Stöße, Drehbewegungen, Drehmoment, Drehimpuls, Erhaltungssätze •Fluide: Dichte, Druck, Auftrieb; Fluide in Bewegung: Bernoulligleichung, reale Fluide, Viskosität •Schwingungen: Harmonische Schwingungen, Pendel, gedämpfte Schwingungen •Wellen: Wellengleichung, Geschwindigkeit, Interferenz •Optik: Grundlegende Strahlenoptik, Linsen •Wellenoptik: Beugung am Spalt, Beugung am Doppelspalt •Elektrizität: Elektrostatik: Coulombkraft, El. Feld, Kondensatoren, einfache Stromkreise; Magnetismus: Induktion, Wechselstromkreise 6Lernziele und KompetenzenDie Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenschriftlich (120 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 150 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: schriftlich (120 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: D. Halliday, R. Resnick: Halliday Physik, Bachelor Edition, Wiley-VCH P. A. Tipler, G. Mosca: Physik, Spektrum Akad. Verlag E. Hering, R. Martin, M. Stohrer: Physik für Ingenieure, Springer D. Meschede: Gehrtsen Physik, Springer 
+
+, Modulbezeichnung 92560: Grundlagen der Elektrotechnik I Foundations of electrical engineering I7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Bernd Witzigmann
+Inhalt: Diese Vorlesung bietet einen Einstieg in die physikalischen Grundlagen der Elektrotechnik und Elektronik. Ausgehend von beobachtbaren Kraftwirkungen zwischen Ladungen und zwischen Strömen wird der Begriff des elektrischen und magnetischen Feldes eingeführt. Mit den daraus abgeleiteten integralen Größen Spannung, Strom, Widerstand, Kapazität und Induktivität wird das Verhalten der passiven Bauelemente diskutiert. Am Beispiel der Gleichstromschaltungen werden die Methoden der Netzwerkanalyse eingeführt und Fragen nach Wirkungsgrad und Zusammenschaltung von Quellen untersucht. Einen Schwerpunkt bildet das Faradaysche Induktionsgesetz und seine Anwendungen. Die Bewegungsinduktion wird im Zusammenhang mit den Drehstromgeneratoren betrachtet, die Ruheinduktion wird sehr ausführlich am Beispiel der Übertrager und Transformatoren diskutiert. Einen weiteren Schwerpunkt bildet die Behandlung zeitlich periodischer Vorgänge. Die komplexe Wechselstromrechnung bei sinusförmigen Strom- und Spannungsformen wird ausführlich behandelt. 1. Physikalische Grundbegriffe 2. Das elektrostatische Feld 3. Das stationäre elektrische Strömungsfeld 4. Einfache elektrische Netzwerke 5. Das stationäre Magnetfeld 6. Das zeitlich veränderliche elektromagnetische Feld 7. Wechselspannung und Wechselstrom 6Lernziele und KompetenzenNach der Teilnahme an den Modulveranstaltungen sind die Studierenden in der Lage: •den Begriff des Feldes zu verstehen, •Gleich- und Wechselstromschaltungen mit Widerständen, Kapazitäten, Induktivitäten und Transformatoren zu entwickeln, •Schwingkreise und Resonanzerscheinungen zu analysieren, •Energie- und Leistungsberechnungen durchzuführen, •Schaltungen zur Leistungsanpassung und zur Blindstromkompensation zu bewerten, •das Drehstromsystem zu verstehen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 
+Lernziele und Kompetenzen: Nach der Teilnahme an den Modulveranstaltungen sind die Studierenden in der Lage: •den Begriff des Feldes zu verstehen, •Gleich- und Wechselstromschaltungen mit Widerständen, Kapazitäten, Induktivitäten und Transformatoren zu entwickeln, •Schwingkreise und Resonanzerscheinungen zu analysieren, •Energie- und Leistungsberechnungen durchzuführen, •Schaltungen zur Leistungsanpassung und zur Blindstromkompensation zu bewerten, •das Drehstromsystem zu verstehen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1 
+
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •M. Albach, Elektrotechnik, Pearson Verlag •Manfred Albach: Grundlagen der Elektrotechnik I und II, Pearson-Verlag •Übungsaufgaben mit Lösungen auf der Homepage •Optional: Übungsbuch, Pearson-Verlag 
+
+, Modulbezeichnung 92570: Grundlagen der Elektrotechnik II Foundations of electrical engineering II5 ECTS
+Lehrveranstaltungen: Übung : GET II Ü, Gruppe B ( MT) (2.0 SWS ) - Vorlesung: Grundlagen der Elektrotechnik II (2.0 SWS )5 ECTS Tutorium: GET II Tut (2.0 SWS ) -
+Lehrende: Dr.-Ing. Gerald Gold Christoph Kammel Konstantin Root Michael Ehrngruber Tim Pfahler Dr.-Ing. Ingrid Ullmann Prof. Dr.-Ing. Klaus Helmreich  
+Modulverantwortliche/r: Prof. Dr.-Ing. Klaus Helmreich
+Inhalt: Diese Veranstaltung stellt den zweiten Teil einer 3-semestrigen Lehrveranstaltung über Grundlagen der Elektrotechnik für Studierende der Elektrotechnik, Elektronik und Informationstechnik im Grundstudium dar. Inhalt ist die Analyse elektrischer Grundschaltungen und Netzwerke aus konzentrierten Bauelementen bei sinus- und nichtsinusförmiger harmonischer Erregung. Nach kurzer Einführung in die komplexe Wechselstromrechnung und den Umgang mit elementaren elektrischen Bauelementen werden zunächst Spannungs- und Stromquellen und ihre Zusammenschaltung mit einer Last sowie die Leistungsübertragung von der Quelle zur Last betrachtet. Nach Herleitung und beispielhafter Anwendung von Methoden und Sätzen zur Berechnung und Vereinfachung elektrischer Schaltungen (Überlagerungssatz, Reziprozitätstheorem, äquivalente Schaltungen, Miller-Theorem etc.) werden zunächst 2-polige Netzwerke analysiert und in einem weiteren Kapitel dann allgemeine Verfahren zur Netzwerkanalyse wie das Maschenstromverfahren und das Knotenpotenzialverfahren behandelt. Die Berechnung der verallgemeinerten Eigenschaften von Zweipolfunktionen bei komplexen Frequenzen führt im verlustlosen Fall zur schnellen Vorhersagbarkeit des Frequenzverhaltens und zu elementaren Verfahren der Schaltungssynthese. Der nachfolgende Teil über mehrpolige Netzwerke konzentriert sich nach der Behandlung von allgemeinen Mehrtoren auf 2- Tore und ihr Verhalten, ihre verschiedenen Möglichkeiten der Zusammenschaltung und die zweckmäßige Beschreibung in verschiedenen Matrixdarstellungen (Impedanz-, Admittanz-, Ketten-, Hybridmatrix). Das Übertragungsverhalten von einfachen und verketteten Zweitoren wird am Beispiel gängiger Filterarten durchgesprochen und das Bode-Diagramm zur schnellen Übersichtsdarstellung eingeführt. Nach allgemeiner Einführung der Fourierreihenentwicklung periodischer Signale wird die Darstellung von nicht sinusförmigen periodischen Erregungen von Netzwerken mittels reeller und komplexer Fourierreihen 
+
+Inhalt: beschriebenen Verfahren und Methoden der Netzwerkanalyse erklären und auf Schaltungsbeispiele anwenden. •können Verfahren der Netzwerkanalyse hinsichtlich des Rechenaufwandes beurteilen und vergleichen. 7Voraussetzungen für die Teilnahme•Grundlagen der Elektrotechnik 1 •Mathematik I •Mathematik II (begleitend) 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 LiteraturhinweiseElektrotechnik, Albach, M., 2011. Grundlagen der Elektrotechnik - Netzwerke, Schmidt, L.-P., Schaller, G., Martius, S., 2013. (bisher: Grundlagen der Elektrotechnik 3, Schmidt, L.-P., Schaller, G., Martius, S., 2006. 
+Lernziele und Kompetenzen: Die Studierenden •besitzen spezialisiertes und vertieftes Wissen über die Umformung, Analyse und Synthese von einfachen und umfangreicheren Netzwerken bei sinus- und nichtsinusförmiger Erregung in komplexer Darstellung. •können die im Inhalt beschriebenen Verfahren und Methoden der Netzwerkanalyse erklären und auf Schaltungsbeispiele anwenden. •können Verfahren der Netzwerkanalyse hinsichtlich des Rechenaufwandes beurteilen und vergleichen.
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Elektrotechnik, Albach, M., 2011. Grundlagen der Elektrotechnik - Netzwerke, Schmidt, L.-P., Schaller, G., Martius, S., 2013. (bisher: Grundlagen der Elektrotechnik 3, Schmidt, L.-P., Schaller, G., Martius, S., 2006. 
+
+, Modulbezeichnung 93061: Grundlagen der Informatik Foundations of computer science5 ECTS
+Lehrveranstaltungen: Übung : GDI Sprechstunde C-1 (1.0 SWS ) - Vorlesung: Grundlagen der Informatik (3.0 SWS ) - Übung : Fragestunde zu Grundlagen der Informatik (Online) (2.0 SWS )-
+Lehrende: Dr.-Ing. Frank Bauer Markus Leuschner  
+Modulverantwortliche/r: Dr.-Ing. Frank Bauer
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: elektronische Prüfung (60 Minuten)
+Berechnung der Modulnote: elektronische Prüfung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95981: Grundlagenpraktika Fundamental Laboratories ET5 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum Grundlagen der Elektrotechnik II (EEI) (1.0 SWS, )1,5 ECTS Praktikum : Praktikum Werkstoffe für Studierende der Energietechnik (2.0 SWS, WiSe 2024 )2 ECTS Praktikum : Praktikum Antriebstechnik und Energieversorgung (1.0 SWS, )- Praktikum : Gruppen 6 bis 12 (0.0 SWS, ) - Praktikum : Praktikum Grundlagen der Elektrotechnik I für Energietechnik (1.0 SWS, )-
+Lehrende: Dr.-Ing. Jan Steffen Schür Babak Dianati Prof. Dr. Johann Jäger Florian Mahr Sebastian Kölle Leonard Schwarze  
+Modulverantwortliche/r: Peter Randelzhofer
+Inhalt: Grundlagen der Elektrotechnik I: Im Rahmen dieses Praktikums werden 4 Versuche zu den folgenden Themen durchgeführt: 1. Wickelkondensator 2. Magnetfeldmessung 3. Transformator 4. Schwingkreis Im Rahmen des Praktikums GET II werden 4 Versuche zu den folgenden Themen durchgeführt: 1. Ohmsche Netze; Zweitore 2. Quelle und Last; reaktiver Zweipol; Bode-Diagramm 3. Schaltungssimulation 4. Nichtsinusförmige periodische Signale und Fourierreihen Das Praktikum Antriebstechnik und Energieversorgung umfasst: - einen Versuch am Lehrstuhl für elektrische Antriebe und Maschinen - eine Exkursion am Lehrstuhl für elektrische Energiesysteme 6Lernziele und KompetenzenNach der Teilnahme an den Veranstaltungen zum Praktikum Elektrotechnik sind die Studierenden in der Lage: Messaufbauten mit den grundlegenden Messgeräten wie z.B. Multimeter, Sinusgenerator, Oszilloskop sowie deren Bedienung zu verstehen, den inneren Aufbau von Kondensatoren und Transformatoren zu analysieren, indem sie einen Kondensator und einen Transformator selber herstellen, einfache Schaltungen messtechnisch zu analysieren und deren Verhalten zu verstehen, durch einen Vergleich von gemessenen und berechneten Ergebnissen den Einfluss von parasitären Eigenschaften zu verstehen, 
+Lernziele und Kompetenzen: Nach der Teilnahme an den Veranstaltungen zum Praktikum Elektrotechnik sind die Studierenden in der Lage: Messaufbauten mit den grundlegenden Messgeräten wie z.B. Multimeter, Sinusgenerator, Oszilloskop sowie deren Bedienung zu verstehen, den inneren Aufbau von Kondensatoren und Transformatoren zu analysieren, indem sie einen Kondensator und einen Transformator selber herstellen, einfache Schaltungen messtechnisch zu analysieren und deren Verhalten zu verstehen, durch einen Vergleich von gemessenen und berechneten Ergebnissen den Einfluss von parasitären Eigenschaften zu verstehen, 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2;3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Praktikumsleistung Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (0%) Praktikumsleistung (0%)
+Turnus des Angebots: in jedem Semester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: Bei der Durchführung der berufspraktischen Tätigkeit soll ein Überblick über die verschiedenen Tätigkeiten in der Industrie durch Mitarbeit in Arbeits- bzw. Projektgruppen erhalten werden. Zudem sollen spezielle Fertigkeiten von Ingenieuren, ausgehend vom bereits im Studium erworbenen Wissen, erworben werden. Das Industriepraktikum hat eine Dauer von mind. 6 Wochen. Näheres in den Praktikumsrichtlinien. https://www.et.studium.fau.de/studierende/ industriepraktikum/ 6Lernziele und KompetenzenDie Studierenden: •kennen typische Aufgabestellungen in der verfahrenstechnischen, elektrotechnischen, werkstofftechnischen oder verwandten Industrie •kennen und verstehen die Organisation und die soziale Struktur eines Industriebetriebes •wenden theoretische Kenntnisse an, um praktische Erfahrungen zu gewinnen •verstehen die Bedeutung von ihnen anvertrauten Aufgaben •analysieren die in der Industrie notwendigen Kenntnisse im Vergleich zu den Inhalten des eigenen Studiums 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung (6 Wochen) Nähere Angaben finden Sie in den Praktikumsrichtlinien: https:// www.et.studium.fau.de/studierende/industriepraktikum/ 11Berechnung der ModulnotePraktikumsleistung (0%) 12Turnus des Angebotskeine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 
+Lernziele und Kompetenzen: Die Studierenden: •kennen typische Aufgabestellungen in der verfahrenstechnischen, elektrotechnischen, werkstofftechnischen oder verwandten Industrie •kennen und verstehen die Organisation und die soziale Struktur eines Industriebetriebes •wenden theoretische Kenntnisse an, um praktische Erfahrungen zu gewinnen •verstehen die Bedeutung von ihnen anvertrauten Aufgaben •analysieren die in der Industrie notwendigen Kenntnisse im Vergleich zu den Inhalten des eigenen Studiums
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Berechnung der Modulnote: Praktikumsleistung (0%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 44650: Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (KI-ING) Machine learning and artificial intelligence in engineering (KI-ING)5 ECTS
+Lehrveranstaltungen: Übung : Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (Ü) (1.0 SWS )2,5 ECTS Vorlesung: Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (V) (2.0 SWS )5 ECTS
+Lehrende: PD Dr. Patric Müller  
+Modulverantwortliche/r: PD Dr. Patric Müller
+Inhalt: Die Vorlesungen und Übungen vermitteln ausgewählte Algorithmen aus den Bereichen maschinelles Lernen (ML) und künstliche Intelligenz (KI) auf Grundlagenniveau und illustrieren diese anhand von relevanten Anwendungsbeispielen. Besprochen werden unter anderem die folgenden Themengebiete: •Lineare und logistische Regression •Regularisierung •Neuronale Netze •Support Vector Machines •Clustering •Dimensionsreduktion •Anomally Detection •Reinforment Learning 6Lernziele und KompetenzenDie Studentinnen und Studenten •verstehen, was sich hinter den Schlagworten KI und ML verbirgt •verstehen wichtige Algorithmen aus den Bereichen KI und ML und können diese in Ihrer einfachsten Form selbst implementieren •kennen typische, im Bereich der Verfahrenstechnik relevante Anwendungsbeispiele von KI und ML •verstehen a) was KI und ML leisten kann und b) wo KI und ML im eigenen Fachbereich angewendet werden können •sind fähig, sich speziellere KI- und ML-Algorithmen und Anwendungen eigenständig zu erschließen •sind in der Lage die hochaktuellen Themen KI und ML mit solidem Hintergrundwissen zu diskutieren und zu bewerten •kennen einige für KI und ML wichtige Software-Tools (z.B. Python und Tensorflow) und können damit einfache Aufgaben bearbeiten 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 
+Lernziele und Kompetenzen: Die Studentinnen und Studenten •verstehen, was sich hinter den Schlagworten KI und ML verbirgt •verstehen wichtige Algorithmen aus den Bereichen KI und ML und können diese in Ihrer einfachsten Form selbst implementieren •kennen typische, im Bereich der Verfahrenstechnik relevante Anwendungsbeispiele von KI und ML •verstehen a) was KI und ML leisten kann und b) wo KI und ML im eigenen Fachbereich angewendet werden können •sind fähig, sich speziellere KI- und ML-Algorithmen und Anwendungen eigenständig zu erschließen •sind in der Lage die hochaktuellen Themen KI und ML mit solidem Hintergrundwissen zu diskutieren und zu bewerten •kennen einige für KI und ML wichtige Software-Tools (z.B. Python und Tensorflow) und können damit einfache Aufgaben bearbeiten
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222 
+
+Method of examination: Variabel (90 Minuten)
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Hastie, Tibshirani, Friedman, The elements of statistical learning •Wolfgang Ertel, Grundkurs künstliche Intelligenz •Kelleher, MacNamee, DArcy, Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies - Goodfellow, Bengio, Courville, Deep Learning •Aurelien Geron, Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 
+
+, Modulbezeichnung 95673: Materialien der Elektronik und Energietechnik Materials in electronics and electrical engineering5 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum Materialien der Elektronik und der Energietechnologie (5.Sem.) (2.0 SWS )2,5 ECTS
+Lehrende:  
+Modulverantwortliche/r: Prof. Dr.-Ing. Peter Wellmann
+Inhalt: Materialien der Elektronik und Energietechnik und Anwendungen: Metalle, Dielektrika (einschl. Piezo-, Ferro- und Thermo-Elektrika), Halbleiter (anorganisch und organisch), magnetische Materialien und Supraleiter Experimentelle Arbeiten in den Bereichen Eigenschaften und Technologien der Materialien der Elektronik und Energietechnik 6Lernziele und KompetenzenDie Studierenden erwerben fundierte Kenntnisse über Materialeigenschaften und deren Anwendung. Kennenlernen experimenteller Techniken in den Werkstoffwissenschaften, Verfassen von technischen Berichten, Teamarbeit 7Voraussetzungen für die TeilnahmeModule B2 und B7 bestanden 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenPraktikumsleistung Klausur Die Vorlesung des Lehrstuhls WW6 wird im Format "Flipped Classroom " durchgeführt (synchrone Lerneinheiten im Hörsaal & asynchrone Lerneinheiten über Studon: https:// www.studon.fau.de/studon/goto.php?target=crs_359194) Die (Teil-)Prüfung WW6 findet als elektronische Klausur (maximale Punktzahl = 300) statt. Die elektronische Klausur enthält teilweise Multiple Choice Fragen. Es gilt: Jede Antwortmöglichkeit wird bei richtiger Beantwortung mit der zugewiesenen Punktzahl bewertet; falsche Beantwortung geht innerhalb der Frage mit negativen Punkten ein. Es werden alle Punkte der Antwortmöglichkeiten addiert. Es gibt keine Negativpunkte für falsch markierte Aufgaben. 11Berechnung der ModulnotePraktikumsleistung (0%) Klausur (100%) Für die Klausur können im Rahmen des Flipped-Classroom Konzeptes bis zu 30 Bonuspunkte für die Abschlussklausur erworben werden indem an 5 von 7 Präsenzterminen die Widerholungsfragen (= Kickoff-Polls) zum Beginn der 
+Lernziele und Kompetenzen: Die Studierenden erwerben fundierte Kenntnisse über Materialeigenschaften und deren Anwendung. Kennenlernen experimenteller Techniken in den Werkstoffwissenschaften, Verfassen von technischen Berichten, Teamarbeit
+Voraussetzungen für die Teilnahme: Module B2 und B7 bestanden
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Peter Wellmann, Materialien der Elektronik und Energietechnik - Halbleiter, Graphen, Funktionale Materialien, Springer Vieweg 2017, ISBN 978-3-658-14005-2 
+
+, Modulbezeichnung 67600: Mathematik für ET 1 Mathematics for ET 17,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Michael Fried
+Inhalt: Grundlagen* Aussagenlogik, Mengen, Relationen, Abbildungen *Zahlensysteme* natürliche, ganze, rationale und reelle Zahlen, komplexe Zahlen *Vektorräume* Grundlagen, Lineare Abhängigkeit, Spann, Basis, Dimension, euklidische Vektor- und Untervektorräume, affine Räume *Matrizen, Lineare Abbildungen, Lineare Gleichungssysteme* Matrixalgebra, Lösungsstruktur linearer Gleichungssysteme, Gauß-Algorithmus, inverse Matrizen, Matrixtypen, lineare Abbildungen, Determinanten, Kern und Bild, Eigenwerte und Eigenvektoren, Basis, Ausgleichsrechnung *Grundlagen Analysis einer Veränderlichen* Grenzwert, Stetigkeit, elementare Funktionen, Umkehrfunktionen 6Lernziele und KompetenzenDie Studierenden lernen •grundlegende Begriffe und Strukturen der Mathematik •Aufbau des Zahlensystems •sicheren Umgang mit Vektoren und Matrizen •Lösungsmethoden zu linearen Gleichungssystemen •Grundlagen der Analysis und der mathematischen exakten Analysemethoden •grundlegende Beweistechniken in o.g. Bereichen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenschriftlich (90 Minuten) Übungsleistung 11Berechnung der Modulnoteschriftlich (100%) Übungsleistung (0%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 135 h 
+Lernziele und Kompetenzen: Die Studierenden lernen •grundlegende Begriffe und Strukturen der Mathematik •Aufbau des Zahlensystems •sicheren Umgang mit Vektoren und Matrizen •Lösungsmethoden zu linearen Gleichungssystemen •Grundlagen der Analysis und der mathematischen exakten Analysemethoden •grundlegende Beweistechniken in o.g. Bereichen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: schriftlich (90 Minuten) Übungsleistung
+Berechnung der Modulnote: schriftlich (100%) Übungsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried, Mathematik für Ingenieure I für Dummies, Wiley A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson K. Finck von Finckenstein, J. Lehn et. al., Arbeitsbuch für Ingenieure, Band I, Teubner 
+
+, Modulbezeichnung 67610: Mathematik für ET 2 Mathematics for ET 210 ECTS
+Lehrveranstaltungen: Vorlesung: Mathematik für Ingenieure E2: ET, IuK, ME (6.0 SWS )- Übung : IngMathE2U (2.0 SWS ) -
+Lehrende: Prof. Dr. Maria Neuß  
+Modulverantwortliche/r: Martin Gugat
+Inhalt: *Differentialrechnung einer Veränderlichen* Ableitung mit Rechenregeln, Mittelwertsätze, LHospital, Taylor-Formel, Kurvendiskussion *Integralrechnung einer Veränderlichen* Riemann-Integral, Hauptsatz der Infinitesimalrechnung, Mittelwertsätze, Partialbruchzerlegung, uneigentliche Integration *Folgen und Reihen* reelle und komplexe Zahlenfolgen, Konvergenzbegriff und - sätze, Folgen und Reihen von Funktionen, gleichmäßige Konvergenz, Potenzreihen, iterative Lösung nichtlinearer Gleichungen *Grundlagen Analysis mehrerer Veränderlicher* Grenzwert, Stetigkeit, Differentiation, partielle Ableitungen, totale Ableitung, allgemeine Taylor-Formel, Extremwertaufgaben, Extremwertaufgaben mit Nebenbedingungen, Theorem über implizite Funktionen 6Lernziele und KompetenzenDie Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •klassifizieren gewöhnliche Differentialgleichungen nach Typen •wenden elementare Lösungsmethoden auf Anfangswertprobleme bei gewöhnlichen Differentialgleichungen an •wenden allgemeine Existenz- und Eindeutigkeitsresultate an •erschließen den Zusammenhang zwischen Analysis und linearer Algebra •wenden die erlernten mathematischen Methoden auf die Ingenieurswissenschaften an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffs 
+Lernziele und Kompetenzen: Die Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •klassifizieren gewöhnliche Differentialgleichungen nach Typen •wenden elementare Lösungsmethoden auf Anfangswertprobleme bei gewöhnlichen Differentialgleichungen an •wenden allgemeine Existenz- und Eindeutigkeitsresultate an •erschließen den Zusammenhang zwischen Analysis und linearer Algebra •wenden die erlernten mathematischen Methoden auf die Ingenieurswissenschaften an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffs 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Übungsleistung Klausur (120 Minuten)
+Berechnung der Modulnote: Übungsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten v. Finckenstein et.al: Arbeitsbuch Mathematik fuer Ingenieure: Band I Analysis und Lineare Algebra. Teubner-Verlag 2006, ISBN 9783835100343 A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, 2, Pearson H. Heuser, Gewöhnliche Differentialgleichungen, Teubner M. Fried: Mathematik für Ingenieure I für Dummies. Wiley M. Fried: Mathematik für Ingenieure II für Dummies. Wiley W. Merz, P. Knabner: Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 
+
+, Modulbezeichnung 67620: Mathematik für ET 3 Mathematics for ET 35 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Michael Fried
+Inhalt: *Funktionentheorie:* Elementare Funktionen komplexer Variablen, holomorphe Funktionen, Integralsatz von Cauchy, Residuentheorie *Vektoranalysis* Potentiale, Volumen-, Oberflächen- und Kurvenintegrale, Parametrisierung, Transformationssatz, Integralsätze, Differentialoperatoren 6Lernziele und KompetenzenDie Studierenden •analysieren elementare komplexe Funktionen •überprüfen und beurteilen Eigenschaften dieser Funktionen •wenden den Integralsatz von Cauchy an •wenden die Residuentheorie an •berechnen Integrale über mehrdimensionale Bereiche •beobachten Zusammenhänge zwischen Volumen-, Oberflächen- und Kurvenintegralen •ermitteln Volumen-, Oberflächen- und Kurvenintegrale •wenden grundlegende Differentialoperatoren an. •folgern Aussagen anhand grundlegender Beweistechniken in o.g. Bereichen •beachten die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenÜbungsleistung schriftlich (60 Minuten) 11Berechnung der ModulnoteÜbungsleistung (0%) schriftlich (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden •analysieren elementare komplexe Funktionen •überprüfen und beurteilen Eigenschaften dieser Funktionen •wenden den Integralsatz von Cauchy an •wenden die Residuentheorie an •berechnen Integrale über mehrdimensionale Bereiche •beobachten Zusammenhänge zwischen Volumen-, Oberflächen- und Kurvenintegralen •ermitteln Volumen-, Oberflächen- und Kurvenintegrale •wenden grundlegende Differentialoperatoren an. •folgern Aussagen anhand grundlegender Beweistechniken in o.g. Bereichen •beachten die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Übungsleistung schriftlich (60 Minuten)
+Berechnung der Modulnote: Übungsleistung (0%) schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried, Mathematik für Ingenieure II für Dummies, Wiley A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1,2, Pearson K. Finck von Finckenstein, J. Lehn et. al., Arbeitsbuch für Ingenieure, Band I und II, Teubner 
+
+, Modulbezeichnung 92850: Photovoltaik für Energietechniker Photovoltaics for power engineering2,5 ECTS
+Lehrveranstaltungen: Vorlesung: Photovoltaik für Energietechniker (2.0 SWS, SoSe 2024 )2,5 ECTS
+Lehrende: Prof. Dr. Wolfgang Heiß  
+Modulverantwortliche/r: Prof. Dr. Wolfgang Heiß
+Inhalt: Wozu Photovoltaik? Was ist Energie und Probleme der Energieversorgung. Erneuerbare Energien und Entwicklung der Photovoltaik. Das Strahlungsangebot der Sonne. Grundlagen von Halbleitern. Aufbau und Wirkungsweise von Solarzellen. Betrachtungen zum Wirkungsgrad von Solarzellen. Hocheffizienzzellen. Dünnschichtsolarzellen Perovskitesolarzellen CdTe Solarzellen CIGS Solarzellen Organische Solarzellen Schaltung von Solarzellen zu Modulen Solarzellen-Messtechnik 6Lernziele und KompetenzenVerstehen der folgenden Problematiken: Wozu Photovoltaik? Was ist Energie und Probleme der Energieversorgung. Was versteht man unter erneuerbare Energien und wie entwickelt sich die Photovoltaik. Wie ist das Strahlungsangebot der Sonne. wie funktionieren Halbleiter ganz grundlegend? Aufbau und Wirkungsweise von Solarzellen. Wie hoch kann der Wirkungsgrad von Solarzellen sein. Wie werden Hocheffizienzzellen und Dünnschichtsolarzellen hhergestellt und wie sind sie aufgebaut. Was sind die spezifischen Eigenschaften von Perovskitesolarzellen, CdTe Solarzellen, CIGS Solarzellen, und organische Solarzellen? Wie werden Solarzellen verschalten und mit welchen Messtechnike werden sie überprüft und getestet. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 
+Lernziele und Kompetenzen: Verstehen der folgenden Problematiken: Wozu Photovoltaik? Was ist Energie und Probleme der Energieversorgung. Was versteht man unter erneuerbare Energien und wie entwickelt sich die Photovoltaik. Wie ist das Strahlungsangebot der Sonne. wie funktionieren Halbleiter ganz grundlegend? Aufbau und Wirkungsweise von Solarzellen. Wie hoch kann der Wirkungsgrad von Solarzellen sein. Wie werden Hocheffizienzzellen und Dünnschichtsolarzellen hhergestellt und wie sind sie aufgebaut. Was sind die spezifischen Eigenschaften von Perovskitesolarzellen, CdTe Solarzellen, CIGS Solarzellen, und organische Solarzellen? Wie werden Solarzellen verschalten und mit welchen Messtechnike werden sie überprüft und getestet.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222 
+
+Method of examination: Klausur (45 Minuten) Es gibt eine 45 minütige schriftliche Prüfung.
+Berechnung der Modulnote: Klausur (100%) Die Modulnote ergibt sich aus der schriftlichen Prüfung.
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Comprehensive Guide on Organic and Inorganic Solar Cells Fundamental Concepts to Fabrication Methods Edited by Md. Akhtaruzzaman Solar Energy Research Institute (SERI), The National University of Malaysia (@Universiti Kebangsaan Malaysia), Bangi, Malaysia Vidhya Selvanathan Universiti Kebangsaan Malaysia, Bangi, Malaysia Academic Press ISBN: 978-0-323-85529-7 Mertens Photovoltaik Lehrbuch zu Grundlagen, Technologie und Praxis Lehrbuch/Studienliteratur 6., aktualisierte und erweiterte Auflage. 2022 409 S. 
+
+
+, Modulbezeichnung 96390: Regenerative Energiesysteme Renewable energy systems5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Johann Jäger
+Inhalt: Diese Veranstaltung beschäftigt sich mit der Nutzung regenerativer Primärenergiequellen zur Umwandlung in mechanische und elektrische Energie. Das physikalische Verständnis für die Primärenergieträger Wasser, Wind, Biomasse, direkte Sonnenenergie und Erdwärme und deren Umwandlungsprozesse in elektrische Energie stehen dabei im Vordergrund. Dazu werden auch die Möglichkeiten und Wege zur Erhöhung der Prozesswirkungsgrade so wie deren technischen Potentiale in der elektrischen Energieversorgung aufgezeigt. Weiterhin werden die Randbedingungen beim Betrieb von regenerativen Energiesystemen im elektrischen Energieversorgungsnetz besprochen. 6Lernziele und KompetenzenDie Studierenden •kennen die Arten regenerativer Energiesysteme, •kennen die aktuellen Entwicklungen in der elektrischen Energieversorgung, •verstehen die physikalischen und technischen Zusammenhänge bei der Nutzung regenerativer Energiesysteme, •verstehen die Herausforderungen bei der Nutzung regenerativer Energiesysteme, •analysieren das Betriebsverhalten regenerativer Energiesysteme und •verstehen die Problematik der Integration regenerativer Energiesysteme in bestehende Systeme. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3;5 9Verwendbarkeit des ModulsVMG B Energietechnische Anlagen Bachelor of Science Energietechnik 2013 Pflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenschriftlich oder mündlich (90 Minuten) 11Berechnung der Modulnoteschriftlich oder mündlich (100%) 12Turnus des Angebots nur im Wintersemester 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Arten regenerativer Energiesysteme, •kennen die aktuellen Entwicklungen in der elektrischen Energieversorgung, •verstehen die physikalischen und technischen Zusammenhänge bei der Nutzung regenerativer Energiesysteme, •verstehen die Herausforderungen bei der Nutzung regenerativer Energiesysteme, •analysieren das Betriebsverhalten regenerativer Energiesysteme und •verstehen die Problematik der Integration regenerativer Energiesysteme in bestehende Systeme.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3;5
+Verwendbarkeit des Moduls: VMG B Energietechnische Anlagen Bachelor of Science Energietechnik 2013 Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: schriftlich oder mündlich (90 Minuten)
+Berechnung der Modulnote: schriftlich oder mündlich (100%)
+Turnus des Angebots: nur im Wintersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Es wird ein Skript zur Verfügung gestellt. 
+
+, Modulbezeichnung 93571: Software für die Mathematik Software for Mathematics2,5 ECTS
+Lehrende: Dr.-Ing. Clemens Stierstorfer  
+Modulverantwortliche/r: Dr.-Ing. Clemens Stierstorfer
+Inhalt: Einführung in den Umgang mit dem Mathematik-Paket MATLAB anhand von Beispielen aus der Schulmathematik und der linearen Algebra. 1)Versuch: Einführung in das Programmpaket, Datentypen in MATLAB, Skriptdateien und Funktionen, MATLAB-Sprachkonstrukte 2)Versuch: Grafische Ausgabe, zwei- und dreidimensionale Darstellungen, Darstellung von komplexen Zahlen 3)Versuch: Eigenschaften von Matrizen, spezielle MATLAB-Befehle für die lineare Algebra, lineare Gleichungssysteme und Gauß'sche Elimination, Eigenwerte und Eigenvektoren 4)Versuch: Polynome in MATLAB, Horner-Schema, Nullstellensuche und numerische Suchverfahren, Polynomapproximation, Methode der kleinsten Quadrate 5)Versuch: symbolisches Rechnen mit MATLAB, symbolisches Rechnen mit Matrizen (Gleichungssysteme), symbolisches Rechnen mit Funktionen (Kurvendiskussion) 6Lernziele und KompetenzenDie Studierenden erlernen anhand ausgewählter, grundlegender Beispiele die Anwendung des "Software-Tools" Matlab zur Lösung mathematischer bzw. ingenieurwissenschaftlicher Problemstellungen. Die Studierenden •unterscheiden die verschiedenen Datentypen in MATLAB und erstellen Variablen für Vektoren bzw. Matrizen; sie wenden die grundlegenden Rechenoperationen auf diese Variablen an. •erstellen eigene Skriptdateien und entwerfen eigene Funktionen; hierzu verwenden sie u.a. Schleifen, bedingte Anweisungen und Verzweigungen. •können mathematische Funktionen einer Variablen grafisch ausgeben und Interpolationswerkzeuge anwenden. •nutzen die Möglichkeiten der dreidimensionalen Darstellung für Funktionen mehrerer Veränderlicher. •können komplexwertige Problemstellungen, wie sie in der Elektrotechnik üblich sind, visualisieren. •lösen lineare Gleichungssysteme numerisch mit MATLAB und implementieren dazu eigene Funktionen; sie berechnen die Eigenwerte und Eigenvektoren von Matrizen; sie nutzen den Satz von Cayley-Hamilton für die effiziente Berechnung von Matrixpotenzen. •werten Polynome mit MATLAB numerisch aus und implementieren dazu eigene Funktionen; sie nutzen MATLAB für die Berechnung von Produkten und Summen von 
+Lernziele und Kompetenzen: Die Studierenden erlernen anhand ausgewählter, grundlegender Beispiele die Anwendung des "Software-Tools" Matlab zur Lösung mathematischer bzw. ingenieurwissenschaftlicher Problemstellungen. Die Studierenden •unterscheiden die verschiedenen Datentypen in MATLAB und erstellen Variablen für Vektoren bzw. Matrizen; sie wenden die grundlegenden Rechenoperationen auf diese Variablen an. •erstellen eigene Skriptdateien und entwerfen eigene Funktionen; hierzu verwenden sie u.a. Schleifen, bedingte Anweisungen und Verzweigungen. •können mathematische Funktionen einer Variablen grafisch ausgeben und Interpolationswerkzeuge anwenden. •nutzen die Möglichkeiten der dreidimensionalen Darstellung für Funktionen mehrerer Veränderlicher. •können komplexwertige Problemstellungen, wie sie in der Elektrotechnik üblich sind, visualisieren. •lösen lineare Gleichungssysteme numerisch mit MATLAB und implementieren dazu eigene Funktionen; sie berechnen die Eigenwerte und Eigenvektoren von Matrizen; sie nutzen den Satz von Cayley-Hamilton für die effiziente Berechnung von Matrixpotenzen. •werten Polynome mit MATLAB numerisch aus und implementieren dazu eigene Funktionen; sie nutzen MATLAB für die Berechnung von Produkten und Summen von 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+
+Berechnung der Modulnote: Praktikumsleistung (0%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Skriptum zum Praktikum •jedes grundlegende Lehrbuch zur höheren Mathematik, insbesondere zur Analysis, zur linearen Algebra und zu komplexen Zahlen 
+
+, Modulbezeichnung 94660: Statik und Festigkeitslehre Statics and mechanics of materials7,5 ECTS
+Lehrveranstaltungen: Vorlesung: Statik und Festigkeitslehre (V) (3.0 SWS ) - Tutorium: Statik und Festigkeitslehre (Tut) (2.0 SWS ) - Übung : Statik und Festigkeitslehre (Ü) (2.0 SWS ) -
+Lehrende: Prof. Dr.-Ing. Sigrid Leyendecker Lucie Spannraft Xiyu Chen Martina Stavole David Holz Denisa Martonová Michael Lengger  
+Modulverantwortliche/r: Prof. Dr.-Ing. Sigrid Leyendecker Prof. Dr.-Ing. Kai Willner
+Inhalt: •Kraft- und Momentenbegriff, Axiome der Statik •ebene und räumliche Statik •Flächenmomente 1. und 2. Ordnung •Haft- und Gleitreibung •Spannung, Formänderung, Stoffgesetz •überbestimmte Stabwerke, Balkenbiegung •Torsion •Elastizitätstheorie und Festigkeitsnachweis •Stabilität 6Lernziele und KompetenzenWissen Die Studierenden kennen •die axiomatischen Grundlagen der Technischen Mechanik sowie die entsprechenden Fachtermini. •das Schnittprinzip und die Einteilung der Kräfte in eingeprägte und Reaktionskräfte bzw. in äußere und innere Kräfte. •die Gleichgewichtsbedingungen am starren Körper. •das Phänomen der Haft- und Gleitreibung. •die Begriffe der Verzerrung und Spannung sowie das linear- elastische Stoffgesetz. •den Begriff der Hauptspannungen sowie das Konzept der Vergleichsspannung und Festigkeitshypothesen. •das Problem der Stabilität und speziell die vier Eulerschen Knickfälle für ein schlankes Bauteil unter Drucklast. Verstehen Die Studierenden •können Kräfte nach verschiedenen Kriterien klassifizieren. •können verschiedene Lagerungsarten unterscheiden und die entsprechenden Lagerreaktionen angeben. •können den Unterschied zwischen statisch bestimmten und unbestimmten Systemen erklären. •können den Unterschied zwischen Haft- und Gleitreibung erläutern. 
+Lernziele und Kompetenzen: Wissen Die Studierenden kennen •die axiomatischen Grundlagen der Technischen Mechanik sowie die entsprechenden Fachtermini. •das Schnittprinzip und die Einteilung der Kräfte in eingeprägte und Reaktionskräfte bzw. in äußere und innere Kräfte. •die Gleichgewichtsbedingungen am starren Körper. •das Phänomen der Haft- und Gleitreibung. •die Begriffe der Verzerrung und Spannung sowie das linear- elastische Stoffgesetz. •den Begriff der Hauptspannungen sowie das Konzept der Vergleichsspannung und Festigkeitshypothesen. •das Problem der Stabilität und speziell die vier Eulerschen Knickfälle für ein schlankes Bauteil unter Drucklast. Verstehen Die Studierenden •können Kräfte nach verschiedenen Kriterien klassifizieren. •können verschiedene Lagerungsarten unterscheiden und die entsprechenden Lagerreaktionen angeben. •können den Unterschied zwischen statisch bestimmten und unbestimmten Systemen erklären. •können den Unterschied zwischen Haft- und Gleitreibung erläutern. 
+
+
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Gross, Hauger, Schnell, Wall: Technische Mechanik 1, Berlin:Springer 2006 •Gross, Hauger, Schnell, Wall: Technische Mechanik 2, Berlin:Springer 2007 
+
+, Modulbezeichnung 97012: Strömungsmechanik I Fluid mechanics I5 ECTS
+Lehrveranstaltungen: Vorlesung: Strömungsmechanik I (2.0 SWS ) 5 ECTS Übung : Strömungsmechanik I - Übung (2.0 SWS ) -
+Lehrende: Prof. Dr. Andreas Wierschem  
+Modulverantwortliche/r: Prof. Dr. Andreas Wierschem
+Inhalt: •Charakterisierung von Fluiden •Kontinuumsannahme •Strömungskinematik: materielle und Feldbeschreibung, Bahn- und Stromlinien, materielle Zeitableitung, Relativbewegung, Reynoldssches Transporttheorem •Bilanzgleichungen: Massenbilanz, Navier-Stokes-Gleichung, integral und differentiell •Hydrostatik: Auftrieb, Druck auf Wände, kapillarer Druck, gleichmäßig beschleunigte Systeme •Grundlagen der Ähnlichkeitstheorie: Dimensionslose Kennzahlen, Grenzfälle der Navier-Stokes-Gleichung •Bernoulli-Gleichung: stationär und instationär, mit Druckverlusten und Energieaustausch. Die Studierenden werden angeleitet, mit dem erhaltenen Wissen strömungsmechanische Problemstellungen zu bewerten, Lösungswege zu erarbeiten und mit eingeübten Methoden und Vorgehensweisen an Hand von Beispielen praktisch anzuwenden. 6Lernziele und KompetenzenDas Modul bietet eine systematische Einführung in die Strömungsmechanik. Die Studierenden: •können die Bedeutung der Strömungsmechanik sowohl im Alltag als auch bei industriellen Prozessen nachvollziehen •verfügen über einen Überblick über verschiedene Regime der Strömungsmechanik und verstehen ihren Anwendungsbereich •können die erworbenen Grundkenntnisse mit eingeübten Methoden und Vorgehensweisen anhand von Beispielen in der Übung praktisch anwenden •sind fähig, strömungsmechanische Problemstellungen zu bewerten und Lösungswege anzuwenden. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 
+Lernziele und Kompetenzen: Das Modul bietet eine systematische Einführung in die Strömungsmechanik. Die Studierenden: •können die Bedeutung der Strömungsmechanik sowohl im Alltag als auch bei industriellen Prozessen nachvollziehen •verfügen über einen Überblick über verschiedene Regime der Strömungsmechanik und verstehen ihren Anwendungsbereich •können die erworbenen Grundkenntnisse mit eingeübten Methoden und Vorgehensweisen anhand von Beispielen in der Übung praktisch anwenden •sind fähig, strömungsmechanische Problemstellungen zu bewerten und Lösungswege anzuwenden.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%) 
+
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •J. H. Spurk, N. Aksel: |Strömungslehre: Einführung in die Theorie der Strömungen|, 8. Auflage, Springer-Verlag Berlin, Heidelberg, New York, 2010 •F. Durst: |Grundlagen der Strömungsmechanik - Eine Einführung in die Theorie der Strömungen in Fluiden|, Springer, 2006 •H. Kuhlmann: |Strömungsmechanik|, Pearson, 2007 •P. K. Kundu: |Fluid Mechanics|, 5th Ed., Academic Press, 2012 •F. M. White: |Fluid Mechanics|, 7th Rev. Ed., McGraw Hill, 2011 •F. A. Morrison: |An Introduction to Fluid Mechanics|, Cambridge University Press, 2013 •L. Böswirth: |Technische Strömungslehre|, 9. Auflage, Vieweg & Teubner, 2011 •W. Kümmel: |Technische Strömungsmechanik - Theorie und Praxis|, 3. Auflage, Teubner, 2007 •H. Sigloch: |Technische Fluidmechanik|, 8. Auflage, Springer, 2012 •H. Oertel Jr.: |Strömungsmechanik - Grundlagen, Grundgleichungen, Lösungsmethoden, Softwarebeispiele|, 6. Auflage, Vieweg & Teubner, 2011 
+
+, Modulbezeichnung 92476: Technische Thermodynamik I Technical thermodynamics7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Andreas Paul Fröba
+Inhalt: Die Veranstaltung vertieft die Grundlagen der Technischen Thermodynamik und besitzt folgende inhaltliche Schwerpunkte: •Grundbegriffe der Technischen Thermodynamik •Ideale Gase und deren Zustandsgleichungen •1. und 2. Hauptsatz der Thermodynamik •Grenzen der Umwandlung von Energien •Thermodynamische Eigenschaften reiner Stoffe •Kreisprozesse •Ideale Gas- und Gas-Dampf-Gemische •Prozesse mit feuchter Luft 6Lernziele und KompetenzenDie Studierenden •kennen die Begriffe und Grundlagen der Technischen Thermodynamik •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bwerten diese aufgrund charakteristischer Kennzahlen •optimieren thermodynamische Prozesse •lösen auch komplexe Fragestellungen der Technischen Thermodynamik 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 165 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Begriffe und Grundlagen der Technischen Thermodynamik •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bwerten diese aufgrund charakteristischer Kennzahlen •optimieren thermodynamische Prozesse •lösen auch komplexe Fragestellungen der Technischen Thermodynamik
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript •H.D. Baehr, S. Kabelac, Thermodynamik 
+
+, Modulbezeichnung 92483: Wärmekraftwerke Thermal Power Plants5 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum Chemieingenieurwesen (3.0 SWS )2,5 ECTS Übung : Übung Wärmekraftwerken (1.0 SWS ) - Vorlesung: Wärmekraftwerke (2.0 SWS ) 2,5 ECTS
+Lehrende: Steffen Leimbach Agnes Kutz Prof. Dr.-Ing. Jürgen Karl  
+Modulverantwortliche/r: Prof. Dr.-Ing. Jürgen Karl
+Inhalt: Einführung: •Entwicklung des Kraftwerksmarktes •Aktuelle Herausforderungen der Kraftwerkstechnik •Der Kraftwerkspark in Deutschland •Prinzipien für die thermodynamische Optimierung von thermischen Kraftwerken Teil 1: Dampfkraftwerke und Kraftwerkskomponenten •Dampfkraftwerks-Prozesse (Großkraftwerke, Prozesse für regenerative Energien und die KWK, Wirkungsgradsteigernde Maßnahmen, Teillastverhalten und Flexibilisierung, CO2 freie Dampfkraftwerke) •Feuerungen und Dampferzeuger (Verbrennungsprozesse, Gas- und Ölfeuerungen, Rostfeuerungen, Kohlenstaubfeuerungen, Wirbelschichtfeuerungen, Dampferzeugerbauarten, Dimensionierung, konstruktive Gestaltung) •Dampfkraftwerke für erneuerbare Energien (Solarthermische Kraftwerke, Geothermische Kraftwerke, Biomasse-Kraftwerke, ORC-Prozesse) •Kernkraftwerke (Grundlagen, Reaktorkonzepte, Reaktorsicherheit und Störfälle) Teil 2: Kombikraftwerke und Kraftwerkskomponenten •Erdgasgefeuerte Kombikraftwerke (Abhitzedampferzeuger, wirkungsgradsteigernde Maßnahmen, konstruktive Gestaltung) •Kombikraftwerke mit Festbrennstoffen (IGCC-Kraftwerke, Kohlevergasung, Kombiprozesse mit CO2-Abtrennung) 6Lernziele und KompetenzenDie Studierenden erlernen •detailliert Technologien, Prozesse und Komponenten der Kraftwerkstechnik •das Herleiten und Anwenden thermodynamischer Prinzipien zur Prozessoptimierung •Grundlagen und die selbstständige Anwendung der rechnergestützten Prozesssimulation 7Voraussetzungen für die TeilnahmeEmpfohlen wird der erfolgreiche Abschluss der Prüfungen "Technische Thermodynamik" und "Energietechnik" 
+Lernziele und Kompetenzen: Die Studierenden erlernen •detailliert Technologien, Prozesse und Komponenten der Kraftwerkstechnik •das Herleiten und Anwenden thermodynamischer Prinzipien zur Prozessoptimierung •Grundlagen und die selbstständige Anwendung der rechnergestützten Prozesssimulation
+
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (60 Minuten) Praktikumsleistung
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Folien zur Vorlesung und Übung in StudOn •Karl: Dezentrale Energiesysteme, Oldenbourg-Verlag •Effenberger: Dampferzeuger, Springer-Verlag •Strauss: Kraftwerkstechnik, Springer-Verlag 
+
+, Modulbezeichnung 97030: Wärme- und Stoffübertragung Heat and mass transfer5 ECTS
+Lehrveranstaltungen: Übung : Übung zu Wärme- und Stoffübertragung für ET (1.0 SWS )- Vorlesung: Wärme- und Stoffübertragung für ET, MB und CE (2.0 SWS )-
+Lehrende: Dr.-Ing. Franz Huber  
+Modulverantwortliche/r: Dr.-Ing. Franz Huber Prof. Dr.-Ing. Stefan Will
+Inhalt: •Grundlagen der Wärme-, Stoff und Impulsübertragung •Wärmeleitung in ruhenden Körpern •Wärmeübertragung in einphasigen Strömungen durch konvektiven Wärmeübergang •Diffusion und Stoffübertragung an strömende Fluide •Analogie zwischen Wärme- und Stoffübertragung •Wärmeübertragung durch Strahlung •Wärmeübertragung bei Kondensation und Verdampfung •Wärmeübertrager 6Lernziele und KompetenzenDie Studierenden: •verstehen die Mechanismen der Wärme- und Stoffübertragung und können ihre Bedeutung und ihren Einzelbeitrag bei technischen Problemstellungen ermessen •können die Beiträge der verschiedenen Wärmeübertragungsmechanismen (Wärmeleitung, Konvektion, Strahlung und bei Phasenwechsel) quantifizieren •können die thermische Auslegung von einfachen Wärmeübertragern selbständig durchführen •verstehen die Analogie zwischen Wärme- und Stoffübertragung und sind in der Lage, sie bei der Lösung von Stoffübertragungsproblemen zu nutzen 7Voraussetzungen für die TeilnahmeGrundlegende Kenntnisse der Mathematik (Differential- und Integralrechnung, mathematische Charakterisierung von Feldern, Differentialoperatoren, gewöhnliche und partielle Differentialgleichungen) / Grundlagen der Thermodynamik 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 
+Lernziele und Kompetenzen: Die Studierenden: •verstehen die Mechanismen der Wärme- und Stoffübertragung und können ihre Bedeutung und ihren Einzelbeitrag bei technischen Problemstellungen ermessen •können die Beiträge der verschiedenen Wärmeübertragungsmechanismen (Wärmeleitung, Konvektion, Strahlung und bei Phasenwechsel) quantifizieren •können die thermische Auslegung von einfachen Wärmeübertragern selbständig durchführen •verstehen die Analogie zwischen Wärme- und Stoffübertragung und sind in der Lage, sie bei der Lösung von Stoffübertragungsproblemen zu nutzen
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript •H. D. Baehr, K. Stephan, Wärme- und Stoffübertragung, Springer (2010) 
+
+, Modulbezeichnung 95652: Werkstoffe: Mechanische Eigenschaften und Verarbeitung Mechanical Properties and Processing of Materials5 ECTS
+Lehrveranstaltungen: Vorlesung: Mechanische Eigenschaften (2.0 SWS ) 2,5 ECTS Vorlesung: Vorlesung Materialien für Regenerative- Energie-Anwendungen (2.0 SWS )2,5 ECTS
+Lehrende: Tobias Fey Heinz Werner Höppel Dr.-Ing. Joachim Kaschta Prof. Dr.-Ing. Carolin Körner Prof. Dr.-Ing. Peter Wellmann Dr.-Ing. Matthias Markl  
+Modulverantwortliche/r: Prof. Dr.-Ing. Carolin Körner
+Inhalt: Es werden die mechanischen Grundgrößen definiert, die das mechanische Werkstoffverhalten charakterisieren und wesentliche Aspekte des Werkstoffverhaltens diskutiert. *Grundgrößen* •Spannung •Dehnung •Streckgrenze •Härte etc. *Mechanisches Werstoffverhalten* •elastische Eigenschaften •plastische Verformung •Bruchmechanik Am Beispiel verschiedener Anwendungen regenerativer Energien bzw. energieintensiver Prozesse mit Potential zur Effizienzsteigerung werden die damit verknüpften Herausforderungen der Werkstofftechnik dargestellt: *Energieerzeugung* •Solarthermie •Brennstoffzelle •Verbrennung / Hochtemperaturprozesse •Thermoelektrik •Windenergie •Photovoltaik *Speicherung und Transport* •Energiespeicher •Stromtransport •Batterien *Energieeffizienz* •Leichtbau im Transport •Leuchtdioden / Energiesparlampen 6Lernziele und KompetenzenFachkompetenz Wissen Lernende 
+Lernziele und Kompetenzen: Fachkompetenz Wissen Lernende 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Rösler, Harders, Bäker "*Mechanisches Verhalten der Werkstoffe* Teubner, Stuttgart •Ginley, Cahen "*Fundamentals of Materials for Energy and Environmental Sustainability*" MRS, Cambridge 
+
+, Modulbezeichnung 95640: Werkstoffe und ihre Struktur Materials and their structure5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Mathias Göken
+Inhalt: In diesem Modul erfahren die Studierenden eine Einführung in die Grundlagen der Werkstoffwissenschaften. Nach einer übersichtsartigen Einführung in die verschiedenen Werkstoffgruppen werden die atomare Struktur und die chemische Bindung rekapituliert. Es folgen eine Übersicht über die Gitterfehler im Realkristall. In einem längeren Kapitel werden dann die mikroskopischen und spektroskopischen Methoden der Materialanalyse behandelt. Danach werden die Grundtypen der Zustandsdiagramme und insbesondere das Eisen-Kohlenstoff-Zustandsdiagramm, die Stähle und Gußeisen besprochen. Mit einem längeren Kapitel über die Phasenumwandlungen und die Diffusion werden die Grundlagen der Beschreibung der Werkstoffe abgeschlossen. In den folgenden Kapiteln werden die mechanischen Eigenschaften, insbesondere Verformung, Bruch und Festigkeitssteigerung sowie die mechanischen Prüfverfahren behandelt. Das Modul schließt mit einer kurzen Übersicht über die Werkstoffbezeichnungen. 6Lernziele und KompetenzenDie Studierenden •lernen den vielfältigen strukturellen Aufbau der Werkstoffe kennen •erkennen den Zusammenhang zwischen der chemischen Zusammensetzung der Struktur und den Eigenschaften von Werkstoffen •verstehen die Grundsätze der Legierungsthermodynamik und der Zusandsdiagramme •erwerben erste Kenntnisse bezüglich der mechanischen Eigenschaften und der Härtungsmechanismen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 
+Lernziele und Kompetenzen: Die Studierenden •lernen den vielfältigen strukturellen Aufbau der Werkstoffe kennen •erkennen den Zusammenhang zwischen der chemischen Zusammensetzung der Struktur und den Eigenschaften von Werkstoffen •verstehen die Grundsätze der Legierungsthermodynamik und der Zusandsdiagramme •erwerben erste Kenntnisse bezüglich der mechanischen Eigenschaften und der Härtungsmechanismen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%) 
+
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+
+, Modulbezeichnung 96511: Betriebsmittel und Komponenten elektrischer Energiesysteme Operating materials and components for electrical energy supply systems5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Matthias Luther
+Inhalt: "Betriebsmittel und Komponenten elektrischer Energiesysteme" beschäftigt sich mit den Betriebsmitteln und Komponenten elektrischer Energiesysteme. Als Einleitung bekommen die Studierenden einen Überblick über die Struktur und den Aufbau der elektrischen Energieversorgung. Anschließend werden die notwendigen Berechnungsgrundlagen für die Modellierung der Komponenten erläutert. Im Hauptteil werden die einzelnen Betriebsmittel der elektrischen Energieversorgung vorgestellt und auf die mathematische Modellierung ihres Verhaltens eingegangen. Des Weiteren wird auf die Kriterien zur Dimensionierung von kompletten Anlagen, Komponenten und einzelnen Betriebsmitteln eingegangen. Abschließend werden die aktuellen Entwicklungen in der Leistungselektronik und Speichertechnik vorgestellt und erläutert. Gliederung: 1. Einführung: Grundlagen elektrischer Energiesysteme 2. Berechnungsgrundlagen 3. Ersatzschaltungen und Kenndaten von Betriebsmitteln •Freileitungen •Kabel •Transformatoren •Generatoren •Lasten •Kompensationseinrichtungen 4. Aufbau und Komponenten von Schaltanlagen 5. Bemessung und Auslegung von Anlagen und Betriebsmitteln 6. Leistungselektronische Komponenten 7. Speicher 6Lernziele und KompetenzenDie Studierenden •kennen die charakteristischen Betriebsmittel und Komponenten elektrischer Energiesysteme der Primär- und Sekundärtechnik (Freileitungen, Kabel, Transformatoren, Generatoren, Lasten, Kompensationsanlagen, Leistungselektronik, Speicher, Schutzgeräte und weitere), •kennen die Grundsätze bei Planung und Betrieb von elektrischen Anlagen, 
+Lernziele und Kompetenzen: Die Studierenden •kennen die charakteristischen Betriebsmittel und Komponenten elektrischer Energiesysteme der Primär- und Sekundärtechnik (Freileitungen, Kabel, Transformatoren, Generatoren, Lasten, Kompensationsanlagen, Leistungselektronik, Speicher, Schutzgeräte und weitere), •kennen die Grundsätze bei Planung und Betrieb von elektrischen Anlagen, 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Herold: Elektrische Energieversorgung II. Parameter elektrischer Stromkreise - Freileitungen und Kabel Transformatoren, J. Schlembach Fachverlag, 2. Auflage, 2008 und 2010. •Oeding, Oswald: Elektrische Kraftwerke und Netze Springer- Verlag, 8. Auflage, 2016. •Schwab, A.: Elektroenergiesysteme, Erzeugung, Transport, Übertragung und Verteilung elektrischer Energie Springer- Verlag, 2.Auflage 2009. 
+
+, Modulbezeichnung 92460: Chemische Thermodynamik Chemical thermodynamics5 ECTS
+Lehrveranstaltungen: Vorlesung: Chemische Thermodynamik (VL) (2.0 SWS )5 ECTS Übung : Chemische Thermodynamik (UE) (1.0 SWS ) -
+Lehrende: Prof. Dr. Matthias Thommes Jakob Söllner Markus Terlinden Peter Leicht  
+Modulverantwortliche/r: Prof. Dr. Matthias Thommes
+Inhalt: Thermodynamische Beschreibung von Zwei- und Dreistoffgemischen: Dampf-Flüssigkeit, Flüssigkeit-Flüssigkeit, Feststoff-Flüssigkeit, osmotischer Druck. Modellierung dieser Phasengleichgewichte mit Aktivitäten und Fugazitäten. Anwendung dieser Phasengleichgewichte in Trennverfahren. Chemische Gleichgewichte mit Aktivitäten und Fugazitäten. 6Lernziele und KompetenzenDie Studierenden: •sind mit grundlegenden thermodynamischen Begriffen und Gleichungen vertraut •können Mehrkomponentengemische thermodynamisch beschreiben •sind fähig Phasengleichgewichte zu modellieren •sind in der Lage Zustandsänderungen und Reaktionsgleichungen thermodynamisch zu beschreiben •können die thermodynamischen Grundlagen zur Auslegung thermischer Trennverfahren anwenden 7Voraussetzungen für die TeilnahmeGrundlagen in Physikalischer Chemie 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die Studierenden: •sind mit grundlegenden thermodynamischen Begriffen und Gleichungen vertraut •können Mehrkomponentengemische thermodynamisch beschreiben •sind fähig Phasengleichgewichte zu modellieren •sind in der Lage Zustandsänderungen und Reaktionsgleichungen thermodynamisch zu beschreiben •können die thermodynamischen Grundlagen zur Auslegung thermischer Trennverfahren anwenden
+Voraussetzungen für die Teilnahme: Grundlagen in Physikalischer Chemie
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 94510: Grundlagen der Messtechnik Fundamentals of metrology5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Tino Hausotte
+Inhalt: Inhalt (Vorlesung): •Allgemeine Grundlagen •Was ist Metrologie: Metrologie und Teilgebiete, Einsatzbereiche, historische Entwicklung des Einheitssystems, SI-Einheitensystem SI-Einheiten (cd, K, kg, m, s, A, mol) Größe, Größenwert Extensive und intensive Größen Messung, Messgröße, Maßeinheit, Messergebnis, Messwert, Gebrauch und korrekte Angabe der Einheiten, Schreibweisen von Größenwerten, Angabe von Einheiten Grundvoraussetzungen für das Messen Rückführung der Einheiten •Messprinzipien, Messmethoden und Messverfahren: Messprinzip, Messmethode, Messverfahren Einteilung der Messmethoden, Ausschlagmessmethode, Differenzmessmethode, Substitutionsmessmethode und Nullabgleichsmethode (Kompensationsmethode) Prinzip eines Messgerätes, direkte und indirekte Messmethoden Kennlinie und Kennlinienarten, analoge und digitale Messmethoden, kontinuierliche und diskontinuierliche Messung, Auflösung, Empfindlichkeit, Messbereich absolute und inkrementelle Messmethoden •Statistik Auswertung von Messreihen: Berechnung eines Messergebnisses anhand von Messreihen Grundbegriffe der deskriptiven Statistik Darstellung und Interpretation von Messwertverteilungen (Histogramme) Häufigkeit (absolute, relative, kumulierte, relative kumulierte) Berechnung und Interpretation grundlegender Parameter: Lage (Mittelwert, Median, Modus), Streuung (Spannweite, Varianz, Standardabweichung, Variationskoeffizient), Form (Schiefe, Kurtosis bzw. Exzess) Grundbegriffe der Stochastik, Wahrscheinlichkeiten, Verteilungen (Rechteck-, U- und Normalverteilung), Zentraler Grenzwertsatz, statistische Momente Grundbegriffe der analytischen Statistik, statistische Tests und statistische Schätzverfahren Korrelation und Regression •Messabweichungen und Messunsicherheit: Messwert, wahrer Wert, Ringvergleich, vereinbarter Wert Einflüsse auf die Messung (Ishikawa-Diagramm) Messabweichung (absolute, relative, systematische, zufällige) Umgang mit Messabweichungen, Korrektion bekannter systematischer Messabweichungen Kalibrierung, Verifizierung, Eichung 
+
+
+
+Inhalt: (Übung): •Grundlagen der Elektrotechnik (Wiederholung von Grundlagen) •Statistik Auswertung von Messreihen (Histogramme, Hypothesentest, Konfidenzintervalle, statistischen Maßzahlen) •Korrelation und Regression (Korrelationskoeffizient, Fehlerfortpflanzung, Residuenanalyse) •Messabweichungen, Einführung in die Messunsicherheitsberechnung (Kompensation systematischer Abweichungen, Messunsicherheitsanalyse einer einfachen Messung) •Elektrische Größen, Messelektronik und Analog-Digital- Umsetzung (Abweichungsberechnung bei der Strommessung, Anpassungsnetzwerk für ein Drehspulinstrument, Bereichsanpassung mit einem Operationsverstärker) •Anwendung der Wheatstoneschen Brückenschaltung bei Messungen mit Dehnungsmessstreifen •Messungen mit Fotodioden bei unterschiedlichen Betriebsarten •Temperaturmesstechnik (Aufgaben zu Metall- Widerstandsthermometern und Pyrometern) •Längenmesstechnik (Abbesche Prinzip, Induktivität eines Eisenkerns mit Luftspalt, Foliendickenmessung mittels einer kapazitiven Messeinrichtung) •Messen von Kraft und Masse (Massewirkung, Balkenwaage, Federwaage, piezoelektrischer Kraftsensor) •Prozessmesstechnik (Druck- und Durchflussmessung, U-Rohrmanometer, Corioliskraftmessung, Ultraschallmessverfahren, Turbinenzähler) •Fertigungsmesstechnik (Standardgeometrieelemente, Angabe von Toleranzen, Prüfen von Rundheitsabweichungen mit Hilfe eines Feinzeigers) Contents: •General basics •What is metrology: Metrology and braches, application fields, historical development of the unit system, SI unit system Definitions of SI units (cd, K, kg, m, s, A, mol) Quantity, quantity value Extensive and intensive quantities Measurement, measurand, measurement unit, measurement result, measured quantity value Correct use and notation of units and of quantity values Basic requirements for the measurement Traceability •Principles, methods and procedures of measurement: Principles, methods and procedures of measurement Classification of measurement methods, deflection, differential, substitution and compensation measurement methods 
+
+
+
+Lernziele und Kompetenzen: *Wissen* •Die Studierenden kennen grundlegende statistische Methoden zur Beurteilung von Messergebnissen und Ermittlung von Messunsicherheiten. •Die Studierenden kennen grundlegende Messverfahren zur Erfassung der Messgrößen aller SI-Einheiten. •Die Studierenden kennen das Basiswissen zu Grundlagen der Messtechnik und messtechnischen Tätigkeiten. •Die Studierenden haben Grundkenntnisse zur methodisch- operativen Herangehensweise an Aufgaben des Messens statischer Größen, zum Lösen einfacher Messaufgaben und zum Ermitteln von Messergebnissen aus Messwerten. *Verstehen* •Die Studierenden können die Eigenschaften von Messeinrichtungen und Messprozessen beschreiben. •Die Studierenden können das Internationale Einheitensystem und die Rückführung von Messergebnissen beschreiben. *Anwenden* •Die Studierenden können einfache Messungen statischer Größen durchführen. •Die Studierenden können Messunsicherheiten komplexer Messeinrichtungen bei gegebenen Eingangsgrößen berechnen. *Evaluieren (Beurteilen)* • ºThe students know basic statistical methods for the evaluation of measurement results and the determination of measurement uncertainties. ºThe students know basic measuring methods for the record of measured values for all SI units. 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (60 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: International Vocabulary of Metrology Basic and General Concepts and Associated Terms, VIM, 3rd edition, JCGM 200:2008, http:// www.bipm.org/en/publications/guides/vim.html DIN e.V. (Hrsg.): Internationales Wörterbuch der Metrologie Grundlegende und allgemeine Begriffe und zugeordnete Benennungen (VIM) ISO/IEC-Leitfaden 99:2007. Korrigierte Fassung 2012, Beuth Verlag GmbH, 4. Auflage 2012 Hoffmann, Jörg: Handbuch der Messtechnik. 4. Auflage, Carl Hanser Verlag München, 2012 ISBN 978-3-446-42736-5 
+
+
+, Modulbezeichnung 47701: Konstruktionswerkstoffe I in der Energietechnik Construction materials in electrical engineering5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Charakterisierung und Prüfung von Werkstoffen (2.0 SWS, )2,5 ECTS Vorlesung: Vorlesung Werkstoffkunde und Technologie der Metalle (2.0 SWS, WiSe 2024 )3 ECTS
+Lehrende: Dr.-Ing. Thomas Przybilla Prof. Dr. Erdmann Spiecker  
+Modulverantwortliche/r: Prof. Dr.-Ing. Carolin Körner
+Inhalt: Werkstoffkunde und Technologie der Metalle: Im Rahmen dieser Vorlesung werden die Werkstoffgruppen Stahl, Gusseisen, Aluminium- und Magnesiumlegierungen behandelt. Dabei wird die Besprechung in die Einzelkapitel Erzeugung, Verarbeitung, wichtige Legierungen, Anwendung und neue Entwicklungen untergliedert. Bei Vorgängen von besonderer praktischer Bedeutung wird die Verknüpfung mit den metallphysikalischen Grundlagen detailliert behandelt. Charakterisierung und Prüfung von Werkstoffen: Inhalt sind Mess- und Analyseverfahren zur Charakterisierung und Prüfung von Werkstoffen aus allen Materialklassen (Messgrößen und ihre Einheiten, Dichte und Porosität, chemische Analyse, Gefügeanalyse, Bestimmung von mechanischen, thermischen, elektrischen, magnetischen und optischen Eigenschaften, zerstörungsfreie Prüfung). 6Lernziele und KompetenzenDie Studierenden: •können Eigenschaften und Prozessierung der wichtigsten metallischen Werkstoffe im Kontext metallphysikalischer Grundlagen erklären. •erhalten einen Einblick in die wichtigsten Legierungsgruppen und metallische Werkstoffsysteme und sind in der Lage, vor dem Hintergrund von Anwendungsprofilen eine Werkstoffauswahl zu treffen. •lernen alle relevanten Methoden der Werkstoffcharakterisierung bzw. -prüfung kennen und sind fähig, geeignete Verfahren auszuwählen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5;6 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 
+Lernziele und Kompetenzen: Die Studierenden: •können Eigenschaften und Prozessierung der wichtigsten metallischen Werkstoffe im Kontext metallphysikalischer Grundlagen erklären. •erhalten einen Einblick in die wichtigsten Legierungsgruppen und metallische Werkstoffsysteme und sind in der Lage, vor dem Hintergrund von Anwendungsprofilen eine Werkstoffauswahl zu treffen. •lernen alle relevanten Methoden der Werkstoffcharakterisierung bzw. -prüfung kennen und sind fähig, geeignete Verfahren auszuwählen.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5;6
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%) 
+
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: *Werkstoffkunde und Technologie der Metalle:* Ilschner/Singer: Werkstoffwissenschaften und Fertigungstechnik 
+
+, Modulbezeichnung 96630: Leistungselektronik Power electronics5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Thomas Eberle
+Inhalt: *Grundlagen der Topologieanalyse*: Stationaritätsbedingungen, Strom- Spannungsformen, verbotene Schalthandlungen *Nicht-isolierende Gleichspannungswandler*: Grundlegende Schaltungstopologien, Funktionsweise, Dimensionierung *Isolierende Gleichspannungswandler*: Grundlegende Schaltungstopologien, Gleichrichterschaltungen, Transformatoren als Übertrager bzw. Energiespeicher *Leistungshalbleiter*: Grundlagen des statischen und dynamischen Verhaltens von MOSFET, IGBT und Dioden; Spezifika von WBG- Leistungshalbleitern auf Basis von Siliziumcarbid (SiC) und Galliumnitrid (GaN); Kommutierungsarten; Kurzschluss, Avalanche *Passive Leistungsbauelemente*: Induktive Bauelemente (weichmagnetische Kernmaterialien, nichtlineare Eigenschaften, Kernverluste, Wicklungsverluste); Kondensatoren (Technologien und deren Anwendungseigenschaften, sicherer Arbeitsbereich, Brauchbarkeitsdauer, Impedanzverhalten) *Parasitäre Elemente*: Niederinduktive Aufbautechniken *Treiber- und Ansteuerschaltungen für Leistungshalbleiter*: Grundschaltungen zur Ansteuerung MOS-gesteuerter Bauelemente mit und ohne galvanische Isolation, Schaltungen zur Erhöhung von Störabstand und Treiberleistung, Ladungspumpe, Schutzbeschaltungen, PWM-Modulatoren *Gleichrichter und Leistungsfaktorkorrektur*: Phasenan-/ abschnittsteuerung, Netzstromverzerrungen, aktive Leistungsfaktorkorrektur, Gleichrichterschaltungen *Wechselrichter*: Netzgeführte Stromrichter, Zwei-/ Dreipunktwechselrichter, Sinus-Dreieck- und Raumzeigermodulation 6Lernziele und KompetenzenDie Studierenden können •die Funktionsprinzipien leistungselektronischer Basistopologien mit und ohne galvanische Isolation erklären, •einfache leistungselektronische Wandler analysieren und die für ein Systemdesign relevanten elektrischen und thermischen Parameter berechnen, •die grundlegenden Eigenschaften verschiedener Schaltungslösungen erklären und diskutieren, •die Vor- und Nachteile verschiedener Bauteiltechnologien in einer leistungselektronischen Schaltung bewerten, •einfache leistungselektronische Wandler entwerfen. 
+Lernziele und Kompetenzen: Die Studierenden können •die Funktionsprinzipien leistungselektronischer Basistopologien mit und ohne galvanische Isolation erklären, •einfache leistungselektronische Wandler analysieren und die für ein Systemdesign relevanten elektrischen und thermischen Parameter berechnen, •die grundlegenden Eigenschaften verschiedener Schaltungslösungen erklären und diskutieren, •die Vor- und Nachteile verschiedener Bauteiltechnologien in einer leistungselektronischen Schaltung bewerten, •einfache leistungselektronische Wandler entwerfen. 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Energietechnik 2011 VMG A Energietechnische Komponenten Bachelor of Science Energietechnik 2013 Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: [1] Franz Zach: Leistungselektronik. Springer-Vieweg, ISBN 978-3-658-04898-3 [2] Schröder D., Marquardt R.: Leistungselektronische Schaltungen. Springer-Vieweg, ISBN 978-3-662-55324-4 [3] Joachim Specovius: Grundkurs Leistungselektronik. Springer- Vieweg, ISBN 978-3-658-03308-8 [4] Ulrich Schlienz: Schaltnetzteile und ihre Peripherie. Vieweg, ISBN 3-528-03935-3 [5] Albach M.: Induktivitäten in der Leistungselektronik. Springer-Vieweg, ISBN 978-3-658-15080-8 [6] Tursky W., Reimann T., et al.: Applikationshandbuch Leistungshalbleiter. Semikron, ISBN 978-3-938843-56-7 [7] Volke A., Hornkamp M.: IGBT Modules. Infineon, ISBN 978-3-00-040134-3 [8] Kenneth L. Kaiser: Electromagnetic Compatibility Handbook. CRC Press, ISBN 0-8493-2087-9 [9] Hofer K.: Moderne Leistungselektronik und Antriebe. VDE-Verlag, ISBN 3-8007-2067-1 
+
+, Modulbezeichnung 92091: Mechanische Verfahrenstechnik Mechanical process engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Wolfgang Peukert
+Inhalt: Im Rahmen des Moduls werden die wichtigsten Grundlagen disperser Partikelsysteme behandelt. Ausgehend von der Kennzeichnung disperser Systeme (Partikelgröße und Partikelform) wird zunächst die Bewegung einzelner Partikeln in Fluiden behandelt. Dann werden Partikelgrößenverteilungen eingeführt, Grundlagen des Trennens und des Mischens behandelt. Mit Hilfe der Dimensionsanalyse wird auch das Mischen und Rühren in Flüssigkeiten angeschnitten. Als Beispiele für Wechselwirkungen in dispersen Systemen werden die Benetzung als Grundlagen der Entfeuchtung sowie Haftkräfte als Grundlage für die Agglomeration behandelt. Als Beispiel für die Partikelproduktion wird das Zerkleinern behandelt. Die Dynamik disperser Systeme wird durch Populationsbilanzen beschrieben. Die Kennzeichnung von Packungen sowie deren Durchströmung werden anschliessend behandelt. Wirbelschicht, Förderung und eine Einführung in das Fliessen von Schüttgütern schliessen die Vorlesung ab. 6Lernziele und KompetenzenDie Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Die Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Peukert: Skriptum zur Vorlesung H. Rumpf: Particle Technology Stiess: Mechanische Verfahrenstechnik Schubert: Handbuch der Mechanischen Verfahrenstechnik 
+
+, Modulbezeichnung 95531: Physikalische Chemie der Werkstoffe Physical chemistry of materials5 ECTS
+Lehrveranstaltungen: Vorlesung: Festkörperthermodynamik (2.0 SWS ) 2,5 ECTS Vorlesung: Festkörperkinetik (2.0 SWS ) 2,5 ECTS
+Lehrende: Prof. Dr. Sannakaisa Virtanen Prof. Dr. Michael Zaiser  
+Modulverantwortliche/r: Prof. Dr. Sannakaisa Virtanen
+Inhalt: Festkörperthermodynamik: Grundlagen der Thermodynamik Thermodynamik von Legierungen Phasengleichgewichte Punktdefekte Festkörperelektrochemie Thermodynamik von Grenz- und Oberflächen Festkörperkinetik: Grundlagen der Reaktionskinetik Diffusion Wärmeleitung - Keimbildung und Kristallwachstum - Kinetik des flüssig-fest Übergangs Grenzflächenkinetik Oberflächenreaktionen 6Lernziele und Kompetenzendie Studierenden •verstehen thermodynamische Prinzipien in Werkstoffwissenschaften, sowie die Relevanz für die Herstellung und Anwendung von Werkstoffen •verstehen die kinetischen Vorgänge in Werkstoffen, der ablaufenden Diffusions- und Reaktionsprozesse sowie den Einfluss der Temperatur auf die Kinetik und die Anwendung der kinetischen Prozesse auf die Herstellung, Verarbeitung und den Einsatz von Werkstoffen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 42 h Eigenstudium: 108 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: die Studierenden •verstehen thermodynamische Prinzipien in Werkstoffwissenschaften, sowie die Relevanz für die Herstellung und Anwendung von Werkstoffen •verstehen die kinetischen Vorgänge in Werkstoffen, der ablaufenden Diffusions- und Reaktionsprozesse sowie den Einfluss der Temperatur auf die Kinetik und die Anwendung der kinetischen Prozesse auf die Herstellung, Verarbeitung und den Einsatz von Werkstoffen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 96360: Planung elektrischer Energieversorgungsnetze Planning of power grids5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Johann Jäger
+Inhalt: Das Modul behandelt unterschiedliche Aufgabengebiete der Planung elektrischer Netze zur Energieübertragung und -verteilung. Es werden sowohl öffentliche Netze der Energieversorgungsunternehmen als auch Industrienetze betrachtet. Zu den Aufgaben gehört unter anderem die Erstellung von möglichst genauen Lastprognosen, die Auswahl geeigneter Netzstrukturen, Sternpunktbehandlung und die Koordination des Netzschutzes. Dazu werden sowohl die physikalischen als auch die technischen Kriterien so wie die entsprechenden Kenngrößen und Berechnungsverfahren besprochen. 6Lernziele und KompetenzenDie Studierenden •kennen die unterschiedlichen Aufgabengebiete der Planung elektrischer Netze, •verstehen die Unterschiede zwischen öffentlichen Energieversorgungsnetzen und Industrienetzen, •analysieren die grundlegenden Strukturen von Netzen, •verstehen die Methoden der Sternpunktbehandlung, •verstehen die Koordination des Netzschutzes, •analysieren detaillierte Lastprognosen und erstellen dafür einen Einsatzplan von Erzeugungseinheiten und •wenden Berechnungsverfahren im Hinblick auf die Planung von elektrischen Netzen an. 7Voraussetzungen für die TeilnahmeGrundlagen der elektrischen Energieversorgung 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenschriftlich oder mündlich (90 Minuten) 11Berechnung der Modulnoteschriftlich oder mündlich (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden •kennen die unterschiedlichen Aufgabengebiete der Planung elektrischer Netze, •verstehen die Unterschiede zwischen öffentlichen Energieversorgungsnetzen und Industrienetzen, •analysieren die grundlegenden Strukturen von Netzen, •verstehen die Methoden der Sternpunktbehandlung, •verstehen die Koordination des Netzschutzes, •analysieren detaillierte Lastprognosen und erstellen dafür einen Einsatzplan von Erzeugungseinheiten und •wenden Berechnungsverfahren im Hinblick auf die Planung von elektrischen Netzen an.
+Voraussetzungen für die Teilnahme: Grundlagen der elektrischen Energieversorgung
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: schriftlich oder mündlich (90 Minuten)
+Berechnung der Modulnote: schriftlich oder mündlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Skriptum zur Vorlesung •Jäger, Johann; Romeis, Christian; Petrossian, Edmond: Duale Netzplanung: Leitfaden Zum Netzkompatiblen Anschluss Von Dezentralen Energieeinspeiseanlagen, Springer Fachmedien Wiesbaden GmbH, 2016 
+
+, Modulbezeichnung 94304: Technische Thermodynamik II Technical thermodynamics II5 ECTS
+Lehrveranstaltungen: Vorlesung: Technische Thermodynamik (Vertiefung) für ET und CE (3.0 SWS )3,5 ECTS Übung : Technische Thermodynamik Vertiefung Übung (2.0 SWS )1,5 ECTS
+Lehrende: Prof. Dr.-Ing. Andreas Paul Fröba  
+Modulverantwortliche/r: Prof. Dr.-Ing. Andreas Paul Fröba
+Inhalt: Das Modul Technische Thermodynamik - Vertiefung beinhaltet neben einer Wiederholung der Grundlagen zur Bilanzierung von Masse, Energie, Impuls, Entropie und Exergie die Themen Verbrennungstechnik, Strömungsprozesse und Einführung in die Gasdynamik, Kältetechnik sowie effiziente Wärmeübertragung. Das Thema Verbrennungsprozesse soll zugleich als allgemeine Einführung in die thermodynamische Behandlung von Systemen dienen, in denen chemische Reaktionen stattfinden. Schwerpunkte der energetischen Betrachtung von Verbrennungsprozessen bilden die Berechnung der freigesetzten Wärme sowie der Verbrennungstemperatur. Mit Hilfe von Entropiebilanzen wird die Effizienz von Verbrennungsprozessen in Form des exergetischen Wirkungsgrades bzw. in Form von auftretenden Exergieverlusten analysiert. Bei Strömungsprozessen sollen insbesondere kompressible Medien und somit auch Hochgeschwindigkeitsströmungen betrachtet werden, bei denen strömungsmechanische und thermodynamische Vorgänge stets miteinander verknüpft ablaufen. Hier werden neben den Grundgleichungen zur Modellierung von entsprechenden Strömungen und Zustandsänderungen spezielle Anwendungen von Düse und Diffusor diskutiert, z.B. im Bereich der Antriebstechnik und Kältetechnik. Das Thema Kältetechnik behandelt zunächst theoretisch deren Grundaufgaben. Schwerpunkte bilden dann unterschiedliche Verfahren und Anlagen zur Erzeugung von tiefen Temperaturen einschließlich derer zur Gasverflüssigung. Bei der Auslegung und Optimierung von Anlagen zur Erzeugung mäßig tiefer Temperaturen, z.B. in Form von Kompressions-, Dampfstrahl- und Absorptionskältemaschine, werden auch ökologische und ökonomische Kriterien bei Auswahl von Kältemitteln gegenübergestellt. Das Thema effiziente Wärmeübertragung beschäftigt sich insbesondere mit der wärme- und strömungstechnischen Auslegung von indirekten Wärmeübertragersystemen. Für deren Optimierung werden Exgieverluste durch Druckänderung, Temperaturunterschiede, Mischung und Wärmeübertragung an die Umgebung betrachtet und diskutiert. Für den Fall der Kondensation wird das Verbesserungspotential eines gesteigerten Wärmeübertragungskoeffizienten zur Minimierung von Exergieverlusten mit Hilfe von Beispielen aus dem Bereich der Kraftwerkstechnik und Meerwasserentsalzung demonstriert. 6Lernziele und KompetenzenDie Studierenden 
+Lernziele und Kompetenzen: Die Studierenden 
+
+Voraussetzungen für die Teilnahme: Grundkenntnisse der Technischen Thermodynamik
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: mündlich
+Berechnung der Modulnote: mündlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: H. D. Baehr und S. Kabelac, Thermodynamik, Springer 2009 (14. Auflage) E. Hahne, Technische Thermodynamik, Oldenbourg 2004 (4. Auflage) K. Lucas, Thermodynamik, Springer 2000 (2. Auflage) D. Rist, Dynamik realer Gase, Springer 1996 R. Günther, Verbrennung und Feuerungen, Springer 1984 A. Bejan, Advanced Engineering Thermodynamics, John Wiley & Sons 1988 
+
+, Modulbezeichnung 45495: Turbomaschinen Turbomachinery5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Stefan Becker
+Inhalt: •Funktionsprinzip der Turbomaschinen •Leistungsbilanzen, Wirkungsgrade, Zustandsverläufe •Ähnlichkeitskennzahlen •Kennlinien und Kennfelder •Betriebsverhalten •Grundbegriffe der Gitterströmung •Kräfte an Gitterschaufeln •Schaufelgitter •Gehäuse •CFD für Turbomaschinen •Grundlagen Windturbinen •Akustik 6Lernziele und KompetenzenDie Studierenden •erlernen die Grundlagen der Turbomaschinen •verstehen und erklären Anwendung verschiedener Turbomaschinen •können entsprechend der Anwendung Turbomaschinen in ihren Grundabmessungen auslegen •erlangen ein Grundverständnis für das Betriebsverhalten 7Voraussetzungen für die TeilnahmeModul: Strömungsmechanik (Empfehlung) Modul: Thermodynamik (Empfehlung) 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenschriftlich oder mündlich (120 Minuten) 11Berechnung der Modulnoteschriftlich oder mündlich (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die Studierenden •erlernen die Grundlagen der Turbomaschinen •verstehen und erklären Anwendung verschiedener Turbomaschinen •können entsprechend der Anwendung Turbomaschinen in ihren Grundabmessungen auslegen •erlangen ein Grundverständnis für das Betriebsverhalten
+Voraussetzungen für die Teilnahme: Modul: Strömungsmechanik (Empfehlung) Modul: Thermodynamik (Empfehlung)
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: schriftlich oder mündlich (120 Minuten)
+Berechnung der Modulnote: schriftlich oder mündlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 94311: Umweltverfahrenstechnik Environmental process engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Matthias Thommes
+Inhalt: Gesetzliche Grundlagen, Partikelabtrennung (Zyklon, Filter,Wäscher), Partikelmesstechnik, Gasförmige Schadstoffe: Zusammensetzung und Entfernung, Absorption, Adsorption, Ionenaustausch, Membranverfahren, reaktive Verfahren (Verbrennung), Kraftwerksabgase, Wasserreinhaltung: Art der Verunreinigungen, Grenzwerte, Abtrennung (Adsorptions- und Membranverfahren) 6Lernziele und KompetenzenDie Studierenden •kennen gesetzliche Grundlagen des Umweltschutzes •kennen gängige Verfahren der Abtrennung gasförmiger und fester Schadstoffe •verstehen die thermodynamischen und mechanistischen Grundlagen der Verfahren •können für gegebene Probleme passende Verfahren auswählen und anwenden •kennen Apparate für die Trennverfahren •können diese Apparate dimensionieren •kennen reaktive Verfahren zur Schadstoffminderung und zugehörige Apparate •bewerten die Verfahren und Apparate bezüglich Energieeffizienz und Prozessintegration •kennen Messverfahren für partikuläre Verunreinigungen •können diese Messverfahren bezüglich Anwendungsgrenzen und möglicher Analysenfehler bewerten 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenVariabel (120 Minuten) Klausur (90 Min) 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 
+Lernziele und Kompetenzen: Die Studierenden •kennen gesetzliche Grundlagen des Umweltschutzes •kennen gängige Verfahren der Abtrennung gasförmiger und fester Schadstoffe •verstehen die thermodynamischen und mechanistischen Grundlagen der Verfahren •können für gegebene Probleme passende Verfahren auswählen und anwenden •kennen Apparate für die Trennverfahren •können diese Apparate dimensionieren •kennen reaktive Verfahren zur Schadstoffminderung und zugehörige Apparate •bewerten die Verfahren und Apparate bezüglich Energieeffizienz und Prozessintegration •kennen Messverfahren für partikuläre Verunreinigungen •können diese Messverfahren bezüglich Anwendungsgrenzen und möglicher Analysenfehler bewerten
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Energietechnik 20152 Wahlpflichtmodul 1 und 2 Bachelor of Science Energietechnik 20222
+Method of examination: Variabel (120 Minuten) Klausur (90 Min)
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+
+, Modulbezeichnung 617523: Hauptseminar Energieverfahrenstechnik Advanced seminar Energy Process Engineering2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Hauptseminar EVT (Bachelor) (2.0 SWS )2,5 ECTS
+Lehrende: Simon Markthaler  
+Modulverantwortliche/r: Prof. Dr.-Ing. Jürgen Karl
+Inhalt: Die Studierenden führen zu einem vorgegebenen Thema eine Literaturrecherche für eine technische Aufgabenstellung durch, die Ergebnisse werden schriftlich auf 4-5 Seiten dokumentiert und am Lehrstuhl in einem 10-minütigen Vortrag präsentiert. Die Themen ergeben sich laufend aus den Forschungsgebieten auf der Lehrstuhl- Homepage. Bei Interesse kontaktieren Sie bitte den zuständigen Mitarbeiter, um aktuelle Themen zu erfragen oder eigene Themenvorschläge einzubringen. 6Lernziele und KompetenzenLern- bzw. Methodenkompetenz Die Studierenden lernen in dem Seminar, wissenschaftliche Vorträge zu erarbeiten und zu präsentieren. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und Prüfungsleistungenmündlich 11Berechnung der Modulnotemündlich (100%) 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 15 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Lern- bzw. Methodenkompetenz Die Studierenden lernen in dem Seminar, wissenschaftliche Vorträge zu erarbeiten und zu präsentieren.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: mündlich
+Berechnung der Modulnote: mündlich (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 96505: Hauptseminar ET (CRT) Advanced seminar ET (CRT)2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Hauptseminar EVT (2.0 SWS ) 2,5 ECTS
+Lehrende: Dr. Peter Schulz Prof. Dr. Peter Wasserscheid  
+Modulverantwortliche/r: Prof. Dr.-Ing. Jürgen Karl
+Inhalt: Im Hauptseminar sollen Studierende zu einem vorgegebenen Thema eine Literaturrecherche für eine technische Aufgabenstellung durchführen, die Ergebnisse schriftlich auf ca. 5-10 Seiten dokumentieren und in einem 15-minütigen Videovortrag präsentieren. Wenden Sie sich bitte per Mail an: [Dr. Peter Schulz]mailto:peter.schulz@fau.de 6Lernziele und KompetenzenDie Studierenden lernen in dem Seminar, wissenschaftliche Vorträge zu erarbeiten und zu präsentieren. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 15 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch oder Englisch 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die Studierenden lernen in dem Seminar, wissenschaftliche Vorträge zu erarbeiten und zu präsentieren.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch oder Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 96506: Hauptseminar ET (MSS) Advanced seminar ET (MSS)2,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebotskeine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 96508: Hauptseminar ET (PAT) Advanced seminar ET (PAT)2,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebotskeine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 96507: Hauptseminar in englischer Sprache Advanced seminar in English2,5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und Kompetenzenkeine Beschreibung der Lernziele und Kompetenzen hinterlegt! 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebotskeine Angaben zum Turnus des Angebots hinterlegt! 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt) 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise 
+Lernziele und Kompetenzen: keine Beschreibung der Lernziele und Kompetenzen hinterlegt!
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt!
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 95191: Hauptseminar Leistungselektronik (BA) Advanced seminar: Power electronics (BA)2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Hauptseminar Leistungselektronik (BA) (2.0 SWS )2,5 ECTS
+Lehrende: Prof. Dr. Martin März Nikolai Weitz Madlen Hoffmann Melanie Lavery Stefanie Büttner Thomas Eberle  
+Modulverantwortliche/r: Thomas Eberle Prof. Dr. Martin März
+Inhalt: Das Seminar adressiert ein breites Themenspektrum aus dem Bereich der Leistungselektronik: •Neuartige Schaltungstopologien und deren Analyse •Moderne Leistungsbauelemente und deren Eigenschaften (Si, SiC, GaN, u.a.) •Regel- und Modulationsverfahren für Schaltwandler •Fragen der Aufbautechnik und Entwärmung in leistungselektronischen Wandlern •RF-Leistungselektronik und geschaltete Verstärker •Aspekte der elektromagnetischen Verträglichkeit •Simulation und Modellierung •Anwendungstechnik Nach einer gemeinsamen Vorbesprechung wird das gewählte Thema unter Anleitung eines Betreuers oder einer Betreuerin eigenständig bearbeitet. Das Seminar umfasst einen mind. 4-seitigen Bericht im doppelspaltigen IEEE-Format. Am Ende wird das Ergebnis in einem 20 minütigem Vortrag und einer anschließenden Diskussion von 10 Minuten präsentiert. 6Lernziele und KompetenzenDie Studierenden •erlernen die Fähigkeit, ein Thema aufzubereiten, Recherchen durchzuführen, die Erkenntnisse zu strukturieren und verständlich zu präsentieren •erlernen die Fähigkeit, ihre Ergebnisse in einem wissenschaftlichen Format zu Papier zu bringen •erlangen grundlegende Kenntnisse in Präsentationstechniken •gewinnen Erfahrung im Vortrag vor Publikum •erlernen die Fähigkeit, als Zuhörer aktiv Fragen zu formulieren, technische Sachverhalte zu diskutieren und wertschätzendes Feedback zu geben. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 
+Lernziele und Kompetenzen: Die Studierenden •erlernen die Fähigkeit, ein Thema aufzubereiten, Recherchen durchzuführen, die Erkenntnisse zu strukturieren und verständlich zu präsentieren •erlernen die Fähigkeit, ihre Ergebnisse in einem wissenschaftlichen Format zu Papier zu bringen •erlangen grundlegende Kenntnisse in Präsentationstechniken •gewinnen Erfahrung im Vortrag vor Publikum •erlernen die Fähigkeit, als Zuhörer aktiv Fragen zu formulieren, technische Sachverhalte zu diskutieren und wertschätzendes Feedback zu geben.
+Voraussetzungen für die Teilnahme: Keine
+
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 680681: Seminar Elektrische Antriebstechnik BA Seminar: Electrical drives BA2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Hauptseminar Elektrische Antriebstechnik BA (2.0 SWS )2,5 ECTS
+Lehrende: Dr.-Ing. Jens Igney Marco Eckstein Sara Hosseini Alexander Pfannschmidt  
+Modulverantwortliche/r: Dr.-Ing. Jens Igney
+Inhalt: Das Seminar behandelt wechselnde Themen aus dem Bereich "Elektrische Antriebstechnik" und angrenzenden Bereichen. Die Teilnehmer arbeiten sich selbständig anhand wissenschaftlicher Literatur in das Ihnen zugewiesene Thema ein. Hierbei werden sie von einem wissenschaftlichen Mitarbeiter betreut. Sie erstellen eine schriftliche Ausarbeitung und halten einen Vortrag vor Lehrenden und Kommilitonen. Besonderes Gewicht liegt auf der Präsentation und der anschließenden Diskussion. Die Teilnehmer sind verpflichtet, sich an der Diskussion zu den Vorträgen ihrer Kommilitonen mit Fragen zu beteiligen. 6Lernziele und KompetenzenDie Studierenden •recherchieren wissenschaftliche und nichtwissenschaftliche Literatur •ordnen, gewichten und bewerten die Inhalte in Bezug auf das zugewiesene Thema •bereiten die Inhalte gemäß dem Zielpublikum (Kommilitonen im BA-Studium) auf •erstellen eine schriftliche Ausarbeitung gemäß den Richtlinien für wissenschaftliche Fachartikel •präsentieren das Thema in einem Vortrag vor allen anderen Teilnehmern und wissenschaftlichen Mitarbeitern •beantworten kompetent und sicher die fachspezifischen Fragen der Kommilitonen und des übrigen Publikums •erbringen reflexive Diskussionsleistung zu den Vorträgen der Kommilitonen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenSeminarleistung 11Berechnung der ModulnoteSeminarleistung (100%) 12Turnus des Angebots in jedem Semester 
+Lernziele und Kompetenzen: Die Studierenden •recherchieren wissenschaftliche und nichtwissenschaftliche Literatur •ordnen, gewichten und bewerten die Inhalte in Bezug auf das zugewiesene Thema •bereiten die Inhalte gemäß dem Zielpublikum (Kommilitonen im BA-Studium) auf •erstellen eine schriftliche Ausarbeitung gemäß den Richtlinien für wissenschaftliche Fachartikel •präsentieren das Thema in einem Vortrag vor allen anderen Teilnehmern und wissenschaftlichen Mitarbeitern •beantworten kompetent und sicher die fachspezifischen Fragen der Kommilitonen und des übrigen Publikums •erbringen reflexive Diskussionsleistung zu den Vorträgen der Kommilitonen
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 397635: Seminar Elektrische Energieversorgung Seminar electrical power systems2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Seminar Elektrische Energieversorgung (2.0 SWS )2,5 ECTS
+Lehrende: Dr.-Ing. Gert Mehlmann  
+Modulverantwortliche/r: Prof. Dr.-Ing. Matthias Luther
+Inhalt: Es werden Themen aus folgenden Schwerpunkten angeboten: •Stromrichter oder FACTS (Flexible AC Transmission Systems) in elektrischen Energieversorgungsnetzen, •Energiefragen und Energiesparen •Aktuelle Probleme aus der Forschung Die einzelnen Themen und weitere Informationen sind zu finden auf http://ees.eei.uni-erlangen.de/studium-lehre/hauptseminare/see.shtml 6Lernziele und KompetenzenDie Studierenden kennen aktuelle Herausforderungen auf dem Gebiet elektrischer Energieversorgung in der Forschung und der Industrie und verstehen das Zusammenspiel aus technischen, gesellschaftlichen, umwelttechnischen Anforderungen der Zukunft. Nach der Teilnahme an diesem Seminar sind die Studenten zudem in der Lage: sich eigenständig in ein neues Themengebiet einzuarbeiten, eine strukturierte Recherche zur Auffindung relevanter Quellen durchzuführen, Quellen nach ingenieurwissenschaftlichen Grundsätzen zu analysieren und zu bewerten, strukturiert eine wissenschaftlich fundierte Ausarbeitung anzufertigen, behandelte Thematik für eine zeitlich begrenzte Präsentation vor Fachpublikum aufzubereiten, die Grundsätze der Präsentationstechnik anzuwenden und sich der fachlichen Diskussion vor Wissenschaftlern zu der ausgearbeiteten Thematik stellen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenSeminarleistung 11Berechnung der ModulnoteSeminarleistung (100%) 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 0 h Eigenstudium: 75 h 
+Lernziele und Kompetenzen: Die Studierenden kennen aktuelle Herausforderungen auf dem Gebiet elektrischer Energieversorgung in der Forschung und der Industrie und verstehen das Zusammenspiel aus technischen, gesellschaftlichen, umwelttechnischen Anforderungen der Zukunft. Nach der Teilnahme an diesem Seminar sind die Studenten zudem in der Lage: sich eigenständig in ein neues Themengebiet einzuarbeiten, eine strukturierte Recherche zur Auffindung relevanter Quellen durchzuführen, Quellen nach ingenieurwissenschaftlichen Grundsätzen zu analysieren und zu bewerten, strukturiert eine wissenschaftlich fundierte Ausarbeitung anzufertigen, behandelte Thematik für eine zeitlich begrenzte Präsentation vor Fachpublikum aufzubereiten, die Grundsätze der Präsentationstechnik anzuwenden und sich der fachlichen Diskussion vor Wissenschaftlern zu der ausgearbeiteten Thematik stellen.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 108645: Seminar Elektrische Maschinen Seminar electric machines2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Hauptseminar Elektrische Maschinen (2.0 SWS )2,5 ECTS
+Lehrende: Sara Hosseini Philipp Sisterhenn Zidan Zhao Prof. Dr.-Ing. Ingo Hahn Shima Tavakoli Babak Dianati Jaeho Ryu  
+Modulverantwortliche/r: Prof. Dr.-Ing. Ingo Hahn
+Inhalt: Das Seminar behandelt wechselnde Themen aus dem Bereich "Elektrische Maschinen" und angrenzenden Bereichen. Die Teilnehmer arbeiten sich selbständig anhand wissenschaftlicher Literatur in das Ihnen zugewiesene Thema ein. Hierbei werden sie von einem wissenschaftlichen Mitarbeiter betreut. Sie erstellen eine schriftliche Ausarbeitung und halten einen Vortrag vor Lehrenden und Kommilitonen. Besonderes Gewicht liegt auf der Präsentation und der anschließenden Diskussion. Die Teilnehmer sind verpflichtet, sich an der Diskussion zu den Vorträgen ihrer Kommilitonen mit Fragen zu beteiligen. 6Lernziele und KompetenzenDie Studierenden •recherchieren wissenschaftliche und nichtwissenschaftliche Literatur •ordnen, gewichten und bewerten die Inhalte in Bezug auf das zugewiesene Thema •bereiten die Inhalte gemäß dem Zielpublikum auf •erstellen eine schriftliche Ausarbeitung gemäß den Richtlinien für wissenschaftliche Fachartikel •präsentieren das Thema in einem Vortrag in freier Rede vor allen anderen Teilnehmern und wissenschaftlichen Mitarbeitern in einem vorgegebenen Zeitrahmen •beantworten kompetent und sicher die fachspezifischen Fragen der Kommilitonen und des übrigen Publikums •erbringen reflexive Diskussionsleistung zu den Vorträgen der Kommilitonen Dies alles geschieht im Rahmen des Themenbereichs "Elektrische Maschinen". Die Leistungen werden im Zusammenhang mit dem individuell dem/ der Studierenden zugewiesenen Thema erbracht. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 
+Lernziele und Kompetenzen: Die Studierenden •recherchieren wissenschaftliche und nichtwissenschaftliche Literatur •ordnen, gewichten und bewerten die Inhalte in Bezug auf das zugewiesene Thema •bereiten die Inhalte gemäß dem Zielpublikum auf •erstellen eine schriftliche Ausarbeitung gemäß den Richtlinien für wissenschaftliche Fachartikel •präsentieren das Thema in einem Vortrag in freier Rede vor allen anderen Teilnehmern und wissenschaftlichen Mitarbeitern in einem vorgegebenen Zeitrahmen •beantworten kompetent und sicher die fachspezifischen Fragen der Kommilitonen und des übrigen Publikums •erbringen reflexive Diskussionsleistung zu den Vorträgen der Kommilitonen Dies alles geschieht im Rahmen des Themenbereichs "Elektrische Maschinen". Die Leistungen werden im Zusammenhang mit dem individuell dem/ der Studierenden zugewiesenen Thema erbracht.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222 
+
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 812723: Seminar Moderne Trends in der elektrischen Energieversorgung Seminar modern trends in electrical power systems2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Seminar Moderne Trends in der elektrischen Energieversorgung (2.0 SWS )2,5 ECTS
+Lehrende: Tobias Lorz Prof. Dr. Johann Jäger  
+Modulverantwortliche/r: Prof. Dr. Johann Jäger
+Inhalt: Es werden Themen aus folgenden Schwerpunkten angeboten: •Windkraftanlagen •Kernfusion - Energie der Zukunft? •Hochtemperatur-Supraleiter (HTSL) in der elektrischen Energieversorgung •Liberalisierung des Strommarktes •Energiefragen und Energiesparen Die einzelnen Themen und nähere Informationen sind zu finden auf http://ees.eei.uni-erlangen.de/studium-lehre/hauptseminare/ste.shtml 6Lernziele und KompetenzenDie Studierenden kennen moderne Trends in der elektrischen Energieversorgung und verstehen die technischen Zusammenhänge moderner Trends in der elektrischen Energieversorgung. Nach der Teilnahme an diesem Seminar sind die Studierenden zudem in der Lage sich eigenständig in ein neues Themengebiet einzuarbeiten, eine strukturierte Recherche zur Auffindung relevanter Quellen durchzuführen, Quellen nach ingenieurwissenschaftlichen Grundsätzen zu analysieren und zu bewerten, strukturiert eine wissenschaftlich fundierte Ausarbeitung anzufertigen, behandelte Thematik für eine zeitlich begrenzte Präsentation vor Fachpublikum aufzubereiten, die Grundsätze der Präsentationstechnik anzuwenden und sich der fachlichen Diskussion vor Wissenschaftlern zu der ausgearbeiteten Thematik stellen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenSeminarleistung 11Berechnung der ModulnoteSeminarleistung (100%) 12Turnus des Angebots in jedem Semester 
+Lernziele und Kompetenzen: Die Studierenden kennen moderne Trends in der elektrischen Energieversorgung und verstehen die technischen Zusammenhänge moderner Trends in der elektrischen Energieversorgung. Nach der Teilnahme an diesem Seminar sind die Studierenden zudem in der Lage sich eigenständig in ein neues Themengebiet einzuarbeiten, eine strukturierte Recherche zur Auffindung relevanter Quellen durchzuführen, Quellen nach ingenieurwissenschaftlichen Grundsätzen zu analysieren und zu bewerten, strukturiert eine wissenschaftlich fundierte Ausarbeitung anzufertigen, behandelte Thematik für eine zeitlich begrenzte Präsentation vor Fachpublikum aufzubereiten, die Grundsätze der Präsentationstechnik anzuwenden und sich der fachlichen Diskussion vor Wissenschaftlern zu der ausgearbeiteten Thematik stellen.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 381473: Seminar Nachhaltige Energiesysteme Seminar sustainable energy systems2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Seminar Nachhaltige Energiesysteme (2.0 SWS )2,5 ECTS
+Lehrende: Prof. Dr.-Ing. Matthias Luther Sebastian Streit  
+Modulverantwortliche/r: Prof. Dr.-Ing. Matthias Luther
+Inhalt: Ausgewählte Themen aus den Bereichen: •Großräumige Übertragungsnetze •Integration der Stromerzeugung aus erneuerbaren Energien •Stabilität im nationalen und internationalen Verbundbetrieb •Hochspannungs-Gleichstrom-Übertragung im Kontext zukünftiger Netzstrukturen •Smart Energy Systems •Marktmechanismen in der Stromerzeugung 6Lernziele und KompetenzenDie Studierenden kennen aktuelle Herausforderungen auf dem Gebiet elektrischer Energiesysteme, verstehen die Anforderungen und die technischen Zusammenhänge nachhaltiger Energiesysteme und verstehen das Zusammenspiel aus technischen, gesellschaftlichen, umwelttechnischen Anforderungen der Zukunft. Nach der Teilnahme an diesem Seminar sind die Studierenden zudem in der Lage sich eigenständig in ein neues Themengebiet einzuarbeiten, eine strukturierte Recherche zur Auffindung relevanter Quellen durchzuführen, Quellen nach ingenieurwissenschaftlichen Grundsätzen zu analysieren und zu bewerten, strukturiert eine wissenschaftlich fundierte Ausarbeitung anzufertigen, behandelte Thematik für eine zeitlich begrenzte Präsentation vor Fachpublikum aufzubereiten, die Grundsätze der Präsentationstechnik anzuwenden und sich der fachlichen Diskussion vor Wissenschaftlern zu der ausgearbeiteten Thematik stellen. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenSeminarleistung 11Berechnung der ModulnoteSeminarleistung (100%) 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 30 h Eigenstudium: 45 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden kennen aktuelle Herausforderungen auf dem Gebiet elektrischer Energiesysteme, verstehen die Anforderungen und die technischen Zusammenhänge nachhaltiger Energiesysteme und verstehen das Zusammenspiel aus technischen, gesellschaftlichen, umwelttechnischen Anforderungen der Zukunft. Nach der Teilnahme an diesem Seminar sind die Studierenden zudem in der Lage sich eigenständig in ein neues Themengebiet einzuarbeiten, eine strukturierte Recherche zur Auffindung relevanter Quellen durchzuführen, Quellen nach ingenieurwissenschaftlichen Grundsätzen zu analysieren und zu bewerten, strukturiert eine wissenschaftlich fundierte Ausarbeitung anzufertigen, behandelte Thematik für eine zeitlich begrenzte Präsentation vor Fachpublikum aufzubereiten, die Grundsätze der Präsentationstechnik anzuwenden und sich der fachlichen Diskussion vor Wissenschaftlern zu der ausgearbeiteten Thematik stellen.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 749172: Seminar über ausgewählte Aspekte der elektrischen Energietechnik selected aspects of energy electronics2,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Thomas Eberle
+Inhalt: Das Seminar adressiert ein breites Themenspektrum aus dem Bereich der elektrischen Energietechnik: •Regelverfahren, Stabilitäts- und Fehlerbetrachtungen in Gleichspannungsnetzen •Schutztechnik in Gleichspannungsnetzen •Netzintegration von Speichern, elektrischen Quellen (Brennstoffzellen, Photovoltaik), Verbrauchern, Prosumern und Elektrofahrzeugen •Kopplung unterschiedlicher Netze •Systemtechnik Nach einer gemeinsamen Vorbesprechung wird das gewählte Thema unter Anleitung eines Betreuers oder einer Betreuerin eigenständig bearbeitet. Die Erkenntnisse sind in einem mind. 4-seitigen Dokument zusammenzufassen und im Rahmen eines 20-minütigen Vortrags zu präsentieren. An den Vortrag schließt sich eine 10-minütige Diskussion an. 6Lernziele und KompetenzenDie Studierenden •erlernen die Fähigkeit, ein Thema aufzubereiten, Recherchen durchzuführen, die Erkenntnisse zu strukturieren und verständlich zu präsentieren •erlernen die Fähigkeit, ihre Ergebnisse in einem wissenschaftlichen Format zu Papier zu bringen •erlangen grundlegende Kenntnisse in Präsentationstechniken •gewinnen Erfahrung im Vortrag vor Publikum •erlernen die Fähigkeit, als Zuhörer aktiv Fragen zu formulieren, technische Sachverhalte zu diskutieren und wertschätzendes Feedback zu geben Dies alles geschieht im Rahmen des unter Seminarinhalte ausgeführten Themenbereichs. Die Leistungen werden im Zusammenhang mit dem individuellen Thema des/ der Studierenden erbracht. 7Voraussetzungen für die TeilnahmeGrundlagen der Elektrotechnik I+II, Leistungselektronik, Leistungselektronik für dezentrale Energieversorgung - Gleichspannungsnetze 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 
+Lernziele und Kompetenzen: Die Studierenden •erlernen die Fähigkeit, ein Thema aufzubereiten, Recherchen durchzuführen, die Erkenntnisse zu strukturieren und verständlich zu präsentieren •erlernen die Fähigkeit, ihre Ergebnisse in einem wissenschaftlichen Format zu Papier zu bringen •erlangen grundlegende Kenntnisse in Präsentationstechniken •gewinnen Erfahrung im Vortrag vor Publikum •erlernen die Fähigkeit, als Zuhörer aktiv Fragen zu formulieren, technische Sachverhalte zu diskutieren und wertschätzendes Feedback zu geben Dies alles geschieht im Rahmen des unter Seminarinhalte ausgeführten Themenbereichs. Die Leistungen werden im Zusammenhang mit dem individuellen Thema des/ der Studierenden erbracht.
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222 
+
+Method of examination: Seminarleistung
+Berechnung der Modulnote: Seminarleistung (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch oder Englisch
+Literaturhinweise: 
+
+, Modulbezeichnung 92361: Smart City: Technologien und Systeme (TuS) Smart City: Technologies and systems (TuS)2,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Smart City: Technologien und Systeme (2.0 SWS )2,5 ECTS
+Lehrende: Prof. Dr.-Ing. Norman Franchi  
+Modulverantwortliche/r: Prof. Dr.-Ing. Norman Franchi
+Inhalt: Themen zur Auswahl: •Toward Location-Enabled IoT (LE-IoT): IoT Positioning Techniques, Error Sources, and Error Mitigation •Positioning Techniques in IoT •Error Sources in IoT Localization •Energy Consumption of eMTC and NB-IoT for Smart City Applications •Vehicular Fog Computing •(C-)V2X •Mioty als sichere Massive IoT/LPWAN Lösung •Open Data •Artificial Intelligence for efficient urban mobility •Augmented / Mixed / Extended Reality •Smart Parking Systems •5G Private/Campus Networks •Microgrid Technology 6Lernziele und KompetenzenSchlüsselwörter: Smart City, IoT, Campusnetze, LPWAN, NB-IoT, Microgrids, Smart Parking, C-V2X, 5G, Augmented / Mixed / Extended Reality, Misty, Vehicular Fog Computing 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsHauptseminar Bachelor of Science Energietechnik 20222 10Studien- und PrüfungsleistungenSeminarleistung Seminararbeit+Vortrag, benotet 11Berechnung der ModulnoteSeminarleistung (100%) 60% Vortrag: Präsentation (20 Min.) plus Verteidigung (10 Min) 30% Ausarbeitung (7 bis max. 10 Seiten A4) 10% Aktive Teilnahme an der Diskussion anderer Vorträge 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 15 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch oder Englisch 
+Lernziele und Kompetenzen: Schlüsselwörter: Smart City, IoT, Campusnetze, LPWAN, NB-IoT, Microgrids, Smart Parking, C-V2X, 5G, Augmented / Mixed / Extended Reality, Misty, Vehicular Fog Computing
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Hauptseminar Bachelor of Science Energietechnik 20222
+Berechnung der Modulnote: Seminarleistung (100%) 60% Vortrag: Präsentation (20 Min.) plus Verteidigung (10 Min) 30% Ausarbeitung (7 bis max. 10 Seiten A4) 10% Aktive Teilnahme an der Diskussion anderer Vorträge
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch oder Englisch 
+
+Literaturhinweise:

@@ -1,0 +1,466 @@
+
+, Module name 1750: Advanced Processes Basics I (Advanced Processes)5 ECTS
+Course / lectures: Vorlesung: Basics in Advanced Processes 1 (2 SWS ) 2,5 ECTS Vorlesung: Basics in Advanced Processes 2: Chemical Analysis and Structure Determination (2 SWS )2,5 ECTS
+Lecturers: apl.Prof.Dr. Marco Haumann Dr.-Ing. Alexandra Inayat Dr. Peter Schulz Prof. Dr.-Ing. Malte Kaspereit Prof. Dr. Robin Klupp Taylor  
+Module coordinator: Prof. Dr. Robin Klupp Taylor
+Contents: This module provides students with the fundamentals and examples of chemical processes along with an overview of analytical techniques which support modern process development and product design. Winter semester lecture course - Basics in Advanced Processes 1 The course commences with an introduction to chemical processes and their principal characteristics. An overview of practical and economic aspects of chemical process design is given. With case studies, the concepts of unit operations (especially mechanical processes of mixing and separation and thermal processes of separation including distillation and gas scrubbing) are introduced. Fundamental topics in heat and mass transport and chemical conversion are then presented before their application to chemical reactor design is considered. The lecture course ends with a series of case studies covering highly relevant chemical processes including ammonia synthesis, steam cracking and fluid catalytic cracking, silicon production and hydroformylation. Summer semester lecture course - Basics in Advanced Processes 2 (Chemical Analysis and Structure Determination) In this course the following analytical techniques are presented along with practical examples from industrial processes and the scientific literature: •Liquid and gas chromatography •Inverse gas chromatography (IGC) / headspace analysis (HS- GC) •X-ray diffraction •Gas adsorption/desorption and porosimetry •Thermal analysis •Mass spectrometry 
+
+Learning objectives and skills: Students who successfully participate in this module can: •Identify the key characteristics of chemical processes and their design considerations •Classify different unit operations used in chemical processes •Use concepts from heat and mass transport and chemical conversion along with unit operations to design elementary chemical processes •Describe the operation of several key chemical processes used in industry •Explain the fundamental operating principles of a range of analytical techniques and identify their limitations •Select appropriate analytical techniques to determine the physical or chemical characteristics of an intermediate or product of a chemical process
+Prerequisites: None
+Integration in curriculum: semester: 1;2
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (60 minutes) Written examination (60 minutes) Written examination (120 minutes)
+Grading procedure: Written examination (50%) Written examination (50%) Written examination (100%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 30 h Independent study: 120 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: Winter semester lecture course - Basics in Advanced Processes 1 
+
+
+
+, Module name 1755: Biomaterials and Bioprocessing Basics II (Biomaterials and Bioprocessing)5 ECTS
+Lecturers: Prof. Dr. Sannakaisa Virtanen Prof. Dr.-Ing. Aldo Boccaccini Prof. Dr. Kathrin Castiglione Dr. Julia Will  
+Module coordinator: Prof. Dr.-Ing. Aldo Boccaccini
+Contents: *Basics in Biomaterials and Bioprocessing 1*: This course gives a general introduction to Biomaterials and Bioprocessing. In the Biomaterials section, the processing, properties and application of the different material groups (Metals, ceramics, polymers and composite) used in medical applications are discussed. Different examples of biomaterials for orthopaedic devices are presented. Basics of materials for tissue engineering are given with emphasis on porous (scaffolds (processing, application and properties). In the Bioprocessing part, fundamental knowledge about biological macromolecules (polysaccharides, phospholipids, proteins, DNA, RNA) and biological membranes is given. Building on this, enzyme kinetics and enzyme immobilization, growth kinetics of cells, as well as mass balances in batch, fed-batch and continuous fermentation are presented. Finally, different types of bioreactors (stirred-tank, air- lift and bubble-columns, wave-bags, roller bottles) are introduced and exemplary bioprocesses are discussed. *Basics in Biomaterials and Bioprocessing 2: Biomaterial Interfaces and Material Surfaces in Medicine:* This course introduces the basics of chemistry and physics of surfaces including characterization methods for biomaterial surfaces. Surface properties which are relevant for protein and cell attachment are discussed. Fundamentals of protein and protein adsorption on biomaterials are presented as well as the effect of chemical composition, topography, hydrophobic and hydrophilic surfaces, stiffness of the biomaterial and ion release effects from the biomaterial on cell attachment and success of the implanted material in general. The lecture also gives surface modification strategies for implants and scaffolds including biomedical coatings and bioactive surfaces. The course covers also functionalization strategies for biomaterials. Protein adsorption mechanisms and the basics of the interaction between a biomaterial (implant) and tissues (foreign body reaction) are covered. 
+
+Learning objectives and skills: *Basics in Biomaterials and Bioprocessing 1:* The students •acquire basic knowledge on the processing, microstructure and properties of a wide range of biomaterials, e.g. materials for biomedical applications •appreciate the specific properties required for successful biomedical applications of materials and understand biocompatibility concepts •apply their knowledge in order to select biomaterials for specific biomedical applications, e.g. bone implants, stents, wound healing materials, tissue scaffolds •acquire fundamental knowledge about biological macromolecules, membranes and cells and are able to mathematically describe their behaviour •can select a suitable method for the immobilization of a given protein as well as a suitable reactor and process mode for a given biotechnological process. *Biomaterial Interfaces and Material Surfaces in Medicine*: The students -acquire basic knowledge on different aspects of biomaterial interfaces, in particular about the interaction between different biomaterials (polymers, metals, ceramics and composites) with the biological environment. •can apply their knowledge in order to judge the success of the different biomaterials •know and can explain methods of surface characterization
+Prerequisites: None
+Integration in curriculum: semester: 1;2
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (60 minutes) Written examination (120 minutes) Written examination (60 minutes)
+Grading procedure: Written examination (50%) Written examination (100%) Written examination (50%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 2 semester 
+
+Teaching and examination language: english
+Bibliography: *Basics in Biomaterials and Bioprocessing 1:* •Biomaterials Science, 2nd ed., B. D Ratner et al. (eds.), Elsevier, 2004. •Biomaterials Fabrication and Processing, P.K.Chu, X. Liu (eds.), CRR Press, 2008 •Tissue Engineering using Ceramics and Polymers, A. R. Boccaccini, J. E. Gough (Eds.), Woodhead Publ. Ltd., 2007 •Molecular Biology of the Cell, B. Alberts et al., 6th edition, Norton & Company, 2014 •K. Buchholz, V. Kasche, U. Bornscheuer: Biocatalysts and Enzyme Technology, VCH, 2005 •Pauline M. Doran, Bioprocess Engineering Principles, Second Edition, Academic Press, 2013 *Biomaterial Interfaces and Material Surfaces in Medicine*: •Biomaterials Science, 2nd ed., B. D Ratner et al. (eds.), Elsevier, 2004. •Surface Modification of Biomaterials: Methods analysis and applications, R. Williams (ed.), Woodhead Publishing, 2010 Further recommended reading will be announced in the lectures 
+
+, Module name 1760: Computational Materials Science and Process Simulation (CMSPS) Basics III (Computational Materials Science and Process Simulation)5 ECTS
+Course / lectures: Vorlesung: Basics in Computational Materials Science and Process Simulation 1 (2 SWS )2,5 ECTS Vorlesung: Basics in Computational Materials Science and Process Simulation 2 (2 SWS )2,5 ECTS
+Lecturers: Prof. Dr. Michael Engel Prof. Dr.-Ing. Andreas Bück Dr. Frank Wendler Dr.-Ing. Manuel Münsch  
+Module coordinator: Prof. Dr. Michael Engel
+Contents: This module provides the students with an overview on the simulation methods and computational techniques used in materials science and engineering as well as chemical and bioengineering. Basics in Computational Materials Science and Process Simulation 1: The lecture Basics in Computational Materials Science and Process Simulation 1 introduces the Hard- and Software environment for scientific computing as well as the basic concepts of particle based modelling and simulation in materials science and process technology. The lectures provide an overview of different techniques, methods, and applications thereof from the atomic scale via the mesoscale to the microscale: electronic structure calculations atomistic simulations molecular modelling discrete element method population balance in particle technology Basics in Computational Materials Science and Process Simulation 2: The lecture Basics in Computational Materials Science and Process Simulation 2 provides an introduction to numerical methods to solve typical engineering problems. Emphasis is placed on practical application of these methods to processes involving thermodynamics, fluid mechanics and materials deformation. In particular, it addresses: programming with MATLAB solution of nonlinear equations numerical differentiation and integration numerical solution of differential equations numerical solution of transport problems: the Finite-Difference Method introduction to the Finite Element Method simulation of transport phenomena using FEM packages (ABAQUS) modelling of deformation processes: Elasticity and Plasticity numerical simulation of deformation phenomena with FEM
+Learning objectives and skills: Students who successfully participate in this module can demonstrate knowledge of scientific computing environments and can apply shell commands 
+
+Prerequisites: None
+Integration in curriculum: semester: 1;2
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (60 minutes) Written examination (120 minutes) Written examination (60 minutes)
+Grading procedure: Written examination (50%) Written examination (100%) Written examination (50%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: •Scientific Computing with MATLAB and Octave (4th Edition, Springer), A. Quarteroni, F. Saleri and P. Gervasio •The Finite Element Method (World Scientific), Z. Chen •Further recommended reading will be announced in the lectures. 
+
+, Module name 1770: Nanomaterials and Nanotechnology Basics IV (Nanomaterials and Nanotechnology)5 ECTS
+Course / lectures: Vorlesung: Basics in Nanomaterials and Nanotechnology 1 - Mechanical and Optical Properties (2 SWS )2,5 ECTS Vorlesung mit Übung: Basics in Nanomaterials and Nanotechnology 2 - Nano Characterization (2 SWS )2,5 ECTS
+Lecturers: Prof. Dr. Nicolas Vogel Prof. Dr. Peter Felfer Michael Höhlinger Prof. Dr. Erdmann Spiecker Prof. Dr. Patrik Schmuki  
+Module coordinator: Prof. Dr. Peter Felfer
+Contents: *Basics in Namomaterials and Nanotechnology 1 -Mechanical and Optical Properties:* Lectures Prof. Felfer: General introduction to Nanotechnology: properties of Nanomaterials (magnetic, mechanical . . . ): production of nanomaterials: Sol-Gel technique, severe plastic deformation mechanical properties of materials and size-effects in mechanics characterization of Nanomaterials, Transmission Electron Microscopy, Focused Ion Beam, Scanning Tunneling Microscope, Atom Probe Microscopy Lectures Prof. Vogel: general introduction of nanoparticulate systems and their applications introduction to size-dependent physical properties of dielectric, metallic and semiconducting nanoparticles: light scattering, plasmonic properties, size-dependent emission properties and magnetism collective effects and properties of nanoparticle thin films: structural color and tailored emission properties *Basics in Nanomaterials and Nanotechnology 2 - Nano Characterization:* Part 1: Basics of electron microscopy Electron matter interaction Electron diffraction Imaging (BF, DF, HR(S)TEM) Examples Part 2: surface analysis AFM/STM XPS/UPS Tof-SIMS/LEIS XRD and diffraction methods SFG and optical methods Examples 
+
+Learning objectives and skills: Students who successfully participate in this module can describe fabrication methods to produce nanomaterials understand fundamental structure-function relationships of nanostructured materials understand the concept behind fibre reinforced composite materials and identify the influence of the individual components in such materials identify the potential of polymer composites in applications identify established, new and upcoming applications of nanoparticles explain the physical origin and applicability of nanoscale effects including quantum confinement, surface plasmon resonance and superparamagnetism differentiate between single particle effects and collective effects (e.g. photonic bandgaps) identify suitable characterisation techniques for determining the electronic, magnetic and optical properties of nanoparticles decide which combination of surface analytical tools to use for specific scientific questions demonstrate knowledge about the working principles of surface analysis techniques describe limitations and strengths of common surface analysis techniques generate nanostructures of different dimensions
+Prerequisites: None
+Integration in curriculum: semester: 1;2
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (120 minutes) Written examination (60 minutes) Written examination (60 minutes)
+Grading procedure: Written examination (100%) Written examination (50%) Written examination (50%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: •S.N. Magonov, M.-H. Whangbo, Surface Analysis with STM and AFM •G.I. Goldstein, D.E. Newbury, et al., Scanning electron microscopy and X-ray microanalysis •D. Briggs, M.P. Seah, Practical Surface Analysis 
+
+
+, Module name 1800: Schwerpunkt Advanced Processes Focal Subject Advanced Processes15 ECTS
+Course / lectures: Vorlesung: Process Technologies (2 SWS ) 5 ECTS Vorlesung: Adsorption: Fundamentals and Applications (2 SWS, WiSe 2023 )5 ECTS Vorlesung mit Übung: Advanced Semiconductor Technologies - Processing (including Lab Work Organic Electronics Processing) (2 SWS )3 ECTS Übung : Process Technologies Exercises (1 SWS ) - Vorlesung: Catalysis (2 SWS ) 3,5 ECTS Vorlesung: Chemical technologies for energy transition (1 SWS )1,5 ECTS
+Lecturers: Dr.-Ing. Detlef Freitag Prof. Dr.-Ing. Malte Kaspereit Prof. Dr. Martin Hartmann Prof. Dr. Matthias Thommes PD Dr.rer.nat. Hans-Joachim Egelhaaf Prof. Dr. Christoph Brabec Prof. Dr. Tanja Franken apl.Prof.Dr. Marco Haumann  
+Module coordinator: Prof. Dr. Tanja Franken
+Contents: Sustainable Technologies: 1.Definition of sustainability and measures 2.Current and future Energy mix 3.Exhaust Gas Catalysis 4.Sustainable Feedstocks 5.Biorefinery 6.CO2 as C1 Source 7.Chemical Energy Storage 8.H2 Production & Fuel Cells 9.Batteries 10.Solar Cells Process Technologies: The course "Process Technologies gives an overview on important processes in the chemical process industries. The processes are treated in a holistic approach and the interaction of individual process steps and their feedback to the overall process are discussed in more detail. In particular, the relationship between the physical/chemical basics of the processes, process development and process design will be discussed. The presented processes are selected based on their importance in the fields of raw materials, intermediates and consumer products of the chemical process industries. In the sense of process engineering, apart from the reaction steps, the separation operations are also part of the considerations. The evaluation of the methods with regard to their cost-effectiveness and sustainability complete the description of the processes. In detail, the following aspects will be treated: 
+
+
+Learning objectives and skills: Students who successfully participate in this module can define different types of chemical reaction and reactor differentiate between steady-state and transient reactor operation evaluate the differences between idea and real reactors assess aspects of safety of chemical reactors define challenges and solutions for multiphase reactors describe the importance of thin film technologies to modern (opto)electronic devices define principal gas and solution-based thin film fabrication technologies, especially printing techniques evaluate the composition of printing inks and characteristics and quality of printed layers explain how thin films can be patterned understand the role of emerging thin film technologies such as molecular self-assembly Students who successfully participate in this module can explain the material, technological and developmental aspects of chemical processes understand the fundamentals of both homogeneous and heterogeneous catalysis analyze and evaluate the general mechanisms in catalysis describe and critically asses the interplay between mass transport and chemical reaction apply immobilization techniques for homogeneous catalysts transfer their knowledge about chemical reactors regarding influences on catalytic processes
+Prerequisites: basics in physical chemistry
+Integration in curriculum: semester: 2;3
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written or oral Written or oral (120 minutes) Written or oral Written or oral
+Grading procedure: Written or oral (50%) Written or oral (50%) Written or oral (50%) Written or oral (50%)
+Module frequency: every semester 
+
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 150 h Independent study: 300 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: 
+
+, Module name 1805: Schwerpunkt Biomaterials and Bioprocessing Focal Subject Biomaterials and Bioprocessing15 ECTS
+Course / lectures: Vorlesung: Polymer Materials for Medical Applications (2 SWS )3 ECTS Vorlesung: Application of Cell Technology (2 SWS ) 3 ECTS Vorlesung: Biomaterials for Tissue Engineering (2 SWS )2,5 ECTS Vorlesung mit Übung: Biomimetic synthesis of materials (2 SWS, WiSe 2023 )1,5 ECTS Vorlesung: Immobilisation of cells and characterisation of membranes (2 SWS )3 ECTS
+Lecturers: Dr.-Ing. Joachim Kaschta Prof. Dr.-Ing. Aldo Boccaccini Dr.-Ing. Rainer Detsch PD Dr. Stephan Wolf  
+Module coordinator: Prof. Dr.-Ing. Aldo Boccaccini
+Contents: •Immobilisation system •High density cell culture bioreactors •Microcarriers - advantages and disadvantages •Surface binding (adhesion) •Matrix properties •DLVO Theory •Modified surfaces •Flocculation and Coagulation •Van der Waals Forces and electrostatic forces •Principle of polymer flocculation •Flocculation with yeast cells •Flocculation breakage •Floc strength •Breakage models •Antibody binding •ELISA •Tumor therapy •Magnetic associated cell sorting (MACS) •Entrapment methods •Hollow fiber reactor •Encapsulation •Encapsulation technology •Droplet formation •Membrane characterization •Categories of membranes for Life Science application •Membrane materials •Membrane based processes •Applications in the biopharmaceutical industry and in medicine/ medtech Biomimetic Synthesis of Materials (Prof. Wolf): 
+
+Learning objectives and skills: Cells, Membranes and Tissue Engineering: The students achieve extensive knowledge in the field of cell cultivation including cell immobilization, cell interaction and membrane interactions. Furthermore, the students analyze typical situations of application of membrane technology in the life sciences and to propose possible solutions based on understanding of both process and material aspects. Biomimetic Materials: The students •elaborate differences between bionic and biomimetic sciences •discuss the limits of biomimetic approaches •identify and elaborate on the basic design principles in biological materials •give an account on the structure, processing, and function of various classic examples of biological functional materials with a special regard to biological ceramic materials, i.e. biominerals •adapt design concepts used in natural systems to synthesis for the development of new functional materials. Application of Cell Technology: This course introduces the basics of biochemistry, cells and cell culture technique. Based on this knowledge, the students will learn how cells interact with biomaterials and how material parameters are influencing protein adsorption, cell adhesion, proliferation and differentiation. Also 
+
+Prerequisites: None
+Integration in curriculum: semester: 2;3
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written or oral Written or oral Written or oral
+Grading procedure: Written or oral (50%) Written or oral (50%) Written or oral (50%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 120 h Independent study: 330 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: •Immobilised cells and enzymes. J. Woodward. IRL Press Ltd. Oxford; ISBN 0-947946-21-7 •Membranes for Life Sciences Wiley-VCH (Ed. K.-V. Peinemann, S. Pereira-Nunes) Biomimetic Materials: •E Bäuerlein, Biomineralization, Wiley-VCH (2004) •TX Fan, SK Chow, D Zhang, Biomorphic mineralization: From biology to materials, Progress in Materials Science 54 (2009) 542 - 659 
+
+
+, Module name 1810: Schwerpunkt Computational Materials Science and Process Simulation Focal Subject Computational Materials Science and Process Simulation15 ECTS
+Lecturers: PD Dr. Paolo Moretti Prof. Dr.-Ing. Wolfgang Peukert Prof. Dr. Michael Engel Prof. Dr. Philipp Schlatter Dr.-Ing. Manuel Münsch Sandra Schindler Suharto Saha  
+Module coordinator: Prof. Dr. Michael Engel
+Contents: The elective focal subject module "Computational Materials Science and Process Simulation: Discrete Methods provides the students with an in- depth understanding of state-of-the-art discrete simulation methods in the fields of materials science and engineering as well as chemical and bioengineering and their synergies. Pre-course on Linux and Matlab: Introduction to fundamental computational material science tools. Overview of the topics will be covered: •Linux •Linux Bash shell, scripting •Gnuplot •MATLAB Numerical Methods in Materials Science - Atomistic Methods: The lecture Numerical Methods in Materials Science - Atomistic Methods covers all aspects of atomistic simulations, including •advanced methods for the generation of atomistic samples •atomic interaction potentials •molecular dynamic integration algorithms for different Thermodynamic ensembles (NVE,NVT,NPT) •energy minimization algorithms and structure optimization •introduction to Density Functional Theory •determination of defect properties 
+
+
+Learning objectives and skills: Students who successfully participate in this module can •describe and critically assess the most frequently used simulation algorithms in fluid dynamics and mechanics of materials •create samples and simulation setups for various continuum simulation methods •apply state-of-the-art programs for numerical simulations at the continuum scale •analyze and evaluate the simulation results of aforementioned methods •plan multiscale modeling approaches for specific engineering problems At the end of the pre-course on Linux and Matlab, the students should be able to 1. Use the computer pools at FAU and work with Linux Operation system 2. Use the bash and shell scripts for fundamental data processing 3. Plot and analyse data by using Gnuplot 4. Use Matlab to solve simple problem such as matrix operation, writing scripts and functions. •work in a team to solve engineering problems using computers
+Integration in curriculum: semester: 2;3
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written or oral Written or oral
+Grading procedure: Written or oral (50%) Written or oral (50%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 150 h Independent study: 300 h 
+
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: •J.H. Ferziger, M. Peric, Computational Methods for Fluid Dynamics, Spinger, 2008 •R.J. Leveque, Finite Difference Methods for Ordinary and Partial Differential Equations, SIAM, 2007 •R. LeSar, Introduction to Computational Materials Science: Fundamentals to Applications Further literature will be announced in the lectures. 
+
+, Module name 1815: Schwerpunkt Nanomaterials and Nanotechnology Focal Subject Nanomaterials and Nanotechnology15 ECTS
+Course / lectures: Vorlesung: Self-assembly at surface (2 SWS, SoSe 2024 )3 ECTS Vorlesung mit Übung: Nanotechnologie disperser Systeme (3 SWS )5 ECTS Vorlesung: Mechanical Properties and Structures of Advanced Materials (2 SWS )2,5 ECTS Vorlesung: Nanopolymers (1 SWS, WiSe 2023 ) 2,5 ECTS
+Lecturers: Dr. Monica Distaso Prof. Dr. Robin Klupp Taylor Prof. Dr. Mathias Göken Dr.-Ing. Steffen Neumeier  
+Module coordinator: Prof. Dr. Mathias Göken
+Contents: Nanotechnology of Disperse Systems: This lecture begins with a revision of basic topics in the theory of nucleation, growth and electrostatic stabilization of particulate materials. Following this the challenges and solutions to the problem of metal, oxide, semiconductor and polymer particle synthesis will be discussed. The second half of the course will concern the characterization, properties and application of disperse systems. In addition to understanding the measurement of particle and agglomerate size and shape, the factors affecting the electronic, magnetic, optical and catalytic properties will be covered. Particles are often applied as part of a hierarchical system e.g. in a device, functional coating, drug delivery system. The use of self- assembly and printing/patterning techniques to achieve these goals will be presented with reference to work carried out within the Erlangen Cluster of Excellence "Engineering of Advanced Materials - Hierarchical Structure Formation for Functional Devices". For the associated "Exercises" participants of the course will be required to explore the literature and give a 10 minute presentation regarding recent developments in a specific aspect of disperse systems or nanoparticle research. Self-Assembly on Surfaces: The lecture introduces with fundamentals of physisorption, chemisorption, growing modes, chemistry of surface binding via different motifs, analytical method for surface characterization, and nano-phase- separation. We will discuss weak intermolecular and surface interactions (van-der- Waals und dipoles), the mobility of nano-objects on surfaces and their use in 2D and 3D assembly. Medium interaction motifs (H-bonding, other non-covalent motifs) as driving forces. Main task will be the techniques and processes for self-terminating growth, 2D-superstructures according to the substrate and the chemistry. 
+
+
+Learning objectives and skills: Nanotechnology and Disperse Systems: students review key themes of nanoparticle research and application as well as the underlying fundamentals Self-Assembly on Surfaces: •students will develop a key competence in structure-property- relations of self-assembly •students gain knowledge in surface analytic, surface chemistry and processes •students determine fundamental applications of the self- assembly process and resulting materials Mechanical properties and structure of advanced materials: The students assess the effects of crystal structure and microstructure on the deformation behavior of materials on different length scales, from the atomic scale of the crystal lattice over the constraining effects in microscale devices to bulk deformation apply experimental techniques involved, with a guide as to how mechanical properties can be measured at the micro- and nanoscale and on the role of size effects Preparation principles and production processes of advanced materials: The students: •realize the importance of porous system in general •explain the formation principles of porous materials •explain the construction principles of porous materials •correlate properties and application potentials •understand compare the design options •summarise the resulting technical processes Nanopolymers: The students: •examine the world of polymer nanocomposites, reviewing different types of nanofillers and their relevant characteristics •discuss different dispersion technologies in terms of operating principle and specialties with a key focus on parameters influencing the dispersion and which dispersion technology fits best for a special polymernanofiller combination •explore important methods to characterize the nanocomposite morphology e.g. TEM, WAXS, NMR, μ-CT. 
+
+Prerequisites: None
+Integration in curriculum: semester: 2;3
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written or oral Written or oral
+Grading procedure: Written or oral (50%) Written or oral (50%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 180 h Independent study: 270 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: - Everett, D.H. Basic Principles of Colloid Science, Cambridge, Royal Society of Chemistry 2007 - Vollath, Dieter, Nanoparticles, nanocomposites, nanomaterials. Weinheim, Wiley-VCH, 2013 - Nogi, Kiyoshi, Naito, Makio, and Yokoyama, Toyokazu. Nanoparticle Technology Handbook , Amsterdam, Elsevier 2012 - Pelton, Matthew, and Bryant, Garnett W. Introduction to Metal- Nanoparticle Plasmonics. Somerset, NJ, USA: John Wiley & Sons, 2013 - Gubin, Sergei. Magnetic Nanoparticles. Weinheim, Wiley-VCH, 2009 •Script Self-assembly, and included literature 
+
+Module coordinator: 5
+Contents: no content description available!
+Learning objectives and skills: no learning objectives and skills description available!
+Prerequisites: None
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Written (6 Monate) Oral (30 minutes)
+Grading procedure: Written (90%) Oral (10%)
+Module frequency: no Module frequency information available!
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: english
+Bibliography: 
+
+, Module name 1850: Miniprojekt Miniproject10 ECTS
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: no content description available!
+Learning objectives and skills: no learning objectives and skills description available!
+Prerequisites: None
+Integration in curriculum: semester: 3;2
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Seminar achievement
+Grading procedure: Seminar achievement (100%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: english
+Bibliography: 
+
+, Module name 1900: Wissenschaftsskills I Scientific skills I2,5 ECTS
+Course / lectures: Praktikum : Lab Course Material Science for MAP (2 SWS )2,5 ECTS Praktikum : Lab Course Fundamentals in Chemical and Bioengineering for MAP (2 SWS )2,5 ECTS
+Lecturers: Sebastian Hagen Prof. Dr. Nicolas Vogel  
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: In the mandatory safety instruction, the students learn to identify potential hazards and work safely in a laboratory environment. In the lab courses, the students apply the knowledge gained in the modules M1- M4 to perform experiments and analyse and summarize their results in a written report.
+Learning objectives and skills: Students who successfully participate in this module can identify potential hazards in laboratory environments safely work with laboratory equipment apply theoretical concepts from materials science and engineering as well as chemical and bioengineering to experimental settings analyse and discuss experimental data compose structured lab reports solve experimental challenges as a team
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Practical achievement
+Grading procedure: Practical achievement (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 30 h Independent study: 45 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Safety instructions 
+
+, Module name 1905: Wissenschaftsskills II Scientific skills II2,5 ECTS
+Course / lectures: Seminar : Scientific Skills II: Literature Review AND Soft skills: Scientific Poster Presentation (2 SWS )2,5 ECTS
+Lecturers: Prof. Dr. Robin Klupp Taylor  
+Module coordinator: Prof. Dr. Robin Klupp Taylor
+Contents: In a series of lectures, the students learn the basic principles of scientific writing as well as effective scientific communication with posters. They then put these concepts into practice by writing a review paper one the current state-of-the-art on a subject related to one of the MAP focal topics
+Learning objectives and skills: Students who successfully participate in this module can •apply the conventions and vocabulary of scientific writing •apply search methods to find relevant literature using databases •obtain and organize literature •analyse, categorize, compare, review and rate research papers •summarize and interpret key findings of research papers •compose a structured literature review
+Prerequisites: None
+Integration in curriculum: semester: 3
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Seminar achievement
+Grading procedure: Seminar achievement (100%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 30 h Independent study: 45 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •R. A. Day, N. Day, Scientific English: A guide for scientists and other professionals, Greenwood, Santa Barbara Calif. 2011. (Full Text) •A. Gilpin, P. Patchet-Golubev, A Guide to Writing in the Sciences, University of Toronto Press, Toronto 2000. (Full Text) •H. Glasman-Deal, Science research writing: For non-native speakers of English / by Hilary Glasman-Deal, World Scientific, Singapore, London 2010. (Full Text) •B. Gustavii, How to write et illustrate a scientific paper, Cambridge University Press, Cambridge 2008. (Full Text) 
+
+
+, Module name 1950: Soft skills Soft Skills5 ECTS
+Course / lectures: Seminar : Soft Skills: Career Development I, Part 2 (5 SWS )2,5 ECTS
+Lecturers: Prof. Dr. Nicolas Vogel  
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: MAP soft skills courses strengthen, amongst others, the interpersonal, communication, economic and management skills of our students. Field trips provide the opportunity to make contact and gain direct insights into the daily business of organizations operating in the fields of research and industry.
+Learning objectives and skills: Students who successfully participate in this module communicate effectively, using various means of communication can present complex, subject-specific content clearly and present arguments effectively •improve their own methods of presenting arguments through critical reflection •give fellow students constructive feedback •can define goals for personal development, reflect upon personal strengths and weaknesses and plan personal development •elaborate competitive job applications and successfully prepare for job interviews •strengthen their understanding of business and/or policy environments, organizational structures and working practices
+Prerequisites: None
+Integration in curriculum: semester: 2;3
+Module compatibility: Pflichtmodul Master of Science Advanced Materials and Processes 20192
+Method of examination: Seminar achievement Seminar achievement
+Grading procedure: Seminar achievement (0%) Seminar achievement (0%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: 
+
+
+, Module name 1701: Chemical Reaction Engineering 5 ECTS
+Course / lectures: Vorlesung: Chemical Reaction Engineering (2 SWS ) 5 ECTS
+Lecturers: apl.Prof.Dr. Marco Haumann  
+Module coordinator: apl.Prof.Dr. Marco Haumann
+Contents: fundamental parameters micro-kinetics heterogeneous catalysis - reaction processes on surfaces macro-kinetics - inner and outer mass transfer: macro Kinetics - non isothermal conditions types of chemical reactors reactor modelling mass and heat reactors - stable operation points
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of chemical reaction engineering. Students who successfully participate in this module can describe complex reactions by kinetic rate expressions analyze reactions on solid surfaces of heterogeneous catalysts describe and quantify the interplay between reaction kinetics and mass transport describe and quantify mass and heat balances in catalyst particles classify chemical reactors based on reacting phases or mode of operation balance mass and heat flows in ideal reactors find stable and safe operation points for reactors
+Prerequisites: To succeed in this course students will need to apply earlier acquired knowledge from e.g. physical chemistry, mathematics. A solid background in mathematics is required, since differential equations and integrals form the basis for the description of the chemical processes and their kinetics. Understanding of kinetics to describe the time dependent concentration changes in chemical reactions should be familiar from physical chemistry classes. Basic knowledge in thermodynamics and general chemistry is beneficial.
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 30 h Independent study: 120 h
+Module duration: 1 semester 
+
+Teaching and examination language: english
+Bibliography: Jess and P. Wasserscheid, Chemical Technology, Wiley-VHC, Weinheim. O. Levenspiel, Chemical Reaction Engineering. John Wiley. 
+
+, Module name 1715: Chemical Thermodynamics 5 ECTS
+Course / lectures: Vorlesung: Chemical Thermodynamics (CT) (2 SWS ) 5 ECTS
+Lecturers: Prof. Dr. Matthias Thommes  
+Module coordinator: Dr. Liudmila Mokrushina Prof. Dr. Matthias Thommes
+Contents: Thermodynamic description of multiphase mixtures containing one, two or more substances: •vapor-liquid equilibria •gas-liquid equilibria •liquid-liquid equilibria •reaction equilibria under consideration of phase equilibria •modelling and prediction of fluid phase equilibria based on activity and fugacity •equations of state •activity coeffitient/gE models
+Learning objectives and skills: The students who successfully participate in this module can •understand the driving forces and thermodynamic limitations of processes containing mixed phases •understand the phase change and phase equilibria from an intermolecular and energetic viewpoint as a key to understanding thermal separation processes •understand the thermodynamics behind equilibria of two and more phases as well as the equilibria of chemical reactions •learn how to calculate these equilibria based on pure substance properties, without equilibrium data
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 30 h Independent study: 120 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Gmehling, J.; Kolbe, B.; Kleiber, M.; Rarev, J. Chemical Thermodynamics for Process Simulation •Smith, J. M.; Van Ness, H. C.; Abbott, M. Introduction to Chemical Engineering Thermodynamics 
+
+
+, Module name 1738: Electronic Materials 5 ECTS
+Course / lectures: Vorlesung: Electronic Materials (VL und Seminar) (3 SWS )5 ECTS
+Lecturers: Prof. Dr. Christoph Brabec  
+Module coordinator: Prof. Dr. Christoph Brabec
+Contents: •semiconductor materials, elementary, binary, ternary and quaternary semiconductors, crystal structures •formation of band structures, direct and indirect semiconductors, bandgap, effective mass of carriers •carrier statistics, Ohms low, Fermi-distribution, density of states, carrier densities •intrinsic and extrinsic (doped) semiconductors, mechanisms of doping and limitations, carrier concentration and position of Fermi energy versus temperature, temperature dependence of carrier density and conductivity, degenerate semiconductors •epitaxy of semiconductors, quantum wells and quantum dots, characterization of epitaxial layers •patterning of semiconductors, lithography, etching and material deposition •carrier transport, Drude model, scattering processes, thermal and drift velocity, mobility, conductivity •principles, processing and application of ohmic contacts (Peltier), Shottky contacts •diffusion, band structure in electric field •pn-junction, doping concentration, carrier densities, depletion region, electric field and potential •biased pn-junction, carrier transport and current-voltage characteristic •photovoltaics, kinds of solar cells, their limits and materials demands •organic semiconductors and their applications
+Learning objectives and skills: The lecture enables the students to understand the basic physical properties of semiconductors. The fundamentals of semiconductor devices are introduced based on a discussion of the pn-junction diode. The lecture also covers technological aspects such as growth and processing of semiconductors. The seminar enables the student to amplify their knowledge about the topics of the lectures, especially on materials demands for electronic devices, first of all for solar cells. Every student should prepare at least one talk to the selected topic.
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes) 
+
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Simon M. Sze, "Semiconductor Devices: Physics and Technology", John Wiley & Sons •S.O. Kasap, Principles of Electronic Materials and Devices (Mc Graw Hill, 3rd Edition) •W. Callister, Materials Science and Engineering (esp. chapter 12, Wiley, 2nd Edition) 
+
+, Module name 1710: Fluid Mechanics 5 ECTS
+Course / lectures: Übung : Fluid Mechanics - Übung (2 SWS ) - Vorlesung: Fluid Mechanics (2 SWS ) 3 ECTS
+Lecturers: Dr.-Ing. Manuel Münsch Prof. Dr. Philipp Schlatter  
+Module coordinator: Dr.-Ing. Manuel Münsch
+Contents: motivation, history organization of the lecture introduction, continuum, pressure, surface tension scalars, vectors and tensors fluid statics and buoyancy governing equations: Integral analysis of fluid flow governing equations: Differential analysis of fluid flow special forms of governing equations similitude, dimensional analysis, and modeling solutions of basic internal and external flows applied examples of the course material
+Learning objectives and skills: The Students will learn the mathematical fundamentals of integral and differential modeling fluid flows can classify different types of fluid flow phenomena and derive the necessary non-dimensional parameters can simplify and utilize mathematical models for the solution of different types of flows have the chance to see the direct application of the content in the research and development work conducted at LSTM-Erlangen
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Munson, Yound and Okiishi: Fundamentals of Fluid Mechanics. John Willey and Sons •Fox and McDonald: Introduction to Fluid Mechanics. John Willey and Sons •White: Fluid Mechanics. McGraw Hill 
+
+
+, Module name 1705: Interface Engineering and Particle Technology 5 ECTS
+Course / lectures: Vorlesung mit Übung: Interface Engineering and Particle Technology (3 SWS )3 ECTS
+Lecturers: Lukas Römling Prof. Dr.-Ing. Wolfgang Peukert Julia Seifert Prof. Dr. Robin Klupp Taylor Dr. Jochen Schmidt  
+Module coordinator: Prof. Dr. Robin Klupp Taylor
+Contents: This module provides students with an overview of the following key concepts and practical aspects of the fields of interfacial engineering and particle technology: •Molecular interactions: Adsorption and adhesion •Particle nucleation and growth •Particle stabilization •Particle size and shape. •Particles in motion •Particle size distributions •Unit operations: separations, mixing, comminution •Packed and fluidized beds The associated exercises and homework cover all topics and allow students to develop their understanding independently with follow-up support from the course tutors.
+Learning objectives and skills: On completion of the lecture course students will be able to: •understand the relevance of interfaces in the natural and artificial world. •master the fundamentals of interfaces and apply them to the specific case of wetting, particle nucleation, growth and stabilization •analyse interfacial-dependent processes in their connection with engineering challenges and develop solutions. •define the societal relevance of particle technology •give examples of unit operations of particle technology •differentiate between the various approaches for defining particle size and shape •analyze the motion of particles according to physical and engineering principles •analyze particle size distributions, distinguish between accepted norms for their presentation, and apply them for the analysis of separation equipment •describe the structure of packings and bulk materials and the perfusion of those •describe the fundamentals of the processes of separation, mixing, comminution and fluidization •apply their acquired knowledge and skills in the additional exercises and tutorials in order to solve independently 
+
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Unless stated, online texts are only available within the FAU network (or remotely via VPN) Interface Engineering •Adamson, A.W. and Gast, A.P. (1997) Physical chemistry of surfaces, 6th edn, Wiley, New York, Chichester. FAU library holdings •Berti, D. and Palazzo, G. (2014) Colloidal foundations of nanoscience, Elsevier, Amsterdam. Full Text •Butt, H.-J.B., Graf, K., Kappl, M. (2003) Physics and chemistry of interfaces, Wiley-VCH; Chichester : John Wiley, Weinheim. Full Text •Cosgrove, T. (2005) Colloid science: Principles, methods and applications / edited by Terence Cosgrove, Blackwell Pub, Oxford, Ames, Iowa. Full Text •Everett, D.H. (2007) Basic principles of colloid science, Royal Society of Chemistry, London. Full Text •Israelachvili, J.N. (2012) Intermolecular and surface forces, 3rd edn, Academic Press is an imprint of Elsevier, Amsterdam. Full Text •Kontogeorgis, G.M. and Kiil, S. (2016) Introduction to applied colloid and surface chemistry, Wiley, Chichester, UK. Full Text •Lyklema, J. (2005) Fundamentals of interface and colloid science. Elsevier/Academic Press, Amsterdam, London. Full Text •Mersmann, A. (2001) Crystallization Technology Handbook, CRC Press, Boca Raton FAU library holdings 
+
+
+
+, Module name 1730: Materials and Structure 5 ECTS
+Course / lectures: Vorlesung mit Übung: Materials and Structure (Werkstoffe und ihre Struktur) (2 SWS )3 ECTS
+Lecturers: Prof. Dr. Erdmann Spiecker Dr. Johannes Will  
+Module coordinator: Prof. Dr. Erdmann Spiecker
+Contents: The content of the module gives an overview of different fields of materials science and engineering. The following topics are included in the module: •atomic structure and interatomic bonding •structure of crystalline solids •structure determination by X-ray diffraction •imperfections in solids •microscopic characterization of crystal defects •mechanical properties of metals •dislocations and strengthening mechanisms •phase diagrams of binary alloys •phase diagrams of metals: development of microstructure •kinetics of phase transformations •structure and properties of ceramics
+Learning objectives and skills: The course enables the students •to classify the different types of bonding that occur in materials •to understand the relationship between bonding, structure and fundamental materials properties •to describe crystalline materials with basic concepts of crystallography •to classify crystal defects with respect to their dimensionality •to describe the importance of dislocations and interfaces for the mechanical properties of metals •to understand the development of microstructure based on phase diagrams and the kinetics of phase transformation •to describe basic crystal structures of ceramics •The course forms the basis for advanced lectures in the field of materials science.
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 30 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: William D. Callister, Jr., "Materials Science and Engineering: An Introduction", John Wiley & Sons, Inc., 7th edition (or later) 
+
+, Module name 1725: Polymer Materials 5 ECTS
+Course / lectures: Vorlesung: Polymer Materials (PM) (2 SWS ) 5 ECTS Übung : Polymer Materials - Excercises (1 SWS ) -
+Lecturers: Prof. Dr. Nicolas Vogel Prof. Dr. Dirk Schubert  
+Module coordinator: Prof. Dr. Dirk Schubert
+Contents: The lecture provides an introduction into Polymer Science and Engineering and broad overview of the field. The following topics will be introduced: •Macromolecules: Definition and special characteristics of macromolecules; types of polymers and classifications, special polymer classes •Polymer synthesis: step and chain growth, living polymerization, network formation, ionic polymerization •Polymer thermodynamics: conformation of macromolecules in dissolved state and melt; thermodynamics of mixing, phase separation •Characterization of polymers: Determination of molecular weight, rheological properties and chemical functionalities •Polymers in solid state: semicrystalline materials, amorphous materials, elastomers •Polymer processing: Introduction in relevant fabrication processes (extrusion, injection moulding, )
+Learning objectives and skills: Students who successfully participate in this module: •Understand fundamental structure-property relations of macromolecules and polymeric materials •Are able to deduce and predict macroscopic material properties from the molecular structure of the polymer •Develop the ability to modify the macroscopic properties via the molecular structure •Learn fundamental competences for the synthesis, characterization and processing of macromolecular materials •Are able to choose a polymeric material for a desired application •Receive an overview of current research topics and activities in the area of polymer sciences.
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester 
+
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: R. J. Young, P. A. Lovell, Introduction to Polymers, 3rd Edition. CRC Press 2011 
+
+, Module name 1722: Thermodynamics and Mechanics of Materials 5 ECTS
+Course / lectures: Vorlesung: Thermodynamics and Mechanics of Materials (2 SWS )5 ECTS
+Lecturers: Prof. Dr. Peter Felfer  
+Module coordinator: Prof. Dr. Peter Felfer
+Contents: Thermodynamics in Materials Science: Recap of thermodynamic principles and basics Thermodynamics of solid solutions Derivation of phase diagrams Mechanical Properties of Materials: Continuum mechanical background: tensors, stress, strain, elastic constants Continuum mechanical modeling of plasticity Linear elastic fracture mechanics Deformation mechanisms and crystal defects Fatigue Creep
+Learning objectives and skills: The lecture enables students to apply the principles of thermodynamics in the context of materials science. In particular, they students will be able to derive and explain phase diagrams and their significance for alloy development. The students will furthermore be able to use the framework of continuum mechanics to describe and model elastic and plastic deformation as well as fracture. Furthermore, students will be able to explain macroscopic deformation and failure on the basis of microscopic and atomistic deformation mechanisms and relate the mechanical properties of materials to their microstructure.
+Prerequisites: None
+Integration in curriculum: semester: 1
+Module compatibility: Grundlagenfächer Master of Science Advanced Materials and Processes 20192
+Method of examination: Written examination (90 minutes)
+Grading procedure: Written examination (0%)
+Module frequency: only in winter semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Gaskell: Introduction to the Thermodynamics of Materials •Roesler, Harders, Baeker: Mechanical Behaviour of 
+
+
+
+, Module name 1860: Anwendungsorientiertes Miniprojekt Application oriented mini project10 ECTS
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: no content description available!
+Learning objectives and skills: no learning objectives and skills description available!
+Prerequisites: None
+Integration in curriculum: semester: 3
+Module compatibility: Zusatzstudien Industry Focus Master of Science Advanced Materials and Processes 20192
+Method of examination: Practical achievement
+Grading procedure: Practical achievement (100%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: english
+Bibliography: 
+
+, Module name 1960: Arbeitsumfeldbezogene Soft Skills Career Oriented Soft Skills5 ECTS
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: no content description available!
+Learning objectives and skills: no learning objectives and skills description available!
+Prerequisites: None
+Integration in curriculum: semester: 2;3
+Module compatibility: Zusatzstudien Industry Focus Master of Science Advanced Materials and Processes 20192
+Method of examination: Seminar achievement
+Grading procedure: Seminar achievement (0%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: german or english
+Bibliography: 
+
+, Module name 1505: Wahlmodul mit technischer oder wirtschaftlicher Orientierung Elective module with technical or business focus5 ECTS
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: no content description available!
+Learning objectives and skills: no learning objectives and skills description available!
+Prerequisites: None
+Integration in curriculum: semester: 2;3
+Module compatibility: Zusatzstudien Industry Focus Master of Science Advanced Materials and Processes 20192
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: every semester
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: english
+Bibliography: 
+
+, Module name 1996: Industriepraktikum (M.Sc. Advanced Materials and Processes 20192) Internship in Industry10 ECTS
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: no content description available!
+Learning objectives and skills: no learning objectives and skills description available!
+Prerequisites: None
+Integration in curriculum: semester: 3;4
+Module compatibility: Zusatzstudien Industry Focus Master of Science Advanced Materials and Processes 20192
+Method of examination: Practical achievement (12 Wochen)
+Grading procedure: Practical achievement (0%)
+Module frequency: Unregelmäßig
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: german or english
+Bibliography:

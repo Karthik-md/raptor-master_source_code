@@ -1,0 +1,561 @@
+
+, Modulbezeichnung 62050: Allgemeine und Anorganische Chemie General and inorganic chemistry7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Karsten Meyer
+Inhalt: (1) Allgemeine Chemie: Aufbau der Materie, Stöchiometrische Grundgesetze, Aggregatzustände, Gasgesetze und Atommassenbestimmung, Atombau und Periodensystem, Chemische Bindung, Molekülstrukturen (VSEPR, Hybridisierung), Struktur-Eigenschafts-Beziehungen, Chemische Reaktionen, Thermodynamik, Reaktionskinetik, Massenwirkungsgesetz, Löslichkeitsprodukt, Säure-Base-Gleichgewichte, Elektrochemie, Regeln und Einheiten. (2) Anorganische Chemie: Ausgewählte Hauptgruppenelemente mit den Schwerpunkten: Physikalische Eigenschaften, Vorkommen, Darstellung in Labor und Technik, Chemische Eigenschaften, wichtigste Verbindungen, Anwendungen in Natur und Technik. Chemische Terminologie und Nomenklatur. Themen im Rahmen des Praktikums: Elementare Sicherheitsfragen beim Umgang mit Gefahrstoffen im nasschemischen und qualitativ analytischen Bereich. Sicherer Umgang mit den dabei verwendeten Chemikalien. Erlernen von Konzepten des chemischen Experimentierens. Erlernen der wissenschaftlichen Dokumentation durch Führen eines Laborjournals. Qualitative Analyse ausgewählter Kationen und Anionen. Quantitative Analyse durch Titration (Säure-Base, Komplexometrie, Iodometrie). 6Lernziele und KompetenzenDie Studierenden: •verstehen die Grundlagen der anorganischen Chemie sowie der qualitativen und quantitativen Analyse als Basis für die Kernfächer der technischen Chemie •kennen die chemische Terminologie und einfache Syntheseprinzipien •verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen •erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen •können mit Gefahrstoffen und Abfällen in chemischen Laboratorien sicher umgehen 
+Lernziele und Kompetenzen: Die Studierenden: •verstehen die Grundlagen der anorganischen Chemie sowie der qualitativen und quantitativen Analyse als Basis für die Kernfächer der technischen Chemie •kennen die chemische Terminologie und einfache Syntheseprinzipien •verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen •erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen •können mit Gefahrstoffen und Abfällen in chemischen Laboratorien sicher umgehen 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (180 Minuten) Praktikumsleistung
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesung: Lehrbuch der Anorganischen Chemie; Holleman-Wiberg; 2007 Allgemeine und Anorganische Chemie; Binnewies, Jäckel, Willner; 2003 Anorganische Chemie, Housecroft, Sharpe; 2006 Praktikum: Jander/Blasius Anorganische Chemie I+II: Einführung & Qualitative Analyse / Quantitative Analyse & Präparate; 2011 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: Die Bachelorarbeit umfasst eine praktische Tätigkeit an einem aktuellen Forschungsprojekt am Department Chemie- und Bioingenieurwesen. Folgende Themenbereiche stehen zur Verfügung: •Bioreaktions- und Bioverfahrenstechnik •Chemische Reaktionstechnik •Energieverfahrenstechnik •Mechanische Verfahrenstechnik •Medizinische Biotechnologie •Multiscale Simulation •Prozessmaschinen und Apparatetechnik •Strömungsmechanik •Technische Thermodynamik •Thermische Verfahrenstechnik 6Lernziele und KompetenzenDie Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete des Chemie- und Bioingenieurwesens und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern 7Voraussetzungen für die TeilnahmeZulassungsvoraussetzung zur Bachelorarbeit ist der Erwerb von mindestens 110 ECTS-Punkten sowie der erfolgreiche Abschluss der GOP (s. ABMPO/TechFak). 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete des Chemie- und Bioingenieurwesens und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+
+Method of examination: schriftlich (5 Monate) mündlich (30 Minuten)
+Berechnung der Modulnote: schriftlich (80%) mündlich (20%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt! 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 62901: Biochemie 1 und 2 plus Biochemisches Praktikum Biochemistry 1 and 2 plus Laboratory course: Biochemistry7,5 ECTS
+Lehrveranstaltungen: Vorlesung: Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 (2.0 SWS, WiSe 2024 )- Vorlesung: Einführung in die Biochemie für Naturwissenschaftler Teil2 (2.0 SWS, SoSe 2024 )-
+Lehrende: Prof. Dr. Christian Koch Prof. Dr. Yves Muller  
+Modulverantwortliche/r: Prof. Dr. Christian Koch
+Inhalt: BCNF1: •Proteine und deren Aufbau •Methoden in der Biochemie •Enzyme, Enzymkinetik, Enzymmechanismen, Regulierung der Enzymaktivität, Cofaktoren •Biochemie der Nukleinsäure, Kopartimentierung genetischen Materials, DNA Strukturen, DNA Topologie, Nukleosomen, DNA Polymerasen, Ligasen, Telomerase, Primase, Grundlagen der RNA Struktur. BCNF2: Grundlagen des Stoffwechsels, Ernährungsstrategien unterschiedlicher Zellen, Stofftransport, Glykolyse, Gluconeogenese, Pyruvatdehydrogenase, Citrat Cyclus, ATP Synthase, Photosynthese, Glykogenstoffwechsel, Phosphorylase, Insulinregulation des Blutzuckers, Stärke und Cellulose in Pflanzen, Lysosomen, RNA Synthese und Prozessierung, Proteinbiosynthese, Aminosäureaktivierung, gentechnische Methoden, DNA Sequenzierung, Herstellung rekombinanter Proteine. Biochemisches Praktikum: •Versuche zur Analyse von Proteinen, Gelektrophorese, Proteinbestimmungen •Versuche zu Enzymkinetik, Photometrie •Reinigung von Proteinen, Ionenaustauschchromatographie, Gelfiltration •Analyse und Reinigung von Nukleinsäuren, Restriktionsenzyme, Plasmide, Gelelektrophorese von Nukleinsäuren •Modellbau von Proteinen mit Plastikmodellen, Analyse von Proteinstrukturen am Computer, Peptidische Bindung, Sekundärstrukturen 6Lernziele und KompetenzenDie Studierenden •verstehen die Grundlagen der Biochemie, insb. die Grundprinzipien des Stoffwechsels in Zellen und die Regulationsprinzipien von Enzymen sowie deren Bedeutung für die Physiologie tierischer und pflanzlicher Organismen 
+Lernziele und Kompetenzen: Die Studierenden •verstehen die Grundlagen der Biochemie, insb. die Grundprinzipien des Stoffwechsels in Zellen und die Regulationsprinzipien von Enzymen sowie deren Bedeutung für die Physiologie tierischer und pflanzlicher Organismen 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3;4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: schriftlich (90 Minuten) schriftlich (60 Minuten) Praktikumsleistung
+Berechnung der Modulnote: schriftlich (50%) schriftlich (50%) Praktikumsleistung (0%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •J.M. Berg, L. Stryer, J.L. Tymoczko: Biochemie (Spektrum Akademischer Verlag; Auflage: 7. Aufl.); •D.L. Voet et al: Lehrbuch der Biochemie (Wiley VCH); D. Nelson and Cox : Lehninger principles of biochemistry (Freeman; 5. Ed.. 2008); •T.A. Baker et al.:Watson: Molecular Biology of the Gene 7th ed. 2013) 
+
+, Modulbezeichnung 92083: Bioreaktions- und Bioverfahrenstechnik für CBI Bioreaction and Bioprocess Engineering for CBE5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Kathrin Castiglione
+Inhalt: Vorlesung: •Stoffumwandlungen mit Enzymen (Klassifizierung, Enzymkinetik, technische Anwendungen, Immobilisierung) •Stoffumwandlungen mit Zellen (Wachstum, Formalkinetik, Reaktoren, technische Anwendungen) •Bioreaktoren (Funktionskomponenten, Apparatebau) •Steriltechnik •Aufarbeitung von Bioprodukten Übung: •Vertiefung der Inhalte siehe Vorlesung 6Lernziele und KompetenzenDie Studierenden •können die Reaktionskinetik auf biologische Prozesse anwenden. •können das Modell der mikroheterogenen Katalyse für Enzymreaktionen in eigenen Worten erklären und die verschiedenen Typen der Enzymhemmung erläutern. •können Bioreaktoren unter Berücksichtigung des Stoffübergangs (2-Film-, Turbulenz-Modell) und des Misch- und Verweilzeitverhaltens auslegen. Hierbei setzten sie ihr Fachwissen über ideale Reaktormodelle in Kombination mit Sprung- und Pulsmarkierungen zur Erklärung des realen Verhaltens von Reaktoren um. •können die Prinzipien biotechnischer Produktionsprozesse (batch, fed-batch, Kontikultur), aller gängigen Reaktoren (Blasensäulen, Schlaufenreaktoren, Rührkessel) und der gängigsten Messgeräte zur Prozesskontrolle beschreiben. •können die Regeln zur Auswahl und Anwendung von Begasungs- und Rührorganen (Leistungsbedarf, Blasenbildung, Blasengröße, Koaleszenz) nennen und anwenden. •kennen Bilanzierungsverfahren (Modellparameter, Kohlenstoff-, Elemetar- und Elektronenbilanz, Kompartmentmodell) und können diese zur Berechnung von Stoffströmen und zur Abbildung realer Prozesse anwenden. •üben im Praktikum den Umgang mit Bioreaktoren und allen Komponenten und setzen dabei ihr Fachwissen über Sterilisationsmethoden (trockene und feuchte Hitze), Poren- und Tiefenfilter, die prozessbegleitende Messtechnik (pO2, pH, 
+Lernziele und Kompetenzen: Die Studierenden •können die Reaktionskinetik auf biologische Prozesse anwenden. •können das Modell der mikroheterogenen Katalyse für Enzymreaktionen in eigenen Worten erklären und die verschiedenen Typen der Enzymhemmung erläutern. •können Bioreaktoren unter Berücksichtigung des Stoffübergangs (2-Film-, Turbulenz-Modell) und des Misch- und Verweilzeitverhaltens auslegen. Hierbei setzten sie ihr Fachwissen über ideale Reaktormodelle in Kombination mit Sprung- und Pulsmarkierungen zur Erklärung des realen Verhaltens von Reaktoren um. •können die Prinzipien biotechnischer Produktionsprozesse (batch, fed-batch, Kontikultur), aller gängigen Reaktoren (Blasensäulen, Schlaufenreaktoren, Rührkessel) und der gängigsten Messgeräte zur Prozesskontrolle beschreiben. •können die Regeln zur Auswahl und Anwendung von Begasungs- und Rührorganen (Leistungsbedarf, Blasenbildung, Blasengröße, Koaleszenz) nennen und anwenden. •kennen Bilanzierungsverfahren (Modellparameter, Kohlenstoff-, Elemetar- und Elektronenbilanz, Kompartmentmodell) und können diese zur Berechnung von Stoffströmen und zur Abbildung realer Prozesse anwenden. •üben im Praktikum den Umgang mit Bioreaktoren und allen Komponenten und setzen dabei ihr Fachwissen über Sterilisationsmethoden (trockene und feuchte Hitze), Poren- und Tiefenfilter, die prozessbegleitende Messtechnik (pO2, pH, 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: schriftlich oder mündlich (120 Minuten)
+Berechnung der Modulnote: schriftlich oder mündlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: •Bisswanger: Enzymkinetik •Chmiel: Bioprozesstechnik 
+
+, Modulbezeichnung 92061: Chemische und biologische Prozesstechnik mit Einführungsprojekt Chemical and biological process technology with introductory project5 ECTS
+Lehrveranstaltungen: Praxisseminar : Praxisseminar Chemische und Biologische Prozesstechnik mit Einführungsprojekt (3.0 SWS )- Vorlesung: Chemische und Biologische Prozesstechnik mit Einführungsprojekt (2.0 SWS )5 ECTS
+Lehrende: Dr.-Ing. Detlef Freitag Marco Haumann  
+Modulverantwortliche/r: Marco Haumann
+Inhalt: Im Rahmen des Moduls werden ausgewählte typische chemische und biotechnologische Produktionsverfahren vorgestellt und im Sinne des integralen Charakters des Stoffverbundes in industriellen Produktionsverfahren behandelt. In den jeweiligen Abschnitten werden neben dem Produktionsverfahren, die dazugehörigen Rohstoffe und die Eigenschaften der Produkte charakterisiert und bewertet, sowie die für den Prozess wichtigen Grundreaktionen und Trennverfahren einschliesslich der dazugehörigen apparativen Lösungen vorgestellt. Dabei werden die fachlichen Zusammenhänge zwischen den grundlegenden Modulen und den Kernfächern aufgezeigt, die zur weiterführenden quanitiativen Beschreibung der Produktionsverfahren des CBI und des LSE erforderlich sind. 6Lernziele und KompetenzenDie Studierenden •kennen typische chemische und biotechnologische Produktionsverfahren und dazugehörige Rohstoffe •charakterisieren und bewerten die Rohstoffe sowie die Eigenschaften der Produkte •kennen die wichtigen chemischen Grundreaktionen und Trennverfahren einschließlich der dazugehörigen apparativen Lösungen •erkennen die fachlichen Zusammenhänge zu den Inhalten anderer Studienfächer als Grundlage für weiterführende quantitative Beschreibung der Produktionsverfahren des CBI und des LSE 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) Seminarleistung 
+Lernziele und Kompetenzen: Die Studierenden •kennen typische chemische und biotechnologische Produktionsverfahren und dazugehörige Rohstoffe •charakterisieren und bewerten die Rohstoffe sowie die Eigenschaften der Produkte •kennen die wichtigen chemischen Grundreaktionen und Trennverfahren einschließlich der dazugehörigen apparativen Lösungen •erkennen die fachlichen Zusammenhänge zu den Inhalten anderer Studienfächer als Grundlage für weiterführende quantitative Beschreibung der Produktionsverfahren des CBI und des LSE
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten) Seminarleistung 
+
+Berechnung der Modulnote: Klausur (100%) Seminarleistung (0%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesungsskript 
+
+, Modulbezeichnung 94101: Computeranwendungen in der Verfahrenstechnik 1 Scientific computing in engineering 15 ECTS
+Lehrveranstaltungen: Praktikum : Praktikum Computeranwendungen in der Verfahrenstechnik 1 (1.0 SWS )- Übung : Computeranwendungen in der Verfahrenstechnik 1 (Übung4) (2.0 SWS )- Übung : Computeranwendungen in der Verfahrenstechnik 1 (Übung3) (2.0 SWS )- Übung : Computeranwendungen in der Verfahrenstechnik 1 (Übung1) (2.0 SWS )- Vorlesung: Computeranwendungen in der Verfahrenstechnik 1 (2.0 SWS )- Übung : Computeranwendungen in der Verfahrenstechnik 1 (Übung2) (2.0 SWS )- Tutorium: Computeranwendungen in der Verfahrenstechnik 1 (Tutorium2) (1.0 SWS )-
+Lehrende: Holger Götz Felix Buchele Prof. Dr. Thorsten Pöschel  
+Modulverantwortliche/r: Prof. Dr. Thorsten Pöschel
+Inhalt: Modul #1 Einführung in MATLAB: •1.1. MATLAB 1 (Variablen, Vektoren) •1.2. MATLAB 2 (Funktionen) •1.3. MATLAB 3 (Kontrollstrukturen) •1.4. MATLAB 4 (Ein- und Ausgabe) •1.5. MATLAB 5 (Grafik, Datentypen) Modul #2 Grundlegende numerische Verfahren: •2.1. Nullstellenbestimmung •2.2. Regression •2.3. Integration •2.4. Gewöhnliche Differentialgleichungen •2.5. Partielle Differentialgleichungen 6Lernziele und KompetenzenDie Studierenden •können computergestützt in Wissenschaft und Technik arbeiten •rechnen und programmieren wissenschaftlich in MATLAB •implementieren numerische Verfahren 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+Lernziele und Kompetenzen: Die Studierenden •können computergestützt in Wissenschaft und Technik arbeiten •rechnen und programmieren wissenschaftlich in MATLAB •implementieren numerische Verfahren
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesungsskript 
+
+, Modulbezeichnung 66040: Experimentalphysik Experimental physics7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Reinhard Neder
+Inhalt: •Mechanik: Bewegungsgleichungen im 1D-, 3D, Kreisbewegungen, Newton'sche Axiome, Kräfte, Potentielle Energie, Kinetische Energie, Energieerhaltung, Impuls, Stöße, Drehbewegungen, Drehmoment, Drehimpuls, Erhaltungssätze •Fluide: Dichte, Druck, Auftrieb; Fluide in Bewegung: Bernoulligleichung, reale Fluide, Viskosität •Schwingungen: Harmonische Schwingungen, Pendel, gedämpfte Schwingungen •Wellen: Wellengleichung, Geschwindigkeit, Interferenz •Optik: Grundlegende Strahlenoptik, Linsen •Wellenoptik: Beugung am Spalt, Beugung am Doppelspalt •Elektrizität: Elektrostatik: Coulombkraft, El. Feld, Kondensatoren, einfache Stromkreise; Magnetismus: Induktion, Wechselstromkreise 6Lernziele und KompetenzenDie Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und Prüfungsleistungenschriftlich (120 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 150 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: schriftlich (120 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: D. Halliday, R. Resnick: Halliday Physik, Bachelor Edition, Wiley-VCH P. A. Tipler, G. Mosca: Physik, Spektrum Akad. Verlag E. Hering, R. Martin, M. Stohrer: Physik für Ingenieure, Springer D. Meschede: Gehrtsen Physik, Springer 
+
+, Modulbezeichnung 92072: Grundlagen der Verfahrenstechnik 1 - Phasengleichgewichte und Grenzflächen Foundations of process engineering 1 - Phase equilibria and interfaces7,5 ECTS
+Lehrveranstaltungen: Übung : Übung zu Grenzflächen in der Verfahrenstechnik (1.0 SWS )- Vorlesung: Chemische Thermodynamik (VL) (2.0 SWS )5 ECTS Vorlesung: Grenzflächen in der Verfahrenstechnik (2.0 SWS )2,5 ECTS Übung : Chemische Thermodynamik (UE) (1.0 SWS ) - Tutorium: Chemische Thermodynamik (TUT) (1.0 SWS )-
+Lehrende: Sophie Mayer Prof. Dr. Nicolas Vogel Prof. Dr. Matthias Thommes Peter Leicht Jakob Söllner Markus Terlinden  
+Modulverantwortliche/r: Prof. Dr.-Ing. Wolfgang Peukert Prof. Dr. Matthias Thommes
+Inhalt: Phasengleichgewichte: Thermodynamische Beschreibung von Zwei- und Dreistoffgemischen: Dampf-Flüssigkeit, Flüssigkeit-Flüssigkeit, Feststoff-Flüssigkeit, osmotischer Druck. Modellierung dieser Phasengleichgewichte mit Aktivitäten und Fugazitäten. Anwendung dieser Phasengleichgewichte in Trennverfahren. Chemische Gleichgewichte mit Aktivitäten und Fugazitäten. Grenzflächen: •Einführung in Bedeutung von Grenzflächen in Natur und Technik •Thermodynamik der Grenzflächen •Keimbildung und Kristallwachstum •Molekulare Wechselwirkungen •Adsorption •Adhäsion •Kolloidale Partikelsysteme •Detergenzien, Emulsionen und Schäume •Biomoleküle und Zellen 6Lernziele und KompetenzenDie Studierenden: •kennen grundlegende thermodynamische Begriffe und Gleichungen •beschreiben thermodynamisch Mehrkomponentengemische •modellieren Phasengleichgewichte •beschreiben thermodynamisch Zustandsänderungen und Reaktionsgleichungen •wenden die thermodynamischen Grundlagen zur Auslegung thermischer Trennverfahren an 
+Lernziele und Kompetenzen: Die Studierenden: •kennen grundlegende thermodynamische Begriffe und Gleichungen •beschreiben thermodynamisch Mehrkomponentengemische •modellieren Phasengleichgewichte •beschreiben thermodynamisch Zustandsänderungen und Reaktionsgleichungen •wenden die thermodynamischen Grundlagen zur Auslegung thermischer Trennverfahren an 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Phasengleichgewichte: 1a) Jürgen Gmehling, Bärbel Kolbe, Michael Kleiber, Jürgen Rarey : Chemical Thermodynamics for Process Simulation (new edition in English only, old edition in German) Signatur: T80/3 F 32 1b) Jürgen Gmehling, Bärbel Kolbe: Thermodynamik (old edition in German); Signatur: T80/3 F 11 2.) J. M. Smith, Hendrick C. Van Ness, Michael Abbott Introduction to Chemical Engineering Thermodynamics, Signatur: T80/6 K 7 3.) Elias I. Franses "Thermodynamics with Chemical Engineering Applications" 
+
+
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Franz Huber Prof. Dr.-Ing. Stefan Will
+Inhalt: •Grundlagen der Wärme- und Stoffübertragung •Wärmeleitung in ruhenden Körpern •Wärmeübertragung in einphasigen Strömungen durch konvektiven Wärmeübergang •Diffusion und Stoffübertragung an strömende Fluide •Analogie zwischen Wärme- und Stoffübertragung •Wärmeübertragung durch Strahlung •Wärmeübertragung bei Kondensation und Verdampfung •Wärmeübertrager 6Lernziele und KompetenzenDie Studierenden: •verstehen die Mechanismen der Wärme- und Stoffübertragung und können ihre Bedeutung und ihren Einzelbeitrag bei technischen Problemstellungen ermessen •können die Beiträge der verschiedenen Wärmeübertragungsmechanismen (Wärmeleitung, Konvektion, Strahlung und bei Phasenwechsel) quantifizieren •können die thermische Auslegung von einfachen Wärmeübertragern selbständig durchführen •verstehen die Analogie zwischen Wärme- und Stoffübertragung und sind in der Lage, sie bei der Lösung von Stoffübertragungsproblemen zu nutzen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 
+Lernziele und Kompetenzen: Die Studierenden: •verstehen die Mechanismen der Wärme- und Stoffübertragung und können ihre Bedeutung und ihren Einzelbeitrag bei technischen Problemstellungen ermessen •können die Beiträge der verschiedenen Wärmeübertragungsmechanismen (Wärmeleitung, Konvektion, Strahlung und bei Phasenwechsel) quantifizieren •können die thermische Auslegung von einfachen Wärmeübertragern selbständig durchführen •verstehen die Analogie zwischen Wärme- und Stoffübertragung und sind in der Lage, sie bei der Lösung von Stoffübertragungsproblemen zu nutzen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript •H. D. Baehr, K. Stephan, Wärme- und Stoffübertragung, Springer (2010) 
+
+Lehrveranstaltungen: Übung : Übungen zu Konstruktionslehre (1.0 SWS ) 2 ECTS Vorlesung: Konstruktionslehre (2.0 SWS ) 3 ECTS
+Lehrende: Dr.-Ing. Wolfgang Wirth  
+Modulverantwortliche/r: Dr.-Ing. Wolfgang Wirth
+Lernziele und Kompetenzen: Die Studierenden: (Teil TZ) •verfügen über grundlegende Kenntnisse der normgerechten Darstellung von Bauteilen und Baugruppen in Konstruktionszeichnungen •können Zeichnungen lesen •können normgerechte technische Zeichnungen selbständig anfertigen •erkennen Maschinenelemente in technischen Zeichnungen •verstehen Fließbilder unterschiedlichen Detaillierungsgrades und nutzen diese Kompetenz zu beschreiben von Prozessen der Verfahrenstechnik (Teil KL) 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Übungsleistung Klausur (120 Minuten)
+Berechnung der Modulnote: Übungsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: (Teil TZ) •Labisch, S.; Wählisch, G.: Technisches Zeichnen, 6. Auflage, Springer-Fachmedien, Wiesbaden, 2020 •Geschke, H. W., Helmetag, M., Wehr, W.: Böttcher Forberg Technisches Zeichnen, 26. Auflage, B.G. Teubner Stuttgart, 2014 •Hoischen: Technisches Zeichnen, 30. Auflage, W. Girardet, Essen 2005 •Klein,M.: Einführung in die DIN-Normen, 14. Auflage, Beuth- Verlag, Berlin, 2008 •Skript zur Vorlesung (Teil KL) • Klein,M.: Einführung in die DIN-Normen, 14. Auflage, Beuth- Verlag, Berlin, 2008 • DUBBEL - Taschenbuch für den Maschinenbau, 25. Auflage, Springer, Berlin, 2018 • Skript zur Vorlesung 
+
+, Modulbezeichnung 67460: Mathematik für CBI 1 Mathematics for CBI 17,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Wigand Rathmann
+Inhalt: *Grundlagen* Aussagenlogik, Mengen, Relationen, Abbildungen *Zahlensysteme* natürliche, ganze, rationale und reelle Zahlen, komplexe Zahlen *Vektorräume* Grundlagen, Lineare Abhängigkeit, Spann, Basis, Dimension, euklidische Vektor- und Untervektorräume, affine Räume *Matrizen, Lineare Abbildungen, Lineare Gleichungssysteme* Matrixalgebra, Lösungsstruktur linearer Gleichungssysteme, Gauß-Algorithmus, inverse Matrizen, Matrixtypen, lineare Abbildungen, Determinanten, Kern und Bild, Eigenwerte und Eigenvektoren, Basis, Ausgleichsrechnung *Grundlagen Analysis einer Veränderlichen* Grenzwert, Stetigkeit, elementare Funktionen, Umkehrfunktionen 6Lernziele und KompetenzenDie Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+Lernziele und Kompetenzen: Die Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+
+Method of examination: schriftlich (90 Minuten) Übungsleistung
+Berechnung der Modulnote: schriftlich (100%) Übungsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 Fried, Mathematik für Ingenieure I für Dummies I, Wiley A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson v. Finckenstein et.al: Arbeitsbuch Mathematik fuer Ingenieure: Band I Analysis und Lineare Algebra. Teubner-Verlag 2006, ISBN 9783835100343 Meyberg, K., Vachenauer, P.: Höhere Mathematik 1. 6. Auflage, Sprinbger-Verlag, Berlin, 2001 
+
+, Modulbezeichnung 67470: Mathematik für CBI 2 Mathematics for CBI 27,5 ECTS
+Lehrveranstaltungen: Übung : Übungen zur Mathematik für Ingenieure D2: CBI, CEN, LSE (2.0 SWS )2,5 ECTS Vorlesung: Mathematik für Ingenieure D2: CBI, CEN, LSE, IP, MWT, NT (4.0 SWS )-
+Lehrende: Prof. Dr. Wolfgang Achtziger David Kanzler  
+Modulverantwortliche/r: Wilhelm Merz
+Inhalt: *Differentialrechnung einer Veränderlichen* Ableitung mit Rechenregeln, Mittelwertsätze, LHospital, Taylor-Formel, Kurvendiskussion *Integralrechnung einer Veränderlichen* Riemann-Integral, Hauptsatz der Infinitesimalrechnung, Mittelwertsätze, Partialbruchzerlegung, uneigentliche Integration *Folgen und Reihen* reelle und komplexe Zahlenfolgen, Konvergenzbegriff und - sätze, Folgen und Reihen von Funktionen, gleichmäßige Konvergenz, Potenzreihen, iterative Lösung nichtlinearer Gleichungen *Grundlagen Analysis mehrerer Veränderlicher* Grenzwert, Stetigkeit, Differentiation, partielle Ableitungen, totale Ableitung, allgemeine Taylor-Formel 6Lernziele und KompetenzenDie Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+Lernziele und Kompetenzen: Die Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+
+Method of examination: Übungsleistung schriftlich (90 Minuten)
+Berechnung der Modulnote: Übungsleistung (0%) schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried, Mathematik für Ingenieure I für Dummies und Mathematik für Ingenieure II für Dummies, Wiley W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 K. Finck von Finckenstein, J. Lehn et. al., Arbeitsbuch für Ingenieure, Band I, Teubner A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson 
+
+, Modulbezeichnung 67480: Mathematik für CBI 3 Mathematics for CBI 37,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Wigand Rathmann
+Inhalt: *Anwendung der Differentialrechnung im R^n^ * Extremwertaufgaben, Extremwertaufgaben mit Nebenbedingungen, Lagrange-Multiplikatoren, Theorem über implizite Funktionen, Anwendungsbeispiele *Vektoranalysis* Potentiale, Volumen-, Oberflächen- und Kurvenintegrale, Parametrisierung, Transformationssatz, Integralsätze, Differentialoperatoren *Gewöhnliche Differentialgleichungen* Explizite Lösungsmethoden, Existenz- und Eindeutungssätze, Lineare Differentialgleichungen, Systeme von Differentialgleichungen, Eigen- und Hauptwertaufgaben, Fundamentalsysteme, Stabilität 6Lernziele und KompetenzenDie Studierenden •klassifizieren verschiedene Extremwertaufgaben anhand der Nebenbedingungen und kennen die grundlegende Existenzaussagen •erschließen den Unterschied zur eindimensionalen Kurvendiskussion, •wenden die verschiedene Extremwertaufgaben bei Funktionen mehrerer Veränderlicher mit und ohne Nebenbedingungen •berechnen Integrale über mehrdimensionale Bereiche •beobachten Zusammenhänge zwischen Volumen-, Oberflächen- und Kurvenintegralen •ermitteln Volumen-, Oberflächen- und Kurvenintegrale •wenden grundlegende Differentialoperatoren an. •klassifizieren gewöhnliche Differentialgleichungen nach Typen •wenden elementare Lösungsmethoden auf Anfangswertprobleme bei gewöhnlichen Differentialgleichungen an •wenden allgemeine Existenz- und Eindeutigkeitsresultate an •erschließen den Zusammenhang zwischen Analysis und linearer Algebra •wenden die erlernten mathematischen Methoden auf die Ingenieurswissenschaften an. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 
+Lernziele und Kompetenzen: Die Studierenden •klassifizieren verschiedene Extremwertaufgaben anhand der Nebenbedingungen und kennen die grundlegende Existenzaussagen •erschließen den Unterschied zur eindimensionalen Kurvendiskussion, •wenden die verschiedene Extremwertaufgaben bei Funktionen mehrerer Veränderlicher mit und ohne Nebenbedingungen •berechnen Integrale über mehrdimensionale Bereiche •beobachten Zusammenhänge zwischen Volumen-, Oberflächen- und Kurvenintegralen •ermitteln Volumen-, Oberflächen- und Kurvenintegrale •wenden grundlegende Differentialoperatoren an. •klassifizieren gewöhnliche Differentialgleichungen nach Typen •wenden elementare Lösungsmethoden auf Anfangswertprobleme bei gewöhnlichen Differentialgleichungen an •wenden allgemeine Existenz- und Eindeutigkeitsresultate an •erschließen den Zusammenhang zwischen Analysis und linearer Algebra •wenden die erlernten mathematischen Methoden auf die Ingenieurswissenschaften an.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3 
+
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: schriftlich (90 Minuten) Übungsleistung
+Berechnung der Modulnote: schriftlich (100%) Übungsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried: | Mathematik für Ingenieure II für Dummies|, Wiley A. Hoffmann, B. Marx, W. Vogt: |Mathematik für Ingenieure 1,2| Pearson K. Finck von Finckenstein, J. Lehn et. al.: |Arbeitsbuch für Ingenieure, Band I und II|, Teubner H. Heuser: |Gewöhnliche Differentialgleichungen| Teubner 
+
+, Modulbezeichnung 92091: Mechanische Verfahrenstechnik Mechanical process engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Wolfgang Peukert
+Inhalt: Im Rahmen des Moduls werden die wichtigsten Grundlagen disperser Partikelsysteme behandelt. Ausgehend von der Kennzeichnung disperser Systeme (Partikelgröße und Partikelform) wird zunächst die Bewegung einzelner Partikeln in Fluiden behandelt. Dann werden Partikelgrößenverteilungen eingeführt, Grundlagen des Trennens und des Mischens behandelt. Mit Hilfe der Dimensionsanalyse wird auch das Mischen und Rühren in Flüssigkeiten angeschnitten. Als Beispiele für Wechselwirkungen in dispersen Systemen werden die Benetzung als Grundlagen der Entfeuchtung sowie Haftkräfte als Grundlage für die Agglomeration behandelt. Als Beispiel für die Partikelproduktion wird das Zerkleinern behandelt. Die Dynamik disperser Systeme wird durch Populationsbilanzen beschrieben. Die Kennzeichnung von Packungen sowie deren Durchströmung werden anschliessend behandelt. Wirbelschicht, Förderung und eine Einführung in das Fliessen von Schüttgütern schliessen die Vorlesung ab. 6Lernziele und KompetenzenDie Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Die Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Peukert: Skriptum zur Vorlesung H. Rumpf: Particle Technology Stiess: Mechanische Verfahrenstechnik Schubert: Handbuch der Mechanischen Verfahrenstechnik 
+
+, Modulbezeichnung 94022: Messtechnik und Instrumentelle Analytik Metrology and instrumental analysis7,5 ECTS
+Lehrveranstaltungen: Praktikum : Messtechnikpraktikum (2.0 SWS ) - Vorlesung: Messtechnik 1 - Messtechnik und Analytik (2.0 SWS )- Übung : Übung Messtechnik 1 - Messtechnik und Analytik (1.0 SWS )-
+Lehrende: Dr. Cornelia Damm Dr. Jochen Schmidt Dr.-Ing. Christian Lübbert  
+Modulverantwortliche/r: Dr. Cornelia Damm
+Inhalt: Vorlesung (2SWS), eng verknüpft mit einer Übung (2SWS) sowie Praktikum •Einführung und Grundbegriffe •Versuchsauswertung und Messfehler •Schätzungen, Statistische Tests und Vertrauensintervalle •Chemische Analytik (Chromatographie, elektrochemische Methoden) •Strahlungsmessung •Spektrometrie (UV/Vis, Infrarot) •Elektrische und magnetische Größen •Temperatur •Druck •Mechanische und geometrische Größen •Fluide Systeme 6Lernziele und KompetenzenDie Studierenden •kennen die wichtigsten Methoden der elektrischen und nichtelektrischen Messtechnik sowie der chemischen Analytik •beurteilen verschiedene Ansätze der Messwertaufnahme hinsichtlich ihrer Stärken und Schwächen •wenden die Grundkriterien zur Beurteilung von Messwerten auf neue analytische Problemstellungen an 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (90 Minuten) Praktikumsleistung Studienleistungen: unbenotete Klausur 90 min, Praktikum 11Berechnung der ModulnoteKlausur (0%) Praktikumsleistung (0%) 12Turnus des Angebots nur im Sommersemester 
+Lernziele und Kompetenzen: Die Studierenden •kennen die wichtigsten Methoden der elektrischen und nichtelektrischen Messtechnik sowie der chemischen Analytik •beurteilen verschiedene Ansätze der Messwertaufnahme hinsichtlich ihrer Stärken und Schwächen •wenden die Grundkriterien zur Beurteilung von Messwerten auf neue analytische Problemstellungen an
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten) Praktikumsleistung Studienleistungen: unbenotete Klausur 90 min, Praktikum
+Berechnung der Modulnote: Klausur (0%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Sommersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: E-Books sind in der Regel nur innerhalb des FAU-Netzes (CIP-Pool, WLAN, VPN) zugänglich. Messtechnik Generell (Lehrbücher) •Bernhard, F. (2014), Handbuch der Technischen Temperaturmessung, Springer Berlin Heidelberg, Berlin, Heidelberg.(E-Book) •Hoffmann, J. (ed) (2007) Handbuch der Messtechnik, 3rd edn, Hanser, München. (viele Exemplare in der UB: 3. Ausgabe, 4. Ausgabe) •Morris, A.S. and Langari, R. (2016) Measurement and instrumentation: Theory and application, Elsevier, AP, Amsterdam, Boston. (E-Book) •Patience, G.S. (2018) Experimental methods and instrumentation for chemical engineers, Elsevier, Amsterdam. (E-Book) •Placko, D. (2007) Fundamentals of instrumentation and measurement, ISTE Ltd, Newport Beach, Calif., London. (E- Book) •Ripka, P. and Tipek, A. (2010) Modern sensors handbook, Wiley Online Library, Hoboken. (E-Book) •Skoog, D.A., Holler, F.J., Crouch, S.R. (2013) Instrumentelle Analytik: Grundlagen - Geräte - Anwendungen, 6th edn, Springer Spektrum, Berlin, Heidelberg. (viele Exemplare in der UB: 5. Ausgabe, 6. Ausgabe) •Webster, J.G. and Eren, H. (2014) Measurement, instrumentation, and sensors handbook: Spatial, mechanical, thermal, and radiation measurement / edited by John G. Webster, Halit Eren, CRC Press, Boca Raton. (Exemplar in der UB: 2. Ausgabe Vol. 1 2. Ausgabe Vol. 2) Chemische Messtechnik (Lehrbücher) •Harvey, D. (2006) Analytical Chemistry 2.1 (Open access E- Book) •Hinderer, F. (2020) UV/Vis-Absorptions- und Fluoreszenz- Spektroskopie: Einführung in die spektroskopische Analyse mit UV- und sichtbarer Strahlung, 1st edn, Springer Fachmedien Wiesbaden. (E-Book) 
+
+
+, Modulbezeichnung 62861: Mikrobiologie Microbiology5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Andreas Burkovski
+Inhalt: Morphologie, Anatomie der prokaryotischen Zelle, Bakteriophagen, bakterielle Transfersysteme, Taxonomie der Prokaryoten, Stoffwechselphysiologie (aerob, anaerob, chemotroph, phototroph), Anwendungsbeispiele aus der Biotechnologie. 6Lernziele und KompetenzenDie Studierenden •verstehen die Grundlagen der Mikrobiologie als Basis für die Kernfächer der Bioverfahrenstechnik, insbesondere bezüglich der Morphologie, Anatomie und Physiologie sowie der Herstellung rekombinanter Proteine als Therapeutika •kennen die wichtigsten pathogenen Bakterien •können die Unterschiede zwischen den prokaryotischen und eukaryotischen Zellen erklären •kennen die Bedeutung von Mikroorganismen und deren Stoffwechsel für die biotechnologische Anwendungen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise•Lehrbuch: Brock Mikrobiologie, M. T. Madigan & J. M. Martinko, aktuelle Ausgabe (z.Zt. 2009) •Lehrbuch: Allgemeine Mikrobiologie, G. Fuchs, aktuelle Ausgabe (z.Zt. 2007) 
+Lernziele und Kompetenzen: Die Studierenden •verstehen die Grundlagen der Mikrobiologie als Basis für die Kernfächer der Bioverfahrenstechnik, insbesondere bezüglich der Morphologie, Anatomie und Physiologie sowie der Herstellung rekombinanter Proteine als Therapeutika •kennen die wichtigsten pathogenen Bakterien •können die Unterschiede zwischen den prokaryotischen und eukaryotischen Zellen erklären •kennen die Bedeutung von Mikroorganismen und deren Stoffwechsel für die biotechnologische Anwendungen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Lehrbuch: Brock Mikrobiologie, M. T. Madigan & J. M. Martinko, aktuelle Ausgabe (z.Zt. 2009) •Lehrbuch: Allgemeine Mikrobiologie, G. Fuchs, aktuelle Ausgabe (z.Zt. 2007) 
+
+, Modulbezeichnung 63490: Organische Chemie Organic chemistry7,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Seminar zum organisch-chemischen Praktikum für Chemieingenieure (1.0 SWS )- Praktikum : Organisch-chemisches Praktikum für Chemieingenieure (3.0 SWS )- Vorlesung: Organische Chemie (4.0 SWS ) -
+Lehrende: Prof. Dr. Andriy Mokhir  
+Modulverantwortliche/r: Prof. Dr. Andriy Mokhir
+Inhalt: (1) Grundlagen der Organischen Chemie: Die chemische Bindung, Schreibweisen in der Organischen Chemie, funktionelle Gruppen, IUPAC-Nomenklatur (2) Alkane: Radikalreaktionen, Stereochemie, Nukleophile aliphatische Substitution (SN-Reaktionen) (3) Alkene: Eliminierungsreaktionen (E), Additionsreaktionen (4) Alkine: Eigenschaften, Darstellung, Reaktionen (5) Carbonylverbindungen: Eigenschaften, Synthese, Reaktionen, C-C- Knüpfungsreaktionen (6) Carbonsäuren und ihre Derivate: Eigenschaften, Darstellung, Synthese von Derivaten, Reaktionen (7) Aromaten: Aromatizität, elektrophile und nukleophile aromatische Substitution, Reaktionen von Diazoniumsalzen (8) Chemie der Farbstoffe: Grundlagen, Azofarbstoffe, Triphenylmethanfarbstoffe (9) Waschmittel: Grundlagen, Beispiele (10) Polymere: Grundlagen, Beispiele 6Lernziele und KompetenzenDie Studierenden: beherrschen die Grundlagen der Organischen Chemie; haben die Grundkenntnisse über die wichtigsten organischen Stoffklassen; kennen die wichtigsten Reaktionen der Stoffumwandlungen und verstehen deren Mechanismen; besitzen die Fähigkeiten die Reaktivität der organischen Substanzen einzuschätzen; können die einfachsten organischen Reaktionen sicher, nachhaltig und umweltfreundlich durchführen und deren Produkte isolieren und charakterisieren. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und Prüfungsleistungenschriftlich (180 Minuten) Praktikumsleistung 
+Lernziele und Kompetenzen: Die Studierenden: beherrschen die Grundlagen der Organischen Chemie; haben die Grundkenntnisse über die wichtigsten organischen Stoffklassen; kennen die wichtigsten Reaktionen der Stoffumwandlungen und verstehen deren Mechanismen; besitzen die Fähigkeiten die Reaktivität der organischen Substanzen einzuschätzen; können die einfachsten organischen Reaktionen sicher, nachhaltig und umweltfreundlich durchführen und deren Produkte isolieren und charakterisieren.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: schriftlich (180 Minuten) Praktikumsleistung 
+
+Berechnung der Modulnote: schriftlich (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: K. P. C. Vollhardt, N. E. Schore Organische Chemie, Wiley-VCH, Weinheim 
+
+, Modulbezeichnung 62493: Physikalische Chemie Physical chemistry5 ECTS
+Lehrveranstaltungen: Vorlesung: Physikalische Chemie für CBI, CEN u. LSE (2.0 SWS )- Tutorium: Tutorien zur Physikalischen Chemie für CBI, CEN u. LSE (2.0 SWS )- Übung : Übung zur Physikalischen Chemie für CBI, CEN u. LSE (1.0 SWS )-
+Lehrende: Prof. Dr. Jörg Libuda  
+Modulverantwortliche/r: Prof. Dr. Jörg Libuda
+Inhalt: (1) Chemische Reaktionskinetik: Grundlagen der chemischen Kinetik; Experimentelle Methoden der Reaktionskinetik; Kinetik komplexer Reaktionssysteme; Theorie der Kinetik; Katalyse. (2) Aufbau der Materie: Grenzen der klassischen Mechanik u. Elektrodynamik; Einführung in die Quantenmechanik; einfache quantenmechanische Modelle; Aufbau der Atome; chemische Bindung u. Aufbau der Moleküle. (3) Spektroskopie: Wechselwirkung von Strahlung und Materie; Rotations- und Schwingungsspektroskopie; elektronische Spektroskopien. 6Lernziele und KompetenzenDie Studierenden •interpretieren die Grundprinzipien der chemischen Thermodynamik •fassen die Grundlagen die chemischen Reaktionskinetik zusammen und geben die theoretischen Hintergründe der Kinetik komplexer Systeme wieder •kennen die Grenzen der klassischen Physik und beschreiben einfache quantenmechanische Modelle •erläutern die Grundlagen des Aufbaus der Materie und der Wechselwirkung zwischen Strahlung und Materie 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und Prüfungsleistungenschriftlich (90 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 75 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden •interpretieren die Grundprinzipien der chemischen Thermodynamik •fassen die Grundlagen die chemischen Reaktionskinetik zusammen und geben die theoretischen Hintergründe der Kinetik komplexer Systeme wieder •kennen die Grenzen der klassischen Physik und beschreiben einfache quantenmechanische Modelle •erläutern die Grundlagen des Aufbaus der Materie und der Wechselwirkung zwischen Strahlung und Materie
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: G. Wedler, H.-J. Freund: Lehrbuch der Physikalischen Chemie, Wiley- VCH P. W. Atkins, C. A. Trapp: Physikalische Chemie, Wiley-VCH 
+
+, Modulbezeichnung 94180: Praktikum Chemie- und Bioingenieurwesen Internship chemical and biological engineering5 ECTS
+Lehrveranstaltungen: Praktikum : Verfahrenstechnisches Praktikum für CBI, CEN und LSE (0.0 SWS )5 ECTS
+Lehrende: Dr.-Ing. Marcus Fischer  
+Modulverantwortliche/r: Dr.-Ing. Marcus Fischer
+Inhalt: Im Rahmen des Praktikumsmoduls werden ausgewählte Versuche aus den folgenden verfahrenstechnischen Fachgebieten bzw. Grundlagenvorlesungen absolviert: •Bioreaktions- und Bioverfahrenstechnik •Mechanische Verfahrenstechnik •Prozessmaschinen und Apparatetechnik •Reaktionstechnik •Technische Thermodynamik •Thermische Verfahrenstechnik •Strömungsmechanik Die Versuche werden von den Studierenden selbst unter Anleitung von Assistenten bzw. Assistentinnen durchgeführt. 6Lernziele und KompetenzenZiel des Praktikums ist, die bisher im Studium erworbenen Fach- und Methodenkompetenzen in der Laborpraxis umzusetzen. Die Studierenden •wenden die erworbenen theoretischen Grundlagen auf verfahrenstechnische Fragenstellungen an •kennen verfahrenstechnische Grundreaktionen, Prozesse und apparative Lösungen •führen wissenschaftliche Experimente selbständig durch •protokollieren, analysieren und diskutieren experimentelle Ergebnisse kritisch 7Voraussetzungen für die TeilnahmeDas Modul besteht aus mehreren Versuchen. Es wird empfohlen, die inhaltlich zugeordneten Vorlesungen (s.u.) vor bzw. parallel zu den jeweiligen Versuchen zu belegen. 8Einpassung in StudienverlaufsplanSemester: 5;6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenPraktikumsleistung 11Berechnung der ModulnotePraktikumsleistung (0%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 75 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Ziel des Praktikums ist, die bisher im Studium erworbenen Fach- und Methodenkompetenzen in der Laborpraxis umzusetzen. Die Studierenden •wenden die erworbenen theoretischen Grundlagen auf verfahrenstechnische Fragenstellungen an •kennen verfahrenstechnische Grundreaktionen, Prozesse und apparative Lösungen •führen wissenschaftliche Experimente selbständig durch •protokollieren, analysieren und diskutieren experimentelle Ergebnisse kritisch
+Voraussetzungen für die Teilnahme: Das Modul besteht aus mehreren Versuchen. Es wird empfohlen, die inhaltlich zugeordneten Vorlesungen (s.u.) vor bzw. parallel zu den jeweiligen Versuchen zu belegen.
+Einpassung in Studienverlaufsplan: Semester: 5;6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Praktikumsleistung
+Berechnung der Modulnote: Praktikumsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 92101: Prozessmaschinen und Apparatetechnik Process machines and process technology5 ECTS
+Lehrveranstaltungen: Vorlesung: Prozessmaschinen und Apparatetechnik (2.0 SWS )3 ECTS Übung : Prozessmaschinen und Apparatetechnik Übung (2.0 SWS )2 ECTS
+Lehrende: Prof. Dr.-Ing. Michael Wensing Felix Potrykus Irina Wiemann Tancrède Oswald  
+Modulverantwortliche/r: Dr.-Ing. Sebastian Rieß Prof. Dr.-Ing. Michael Wensing
+Inhalt: Einführung (Charakterisierung der Stoffeigenschaften), Lagerung (Silos, Tanks), Förderung (Pumpen, Verdichter, Schüttgutdosierung, elektrische Antriebe und Getriebe), Rohrleitungen und Armaturen, Wärmeübertragung (Rohrbündel-Wärmeübertrager, Platten- Wärmeübertrager, Kondensatoren, Verdampfer), Reaktoren (Gasphasen-, Flüssigphasen-Reaktoren). Trennung (Kolonnen und Kolonneneinbauten), Durchflussmesser (Durchflussmesser für Flüssigkeiten und Gase, Durchflussmesser für Feststoffe). 6Lernziele und KompetenzenDie Studierenden: •sind mit dem Aufbau verschiedener Maschinen und Apparate der chemischen Verfahrenstechnik zum Fördern von Gasen und Flüssigkeiten sowie zur Wärme- und Stoffübertragung vertraut •verstehen die Grundlagen elektrischer Motoren •können die Funktionsweise von Pumpen und Verdichtern verschiedener Bauarten und Funktionsprinzipien nachvollziehen, sie bezüglich ihrer Energieeffizienz bewerten und darauf aufbauend anwendungsorientiert auswählen •können die Versuchsergebnisse eigenständig protokollieren, auswerten und kritisch diskutieren 7Voraussetzungen für die TeilnahmeTechnisches Zeichnen (Modul B19), Konstruktionslehre (Modul B18) 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 
+Lernziele und Kompetenzen: Die Studierenden: •sind mit dem Aufbau verschiedener Maschinen und Apparate der chemischen Verfahrenstechnik zum Fördern von Gasen und Flüssigkeiten sowie zur Wärme- und Stoffübertragung vertraut •verstehen die Grundlagen elektrischer Motoren •können die Funktionsweise von Pumpen und Verdichtern verschiedener Bauarten und Funktionsprinzipien nachvollziehen, sie bezüglich ihrer Energieeffizienz bewerten und darauf aufbauend anwendungsorientiert auswählen •können die Versuchsergebnisse eigenständig protokollieren, auswerten und kritisch diskutieren
+Voraussetzungen für die Teilnahme: Technisches Zeichnen (Modul B19), Konstruktionslehre (Modul B18)
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Gülich, J. F.: Kreiselpumpen -Handbuch für Entwicklung, Anlagenplanung und Betrieb, Springer Verlag, 2013 •Eifler, W., Schlücker, E., Spicher, U., Will, G: Küttner Kolbenmaschinen, Springer Verlag, 2009 •Vetter, G.: Handbuch Dosieren, 2. Auflage, Vulkan-Verlag, Essen, 2002 •Vetter, G.: Leckfreie Pumpen, Verdichter und Vakuumpumpen, Vulkan-Verlag, Essen, 1998 •Vetter, G.: Rotierende Verdrängerpumpen in der Prozesstechnik, Vulkan-Verlag, Essen, 2006 •VDI-Wärmeatlas •Thier, B.: Wärmetauscher, Vulkan-Verlag, Essen, 1994 •Sattler, K.: Thermische Trennverfahren, VCH, Weinheim, 1995 •Skript zur Vorlesung 
+
+, Modulbezeichnung 94731: Reaktionstechnik Chemical reaction Engineering5 ECTS
+Lehrveranstaltungen: Übung : Exercise Chemical Reaction Engineering (2.0 SWS )- Vorlesung: Reaktionstechnik / Chemical Reaction Engineering (2.0 SWS )- Tutorium: Tutorium zur Vorlesung Reaktionstechnik / Tutorial Chemical Reaction Engineering (1.0 SWS )-
+Lehrende: Dennis Weber Patrick Schühle Adrian Seitz Marco Haumann Prof. Dr. Tanja Franken  
+Modulverantwortliche/r: Patrick Schühle Dr. Peter Schulz Prof. Dr. Peter Wasserscheid
+Inhalt: Im Rahmen des Moduls Chemische Reaktionstechnik (Kernfach) werden folgende Themen behandelt: The subject Chemical Reaction Engineering (B.Sc.) comprises the following topics: •Stöchiometrie komplexer Reaktionen (Stoichiometry of complex Reaction systems) •Bilanzierung chemischer Anlagen (Mass and energy balancing of chemical plants) •Kinetik und Auswertung kinetischer Messungen (Kinetics and Analysis of kinetic measurements) •Kinetik heterogen katalysierter Oberflächenreaktionen (Kinetics of heterogeneously catalyzed reactions) •Stofftransport und Chemische Reaktion (Mass Transport and chemical reaction) •Verweilzeitmessungen idealer Reaktoren (Residence Time Distribution Measurements of ideal reactors) •Umsatz/Ausbeute in idealen, isothermen Reaktoren (Conversion/Yield in ideal, isothermal reactors) •Beschreibung realer Reaktoren (Description of real reactors) 6Lernziele und KompetenzenDie Studierenden •kennen und verstehen grundlegende Vorgehensweisen der Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und Praktikumsversuche und lösen diese kooperativ 7Voraussetzungen für die TeilnahmeUm an den Veranstaltungen teilzunehmen, ist die Anmeldung für den zugehörigen StudOn-Kurs verpflichtend. 
+Lernziele und Kompetenzen: Die Studierenden •kennen und verstehen grundlegende Vorgehensweisen der Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und Praktikumsversuche und lösen diese kooperativ
+Voraussetzungen für die Teilnahme: Um an den Veranstaltungen teilzunehmen, ist die Anmeldung für den zugehörigen StudOn-Kurs verpflichtend. 
+
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Fitzer, Fritz, Emig, Einführung in die Chemische Reaktionstechnik, Springer Verlag, 4. Auflage, Berlin 1995 Baerns, Hofmann, Renken, Chemische Reaktionstechnik, Thieme Verlag, Stuttgart. Jess, Wasserscheid, Chemical Technology, Wiley Verlag, 2019. 
+
+, Modulbezeichnung 94660: Statik und Festigkeitslehre Statics and mechanics of materials7,5 ECTS
+Lehrveranstaltungen: Vorlesung: Statik und Festigkeitslehre (V) (3.0 SWS ) - Tutorium: Statik und Festigkeitslehre (Tut) (2.0 SWS ) - Übung : Statik und Festigkeitslehre (Ü) (2.0 SWS ) -
+Lehrende: Prof. Dr.-Ing. Sigrid Leyendecker Lucie Spannraft Xiyu Chen Martina Stavole David Holz Denisa Martonová Michael Lengger  
+Modulverantwortliche/r: Prof. Dr.-Ing. Sigrid Leyendecker Prof. Dr.-Ing. Kai Willner
+Inhalt: •Kraft- und Momentenbegriff, Axiome der Statik •ebene und räumliche Statik •Flächenmomente 1. und 2. Ordnung •Haft- und Gleitreibung •Spannung, Formänderung, Stoffgesetz •überbestimmte Stabwerke, Balkenbiegung •Torsion •Elastizitätstheorie und Festigkeitsnachweis •Stabilität 6Lernziele und KompetenzenWissen Die Studierenden kennen •die axiomatischen Grundlagen der Technischen Mechanik sowie die entsprechenden Fachtermini. •das Schnittprinzip und die Einteilung der Kräfte in eingeprägte und Reaktionskräfte bzw. in äußere und innere Kräfte. •die Gleichgewichtsbedingungen am starren Körper. •das Phänomen der Haft- und Gleitreibung. •die Begriffe der Verzerrung und Spannung sowie das linear- elastische Stoffgesetz. •den Begriff der Hauptspannungen sowie das Konzept der Vergleichsspannung und Festigkeitshypothesen. •das Problem der Stabilität und speziell die vier Eulerschen Knickfälle für ein schlankes Bauteil unter Drucklast. Verstehen Die Studierenden •können Kräfte nach verschiedenen Kriterien klassifizieren. •können verschiedene Lagerungsarten unterscheiden und die entsprechenden Lagerreaktionen angeben. •können den Unterschied zwischen statisch bestimmten und unbestimmten Systemen erklären. •können den Unterschied zwischen Haft- und Gleitreibung erläutern. 
+Lernziele und Kompetenzen: Wissen Die Studierenden kennen •die axiomatischen Grundlagen der Technischen Mechanik sowie die entsprechenden Fachtermini. •das Schnittprinzip und die Einteilung der Kräfte in eingeprägte und Reaktionskräfte bzw. in äußere und innere Kräfte. •die Gleichgewichtsbedingungen am starren Körper. •das Phänomen der Haft- und Gleitreibung. •die Begriffe der Verzerrung und Spannung sowie das linear- elastische Stoffgesetz. •den Begriff der Hauptspannungen sowie das Konzept der Vergleichsspannung und Festigkeitshypothesen. •das Problem der Stabilität und speziell die vier Eulerschen Knickfälle für ein schlankes Bauteil unter Drucklast. Verstehen Die Studierenden •können Kräfte nach verschiedenen Kriterien klassifizieren. •können verschiedene Lagerungsarten unterscheiden und die entsprechenden Lagerreaktionen angeben. •können den Unterschied zwischen statisch bestimmten und unbestimmten Systemen erklären. •können den Unterschied zwischen Haft- und Gleitreibung erläutern. 
+
+
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Gross, Hauger, Schnell, Wall: Technische Mechanik 1, Berlin:Springer 2006 •Gross, Hauger, Schnell, Wall: Technische Mechanik 2, Berlin:Springer 2007 
+
+, Modulbezeichnung 97012: Strömungsmechanik I Fluid mechanics I5 ECTS
+Lehrveranstaltungen: Vorlesung: Strömungsmechanik I (2.0 SWS ) 5 ECTS Übung : Strömungsmechanik I - Übung (2.0 SWS ) -
+Lehrende: Prof. Dr. Andreas Wierschem  
+Modulverantwortliche/r: Prof. Dr. Andreas Wierschem
+Inhalt: •Charakterisierung von Fluiden •Kontinuumsannahme •Strömungskinematik: materielle und Feldbeschreibung, Bahn- und Stromlinien, materielle Zeitableitung, Relativbewegung, Reynoldssches Transporttheorem •Bilanzgleichungen: Massenbilanz, Navier-Stokes-Gleichung, integral und differentiell •Hydrostatik: Auftrieb, Druck auf Wände, kapillarer Druck, gleichmäßig beschleunigte Systeme •Grundlagen der Ähnlichkeitstheorie: Dimensionslose Kennzahlen, Grenzfälle der Navier-Stokes-Gleichung •Bernoulli-Gleichung: stationär und instationär, mit Druckverlusten und Energieaustausch. Die Studierenden werden angeleitet, mit dem erhaltenen Wissen strömungsmechanische Problemstellungen zu bewerten, Lösungswege zu erarbeiten und mit eingeübten Methoden und Vorgehensweisen an Hand von Beispielen praktisch anzuwenden. 6Lernziele und KompetenzenDas Modul bietet eine systematische Einführung in die Strömungsmechanik. Die Studierenden: •können die Bedeutung der Strömungsmechanik sowohl im Alltag als auch bei industriellen Prozessen nachvollziehen •verfügen über einen Überblick über verschiedene Regime der Strömungsmechanik und verstehen ihren Anwendungsbereich •können die erworbenen Grundkenntnisse mit eingeübten Methoden und Vorgehensweisen anhand von Beispielen in der Übung praktisch anwenden •sind fähig, strömungsmechanische Problemstellungen zu bewerten und Lösungswege anzuwenden. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 4 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 
+Lernziele und Kompetenzen: Das Modul bietet eine systematische Einführung in die Strömungsmechanik. Die Studierenden: •können die Bedeutung der Strömungsmechanik sowohl im Alltag als auch bei industriellen Prozessen nachvollziehen •verfügen über einen Überblick über verschiedene Regime der Strömungsmechanik und verstehen ihren Anwendungsbereich •können die erworbenen Grundkenntnisse mit eingeübten Methoden und Vorgehensweisen anhand von Beispielen in der Übung praktisch anwenden •sind fähig, strömungsmechanische Problemstellungen zu bewerten und Lösungswege anzuwenden.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 4
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%) 
+
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •J. H. Spurk, N. Aksel: |Strömungslehre: Einführung in die Theorie der Strömungen|, 8. Auflage, Springer-Verlag Berlin, Heidelberg, New York, 2010 •F. Durst: |Grundlagen der Strömungsmechanik - Eine Einführung in die Theorie der Strömungen in Fluiden|, Springer, 2006 •H. Kuhlmann: |Strömungsmechanik|, Pearson, 2007 •P. K. Kundu: |Fluid Mechanics|, 5th Ed., Academic Press, 2012 •F. M. White: |Fluid Mechanics|, 7th Rev. Ed., McGraw Hill, 2011 •F. A. Morrison: |An Introduction to Fluid Mechanics|, Cambridge University Press, 2013 •L. Böswirth: |Technische Strömungslehre|, 9. Auflage, Vieweg & Teubner, 2011 •W. Kümmel: |Technische Strömungsmechanik - Theorie und Praxis|, 3. Auflage, Teubner, 2007 •H. Sigloch: |Technische Fluidmechanik|, 8. Auflage, Springer, 2012 •H. Oertel Jr.: |Strömungsmechanik - Grundlagen, Grundgleichungen, Lösungsmethoden, Softwarebeispiele|, 6. Auflage, Vieweg & Teubner, 2011 
+
+, Modulbezeichnung 92474: Technische Thermodynamik Technical thermodynamics7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Franz Huber Prof. Dr.-Ing. Stefan Will
+Inhalt: •Grundbegriffe der Technischen Thermodynamik •Ideale Gase und deren Zustandsgleichungen •1. und 2. Hauptsatz der Thermodynamik •Grenzen der Umwandlung von Energien •Thermodynamische Eigenschaften reiner Stoffe •Kreisprozesse •Ideale Gas- und Gas-Dampf-Gemische •Prozesse mit feuchter Luft 6Lernziele und KompetenzenDie Studierenden •kennen die Begriffe und Grundlagen der Technischen Thermodynamik •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bwerten diese aufgrund charakteristischer Kennzahlen •optimieren thermodynamische Prozesse •können selbständig thermodynamische Experimente durchführen und die Ergebnisse auswerten •lösen auch komplexe Fragestellungen der Technischen Thermodynamik 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 135 h 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Begriffe und Grundlagen der Technischen Thermodynamik •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bwerten diese aufgrund charakteristischer Kennzahlen •optimieren thermodynamische Prozesse •können selbständig thermodynamische Experimente durchführen und die Ergebnisse auswerten •lösen auch komplexe Fragestellungen der Technischen Thermodynamik
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript •A. Leipertz, Technische Thermodynamik •H.D. Baehr, S. Kabelac, Thermodynamik 
+
+, Modulbezeichnung 94081: Thermische Verfahrenstechnik Separation science and technology5 ECTS
+Lehrveranstaltungen: Praktikum : Vertiefung Thermische Verfahrenstechnik (PR) (1.0 SWS )-
+Lehrende: Dr.-Ing. Detlef Freitag Prof. Dr. Matthias Thommes Dr. Carlos Cuadrado Collados Dr.-Ing. Martin Drescher  
+Modulverantwortliche/r: Prof. Dr. Matthias Thommes
+Inhalt: In diesem Modul wird eine Einführung in die thermischen Trennverfahren gegeben. Dies umfasst die Grundlagen der Rektifikation, Absorption, Adsorption, Chromatographie, Trocknung, Extraktion, Membranprozesse und Kristallisation. Für jedes Trennverfahren werden die physikalisch-chemischen Grundlagen, die wichtigsten Berechnungsmethoden und Apparate sowie einige technische Beispiele behandelt. Darüber hinaus wird eine Einführung in die praktische Auslegung von Trennapparaten an beispielhaft ausgewählten Trennoperationen realisiert. 6Lernziele und KompetenzenFachkompetenz Wissen Die Studierenden kennen die wichtigsten Trennverfahren. Diese sind Membranprozesse, Destillation, Rektifikation, Absorption, Adsorption und Extraktion. Verstehen Die Studierenden verstehen die Triebkräfte sowie die Grundlagen der jeweiligen Unitoperations. Anwenden Die Studierenden sind in der Lage ihr Wissen über die verschiedenen Unitoperations mit ihrem Wissen aus der chemischen Thermodynamik zu kombinieren und können so Trennapparate auslegen und bilanzieren. Analysieren Die Studierenden können anhand ihrer Kenntnisse analysieren welche Unitoperation für welche Trennoperation die Richtige ist. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 
+Lernziele und Kompetenzen: Fachkompetenz Wissen Die Studierenden kennen die wichtigsten Trennverfahren. Diese sind Membranprozesse, Destillation, Rektifikation, Absorption, Adsorption und Extraktion. Verstehen Die Studierenden verstehen die Triebkräfte sowie die Grundlagen der jeweiligen Unitoperations. Anwenden Die Studierenden sind in der Lage ihr Wissen über die verschiedenen Unitoperations mit ihrem Wissen aus der chemischen Thermodynamik zu kombinieren und können so Trennapparate auslegen und bilanzieren. Analysieren Die Studierenden können anhand ihrer Kenntnisse analysieren welche Unitoperation für welche Trennoperation die Richtige ist.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 94161: Werkstoffkunde Materials science5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Werkstoffkunde für Studierende des CBI und CEN (3.0 SWS )5 ECTS
+Lehrende: Heinz Werner Höppel Tobias Fey Dr.-Ing. Joachim Kaschta  
+Modulverantwortliche/r: Heinz Werner Höppel
+Inhalt: •Anforderungen an Werkstoffe •kristalline und makromolekulare Werkstoffe •nichtmetallische anorganische Werkstoffe •Zustandsdiagramme binärer Systeme •Stähle •Gusseisen •Phasenumwandlungen •mechanische Eigenschaften für elastische und plastische Verformung •Metallurgie, Kunststofftechnik, Gläser und Keramik, Verbundwerkstoffe 6Lernziele und KompetenzenDie Studierenden •kennen die Eigenschaften und Struktur kristalliner Werkstoffe, Polymere, Gläser und Keramiken •verstehen Zustandsdiagramme, beispielsweise das Eisen- Kohlenstoff-Zustandsdiagramm •nennen verschiedene metallische Werkstoffgruppen wie Stahl, Gusseisen, Leichtmetalle (Aluminium, Magnesium, Titan) und Superlegierungen •kennen wichtigste Polymerisationsverfahren •verstehen die Zusammenhänge zwischen der Struktur und den Eigenschaften amorpher und teilkristalliner Polymeren sowie deren Einfluss auf das mechanische Verhalten •können das Verformungsverhalten von Polymerwerkstoffen anhand von Modellen und molekularen Verformungsmechanismen für die verschiedenen Zustandsbereiche beschreiben, wobei auch auf heterogene Werkstoffe wie Faserverbunde eingegangen wird 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Eigenschaften und Struktur kristalliner Werkstoffe, Polymere, Gläser und Keramiken •verstehen Zustandsdiagramme, beispielsweise das Eisen- Kohlenstoff-Zustandsdiagramm •nennen verschiedene metallische Werkstoffgruppen wie Stahl, Gusseisen, Leichtmetalle (Aluminium, Magnesium, Titan) und Superlegierungen •kennen wichtigste Polymerisationsverfahren •verstehen die Zusammenhänge zwischen der Struktur und den Eigenschaften amorpher und teilkristalliner Polymeren sowie deren Einfluss auf das mechanische Verhalten •können das Verformungsverhalten von Polymerwerkstoffen anhand von Modellen und molekularen Verformungsmechanismen für die verschiedenen Zustandsbereiche beschreiben, wobei auch auf heterogene Werkstoffe wie Faserverbunde eingegangen wird
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten) 
+
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •B. Ilschner: Werkstoffwissenschaften. Springer, 1982, 1989 •B. Ilschner, R.F. Singer.: Werkstoffwissenschaften und Fertigungstechnik. Springer, 2002 •H.J. Bargel, G. Schulze: Werkstoffkunde. VDI Verlag, 1994 •W. Schatt, H. Worch: Einführung in die Werkstoffwissenschaften. Deutscher Verlag für Grundstoffindustrie, Stuttgart, 1996 •E. Macherauch: Praktikum in Werkstoffkunde.Vieweg •W. Domke: Werkstoffkunde und Werkstoffprüfung. W. Girardet, Essen •W. Weißbach: Werkstoffkunde und Werkstoffprüfung.Vieweg •J. Rösler, H. Harders, M. Bäker: Mechanisches Verhalten der Werkstoffe. Teubner •W.D. Callister: Materials Science and Engineering: An Introduction, Wiley •J.F. Shackelford: Werkstofftechnologie für Ingenieure, Pearson 
+
+
+, Modulbezeichnung 92812: Energietechnik Energy Technology5 ECTS
+Lehrveranstaltungen: Tutorium: Energietechnik Tutorium (1.0 SWS ) - Vorlesung: Vorlesung Energietechnik (2.0 SWS ) - Übung : Übung Energietechnik (2.0 SWS ) -
+Lehrende: Nora Elhaus Prof. Dr.-Ing. Jürgen Karl  
+Modulverantwortliche/r: Prof. Dr.-Ing. Jürgen Karl
+Inhalt: •Einführung in die Rahmenbedingungen der Energiewirtschaft •Thermodynamische Grundlagen der Energietechnik •Grundlagen der Stoffwandlung •Verbrennung und Nutzwärmeerzeugung •Dampfkraftwerke •Gasturbinen-Kraftwerke •CO2 freie Kraftwerke •Brennstoffzellen •Dezentrale Energiesysteme 6Lernziele und KompetenzenDie Studierenden •verstehen grundlegende Prozesse der Energietechnik •kennen innovative Technologien zur Energiewandlung •können die Wirkungsgrade berechnen sowie die Wirtschaftlichkeit der Energiewandlung nachvollziehen •beurteilen umweltrelevante und gesellschaftliche Aspekte der Energiewandlung. 7Voraussetzungen für die TeilnahmeDer erfolgreiche Abschluss der Prüfung "Technische Thermodynamik" wird empfohlen 8Einpassung in StudienverlaufsplanSemester: 6 9Verwendbarkeit des ModulsWahlpflichtmodul 1 Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 16 Literaturhinweise•Folien zur Vorlesung und Übung StudOn •Karl, Dezentrale Energiesysteme, Oldenbourg-Verlag •Effenberger, Kraftwerkstechnik, Springer Verlag 
+Lernziele und Kompetenzen: Die Studierenden •verstehen grundlegende Prozesse der Energietechnik •kennen innovative Technologien zur Energiewandlung •können die Wirkungsgrade berechnen sowie die Wirtschaftlichkeit der Energiewandlung nachvollziehen •beurteilen umweltrelevante und gesellschaftliche Aspekte der Energiewandlung.
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Wahlpflichtmodul 1 Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Folien zur Vorlesung und Übung StudOn •Karl, Dezentrale Energiesysteme, Oldenbourg-Verlag •Effenberger, Kraftwerkstechnik, Springer Verlag 
+
+, Modulbezeichnung 94071: Medizinische Biotechnologie Medical biotechnology5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: PD Dr.habil. Martin Vielreicher
+Inhalt: •Bioelektrizität: Grundlagen der elektrischen Informations- Generierung und Übertragung im Nervensystem höherer Organismen •Anwendungen und Technologien zur Bioelektrizität •Funktionsweise und biomedizinische Mechanismen der Sinnesorgane (Auge, Ohr) und technische Strategien zum Ersatz/Unterstützung der Sinnesfunktion •Immunsystem und Antikörper; Prozesstechnische Verfahren der Antikörperproduktion (polyklonal, Impfung, monoklonale AK, rekombinante AK, personalisierte AK) und Aufreinigung in der Biotechnologie •Grundzüge der Genetik und Gentechnik: Chimären, Klonierung, Transfektionen, transgene Tiere, knock-out Mäuse, Gensequenzierung •Stammzell-Technologien 6Lernziele und KompetenzenDie Studierenden •benennen die biophysikalischen und physikochemischen Grundlagen der Signalverarbeitung im Nervensystem und Sinnesorganen •beschreiben, klassifizieren und bewerten verschiedene Verfahren der Immuntechnologie in der Biomedizin •lösen spezifische Probleme der Klonierung in der Gentechnik für Forschung und Industrie durch Wahl der geeigneten Gentechnik-Verfahren •analysieren und bewerten verschiedene Techniken zur Plasmid-Aufreinigung 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 2010 Wahlpflichtmodul 1 Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden •benennen die biophysikalischen und physikochemischen Grundlagen der Signalverarbeitung im Nervensystem und Sinnesorganen •beschreiben, klassifizieren und bewerten verschiedene Verfahren der Immuntechnologie in der Biomedizin •lösen spezifische Probleme der Klonierung in der Gentechnik für Forschung und Industrie durch Wahl der geeigneten Gentechnik-Verfahren •analysieren und bewerten verschiedene Techniken zur Plasmid-Aufreinigung
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul Bachelor of Science Chemie- und Bioingenieurwesen 2010 Wahlpflichtmodul 1 Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (120 Minuten) 
+
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Wird in der Vorlesung bekannt gegeben 
+
+, Modulbezeichnung 956619: Nachhaltige Chemische Technologien 2 - Verfahren (WPF 1 CBI) Sustainable Chemical Technologies - Processes (Elective module 1 for CBI)5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Martin Hartmann
+Inhalt: •Die 12 Grundprinzipien des "Green Engineering" •Nachhaltige Produktion und Verarbeitung, Prozessoptimierung, innovative Technikansätze, Optimierte Trennverfahren •Gegenüberstellung verschiedener Verfahren unter dem Aspekt der Nachhaltigkeit und des Energiebedarfs 6Lernziele und KompetenzenDie Studierenden: •können die Grundprinzipien einer nachhaltigen Produktion von Chemikalien beschreiben und am Beispiel ausgewählter Prozessketten herausstellen •können den spezifischen Ressourcenbedarf in Bezug auf Energie, Roh- und Hilfsstoffe sowie die Ausbeute bei der Herstellung, Emissionen in Luft, Wasser und Boden, sowie Abwasser- und Abfallmengen gegenüberstellen •sind fähig, ganze Produktionsverfahren auch im Hinblick auf vorgeschaltete Aufbereitungsschritte und nachgeschaltete Trennoperationen darzustellen •können Produktionsprozesse im Hinblick auf Nachhaltigkeit selbständig analysieren, im Rahmen einer mündlichen Präsentation beschrieben und im Anschluss mit den Kommilitonen und dem Dozenten diskutieren 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul 1 Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 
+Lernziele und Kompetenzen: Die Studierenden: •können die Grundprinzipien einer nachhaltigen Produktion von Chemikalien beschreiben und am Beispiel ausgewählter Prozessketten herausstellen •können den spezifischen Ressourcenbedarf in Bezug auf Energie, Roh- und Hilfsstoffe sowie die Ausbeute bei der Herstellung, Emissionen in Luft, Wasser und Boden, sowie Abwasser- und Abfallmengen gegenüberstellen •sind fähig, ganze Produktionsverfahren auch im Hinblick auf vorgeschaltete Aufbereitungsschritte und nachgeschaltete Trennoperationen darzustellen •können Produktionsprozesse im Hinblick auf Nachhaltigkeit selbständig analysieren, im Rahmen einer mündlichen Präsentation beschrieben und im Anschluss mit den Kommilitonen und dem Dozenten diskutieren
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul 1 Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Jiménez-González, Constable, Green Chemistry and Engineering, Wiley-VCH, 2010 
+
+
+, Modulbezeichnung 97040: Einführung in die Regelungstechnik Introduction to control engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Thomas Moor
+Inhalt: Grundlagen der klassischen Regelungstechnik •Lineare zeitinvariante Eingrößensysteme im Frequenz- und Zeitbereich •Sensitivitäten des Standardregelkreises •Bode-Diagramm und Nyquist-Kriterium •Entwurf von Standardreglern •Algebraische Entwurfsmethoden •Erweiterte Regelkreisarchitekturen Anwendungsstudien aus den Bereichen •Mechanische Systeme •Verfahrenstechnische Prozesse 6Lernziele und KompetenzenDie Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: Unbehauen, H.: Regelungstechnik I, Vieweg, 1982 Glattfelder, A.H., Schaufelberger, W.: Lineare Regelsysteme, VDH Verlag, 1996 Goodwin, G.C., et al.: Control System Design, Prentice Hall, 2001 
+
+, Modulbezeichnung 92776: Fundamentals of electrical engineering 5 ECTS
+Lehrveranstaltungen: Tutorium: Group Tutorial 2 (2.0 SWS ) - Vorlesung: Fundamentals of Electrical Engineering (2.0 SWS )5 ECTS Übung : Fundamentals of Electrical Engineering - Exercises (2.0 SWS )-
+Lehrende: Hans Rosenberger Prof. Dr.-Ing. Ralf Müller  
+Modulverantwortliche/r: Prof. Dr.-Ing. Ralf Müller
+Inhalt: •Elektrostatisches Feld •Stationäres elektrisches Strömungsfeld •Gleichstromnetzwerke •Stationäres Magnetfeld •Zeitlich veränderliches elektromagnetisches Feld •Zeitlich periodische Vorgänge •Ausgleichsvorgänge •Halbleiterbauelemente und ausgewählte Grundschaltungen ==== •Electrostatic field •Stationary electric flow field •Direct current networks •Stationary magnetic field •Time-varying electromagnetic field •Time periodic processes •Transient processes •Semiconductor devices and selected basic circuits 6Lernziele und Kompetenzen•Die Studierenden erläutern die Grundkonzepte von elektrische Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatisches Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. Die Studierenden beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •Die Studierenden erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •Die Studierenden erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetze. Mit Hilfe der Kirchhoffsche Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. 
+Lernziele und Kompetenzen: •Die Studierenden erläutern die Grundkonzepte von elektrische Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatisches Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. Die Studierenden beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •Die Studierenden erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •Die Studierenden erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetze. Mit Hilfe der Kirchhoffsche Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. 
+
+Inhalt: e an, um selbständig einfache und dabei dennoch möglichst praxisnahe kleine Probleme systematisch zu lösen. Sie kontrollieren dabei selbst ihren Lernfortschritt und besprechen Fragen mit einem Tutoren, woraus sich Fachgespräche entwickeln, wie sie die ähnlich später in Verhandlungen und bei der Produktentwicklung mit Fachingenieurinnen und Fachingenieuren aus Elektro- und Informationstechnik führen müssen, sowie im interdisziplinären Dialog mit Elektro- und Informationstechnikern und Physikern. •Die Studierenden erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Stoffes, da sie in diesem Modul ein für ihr Fachstudium fremdes Gebiet 
+
+
+Voraussetzungen für die Teilnahme: The students use methods of vector analysis and use Cartesian coordinates, cylindrical and polar coordinates. They solve systems of linear equations and calculate with complex numbers. They use the trigonometric formulas and solve linear ordinary differential equations with constant coefficients in transient processes. Students know and understand basic physical concepts, especially quantities and quantity equations.
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Wahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise: •Manuskript zur Vorlesung / Lecture notes •ALBACH, M.: Elektrotechnik, 1. Auflage, Pearson-Studium, München, 2011. 
+
+
+, Modulbezeichnung 94370: Grundlagen der Elektrotechnik Foundations of electrical engineering5 ECTS
+Lehrveranstaltungen: Tutorium: Group Tutorial 2 (2.0 SWS ) - Vorlesung: Fundamentals of Electrical Engineering (2.0 SWS )5 ECTS Übung : Fundamentals of Electrical Engineering - Exercises (2.0 SWS )-
+Lehrende: Hans Rosenberger Prof. Dr.-Ing. Ralf Müller Prof. Dr.-Ing. Matthias Luther  
+Modulverantwortliche/r: Prof. Dr.-Ing. Matthias Luther
+Inhalt: •das elektrostatische Feld •das stationäre elektrische Strömungsfeld •Gleichstromnetzwerke •das stationäre Magnetfeld •das zeitlich veränderliche elektromagnetische Feld •zeitlich periodische Vorgänge •Ausgleichsvorgänge •Halbleiterbauelemente und ausgewählte Grundschaltungen 6Lernziele und KompetenzenDie Studierenden •erläutern die Grundkonzepte von elektrischer Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatische Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. •beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetzen. Mit Hilfe der Kirchhoffschen Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. •erklären die Begriffe Magnetfeld und Magnete. Sie berechnen die im Magnetfeld auf bewegte Ladungen wirkenden Kräfte und die magnetische Feldstärke durch Nutzung des Durchflutungsgesetzes. Die Studierenden erläutern die magnetischen Eigenschaften der Materie und das Verhalten der Feldgrößen an Grenzflächen. Sie ermitteln die Induktivität. •nutzen das Induktionsgesetz, bestimmen die Selbstinduktion, analysieren einfache Induktivitätsnetzwerke und ermitteln 
+Lernziele und Kompetenzen: Die Studierenden •erläutern die Grundkonzepte von elektrischer Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatische Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. •beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetzen. Mit Hilfe der Kirchhoffschen Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. •erklären die Begriffe Magnetfeld und Magnete. Sie berechnen die im Magnetfeld auf bewegte Ladungen wirkenden Kräfte und die magnetische Feldstärke durch Nutzung des Durchflutungsgesetzes. Die Studierenden erläutern die magnetischen Eigenschaften der Materie und das Verhalten der Feldgrößen an Grenzflächen. Sie ermitteln die Induktivität. •nutzen das Induktionsgesetz, bestimmen die Selbstinduktion, analysieren einfache Induktivitätsnetzwerke und ermitteln 
+
+Inhalt: e an, um selbstständig einfache und dabei dennoch möglichst praxisnahe kleine Probleme systematisch zu lösen. Sie kontrollieren dabei selbst ihren Lernfortschritt und besprechen Fragen mit Tutoren, woraus sich Fachgespräche entwickeln, wie sie die ähnlich später in Verhandlungen und bei der Produktentwicklung mit Fachingenieuren aus Elektro- und Informationstechnik führen müssen, sowie im interdisziplinären Dialog mit Elektro- und Informationstechnikern und Physikern. Kenntnisse und Verständnis der grundsätzlichen Funktionsweise elektrischer Maschinen, deren stationären Betrieb und die konventionelle (verlustbehaftete) Drehzahlstellung. Knowledge and understanding of the basic operating principles of electrical machines, their steady-state operation and traditional setting of speed. 7Voraussetzungen für die TeilnahmeDie Studierenden nutzen Methoden der Vektoranalysis und verwenden kartesische Koordinaten, Zylinder- und Polarkoordinaten. Sie lösen lineare Gleichungssysteme und rechnen mit komplexen Zahlen. Sie verwenden die trigonometrischen Formeln und lösen lineare gewöhnliche Differentialgleichungen mit konstanten Koeffizienten in Ausgleichsvorgängen. Die Studierenden kennen und verstehen physikalische Grundbegriffe, insbesondere Größen und Größengleichungen. 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+Voraussetzungen für die Teilnahme: Die Studierenden nutzen Methoden der Vektoranalysis und verwenden kartesische Koordinaten, Zylinder- und Polarkoordinaten. Sie lösen lineare Gleichungssysteme und rechnen mit komplexen Zahlen. Sie verwenden die trigonometrischen Formeln und lösen lineare gewöhnliche Differentialgleichungen mit konstanten Koeffizienten in Ausgleichsvorgängen. Die Studierenden kennen und verstehen physikalische Grundbegriffe, insbesondere Größen und Größengleichungen.
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152 
+
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Manuskript zur Vorlesung •ALBACH, M.: Elektrotechnik, 1. Auflage, Pearson-Studium, München, 2011. •ALBACH, M., FISCHER, J.: Übungsbuch Elektrotechnik, 1. Auflage, Pearson-Studium, München, 2012. •FROHNE, H. et al.: Moeller Grundlagen der Elektrotechnik, 22., verbesserte Auflage, Vieweg+Teubner Verlag, Wiesbaden, 2011. •SPECOVIUS, J.: Grundkurs Leistungselektronik: Bauelemente, Schaltungen und Systeme , 4. Auflage, Vieweg +Teubner, Wiesbaden, 2010. 
+
+, Modulbezeichnung 42932: Scientific computing in engineering 2 5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Jens Harting
+Inhalt: •Process system modeling •Fluid mechanics and dimensionless parameters •Cellular automata •Lattice gas and lattice Boltzmann methods •Multiphase flows •Reaction-diffusion systems •Molecular dynamics •Monte Carlo simulations •Programming in modern programming languages such as Python or Julia. 6Lernziele und KompetenzenThe students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheEnglisch 16 Literaturhinweise 
+Lernziele und Kompetenzen: The students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Wahlpflichtmodul 2 Bachelor of Science Chemie- und Bioingenieurwesen 20152
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise:

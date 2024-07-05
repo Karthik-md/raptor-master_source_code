@@ -1,0 +1,917 @@
+
+, Module name 45003: Advanced seminar 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Bück
+Contents: Content In this seminar, presentation and working techniques are demonstrated, with which presentations and the necessary accompanying material can be created. Students use this to create a scientific presentation with accompanying literature based on current, interesting topics within the chosen field of study.
+Learning objectives and skills: The students •can find, analyze and evaluate required literature •work independently into a topic •apply presentation techniques •develop a presentation with accompanying material for a specialist audience •conduct a presentation in the given time frame •discuss issues among experts •are able to work in a goal-oriented manner with fellow •students as well as external experts and non-specialist third parties
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Pflichtmodul Master of Science Clean Energy Processes 20212
+Method of examination: Seminar achievement
+Grading procedure: Seminar achievement (100%)
+Workload in clock hours: Contact hours: 30 h Independent study: 120 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Zanders, E. D., "Presentation skills for scientists : a practical guide", 2nd edition, Cambridge University Press, 2018 •Dionne, J.-P., "Presentation Skills for Scientists and Engineers: The Slide Master", 1st edition, Springer-Verlag, 2021 •Carter, M., "Designing science presentations : a visual guide to figures, papers, slides, posters, and more", 1st edition, Elsevier/AP Verlag, 2013 
+
+Module coordinator: 5
+Contents: The internship is intended to provide an overview of the various activities in a company, a laboratory or research facility in a university or other research institutes through participation in work or project groups. In addition, special skills of engineers are to be acquired, based on the knowledge already acquired in the studies. As a basis for this, the technical and methodological skills acquired in the bachelor's degree are to be implemented. Desirable fields of activity are e.g. energy engineering, chemical engineering, process engineering, electrical engineering, plant engineering and related industries, engineering administration, companies doing research, research institutes or other institutions.
+Learning objectives and skills: Students: •are familiar with typical tasks in the field of clean energy processes or related industries •know and understand the organization and social structure of an industrial company •recognize the interrelationships between the individual areas of a company or other organisation •apply the specialist knowledge gained so far in the course of their studies in industrial practice •reflect on the impact of their actions on the outcome of the tasks entrusted to them •analyze the knowledge required in industry in comparison with the content of their own studies
+Prerequisites: None
+Module compatibility: Pflichtmodul Master of Science Clean Energy Processes 20212
+Grading procedure: 1
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available) 
+
+Teaching and examination language: english
+Bibliography: 
+
+Module coordinator: 5
+Contents: Independent work on a scientific problem in the field of clean energy processes, depending on their spezialisation in one of the following fields: •Energy technologies •Energy systems •Electrical Energy engineering •Materials science and engineering •Process engineering The thesis must be done in either the specializations “Energy Technologies" or "Energy Systems". Furthermore, the topic of the Master's thesis can also be issued by a university lecturer working full-time at the Friedrich-Alexander Universität Erlangen-Nürnberg who is responsible for one of the modules M1 to M6.
+Learning objectives and skills: Students •are able to work independently on a scientific problem from a selected area of the study field clean energy processes within a given time limit •develop independent ideas and concepts to solve scientific problems •deal with theories, terminologies, specifics, limitations and doctrines of the subject in an in-depth and critical way and reflect on them •can apply and further develop suitable scientific methods largely independently - also in new and unfamiliar as well as interdisciplinary contexts - as well as present the results in a scientifically appropriate form. •can present subject-related content clearly and appropriately to the target group, both orally and in writing, and argue the case for it •expand their planning and structuring skills in the implementation of a thematic project.
+
+Module compatibility: Pflichtmodul Master of Science Clean Energy Processes 20212
+Method of examination: Oral (30 minutes) Written (6 Monate)
+Grading procedure: Oral (10%) Written (90%) The master thesis and its results have to be presented in a presentation of max. 30 minutes followed by a discussion. The master thesis is worth 27 ECTS credits, the presentation 3 ECTS credits (see FPO CEP section 50 (2)).
+Module frequency: no Module frequency information available!
+Resit examinations: The exams of this moduls can only be resit once.
+Workload in clock hours: Contact hours: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Independent study: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt)
+Module duration: ?? semester (no information for Module duration available)
+Teaching and examination language: german
+Bibliography: 
+
+, Module name 45002: Seminar sustainability and environmental ethics 5 ECTS
+Course / lectures: Seminar : Sustainability and Environmental Ethics (4 SWS )5 ECTS
+Lecturers: Prof. Dr. Martin Hartmann Prof. Dr.-Ing. Jürgen Karl  
+Module coordinator: Prof. Dr. Martin Hartmann Prof. Dr.-Ing. Jürgen Karl
+Contents: This course introduces the academic approach of sustainability and environmental ethics. It explores how todays human societies can endure in the face of global change, ecosystem degradation and resource limitations. The course focuses on key knowledge areas of sustainability theory and practice, including population, ecosystems, global change, energy, agriculture, water, circular economy, environmental economics and policy, ethics, and cultural history.
+Learning objectives and skills: Students will become familiar with important concepts of sustainability and environmental ethics and discuss current possibilities, limitations and future challenges. Students who successfully participate in this module can: •Understand the concept and methodology of sustainability and environmental ethics •Apply the methodology of green chemistry and engineering •Identify opportunities for improvements by life cycle sustainability assessments (LCSA) •Collect information on topics of current interest und present the results to the course members orally or in writing •Explain and discuss important new concepts (e.g. planetary boundaries, geoengineering, eco-sufficiency, rebound effect)
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Pflichtmodul Master of Science Clean Energy Processes 20212
+Method of examination: Seminar achievement
+Grading procedure: Seminar achievement (100%)
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •U. Gruber, Sustainability: A Cultural History, Green Books (2012). •I. Pufé, Nachhaltigkeit, UVK Verlagsgesellschaft, 2. Auflage (2014). 
+
+
+
+, Module name 42903: Clean combustion technology with laboratory course7,5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Stefan Will
+Contents: •Einführung in die Verbrennungstechnik: Grundlagen, laminare Flammen, turbulente Flammen, Verbrennungsmodellierung , Schadstoffbildung, Anwendungsbeispiele. •Einführung in numerische Simulation von Strömungen mit Verbrennung. Content: •Introduction to combustion technology: Fundamentals, laminar flames, turbulent flames, conservation equations, modeling of combustion systems, pollutant formation, applications. •Introduction in numerical simulation of flows with combustion.
+
+Prerequisites: Grundwissen Thermodynamik und Strömungsmechanik hilfreich. Auch für StudentInnen anderer Fachrichtungen geeignet (Chemie, Physik, Mathematik, Maschinenbau, Mechatronik, Computational Engineering). Prerequisites: Basic Thermodynamics and Fluid Dynamics is helpful. Students of other subjects (Chemistry, Physics, Mathematics, Mechanical Engineering, Mechatronics, Computational Engineering) can also participate.
+Integration in curriculum: semester: 1
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Variable
+Grading procedure: Variable (0%) Variable (100%)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Warnatz, J., Maas, U., Dibble, R. "Verbrennung", 3. Auflage, Springer-Verlag, 2001 •Warnatz, J., Maas, U., Dibble, R. "Combustion", 4th Edition, Springer-Verlag, 2006 •Joos, F. "Technische Verbrennung", Springer-Verlag, 2006 
+
+, Module name 42906: Photovoltaic systems - Fundamentals with laboratory course7,5 ECTS
+Course / lectures: Vorlesung mit Übung: Advanced Semiconductor Technologies - Photovoltaic Systems for Power Generation - Design Implementation and Characterization (2 SWS )3 ECTS Praktikum : Lab Work Characterization and Advanced Defect Imaging of PV Modules and Systems (3 SWS )2 ECTS Übung : Excercises Photovoltaic systems Fundamentals (CEP) (Ex-PVS-F) (3 SWS )2 ECTS
+Lecturers: Prof. Dr. Christoph Brabec Dr. Karen Forberich  
+Module coordinator: Prof. Dr. Christoph Brabec
+Contents: The lecture will introduce the fundamentals of photovoltaic energy conversion. The conversion of light into electricity is one of the most efficient power technologies of today and is expected to transform our energy system towards a renewable scenario. The limits of photovoltaic energy conversion, the materials and architectures of major PV technologies and advanced characterization methods for modules as well as solar fields will be introduced theoretically and experimentally during the lecture, exercices and the lab works.
+Learning objectives and skills: •The students will learn the concept of black body radiation and the radiation laws and the limits of light energy conversion. The fundamental semiconductor junctions (p-n, M-i-M, Shottky and Hetero Junction are repeated. The one diode and two diodes replacement circuits are explained. Electrical, optical, recombination and extraction loss mechanisms are discussed separately and demonstrated at the hand of numerical drift- diffusion equation solvers. The most important solar cell concepts (Si, CIGS, CdTe, GaAs, Perovksites, Organics) are introduced, and the strengths and weaknesses of each technology are analysed. •Characterization of Photovoltaic Modules will be trained by flashed measurements in the lab. Defect imaging methods like DLIT, EL or PL imaging will be trained at the hand of module installations in Erlangen.
+Prerequisites: Prerequisites: Bachelor in Material Science, Nanotechnology, Energy Technology, Electronic Engineering, Computer Science, Physics, Chemistry, Chemical Engineering, Nanotechnologie, Energietechnik, Elektrotechnik, Physik, Chemie or comparable
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable 
+
+Grading procedure: Variable (0%) Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 150 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Will be provided via StudOn 
+
+, Module name 42904: Power electronics for decentral energy systems with laboratory course7,5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Thomas Eberle
+Contents: Content: During the laboratory course students learn: •dealing with power electronics measurement equipment •measuring typical characteristics and important parameters of a power electronic circuit •how to avoid the most common measurement problems •safety rules when dealing with power electronics In den Versuchen werden u.A. folgende Themen behandelt: •Leistungshalbleiter •DC-DC-Wandler •Energieeinspeisung aus PV-Quellen •Energiespeicherung in elektrochemischen Speichern •Regelung und Stabilitätsanalyse von DC-Netzen
+Learning objectives and skills: Students who participate in this course will become familiar with the basics of decentral energy systems, their components and operation. After successfully completing this module, students: •know the structure and topologies of local low-voltage direct current grids, the most important properties and error scenarios •know the electrical properties of battery storage and regenerative power sources •know the basic circuits of the various power electronic converters in a DC grid (DC / DC and AC / DC converters), their advantages and disadvantages •understand the arc problem •know solutions for the implementation of DC-compatible plugs, switches and protective devices •know procedures for controlling decentral DC grids •can model switch-mode converters and grids with regard to their dynamic behavior •know procedures for impedance measurement in grids "under load" •can carry out stability studies on DC grids •are familiar with modern device power supply solutions using protective extra-low voltage •During the laboratory course students learn: •dealing with power electronics measurement equipment •measuring typical characteristics and important parameters of a power electronic circuit •how to avoid the most common measurement problems 
+
+Prerequisites: Prerequisites: To succeed in this course, students will need to apply knowledge from basics of electrical engineering. The fundamental toolset (AC circuit analysis using complex phasor method, basic differential equations, Kirchhoffs law, basic electric circuits, etc.) must be mastered.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Variable
+Grading procedure: Variable (100%) Variable (0%)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Script Lecture Power electronics (März) •Script Lecture Power electronics for decentral energy systems (März) 
+
+, Module name 42905: Thin-film processing with laboratory course 7,5 ECTS
+Course / lectures: Praktikum : Thin-Film Processing (Laboratory course) (3 SWS )- Vorlesung: Thin-Film Processing (2 SWS ) - Übung : Thin-Film Processing (Exercises) (3 SWS ) -
+Lecturers: Prof. Dr.-Ing. Andreas Bück Dr. Giulia Magnabosco Prof. Dr. Robin Klupp Taylor  
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: Students who participate in this course will learn principles of the different process steps involved in the formation of thin films on solid substrates, both from liquid- and from gas phases. Individual lectures of the course involve the following topics: •Drying Technology: Transformation of liquid precursors and dispersions into solid films •Self-organisation processes occurring during the film formation •Industrial coating processes and technologies •Characterisation of thin-films •Properties of thin films
+Learning objectives and skills: Students who participate in this course will become familiar with the different aspects of thin films, from physical principles governing the formation of thin films to their resulting properties. Students who successfully participate in this module can: •Understand the physical principles of thin film formation •Correlate the properties of colloidal dispersions and liquid interfaces with the resulting film formation properties •Control the film structure via the evaporation profile •Select and explain different industrial coating processes to control film formation •Assess and explain the optical, electronic and mechanical properties of thin films
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Variable
+Grading procedure: Variable (100%) Variable (0%)
+Module frequency: only in winter semester 
+
+Workload in clock hours: Contact hours: 120 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •F.-W. Bach, A. Laarmann, T. Wenz (Eds.), Modern Surface Technology, Wiley, Weinheim, FRG, 2006.[Full Text] •J. Bachmann, Atomic Layer Deposition in Energy Conversion Applications, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2017.[Full Text] •Cohen, E.D. and Gutoff, E.B. (1992) Modern coating and drying technology, VCH, New York, NY. •Frey, H. and Khan, H.R. (2015) Handbook of Thin-Film Technology, Springer Berlin Heidelberg, Berlin, Heidelberg. •Y. Lin, X. Chen (Eds.), Advanced Nano Deposition Methods, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2016.[Full Text] •Martin, P.M. (2010) Handbook of deposition technologies for films and coatings: Science, applications and technology, 3rd edn, Elsevier, Amsterdam, Boston. •M. Ohring, Materials science of thin films: Deposition and structure / Milton Ohring, 2nd ed., Academic Press, San Diego, CA, 2002. [Full Text] 
+
+
+, Module name 42917: Clean combustion technology 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Stefan Will
+Contents: Introduction to combustion technology: fundamentals, laminar flames, turbulent flames, combustion modeling , pollutant formation, application. Introduction to numerical simulation of flows with combustion.
+Prerequisites: Basic knowledge of thermodynamics and fluid mechanics is recommended. Also suitable for students in other disciplines (chemistry, physics, mathematics, mechanical engineering, mechatronics, computational engineering).
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Warnatz, J., Maas, U., Dibble, R. "Verbrennung", 3. Auflage, Springer-Verlag, 2001 
+
+
+, Module name 42924: Electrical energy storage systems 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Dr.-Ing. Bernd Eckardt
+Contents: Content: Introduction to electric energy storage systems and their applications regarding the mode of operation and load scenarios in mobile and stationary applications •Basics on electrochemical and physical energy storage systems as well as the used electronics for measuring (e.g. battery management system (BMS)) and connecting the storage to the source or load (e.g. power electronic). •Different electrochemical storage systems (Pb, NiCd, NiMH, NaNiCl2, LiIo), fuel cells, flywheels, capacitors and thermal storages •Basics on analytic calculations of necessary ratings for mobile an stationary applications according to capacity, charge and discharge power, losses and lifetime •Safety aspects using energy storage systems
+Learning objectives and skills: Students who participate in this course get basic knowledge on the use and selection of different electric energy storage systems. Therefore the most common used electrochemical storage systems are presented and the specific properties are discussed. Further on storage solutions based on capacitors, flywheels and fuel cells are covered. The basic electric performance and the system behavior is described. For different applications the students learn to specify the necessary requirements, to work with available datasheets and to configure electric storage systems.
+Prerequisites: Prerequisites: To succeed in this course, students will need basic knowledge in chemistry and electronics.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Moderne Akkumulatoren richtig einsetzen, 2 . überarbeitete Auflage, Andreas Jossen, Wolfgan Weydanz, ISBN: 978-3-736-99945-9 •Handbuch Lithium-Ionen-Batterien, Herausgeber: Korthauer, Reiner (Hrsg.) , ISBN 978-3-642-30653-2 
+
+, Module name 42918: Fuel cells and electrolysers 5 ECTS
+Course / lectures: Vorlesung: Fuel cells and electrolysers (2 SWS ) - Übung : Fuel cells and electrolysers (3 SWS ) -
+Lecturers: Prof. Dr.-Ing. Simon Thiele  
+Module coordinator: Prof. Dr.-Ing. Simon Thiele
+Contents: Fuel cell (FC) and electrolysis cell (ECs) •Application areas •Thermodynamic boundary conditions •Electrochemical basics •Kinetics •Transport processes •State of the art •Characterisation techniques •Open questions and scientific challenges
+Learning objectives and skills: Students •are able to apply acquired knowledge from e.g. physical chemistry, mathematics and basic electrochemistry •understand kinetics to describe the time dependent concentration changes in chemical reactions •apply basic knowledge in thermodynamics and general chemistry •are familiar with basic concepts of electrochemical engineering for fuel cells and electrolysers •can describe thermodynamics, kinetic effects and electrochemical foundations •understand limitations such as kinetic, ohmic or mass transport limitions •have a solid knowledge on the state of the art •know how to experimentally characterize cells •are able to deduce methods to improve cell technologies by analyzing experimental data
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. physical chemistry, mathematics and basic electrochemistry. Understanding of kinetics to describe the time dependent concentration changes in chemical reactions should be familiar from physical chemistry classes. Basic knowledge in thermodynamics and general chemistry is beneficial.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable 
+
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •O'hayre, Ryan; Cha, Suk-Won •Prinz, Fritz B. •Colella, Whitney (2016): Fuel cell fundamentals: John Wiley & Sons. 
+
+, Module name 42923: Photovoltaic systems - Fundamentals 5 ECTS
+Course / lectures: Vorlesung mit Übung: Advanced Semiconductor Technologies - Photovoltaic Systems for Power Generation - Design Implementation and Characterization (2 SWS )3 ECTS Übung : Excercises Photovoltaic systems Fundamentals (CEP) (Ex-PVS-F) (3 SWS )2 ECTS
+Lecturers: Prof. Dr. Christoph Brabec Dr. Karen Forberich  
+Module coordinator: Prof. Dr. Christoph Brabec
+Contents: The lecture will introduce to the fundamentals of photovoltaic energy conversion. The conversion of light into electricity is one of the most efficient power technologies of today and is expected to transform our energy system towards a renewable scenario. The limits of photovoltaic energy conversion, the materials and architectures of major PV technologies and advanced characterization methods for modules as well as solar fields will be introduced theoretically and experimentally during the lecture and exercices.
+Learning objectives and skills: •The students will learn the concept of black body radiation and the radiation laws and the limits of light energy conversion. The fundamental semiconductor junctions (p-n, M-i-M, Shottky and Hetero Junction are repeated. The one diode and two diodes replacement circuits are explained . Electrical, optical, recombination and extraction loss mechanisms are discussed separately and demonstrated at the hand of numerical drift- diffusion equation solvers. The most important solar cell concepts (Si, CIGS, CdTe, GaAs, Perovksites, Organics) are introduced, and the strengths and weaknesses of each technology are analysed. •Characterization of Photovoltaic Modules will trained by flashed measurements in the lab. Defect imaging methods like DLIT, EL or PL imaging will be trained at the hand of module installations in Erlangen.
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h 
+Workload in clock hours: Contact hours: 75 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Will be provided via StudOn 
+
+, Module name 42919: Power electronics for decentral energy systems 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Thomas Eberle
+Contents: ENGLISH DESCRIPTION: •Introduction, motivation •AC vs. DC grids, DC grid topologies •Application examples, voltage levels •Protection and earthing concepts •Control methods for local DC grids •Modeling the frequency characteristic of switch-mode converters •Impedance measuring under load •Stability analysis in DC grids Components of local DC grids: •Battery storages (technologies, technical properties, electrical impedance characteristics and equivalent circuits, battery management, monitoring and protection systems (BMS)) •Regenerative power sources (PV, fuel cells) and their electrical characteristics •Non-isolating DC/DC converters (basic topologies and properties) •Isolating DC converters (basic topologies and properties) •AC/DC converter (basic topologies and properties) •Switches, plugs and protection devices for DC grids •Arc discharges and their characteristics DEUTSCHE INHALTSBESCHREIBUNG Einführung •Netztopologien •Spannungsebenen, Schutz- und Erdungskonzepte •Anwendungsbeispiele Komponenten lokaler Gleichspannungsnetze •Batteriespeicher (Technologien, Eigenschaften, elektrisches Impedanzverhalten, Ersatzschaltbilder, Schutz- und Überwachungsschaltungen) •Elektrischen Eigenschaften regenerativer Stromquellen (PV, Brennstoffzellen) •Nicht isolierende Gleichspannungswandler (Grundlagen, Topologien) •Isolierende Gleichspannungswandler (Grundlagen, Topologien) •AC/DC-Wandler (Grundlagen, Topologien) •Schalter, Stecker und Schutzgeräte für Gleichspannung, Lichtbogeneigenschaften Regelung lokaler Gleichspannungsnetze und Stabilitätsanalyse •Regelverfahren für Gleichspannungsnetze 
+
+Learning objectives and skills: ENGLISH DESCRIPTION: Students who participate in this course will become familiar with the basics of decentral energy systems, their components and operation. After successfully completing this module, students: •know the structure and topologies of local low-voltage direct current grids, the most important properties and error scenarios •know the electrical properties of battery storage and regenerative power sources •know the basic circuits of the various power electronic converters in a DC grid (DC / DC and AC / DC converters), their advantages and disadvantages •understand the arc problem •know solutions for the implementation of DC-compatible plugs, switches and protective devices •know procedures for controlling decentral DC grids •can model switch-mode converters and grids with regard to their dynamic behavior •know procedures for impedance measurement in grids "under load" •can carry out stability studies on DC grids •are familiar with modern device power supply solutions using protective extra-low voltage During the practicum students learn: •dealing with power electronics measurement equipment •measuring typical characteristics and important parameters of a power electronic circuit •how to avoid the most common measurement problems •safety rules when dealing with power electronics GERMAN DESCRIPTION: Die Studierenden •kennen den Aufbau und die Topologien lokaler Niederspannungs-Gleichstromnetze, die wichtigsten Eigenschaften und Fehlerszenarien •kennen die elektrischen Eigenschaften von Batteriespeichern und regenerativen Stromquellen •kennen die Grundschaltungen der verschiedenen leistungselektronischen Wandler in einem Gleichspannungsnetz (DC/DC- und AC/DC-Wandler) •analysieren die Schaltungsoptionen bezüglich ihrer Vor- und Nachteile •verstehen die Lichtbogenproblematik •kennen Lösungen zur Realisierung von gleichspannungstauglichen Steckern, Schaltern und Schutzgeräten 
+
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Klausur, 90 min bzw. mündlich, 30min
+Grading procedure: Variable (100%) 100%
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: german english
+Bibliography: •Lecture Notes •"Power Electronics for Distributed Power Supply - DC Networks" •Skript zur Vorlesung •"Leistungselektronik für dezentrale Energieversorgung - Gleichspannungsnetze" 
+
+, Module name 42920: Pumps and turbines 5 ECTS
+Course / lectures: Übung : Pumps and Turbines (Exercises) (3 SWS ) - Vorlesung: Pumps and Turbines (2 SWS ) 5 ECTS
+Lecturers: apl.Prof.Dr. Stefan Becker  
+Module coordinator: apl.Prof.Dr. Stefan Becker
+Contents: Classification and work transfer in pumps and turbines •Fluid mechanical fundamentals of turbomachinery •Efficiency, characteristics and operating behavior •Characteristic numbers •Design procedure •CFD simulation •Low-noise turbomachines •Application: fans and blowers •Application: wind turbines
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of pumps and turbines. Students who successfully participate in this module: •Can select adequate pumps and turbines for different applications •Have a comprehensive understanding of the different types of turbomachinery and their limitations and possibilities in the various fields of application •Can design rotors and turbines •Are familiar with the use of turbomachines in accordance with the latest environmental protection guidelines •Can determine the entire process from the given boundary conditions, objective design and simulation to the construction of impellers •Gain experience in practical realization for industrial applications
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. fluid mechanics, solid mechanics and mathematics. A solid background in mathematics is required, since differential equations and integrals form the basis for the description of the fluid dynamic processes and their kinematics. Basic knowledge in thermodynamics and fluid simulation is beneficial.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%) 
+
+Workload in clock hours: Contact hours: 90 h Independent study: 60 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Fluid Mechanics and Thermodynamics of Turbomachinery, S. Larry Dixon und Cesare Hall •Wind Turbine Noise, S. Wagner •Fluid Mechanics, F. Durst 
+
+, Module name 42921: Renewable thermal power plants 5 ECTS
+Course / lectures: Vorlesung: Renewable thermal power plants (2 SWS ) 3 ECTS Übung : Renewable thermal power plants Exercises (3 SWS )2 ECTS
+Lecturers: Prof. Dr.-Ing. Michael Wensing Tatiana Weiß Prof. Dr. Klaus Riedle  
+Module coordinator: Dr.-Ing. Sebastian Rieß Prof. Dr.-Ing. Michael Wensing
+Contents: Content: Thermodynamic basics, primary energy situation worldwide, sustainable energy resources, CO2 capture and storage, CO2-free energy sources and processes (water, wind, biomass, geothermal energy, photovoltaics), energy management (energy demand, energy reserves, primary energy sources, environmental impact, sustainable and fossil power plant types in comparison; thermal cycle processes (steam turbines, gas turbines, engines, combined processes); renewable power plants, effects of sustainable energy sources on the machine design in power plants, energy economics, efficient usage, energy storage, electro-chemical power processes, climate change, renewable energies Description of the exercise: The exercise programme, which is scheduled with 3 SWS, is conducted in seminar form. Participants are divided into groups that work together on a project on regenerative energy supply. Project contents can be, for example, concepts for CO2 reduction for a neighbourhood, a city, region or a larger industrial company. The exercise is accompanied as a project course by experienced experts from industry who are available to the students for discussion. Meetings take place weekly during the exercise times. As a result, the project groups submit a report on their findings and give a final presentation. These two performances together constitute the students' examination performance. There is no separate examination.
+Learning objectives and skills: Students who successfully participate in this module: •know technologies and components of power plant engineering •have a fundamental overview of energy-economic issues in power plant technology •are able to analyze energy conversion processes for the generation of power and electrical energy in thermal and other power plants •can understand the technical implementation of power plants and develop and evaluate proposals for optimization •apply thermodynamic principles for process optimization and can further develop these methods for process optimization 
+
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from basics in process engineering especially engineering thermodynamics and principles of transport. Basic knowledge in general chemistry is beneficial.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Rao, K. R. "Energy and power generation handbook." ASME, (New York, 2011) (2011). •Sethi, V. K. "Low Carbon Technologies (LCT) and Carbon Capture & Sequestration (CCS)Key to Green Power Mission for Energy Security and Environmental Sustainability." Carbon Utilization. Springer, Singapore, 2017. 45-57. •Drbal, Larry, Kayla Westra, and Pat Boston, eds. Power plant engineering. Springer Science & Business Media, 2012. •DiPippo, Ron, ed. Geothermal power generation: Developments and innovation. Woodhead Publishing, 2016. •Blanco, Manuel, and Lourdes Ramirez Santigosa, eds. Advances in concentrating solar thermal research and technology. Woodhead Publishing, 2016. •Earnest, Joshua, and Sthuthi Rachel. Wind power technology. PHI Learning Pvt. Ltd., 2019. •Basu, Prabir. Biomass gasification, pyrolysis and torrefaction: practical design and theory. Academic press, 2018. 
+
+, Module name 42922: Thin-film processing 5 ECTS
+Course / lectures: Vorlesung: Thin-Film Processing (2 SWS ) - Übung : Thin-Film Processing (Exercises) (3 SWS ) -
+Lecturers: Prof. Dr. Robin Klupp Taylor Prof. Dr.-Ing. Andreas Bück Dr. Giulia Magnabosco Prof. Dr. Nicolas Vogel  
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: Students who participate in this course will learn principles of the different process steps involved in the formation of thin films on solid substrates, both from liquid- and from gas phases. Individual lectures of the course involve the following topics: •Drying Technology: Transformation of liquid precursors and dispersions into solid films •Self-organisation processes occurring during the film formation •Industrial coating processes and technologies •Characterisation of thin-films •Properties of thin films
+Learning objectives and skills: Students who participate in this course will become familiar with the different aspects of thin films, from physical principles governing the formation of thin films to their resulting properties. Students who successfully participate in this module can: •Understand the physical principles of thin film formation •Correlate the properties of colloidal dispersions and liquid interfaces with the resulting film formation properties •Control the film structure via the evaporation profile •Select and explain different industrial coating processes to control film formation •Assess and explain the optical, electronic and mechanical properties of thin films
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h 
+Workload in clock hours: Contact hours: 75 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •F.-W. Bach, A. Laarmann, T. Wenz (Eds.), Modern Surface Technology, Wiley, Weinheim, FRG, 2006.[Full Text] •J. Bachmann, Atomic Layer Deposition in Energy Conversion Applications, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2017.[Full Text] •Cohen, E.D. and Gutoff, E.B. (1992) Modern coating and drying technology, VCH, New York, NY. •Frey, H. and Khan, H.R. (2015) Handbook of Thin-Film Technology, Springer Berlin Heidelberg, Berlin, Heidelberg. •Y. Lin, X. Chen (Eds.), Advanced Nano Deposition Methods, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2016.[Full Text] •Martin, P.M. (2010) Handbook of deposition technologies for films and coatings: Science, applications and technology, 3rd edn, Elsevier, Amsterdam, Boston. •M. Ohring, Materials science of thin films: Deposition and structure / Milton Ohring, 2nd ed., Academic Press, San Diego, CA, 2002. [Full Text] 
+
+
+, Module name 42939: Chemical Technologies for the Energy Transition 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Tanja Franken
+Contents: •Definition of sustainability and measures •Current and future Energy mix •Concepts of Catalysis •Exhaust Gas Catalysis •Sustainable Feedstocks •Biorefinery •Carbon capture and storage •Closing the C cycle: CO2 as C1 Source •Alternative fuels •Chemical energy storage vs electrical storage
+Learning objectives and skills: The students •learn important processes that contribute to the sustainability of the chemical industry, apart from energy processes. •learn what sustainability means •understand aspects of sustainability and are able to transfer it to future processes •understand the functionality and theory of common analysis tools for the characterization of catalytic systems •are able to show the advantages and disadvantages and the potentials of the reviewed applications
+Prerequisites: No preliminary knowledge is needed for a successful participation. However, basic knowledge of catalysis, energy efficiency, thermodynamics, or reaction engineering can make it easier to get started.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Graded scientific presentation (30 minutes).
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: 1
+Bibliography: •Slides and all further material will be uploaded on StudOn. 
+
+, Module name 42940: Recycling of Electronic Wastes Chemical Technologies for the Energy Transition5 ECTS
+Course / lectures: Vorlesung mit Übung: Recycling of Electronic Wastes - Lecture (5 SWS )5 ECTS
+Lecturers: Dr. Monica Distaso  
+Module coordinator: Dr. Monica Distaso
+Contents: •Definition of sustainability and measures •Current and future Energy mix •Concepts of Catalysis •Exhaust Gas Catalysis •Sustainable Feedstocks •Biorefinery •Carbon capture and storage •Closing the C cycle: CO2 as C1 Source •Alternative fuels •Chemical energy storage vs electrical storage
+Learning objectives and skills: The students •learn important processes that contribute to the sustainability of the chemical industry, apart from energy processes. •learn what sustainability means •understand aspects of sustainability and are able to transfer it to future processes •understand the functionality and theory of common analysis tools for the characterization of catalytic systems •are able to show the advantages and disadvantages and the potentials of the reviewed applications
+Prerequisites: No preliminary knowledge is needed for a successful participation. However, basic knowledge of catalysis, energy efficiency, thermodynamics, or reaction engineering can make it easier to get started.
+Integration in curriculum: semester: 1
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Oral (30 minutes) Graded scientific presentation (30 minutes).
+Grading procedure: Oral (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Slides and all further material will be uploaded on StudOn. 
+
+, Module name 42933: Experimental fluid mechanics 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Andreas Wierschem
+Contents: Content: •Flow visualization •Measurement techniques for velocity: Particle Image and Tracking Velocimetry and Laser Doppler anemometry, ultrasound, •Measurement techniques for flow rate, pressure, temperature, concentration, free surfaces •Applicability and limitations, typical errors •2-, 2+1-, 3-dimensional techniques, time-resolved techniques •Data acquisition and processing
+Learning objectives and skills: Students who participate in this course will become familiar with measurement techniques in fluid mechanics. Students who successfully participate in this module: •Have an overview over the most extended and important measurement techniques •Understand the principles of the different techniques •Know and understand the abilities and limitations of the techniques •Can to select an appropriate technique for a given task •Can identify and avoid typical measurement errors
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable mündlich, 30 min
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Tropea, Yarin, Foss: Handbook of Experimental Fluid Mechanics, Springer 
+
+
+, Module name 42934: Microfluidics and microfluidic devices 5 ECTS
+Course / lectures: Übung : Microfluidics and microfluidic devices (Exercises) (3 SWS )- Vorlesung: Microfluidics and microfluidic devices (2 SWS )-
+Lecturers: Prof. Dr.-Ing. Simon Thiele  
+Module coordinator: Prof. Dr.-Ing. Simon Thiele
+Contents: Content: This lecture gives an overview on microfluidic basics and device properties with applications in chemical and electrochemical engineering. The topics of the lecture encompass: •Basic fluidic properties and fluid dynamics at the microscale •Electrokinetic effects •Diffusion and heat phenomena •Surface tension •Design, modeling and analysis •Basic microfluidic elements and its challenges •Miniaturization of reactors •Nanofluidics •Application examples in the clean energy processes context
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of the microfluidic world. Students who successfully participate in this module: •Have an understanding of the governing physics in the microfluidic (and nanofluidic) world •Know basic elements of microfluidic operation •Can apply this knowledge for the design of simple reactors
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. fluid dynamics, physics and mathematics. A solid background in mathematics is required, since differential equations and integrals form the basis for the description of the fluidic processes.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h Independent study: 75 h 14 Module duration 1 semester 15Teaching and examination languageenglish 
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english 
+
+Bibliography: •Nguyen, Wereley; Microfluidics, Artech House •Geschke, Klank, Telleman; Microsystem Eng. of Lab-on-a-Chip Devices, Wiley-VCh, 2nd edition •Bruus; Theoretical Microfluidics, Oxford Univ. Press 
+
+, Module name 42938: Particle Technology 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Robin Klupp Taylor
+Contents: •Particle size and shape and distribution •Particles in motion •Unit operations: separations, mixing, comminution •Tools: Dimensional analysis and population balances in particle technology •Packed and fluidized beds •The associated exercises and homework cover all topics and allow students to develop their understanding independently with follow-up support from the course tutors.
+Learning objectives and skills: Students who successfully participate in this module can •define the societal relevance of particle technology •give examples of unit operations of particle technology •differentiate between the various approaches for defining particle size and shape •analyze particle size distributions, distinguish between accepted norms for their presentation, and apply them for the analysis of separation equipment •analyze the motion of particles according to physical and engineering principles •describe the structure of packings and bulk materials and the perfusion of those •describe the fundamentals of the processes of separation, mixing, comminution and fluidization as well as their description via dimensional analyses and population balances
+Prerequisites: Basics in thermodynamics and fluid mechanics. Students of other subjects (Chemical- and Bioengineering, Mechanical Engineering, Life Science Engineering, Energy Technology, Computational Engineering) can participate.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Written examination (120 minutes)
+Grading procedure: Written examination (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 75 h Independent study: 75 h 14 Module duration 1 semester 
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester 
+
+Teaching and examination language: 1
+
+, Module name 42937: Polymer Recycling 5 ECTS
+Course / lectures: Vorlesung mit Übung: Polymer Recycling ( SWS ) -
+Lecturers: Dr. Jochen Schmidt  
+Module coordinator: Dr. Jochen Schmidt
+Contents: • Introduction to polymer recycling and the circular economy of plastics (definitions, basic concepts, plastic wastes as a valuable and sustainable resource, challenges) •Collection and sorting of plastic wastes (collection schemes, (fundamentals of) separation and classification processes, sorting and recycling plants) •Chemical recycling of plastics (solvolysis, thermolysis, pyrolysis) •Mechanical recycling of thermoplasts (extrusion, injection moulding, examples (primary recycling of polyethyleneterephthalate, secondary recycling of polyolefins etc.)) •Thermoplast recyclates –additive enhancement and challenges in processing (compatibilizers, antioxidants etc.) •‘Thermal recycling’ of waste streams •Recycling of fiber-enhanced composites (cf. rotor blades •Trends towards more sustainable plastics – recent innovations in polymer recycling, recycling of biopolymers?
+Learning objectives and skills: This module aims to provide an introduction into the state of the art of plastic recycling. Current regulations in plastic waste management throughout the world, as well as the demands towards more sustainable plastics and the transition to a circular economy pose many challenges in collection and sorting of plastics wastes and their conversion to (processable) recyclates. This course will provide the concepts of collection and sorting of plastic wastes as well as the basics of chemical, mechanical recycling and thermal conversion of plastic waste streams. The students will learn to understand ‘plastic wastes’ as a sustainable resource for the plastics and chemical industries. Moreover, they will be able to assess the most useful recycling approach for a certain waste stream depending on composition and degree of contamination. In the context of mechanical recycling of thermoplasts, the students will be able to assess viable strategies of additive enhancement of recylates to cope with the challenges in processing.
+Prerequisites: Required (General) chemistry, basics of organic chemistry Polymer Science and Processing Recommended Materials and Structure Polymer Science and Processing Life Cycle Assessment 
+
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: 1
+Bibliography: •Raju Francis, Recycling of Polymers: Methods, Characterization and Applications (2016), Wiley VCH, ISBN: 978-3-527-68909. •Norbert Niessner, Recycling of Plastics (2022), Hanser Fachbuchverlag, ISBN: 978-1-56990-856-32022. •Peter Eyerer, Helmut Schüle, Peter Elsner, Polymer Engineering 3 - Werkstoff- und Bauteilprüfung, Recycling, Entwicklung (2020), Springer Vieweg, ISBN: 978-3-662-59839-9. •Natalie Rudolph, Raphael Kiesel, Chuanchom Aumnate, Understanding Plastics Recycling (2020), Hanser Fachbuchverlag, ISBN: 978-1-56990-847-1. •Trevor Letcher, Plastic Waste and Recycling - Environmental Impact, Societal Issues, Prevention, and Solutions (2020), Academic Press, ISBN: 9780128178812. 
+
+, Module name 45375: Polymer Science and Processing Polymer science and processing5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: Introduction to polymer science with a broad focus on: Synthesis, characterization and processing of polymeric materials; Structure- property relationships at the molecular level, in the liquid and melt state and in the solid. •Introduction to macromolecules: definition of terms, special features of polymers, polymerization reactions, polymer architectures, Classifications of polymeric materials •Polymer synthesis: chain and step growth, living Polymerizations, catalytic polymerizations, copolymerizations •Characterizations: determination of molecular weights •Properties of polymers in the liquid state: thermodynamics of polymer solutions, conformations •Properties of polymers in the solid state: phase transitions, amorphous materials, semi-crystalline materials, elastomers •Processing of polymers: extrusions, injection molding processes, Additive manufacturing, fiber and film manufacturing •Special polymers and applications of polymeric materials
+Learning objectives and skills: The students •learn basic structure-property relationships of macromolecules and polymeric materials •are able to derive macroscopic material properties from molecular structures •develop the conceptual ability to adapt macroscopic properties by changing the molecular structure •learn basic skills in the synthesis, characterization and processing of polymer materials •have the ability to select an appropriate polymeric material for a given application •get an insight into current research activities in the field of polymer science
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Oral (30 minutes)
+Grading procedure: Oral (100%)
+Module frequency: only in summer semester 
+
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Koltzenburg, Maskos, Nuyken, Polymere, Springer Spektrum 2014 •R. J. Young, P. A. Lovell, Introduction to Polymers, 3rd Edition. CRC Press 2011 
+
+, Module name 42936: Self-organisation processes 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Michael Engel
+Contents: Structure formation with elementary building blocks in molecular, particulate, soft, and biological systems. Theoretical aspects, experimental realizations, and applications are discussed. •Theory 1 (introduction): the idea of building blocks, thermodynamic principles •Theory 2 (continuum): spinodal decomposition, reaction diffusion, phase field model, feedback •Theory 3 (particles): entropy maximization, interface minimization •Molecules 1 (basics): molecular interactions, role of shape •Molecules 2 (liquid crystals): topological order, defects •Molecules 3 (interfaces): surfactants, micelles, emulsions, foams, vesicles •Molecules 4 (beyond): block copolymers, membranes, proteins, metal organic frameworks •Colloids 1: Methods for the synthesis of colloidal building blocks for self-organization •Colloids 2: Bulk crystallization, assembly by depletion, electrostatics, confinement by solid-fluid interfaces, opals •Colloids 3: Assembly at planar and curved fluid-fluid interfaces, pickering emulsions •Colloids 4: Convective assembly, film formation techniques and defects, coffee ring effect, templating •Bioinspired 1 (dynamic self-assembly): active matter, bacteria, swarms, robots •Bioinspired 2 (design): programmable assembly, DNA nanotechnology, inverse problems
+Learning objectives and skills: Successful completion of this module confirms students are able to •describe complex self-organization processes with the help of simple model systems •apply this knowledge to physical, chemical, and bioinspired systems •develop an advanced understanding of the self-organization of (macro)molecules and colloids •understand processes to direct and influence self-organization processes •judge the relevance of self-organization for the processing and synthesis of materials •gain insight into current research in the field of the lecture
+Prerequisites: None 
+
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+
+
+, Module name 53286: Economics of climate change (ECC) 5 ECTS
+Course / lectures: Übung : Economics of Climate Change (ECC) (2 SWS )- Vorlesung: Economics of Climate Change (ECC) (2 SWS )5 ECTS
+Lecturers: Dr. Jonas Egerer Prof. Dr. Veronika Grimm  
+Module coordinator: Dr. Jonas Egerer Nima Farhang-Damghani Prof. Dr. Veronika Grimm
+Contents: This course focuses on the interactions between society, the economy and climate change: one of the greatest challenges of our time. The course will discuss the origin of environmental challenges, technological options for their solution and policies to promote the transformation to a climate neutral economy and society. The following issues will be covered: •Welfare economics and the environment •Externalities and origins of the sustainability problem •Climate change and the greenhouse gas effect •Global climate scenarios •Economics of low-carbon technologies •Global and regional low carbon scenarios •Measures of climate resilience •Pollution control: Targets and policy instruments •International Cooperation: Kyoto Protocol and Paris Agreement •Applications of Climate Policy: EU-ETS and national CO2-tax •Case studies for the energy, heat and mobility sector
+Learning objectives and skills: Students who participate in this course will become familiar with the physical science basis of climate change, economic concepts for the allocation of public goods, scenarios for low-carbon energy systems from an technological and an economic perspective, and policy instruments to reduce greenhouse gas emissions. Students who successfully participate in this module can: •Explain the physical basics of climate change •Understand economic concepts for public goods •Compare different low-carbon technologies •Describe pathways towards sustainable energy systems •Develop an understanding of climate resilience •Discuss different policy instruments •Understand the EU-ETS and national carbon taxes •Develop sector specific scenarios in case studies
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. economics and mathematics.
+Integration in curriculum: semester: 1 
+
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Written Written examination (60 minutes)
+Grading procedure: Written (50%) Written examination (50%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 BibliographyNatural Resource and Environmental Economics. Roger Perman et al. Addison Wesley. 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Natural Resource and Environmental Economics. Roger Perman et al. Addison Wesley. 
+
+, Module name 42911: Efficient heat transfer 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Paul Fröba
+Contents: •Compact repetition of fundamentals of heat transfer •Thermal and hydraulic design of heat exchangers •Performance criteria for efficient heat transfer •Minimization of exergy loss via optimization with respect to pressure loss, temperature gradients, mixing effects and heat loss to the ambience •Surface design and enhancement devices in single-phase heat transfer •Optimization of condensation heat transfer by the promotion of dropwise condensation as well as different types of finned tubes •Enhancement of boiling heat transfer by structured surfaces •Additives for the enhancement of heat transfer •Examples for the improvement of process efficiencies by enhancement of heat transfer, e.g., in power plants or in seawater desalination
+Learning objectives and skills: Students who participate in this course will become familiar with the concepts and realization of efficient heat transfer. Students who successfully participate in this module can: •Calculate heat transfer and flow in heat exchangers •Evaluate the efficiency of heat exchangers by performance criteria and exergy loss analysis •Describe and assess the efficiencies of different concepts of heat transfer enhancement •Select suitable concepts for heat transfer enhancement for specific applications •Understand the impact of heat transfer enhancement and hydraulic optimization on process efficiencies
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from engineering thermodynamics, fluid dynamics, and heat transfer. Skills in engineering thermodynamics form the basis for understanding the concept of exergy that is used to evaluate the efficiency of heat exchangers. As this efficiency depends on both heat transfer performance and hydraulic design, fundamental knowledge on the different mechanisms of heat transfer and on fluid flow is necessary.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212 
+
+Method of examination: Variable (60 minutes)
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Lecture Notes •VDI Heat Atlas, Springer 2010 (2nd edition) •H. D. Baehr and K. Stephan, Heat and Mass Transfer, Springer 2011 (3rd edition) •G. F. Naterer, Advanced Heat Transfer, CRC Press, Taylor & Francis Group 2018 (2nd edition) •A. Bejan and A. D. Kraus, Heat Transfer Handbook, John Wiley & Sons 2003 (1st edition) 
+
+, Module name 42912: Life cycle assessment 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Martin Hartmann Dr.-Ing. Alexandra Inayat
+Contents: Content: •Introduction to LCA •Goal and Scope Definition •Life Cycle Inventory Analysis •Life Cycle Impact Assessment, Midpoint indictors •Life Cycle Interpretation and Reporting •LCSA, Life Cycle costing •Product (process)-related Social Life Cycle Assessment
+Learning objectives and skills: Students will become familiar with the basic concepts of Life Cycle Assessment. Students who successfully participate in this module can: •Understand the concept and methodology of life cycle inventory and assessment •Apply the methodology for evaluating life cycle impacts through inventory and assessment •Identify opportunities for improvements through life cycle assessment evaluation •Apply life cycle inventory and assessment methodology to assess clean energy processes
+Prerequisites: Prerequisites: To succeed in this course, students will need to know the basic concepts of clean energy processes, energy resources, renewable energies as well as mass and energy balances.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Written examination
+Grading procedure: Written examination (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english 
+
+Bibliography: •W. Klöpfer and B. Grahl, Life Cycle Assessment (LCA), Wiley- VCH, Weinheim (2014). •M. A. Curran (ed.), Life Cycle Assment Student Handbook. John Wiley (2015). •C. Jimenez-Gonzales, D.J.C. Constable, Green Chemistry and Green Engineering, John Wiley & Sons (2011). 
+
+, Module name 42913: Phosphors for light conversion in photovoltaic devices and LEDs5 ECTS
+Course / lectures: Vorlesung: Phosphors for Light Conversion in Photovoltaic Devices and LEDs (2 SWS )3 ECTS Übung : Exercices Phosphors for Light Conversion in Photovoltaic Devices and LEDs (CEP) (Ex-PVS-LC) (3 SWS )2 ECTS
+Lecturers: PD Dr.Ing. Miroslaw Batentschuk  
+Module coordinator: PD Dr.Ing. Miroslaw Batentschuk
+Contents: •Classification of phosphors according to their principle of operation and by field of application. •Establishing the relationships between crystal structure of phosphors as well as their composition and the desirable absorption and emission properties. •Energy transfer between the crystal lattice and active ions as well as between these ions •Consideration of several examples •Theoretical analysis of phosphor engineering with the purpose to reach maximal energy efficiency during transformation of the ionizing radiation •Basics and to methods of storage phosphor manufacturing •Analysis of requirements to the properties and new trends in development of phosphors for white light emitting diodes and for adaptation of the sun light spectrum to the sensitivity of solar cells and plants
+Learning objectives and skills: •The students will get the theoretical background and the ability to determine the required parameters for engineering new phosphors as a part of photovoltaic modules and devices for modern lighting. •The students will be trained in processing of phosphors and dielectric layers. The students will gain knowledge in characterization of phosphors and improved solar cells.
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h Independent study: 75 h 14 Module duration 1 semester 
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester 
+
+Teaching and examination language: english
+Bibliography: •Will be provided via StudOn 
+
+, Module name 42914: Process control and plant safety 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Bück
+Contents: •Basic concepts of process and plant safety •Layer model of process and plant safety •Reliability of processes and plants/Risk analysis •Automation systems for process and plant safety •Failure impact analysis •Cyber Security in view of Internet of Things (IoT) •Case studies from (bio-)chemical industries
+Learning objectives and skills: Students will be able identify and analyze risks in process and plant operation and be able to protect equipment, humans and environment from operational hazards. The module provides key concepts and methods to assess risks and to increase operational safety, especially by use of process automation.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Recommended reading: •SFPE, NFPA, The SFPE Handbook of Fire Protection Engineering, 2008 Hauptmanns, U. (Ed.) Plant and Process 
+
+
+, Module name 42915: Process simulation 5 ECTS
+Course / lectures: Vorlesung: Process Simulation ( SWS ) - Übung : Process Simulation (Exercise) ( SWS ) -
+Lecturers: Prof. Dr.-Ing. Bastian Etzold  
+Module coordinator: Prof. Dr.-Ing. Bastian Etzold
+Contents: Content: •Introduction to industrial process development •Aspects of process intensification •Introduction to the Aspen Plus simulator for process simulation •Equipment modeling: chem. reactors (detailed), separators, heat exchangers, mixers, pumps, compressors •recirculation, separation sequences, interconnection to the overall process •Short-cut methods for single apparatuses and for process synthesis •Flow sheet simulation of selected sample processes in Aspen Plus •Heat integration (pinch analysis) •Economic feasibility studies: Cost structure, cost models, plant capacity utilization, economic measures of quality.
+Learning objectives and skills: The students: •are familiar with the systematic approach to conceptual process design •are familiar with the individual steps of modeling chemical reactors, separators, heat exchangers, mixers, pumps and compressors •are able to independently carry out the modeling and simulation of chemical engineering processes using industry- relevant commercial simulation tools (in particular Aspen Plus) •are able to practically apply and expand their basic knowledge of reaction engineering and thermal process engineering in the simulation of process engineering processes •are able to classify different models of basic operations and assess the scope of application •are capable of comparing different process variants •are able to apply the acquired knowledge practically on the basis of selected examples, taking into account economic aspects (cost structure, cost models, plant capacity utilization, economic measures of quality)
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212 
+
+Method of examination: Variable (120 minutes)
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Bearns, Behr, Brehm, Gmehling, Hofmann, Onken, Renken: Technische Chemie, Wiley-VCH, Weinheim, 2006. •Biegler, Grossmann, Westerberg: Systematic Methods of Chemical Process 
+
+, Module name 52592: Quantitative methods in energy market modelling 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Karl Gregor Zöttl
+Contents: It is the purpose of the course to understand and quantitatively analyse the economic interaction of the players and institutions in liberalized energy markets. Liberalized electricity markets can be segmented in a regulated part (the networks) and the non-regulated parts (generation and retail) where private companies interact in a market environment. The interaction of the different agents is analysed with computational equilibrium frameworks based the concepts applied in industrial organization. Next to the fundamental understanding of the relevant market interaction, the models allow for a quantitative analysis of proposals for the design of energy markets. The participants thus develop the tools for an autonomous assessment of currently discussed policies in liberalized electricity markets (e.g. changed support schemes for renewables, changed network tariff systems, impact of capacity markets). The course aims at students in the field of economics /business as well as students in the fields of engineering and mathematics. An integral part of the course id formed by homework assignments conducted in groups. The ability to cooperate also beyond the classical limits of each discipline is an important qualification for the students careers, which should be stimulated in the context of this course.
+Learning objectives and skills: The students: •develop a clear picture of the relevant market participants in liberalized electricity markets and understand their incentives and objectives •learn fundamental concepts and models which allow to analyze the interaction at those markets •get to know important publically available data sources which allow for a quantitative analysis of the market situations considered •know the current challenges when designing those markets and can quantitatively analyze the solutions proposed in the current policy debate.
+Prerequisites: The students should be familiar with the mathematical methods acquired during their Bachelor degree. Institutional knowledge of electricity markets is not required.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212 
+
+Method of examination: Written examination Written
+Grading procedure: Written examination (80%) Written (20%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 45 h Independent study: 105 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 BibliographyDaniel Kirschen and Goran Strbac: Power System Economics, Wiley 2004. Steven Stoft: Power System Economics, Wiley 2002. Wolfgang Ströbele, Wolfgang Pfaffenberger, Michael Heuterkes: Energiewirtschaft, Oldenbourg 2010. 
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Daniel Kirschen and Goran Strbac: Power System Economics, Wiley 2004. Steven Stoft: Power System Economics, Wiley 2002. Wolfgang Ströbele, Wolfgang Pfaffenberger, Michael Heuterkes: Energiewirtschaft, Oldenbourg 2010. 
+
+
+, Module name 42902: Phosphors for light conversion in photovoltaic devices and LEDs with laboratory course7,5 ECTS
+Course / lectures: Vorlesung: Phosphors for Light Conversion in Photovoltaic Devices and LEDs (2 SWS, WiSe 2023 )3 ECTS Praktikum : Lab Work Manufacturing and Characterization of Phosphors and Storage Phosphors (3 SWS )2,5 ECTS Übung : Exercices Phosphors for Light Conversion in Photovoltaic Devices and LEDs (CEP) (Ex-PVS-LC) (3 SWS, WiSe 2023 )2 ECTS
+Lecturers: PD Dr.Ing. Miroslaw Batentschuk Dr. Andres Osvet  
+Module coordinator: PD Dr.Ing. Miroslaw Batentschuk
+Contents: Content: Lecture •Classification of phosphors according to their principle of operation and by field of application. •Establishing the relationships between crystal structure of phosphors as well as their composition and the desirable absorption and emission properties. •Energy transfer between the crystal lattice and active ions as well as between these ions •Consideration of several examples •Theoretical analysis of phosphor engineering with the purpose to reach maximal energy efficiency during transformation of the ionizing radiation •Basics and to methods of storage phosphor manufacturing •Analysis of requirements to the properties and new trends in development of phosphors for white light emitting diodes and for adaptation of the sun light spectrum to the sensitivity of solar cells and plants Lab Work •Phosphor Manufacturing by Solid State Reaction and by Nano- Co-Precipitation Technique •Dielectric Mirror Manufacturing for Light Management in Solar Cells
+Learning objectives and skills: •The students will get the theoretical background and the ability to determine the required parameters for engineering new phosphors as a part of photovoltaic modules and devices for modern lighting. •The students will be trained in processing of phosphors and dielectric layers. The students will gain knowledge in characterization of phosphors and improved solar cells.
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4 
+
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Variable
+Grading procedure: Variable (100%) Variable (0%)
+Workload in clock hours: Contact hours: 90 h Independent study: 135 h
+Module duration: 2 semester
+Teaching and examination language: english
+Bibliography: •Will be provided via StudOn 
+
+, Module name 42901: Process control and safety with laboratory course 7,5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Bück
+Contents: Content: •Basic concepts of process and plant safety •Layer model of process and plant safety •Reliability of processes and plants/Risk analysis •Automation systems for process and plant safety •Failure impact analysis •Cyber Security in view of Internet of Things (IoT) •Case studies from (bio-)chemical industries
+Learning objectives and skills: Students will be able identify and analyze risks in process and plant operation and be able to protect equipment, humans and environment from operational hazards. The module provides key concepts and methods to assess risks and to increase operational safety, especially by use of process automation.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Variable
+Grading procedure: Variable (100%) Variable (0%)
+Workload in clock hours: Contact hours: 75 h Independent study: 150 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •SFPE, NFPA, The SFPE Handbook of Fire Protection Engineering, 2008 
+
+
+, Module name 42900: Process simulation with laboratory course 7,5 ECTS
+Course / lectures: Vorlesung: Process Simulation ( SWS ) - Übung : Process Simulation (Exercise) ( SWS ) -
+Lecturers: Prof. Dr.-Ing. Bastian Etzold  
+Module coordinator: Prof. Dr.-Ing. Bastian Etzold
+Contents: Content: •Introduction to industrial process development •Aspects of process intensification •Introduction to the Aspen Plus simulator for process simulation •Equipment modeling: chem. reactors (detailed), separators, heat exchangers, mixers, pumps, compressors •recirculation, separation sequences, interconnection to the overall process •Short-cut methods for single apparatuses and for process synthesis •Flow sheet simulation of selected sample processes in Aspen Plus •Heat integration (pinch analysis) •Economic feasibility studies: Cost structure, cost models, plant capacity utilization, economic measures of quality.
+Learning objectives and skills: Students: •Are familiar with the systematic approach to conceptual process design. •know the individual steps of modeling chemical reactors, separators, heat exchangers, mixers, pumps and compressors •are able to independently carry out the modeling and simulation of chemical engineering processes using industry- relevant commercial simulation tools (in particular Aspen Plus) •are able to practically apply and expand their basic knowledge of reaction engineering and thermal process engineering in the simulation of process engineering processes •are able to classify different models of basic operations and assess the scope of application •are capable of comparing different process variants •are able to practically apply the acquired knowledge on the basis of selected examples, taking into account economic aspects (cost structure, cost models, plant capacity utilization, economic measures of quality) •are able to judge which parameters are relevant for a process •are able to critically question and evaluate their own work •are able to critically discuss the progress of their own work and the further procedure in small groups and to solve tasks cooperatively
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4 
+
+Module compatibility: Specialisation modules with laboratory course 1-2 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Variable (120 minutes)
+Grading procedure: Variable (0%) Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 150 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Bearns, Behr, Brehm, Gmehling, Hofmann, Onken, Renken: Technische Chemie, Wiley-VCH, Weinheim, 2006. •Biegler, Grossmann, Westerberg: Systematic Methods of Chemical Process Design, Prentice Hall, New Jersey, 1997. •Seider, Seader, Lewin: Product and Process Design Principles: Synthesis, Analysis, and Evaluation, 2nd edition, Wiley & Sons, New York, 2003. •Smith: Chemical Process Design, McGraw-Hill, New York, 1995. 
+
+
+, Module name 53286: Economics of climate change (ECC) 5 ECTS
+Course / lectures: Übung : Economics of Climate Change (ECC) (2 SWS )- Vorlesung: Economics of Climate Change (ECC) (2 SWS )5 ECTS
+Lecturers: Dr. Jonas Egerer Prof. Dr. Veronika Grimm  
+Module coordinator: Dr. Jonas Egerer Nima Farhang-Damghani Prof. Dr. Veronika Grimm
+Contents: This course focuses on the interactions between society, the economy and climate change: one of the greatest challenges of our time. The course will discuss the origin of environmental challenges, technological options for their solution and policies to promote the transformation to a climate neutral economy and society. The following issues will be covered: •Welfare economics and the environment •Externalities and origins of the sustainability problem •Climate change and the greenhouse gas effect •Global climate scenarios •Economics of low-carbon technologies •Global and regional low carbon scenarios •Measures of climate resilience •Pollution control: Targets and policy instruments •International Cooperation: Kyoto Protocol and Paris Agreement •Applications of Climate Policy: EU-ETS and national CO2-tax •Case studies for the energy, heat and mobility sector
+Learning objectives and skills: Students who participate in this course will become familiar with the physical science basis of climate change, economic concepts for the allocation of public goods, scenarios for low-carbon energy systems from an technological and an economic perspective, and policy instruments to reduce greenhouse gas emissions. Students who successfully participate in this module can: •Explain the physical basics of climate change •Understand economic concepts for public goods •Compare different low-carbon technologies •Describe pathways towards sustainable energy systems •Develop an understanding of climate resilience •Discuss different policy instruments •Understand the EU-ETS and national carbon taxes •Develop sector specific scenarios in case studies
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. economics and mathematics.
+Integration in curriculum: semester: 1 
+
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Written Written examination (60 minutes)
+Grading procedure: Written (50%) Written examination (50%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 BibliographyNatural Resource and Environmental Economics. Roger Perman et al. Addison Wesley. 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Natural Resource and Environmental Economics. Roger Perman et al. Addison Wesley. 
+
+, Module name 42911: Efficient heat transfer 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Paul Fröba
+Contents: •Compact repetition of fundamentals of heat transfer •Thermal and hydraulic design of heat exchangers •Performance criteria for efficient heat transfer •Minimization of exergy loss via optimization with respect to pressure loss, temperature gradients, mixing effects and heat loss to the ambience •Surface design and enhancement devices in single-phase heat transfer •Optimization of condensation heat transfer by the promotion of dropwise condensation as well as different types of finned tubes •Enhancement of boiling heat transfer by structured surfaces •Additives for the enhancement of heat transfer •Examples for the improvement of process efficiencies by enhancement of heat transfer, e.g., in power plants or in seawater desalination
+Learning objectives and skills: Students who participate in this course will become familiar with the concepts and realization of efficient heat transfer. Students who successfully participate in this module can: •Calculate heat transfer and flow in heat exchangers •Evaluate the efficiency of heat exchangers by performance criteria and exergy loss analysis •Describe and assess the efficiencies of different concepts of heat transfer enhancement •Select suitable concepts for heat transfer enhancement for specific applications •Understand the impact of heat transfer enhancement and hydraulic optimization on process efficiencies
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from engineering thermodynamics, fluid dynamics, and heat transfer. Skills in engineering thermodynamics form the basis for understanding the concept of exergy that is used to evaluate the efficiency of heat exchangers. As this efficiency depends on both heat transfer performance and hydraulic design, fundamental knowledge on the different mechanisms of heat transfer and on fluid flow is necessary.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212 
+
+Method of examination: Variable (60 minutes)
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Lecture Notes •VDI Heat Atlas, Springer 2010 (2nd edition) •H. D. Baehr and K. Stephan, Heat and Mass Transfer, Springer 2011 (3rd edition) •G. F. Naterer, Advanced Heat Transfer, CRC Press, Taylor & Francis Group 2018 (2nd edition) •A. Bejan and A. D. Kraus, Heat Transfer Handbook, John Wiley & Sons 2003 (1st edition) 
+
+, Module name 42912: Life cycle assessment 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Martin Hartmann Dr.-Ing. Alexandra Inayat
+Contents: Content: •Introduction to LCA •Goal and Scope Definition •Life Cycle Inventory Analysis •Life Cycle Impact Assessment, Midpoint indictors •Life Cycle Interpretation and Reporting •LCSA, Life Cycle costing •Product (process)-related Social Life Cycle Assessment
+Learning objectives and skills: Students will become familiar with the basic concepts of Life Cycle Assessment. Students who successfully participate in this module can: •Understand the concept and methodology of life cycle inventory and assessment •Apply the methodology for evaluating life cycle impacts through inventory and assessment •Identify opportunities for improvements through life cycle assessment evaluation •Apply life cycle inventory and assessment methodology to assess clean energy processes
+Prerequisites: Prerequisites: To succeed in this course, students will need to know the basic concepts of clean energy processes, energy resources, renewable energies as well as mass and energy balances.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Written examination
+Grading procedure: Written examination (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 14 Module duration 1 semester 15Teaching and examination languageenglish 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: english 
+
+Bibliography: •W. Klöpfer and B. Grahl, Life Cycle Assessment (LCA), Wiley- VCH, Weinheim (2014). •M. A. Curran (ed.), Life Cycle Assment Student Handbook. John Wiley (2015). •C. Jimenez-Gonzales, D.J.C. Constable, Green Chemistry and Green Engineering, John Wiley & Sons (2011). 
+
+, Module name 42913: Phosphors for light conversion in photovoltaic devices and LEDs5 ECTS
+Course / lectures: Vorlesung: Phosphors for Light Conversion in Photovoltaic Devices and LEDs (2 SWS )3 ECTS Übung : Exercices Phosphors for Light Conversion in Photovoltaic Devices and LEDs (CEP) (Ex-PVS-LC) (3 SWS )2 ECTS
+Lecturers: PD Dr.Ing. Miroslaw Batentschuk  
+Module coordinator: PD Dr.Ing. Miroslaw Batentschuk
+Contents: •Classification of phosphors according to their principle of operation and by field of application. •Establishing the relationships between crystal structure of phosphors as well as their composition and the desirable absorption and emission properties. •Energy transfer between the crystal lattice and active ions as well as between these ions •Consideration of several examples •Theoretical analysis of phosphor engineering with the purpose to reach maximal energy efficiency during transformation of the ionizing radiation •Basics and to methods of storage phosphor manufacturing •Analysis of requirements to the properties and new trends in development of phosphors for white light emitting diodes and for adaptation of the sun light spectrum to the sensitivity of solar cells and plants
+Learning objectives and skills: •The students will get the theoretical background and the ability to determine the required parameters for engineering new phosphors as a part of photovoltaic modules and devices for modern lighting. •The students will be trained in processing of phosphors and dielectric layers. The students will gain knowledge in characterization of phosphors and improved solar cells.
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h Independent study: 75 h 14 Module duration 1 semester 
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester 
+
+Teaching and examination language: english
+Bibliography: •Will be provided via StudOn 
+
+, Module name 42914: Process control and plant safety 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Bück
+Contents: •Basic concepts of process and plant safety •Layer model of process and plant safety •Reliability of processes and plants/Risk analysis •Automation systems for process and plant safety •Failure impact analysis •Cyber Security in view of Internet of Things (IoT) •Case studies from (bio-)chemical industries
+Learning objectives and skills: Students will be able identify and analyze risks in process and plant operation and be able to protect equipment, humans and environment from operational hazards. The module provides key concepts and methods to assess risks and to increase operational safety, especially by use of process automation.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Recommended reading: •SFPE, NFPA, The SFPE Handbook of Fire Protection Engineering, 2008 Hauptmanns, U. (Ed.) Plant and Process 
+
+
+, Module name 42915: Process simulation 5 ECTS
+Course / lectures: Vorlesung: Process Simulation ( SWS ) - Übung : Process Simulation (Exercise) ( SWS ) -
+Lecturers: Prof. Dr.-Ing. Bastian Etzold  
+Module coordinator: Prof. Dr.-Ing. Bastian Etzold
+Contents: Content: •Introduction to industrial process development •Aspects of process intensification •Introduction to the Aspen Plus simulator for process simulation •Equipment modeling: chem. reactors (detailed), separators, heat exchangers, mixers, pumps, compressors •recirculation, separation sequences, interconnection to the overall process •Short-cut methods for single apparatuses and for process synthesis •Flow sheet simulation of selected sample processes in Aspen Plus •Heat integration (pinch analysis) •Economic feasibility studies: Cost structure, cost models, plant capacity utilization, economic measures of quality.
+Learning objectives and skills: The students: •are familiar with the systematic approach to conceptual process design •are familiar with the individual steps of modeling chemical reactors, separators, heat exchangers, mixers, pumps and compressors •are able to independently carry out the modeling and simulation of chemical engineering processes using industry- relevant commercial simulation tools (in particular Aspen Plus) •are able to practically apply and expand their basic knowledge of reaction engineering and thermal process engineering in the simulation of process engineering processes •are able to classify different models of basic operations and assess the scope of application •are capable of comparing different process variants •are able to apply the acquired knowledge practically on the basis of selected examples, taking into account economic aspects (cost structure, cost models, plant capacity utilization, economic measures of quality)
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212 
+
+Method of examination: Variable (120 minutes)
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Bearns, Behr, Brehm, Gmehling, Hofmann, Onken, Renken: Technische Chemie, Wiley-VCH, Weinheim, 2006. •Biegler, Grossmann, Westerberg: Systematic Methods of Chemical Process 
+
+, Module name 52592: Quantitative methods in energy market modelling 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Karl Gregor Zöttl
+Contents: It is the purpose of the course to understand and quantitatively analyse the economic interaction of the players and institutions in liberalized energy markets. Liberalized electricity markets can be segmented in a regulated part (the networks) and the non-regulated parts (generation and retail) where private companies interact in a market environment. The interaction of the different agents is analysed with computational equilibrium frameworks based the concepts applied in industrial organization. Next to the fundamental understanding of the relevant market interaction, the models allow for a quantitative analysis of proposals for the design of energy markets. The participants thus develop the tools for an autonomous assessment of currently discussed policies in liberalized electricity markets (e.g. changed support schemes for renewables, changed network tariff systems, impact of capacity markets). The course aims at students in the field of economics /business as well as students in the fields of engineering and mathematics. An integral part of the course id formed by homework assignments conducted in groups. The ability to cooperate also beyond the classical limits of each discipline is an important qualification for the students careers, which should be stimulated in the context of this course.
+Learning objectives and skills: The students: •develop a clear picture of the relevant market participants in liberalized electricity markets and understand their incentives and objectives •learn fundamental concepts and models which allow to analyze the interaction at those markets •get to know important publically available data sources which allow for a quantitative analysis of the market situations considered •know the current challenges when designing those markets and can quantitatively analyze the solutions proposed in the current policy debate.
+Prerequisites: The students should be familiar with the mathematical methods acquired during their Bachelor degree. Institutional knowledge of electricity markets is not required.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212 
+
+Method of examination: Written examination Written
+Grading procedure: Written examination (80%) Written (20%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 45 h Independent study: 105 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 BibliographyDaniel Kirschen and Goran Strbac: Power System Economics, Wiley 2004. Steven Stoft: Power System Economics, Wiley 2002. Wolfgang Ströbele, Wolfgang Pfaffenberger, Michael Heuterkes: Energiewirtschaft, Oldenbourg 2010. 
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: Daniel Kirschen and Goran Strbac: Power System Economics, Wiley 2004. Steven Stoft: Power System Economics, Wiley 2002. Wolfgang Ströbele, Wolfgang Pfaffenberger, Michael Heuterkes: Energiewirtschaft, Oldenbourg 2010. 
+
+
+, Module name 47756: Biocatalytic energy systems 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Katharina Herkendell
+Contents: Content: •Biocatalysts •Biocatalytic processes •Thermodynamics of biocatalytic processes •Kinetics of biocatalytic processes •Analysis techniques of biocatalytic processes •Application: Sensors •Application: Power generation •Application: biofuel synthesis Introduction to various biocatalytic energy systems •Potentials and challenges of biocatalytic energy conversion
+Learning objectives and skills: The students •have a basic knowledge and understanding of biocatalytic processes •are able to develop and evaluate strategies for biocatalytic energy conversion and storage as well as bio-organic synthesis of value-added chemicals •understand the functionality and theory of common analysis tools for the characterization of biocatalytic systems •are able to show the advantages and disadvantages and the potentials of the reviewed applications
+Prerequisites: No preliminary knowledge is needed for a successful participation. However, basic knowldege of enzyme technology, microbiology, thermodynamics, electrochemistry, or reaction engineering can make it easier to get started.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Oral
+Grading procedure: Oral (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Slides and further literature recommendations will be uploaded on StudOn. 
+
+, Module name 42931: Energy process technology 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr. Andreas Hornung
+Contents: Content: •Energy process technologies in context of the German Energiewende •Conversion of fuels - fundamentals •Thermal conversion processes new approaches •Pyrolysis •Gasification •Combustion •Fuel cells •Decentralised energy systems •System integration •CO2 negative power production •Requirements for the introduction of low grade, ash rich feeds into energy conversion processes
+Learning objectives and skills: Students •understand the fundamentals in energy process technologies •know how to integrate technologies to adapt to new demands driven by policy •assess synergies in combination of technologies •discuss pro and cons of decentralized systems
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •script •Hornung, Transformation of Biomass, Wiley 
+
+, Module name 42937: Polymer Recycling 5 ECTS
+Course / lectures: Vorlesung mit Übung: Polymer Recycling ( SWS ) -
+Lecturers: Dr. Jochen Schmidt  
+Module coordinator: Dr. Jochen Schmidt
+Contents: • Introduction to polymer recycling and the circular economy of plastics (definitions, basic concepts, plastic wastes as a valuable and sustainable resource, challenges) •Collection and sorting of plastic wastes (collection schemes, (fundamentals of) separation and classification processes, sorting and recycling plants) •Chemical recycling of plastics (solvolysis, thermolysis, pyrolysis) •Mechanical recycling of thermoplasts (extrusion, injection moulding, examples (primary recycling of polyethyleneterephthalate, secondary recycling of polyolefins etc.)) •Thermoplast recyclates –additive enhancement and challenges in processing (compatibilizers, antioxidants etc.) •‘Thermal recycling’ of waste streams •Recycling of fiber-enhanced composites (cf. rotor blades •Trends towards more sustainable plastics – recent innovations in polymer recycling, recycling of biopolymers?
+Learning objectives and skills: This module aims to provide an introduction into the state of the art of plastic recycling. Current regulations in plastic waste management throughout the world, as well as the demands towards more sustainable plastics and the transition to a circular economy pose many challenges in collection and sorting of plastics wastes and their conversion to (processable) recyclates. This course will provide the concepts of collection and sorting of plastic wastes as well as the basics of chemical, mechanical recycling and thermal conversion of plastic waste streams. The students will learn to understand ‘plastic wastes’ as a sustainable resource for the plastics and chemical industries. Moreover, they will be able to assess the most useful recycling approach for a certain waste stream depending on composition and degree of contamination. In the context of mechanical recycling of thermoplasts, the students will be able to assess viable strategies of additive enhancement of recylates to cope with the challenges in processing.
+Prerequisites: Required (General) chemistry, basics of organic chemistry Polymer Science and Processing Recommended Materials and Structure Polymer Science and Processing Life Cycle Assessment 
+
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: 1
+Bibliography: •Raju Francis, Recycling of Polymers: Methods, Characterization and Applications (2016), Wiley VCH, ISBN: 978-3-527-68909. •Norbert Niessner, Recycling of Plastics (2022), Hanser Fachbuchverlag, ISBN: 978-1-56990-856-32022. •Peter Eyerer, Helmut Schüle, Peter Elsner, Polymer Engineering 3 - Werkstoff- und Bauteilprüfung, Recycling, Entwicklung (2020), Springer Vieweg, ISBN: 978-3-662-59839-9. •Natalie Rudolph, Raphael Kiesel, Chuanchom Aumnate, Understanding Plastics Recycling (2020), Hanser Fachbuchverlag, ISBN: 978-1-56990-847-1. •Trevor Letcher, Plastic Waste and Recycling - Environmental Impact, Societal Issues, Prevention, and Solutions (2020), Academic Press, ISBN: 9780128178812. 
+
+, Module name 42930: Process systems dynamics 2 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Andreas Bück
+Contents: •Fundamentals of first-principles modelling •Steady-states, multi-stationarity •Limit cycles and attractors •Stability theorems: Lyapunov, LaSalle, Centre Manifold Theory •Introduction to perturbation analysis •Introduction to bifurcation analysis •In-depth study of examples from chemical, electro-chemical and bio-engineering •Numerical tools for perturbation and bifurcation analysi
+Learning objectives and skills: Taking this module, students will acquire the methods and numerical tools to study and explain the qualitative behaviour of (lumped) nonlinear dynamic processes arising in (electro-)chemical and bio engineering. Students will be able to analyse process systems with respect to changes in qualitative behaviour due to parameter variation, classify the type of change and deduce strategies to counter unwanted changes in behaviour.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Arrowsmith, Place: An introduction to dynamical systems, Cambridge University Press •Sastry: Nonlinear systems, Springer •Seydel: Practical bifurcation and stability analysis, Springer 
+
+, Module name 42932: Scientific computing in engineering 2 5 ECTS
+Course / lectures: Vorlesung: Scientific computing in engineering 2 (2 SWS )- Übung : Tutorial Scientific computing in engineering 2 (2 SWS )-
+Lecturers: Prof. Dr. Jens Harting  
+Module coordinator: Prof. Dr. Jens Harting
+Contents: •Process system modeling •Fluid mechanics and dimensionless parameters •Cellular automata •Lattice gas and lattice Boltzmann methods •Multiphase flows •Reaction-diffusion systems •Molecular dynamics •Monte Carlo simulations •Programming in modern programming languages such as Python or Julia.
+Learning objectives and skills: The students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Compulsory elective module 1-3 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 90 h Independent study: 60 h 14 Module duration 1 semester 15Teaching and examination languageenglish 16 Bibliography 
+Workload in clock hours: Contact hours: 90 h Independent study: 60 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: 
+
+
+, Module name 42917: Clean combustion technology 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Prof. Dr.-Ing. Stefan Will
+Contents: Introduction to combustion technology: fundamentals, laminar flames, turbulent flames, combustion modeling , pollutant formation, application. Introduction to numerical simulation of flows with combustion.
+Prerequisites: Basic knowledge of thermodynamics and fluid mechanics is recommended. Also suitable for students in other disciplines (chemistry, physics, mathematics, mechanical engineering, mechatronics, computational engineering).
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Warnatz, J., Maas, U., Dibble, R. "Verbrennung", 3. Auflage, Springer-Verlag, 2001 
+
+
+, Module name 42924: Electrical energy storage systems 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Dr.-Ing. Bernd Eckardt
+Contents: Content: Introduction to electric energy storage systems and their applications regarding the mode of operation and load scenarios in mobile and stationary applications •Basics on electrochemical and physical energy storage systems as well as the used electronics for measuring (e.g. battery management system (BMS)) and connecting the storage to the source or load (e.g. power electronic). •Different electrochemical storage systems (Pb, NiCd, NiMH, NaNiCl2, LiIo), fuel cells, flywheels, capacitors and thermal storages •Basics on analytic calculations of necessary ratings for mobile an stationary applications according to capacity, charge and discharge power, losses and lifetime •Safety aspects using energy storage systems
+Learning objectives and skills: Students who participate in this course get basic knowledge on the use and selection of different electric energy storage systems. Therefore the most common used electrochemical storage systems are presented and the specific properties are discussed. Further on storage solutions based on capacitors, flywheels and fuel cells are covered. The basic electric performance and the system behavior is described. For different applications the students learn to specify the necessary requirements, to work with available datasheets and to configure electric storage systems.
+Prerequisites: Prerequisites: To succeed in this course, students will need basic knowledge in chemistry and electronics.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in summer semester 13Workload in clock hoursContact hours: 60 h Independent study: 90 h 
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Moderne Akkumulatoren richtig einsetzen, 2 . überarbeitete Auflage, Andreas Jossen, Wolfgan Weydanz, ISBN: 978-3-736-99945-9 •Handbuch Lithium-Ionen-Batterien, Herausgeber: Korthauer, Reiner (Hrsg.) , ISBN 978-3-642-30653-2 
+
+, Module name 42918: Fuel cells and electrolysers 5 ECTS
+Course / lectures: Vorlesung: Fuel cells and electrolysers (2 SWS ) - Übung : Fuel cells and electrolysers (3 SWS ) -
+Lecturers: Prof. Dr.-Ing. Simon Thiele  
+Module coordinator: Prof. Dr.-Ing. Simon Thiele
+Contents: Fuel cell (FC) and electrolysis cell (ECs) •Application areas •Thermodynamic boundary conditions •Electrochemical basics •Kinetics •Transport processes •State of the art •Characterisation techniques •Open questions and scientific challenges
+Learning objectives and skills: Students •are able to apply acquired knowledge from e.g. physical chemistry, mathematics and basic electrochemistry •understand kinetics to describe the time dependent concentration changes in chemical reactions •apply basic knowledge in thermodynamics and general chemistry •are familiar with basic concepts of electrochemical engineering for fuel cells and electrolysers •can describe thermodynamics, kinetic effects and electrochemical foundations •understand limitations such as kinetic, ohmic or mass transport limitions •have a solid knowledge on the state of the art •know how to experimentally characterize cells •are able to deduce methods to improve cell technologies by analyzing experimental data
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. physical chemistry, mathematics and basic electrochemistry. Understanding of kinetics to describe the time dependent concentration changes in chemical reactions should be familiar from physical chemistry classes. Basic knowledge in thermodynamics and general chemistry is beneficial.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable 
+
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 75 h Independent study: 75 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •O'hayre, Ryan; Cha, Suk-Won •Prinz, Fritz B. •Colella, Whitney (2016): Fuel cell fundamentals: John Wiley & Sons. 
+
+, Module name 42923: Photovoltaic systems - Fundamentals 5 ECTS
+Course / lectures: Vorlesung mit Übung: Advanced Semiconductor Technologies - Photovoltaic Systems for Power Generation - Design Implementation and Characterization (2 SWS )3 ECTS Übung : Excercises Photovoltaic systems Fundamentals (CEP) (Ex-PVS-F) (3 SWS )2 ECTS
+Lecturers: Prof. Dr. Christoph Brabec Dr. Karen Forberich  
+Module coordinator: Prof. Dr. Christoph Brabec
+Contents: The lecture will introduce to the fundamentals of photovoltaic energy conversion. The conversion of light into electricity is one of the most efficient power technologies of today and is expected to transform our energy system towards a renewable scenario. The limits of photovoltaic energy conversion, the materials and architectures of major PV technologies and advanced characterization methods for modules as well as solar fields will be introduced theoretically and experimentally during the lecture and exercices.
+Learning objectives and skills: •The students will learn the concept of black body radiation and the radiation laws and the limits of light energy conversion. The fundamental semiconductor junctions (p-n, M-i-M, Shottky and Hetero Junction are repeated. The one diode and two diodes replacement circuits are explained . Electrical, optical, recombination and extraction loss mechanisms are discussed separately and demonstrated at the hand of numerical drift- diffusion equation solvers. The most important solar cell concepts (Si, CIGS, CdTe, GaAs, Perovksites, Organics) are introduced, and the strengths and weaknesses of each technology are analysed. •Characterization of Photovoltaic Modules will trained by flashed measurements in the lab. Defect imaging methods like DLIT, EL or PL imaging will be trained at the hand of module installations in Erlangen.
+Prerequisites: None
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h 
+Workload in clock hours: Contact hours: 75 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Will be provided via StudOn 
+
+, Module name 42919: Power electronics for decentral energy systems 5 ECTS
+Course / lectures: The teaching units in the module are only offered in the summer semester.
+Lecturers: -  
+Module coordinator: Thomas Eberle
+Contents: ENGLISH DESCRIPTION: •Introduction, motivation •AC vs. DC grids, DC grid topologies •Application examples, voltage levels •Protection and earthing concepts •Control methods for local DC grids •Modeling the frequency characteristic of switch-mode converters •Impedance measuring under load •Stability analysis in DC grids Components of local DC grids: •Battery storages (technologies, technical properties, electrical impedance characteristics and equivalent circuits, battery management, monitoring and protection systems (BMS)) •Regenerative power sources (PV, fuel cells) and their electrical characteristics •Non-isolating DC/DC converters (basic topologies and properties) •Isolating DC converters (basic topologies and properties) •AC/DC converter (basic topologies and properties) •Switches, plugs and protection devices for DC grids •Arc discharges and their characteristics DEUTSCHE INHALTSBESCHREIBUNG Einführung •Netztopologien •Spannungsebenen, Schutz- und Erdungskonzepte •Anwendungsbeispiele Komponenten lokaler Gleichspannungsnetze •Batteriespeicher (Technologien, Eigenschaften, elektrisches Impedanzverhalten, Ersatzschaltbilder, Schutz- und Überwachungsschaltungen) •Elektrischen Eigenschaften regenerativer Stromquellen (PV, Brennstoffzellen) •Nicht isolierende Gleichspannungswandler (Grundlagen, Topologien) •Isolierende Gleichspannungswandler (Grundlagen, Topologien) •AC/DC-Wandler (Grundlagen, Topologien) •Schalter, Stecker und Schutzgeräte für Gleichspannung, Lichtbogeneigenschaften Regelung lokaler Gleichspannungsnetze und Stabilitätsanalyse •Regelverfahren für Gleichspannungsnetze 
+
+Learning objectives and skills: ENGLISH DESCRIPTION: Students who participate in this course will become familiar with the basics of decentral energy systems, their components and operation. After successfully completing this module, students: •know the structure and topologies of local low-voltage direct current grids, the most important properties and error scenarios •know the electrical properties of battery storage and regenerative power sources •know the basic circuits of the various power electronic converters in a DC grid (DC / DC and AC / DC converters), their advantages and disadvantages •understand the arc problem •know solutions for the implementation of DC-compatible plugs, switches and protective devices •know procedures for controlling decentral DC grids •can model switch-mode converters and grids with regard to their dynamic behavior •know procedures for impedance measurement in grids "under load" •can carry out stability studies on DC grids •are familiar with modern device power supply solutions using protective extra-low voltage During the practicum students learn: •dealing with power electronics measurement equipment •measuring typical characteristics and important parameters of a power electronic circuit •how to avoid the most common measurement problems •safety rules when dealing with power electronics GERMAN DESCRIPTION: Die Studierenden •kennen den Aufbau und die Topologien lokaler Niederspannungs-Gleichstromnetze, die wichtigsten Eigenschaften und Fehlerszenarien •kennen die elektrischen Eigenschaften von Batteriespeichern und regenerativen Stromquellen •kennen die Grundschaltungen der verschiedenen leistungselektronischen Wandler in einem Gleichspannungsnetz (DC/DC- und AC/DC-Wandler) •analysieren die Schaltungsoptionen bezüglich ihrer Vor- und Nachteile •verstehen die Lichtbogenproblematik •kennen Lösungen zur Realisierung von gleichspannungstauglichen Steckern, Schaltern und Schutzgeräten 
+
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable Klausur, 90 min bzw. mündlich, 30min
+Grading procedure: Variable (100%) 100%
+Workload in clock hours: Contact hours: 60 h Independent study: 90 h
+Module duration: 1 semester
+Teaching and examination language: german english
+Bibliography: •Lecture Notes •"Power Electronics for Distributed Power Supply - DC Networks" •Skript zur Vorlesung •"Leistungselektronik für dezentrale Energieversorgung - Gleichspannungsnetze" 
+
+, Module name 42920: Pumps and turbines 5 ECTS
+Course / lectures: Übung : Pumps and Turbines (Exercises) (3 SWS ) - Vorlesung: Pumps and Turbines (2 SWS ) 5 ECTS
+Lecturers: apl.Prof.Dr. Stefan Becker  
+Module coordinator: apl.Prof.Dr. Stefan Becker
+Contents: Classification and work transfer in pumps and turbines •Fluid mechanical fundamentals of turbomachinery •Efficiency, characteristics and operating behavior •Characteristic numbers •Design procedure •CFD simulation •Low-noise turbomachines •Application: fans and blowers •Application: wind turbines
+Learning objectives and skills: Students who participate in this course will become familiar with basic concepts of pumps and turbines. Students who successfully participate in this module: •Can select adequate pumps and turbines for different applications •Have a comprehensive understanding of the different types of turbomachinery and their limitations and possibilities in the various fields of application •Can design rotors and turbines •Are familiar with the use of turbomachines in accordance with the latest environmental protection guidelines •Can determine the entire process from the given boundary conditions, objective design and simulation to the construction of impellers •Gain experience in practical realization for industrial applications
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from e.g. fluid mechanics, solid mechanics and mathematics. A solid background in mathematics is required, since differential equations and integrals form the basis for the description of the fluid dynamic processes and their kinematics. Basic knowledge in thermodynamics and fluid simulation is beneficial.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%) 
+
+Workload in clock hours: Contact hours: 90 h Independent study: 60 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Fluid Mechanics and Thermodynamics of Turbomachinery, S. Larry Dixon und Cesare Hall •Wind Turbine Noise, S. Wagner •Fluid Mechanics, F. Durst 
+
+, Module name 42921: Renewable thermal power plants 5 ECTS
+Course / lectures: Vorlesung: Renewable thermal power plants (2 SWS ) 3 ECTS Übung : Renewable thermal power plants Exercises (3 SWS )2 ECTS
+Lecturers: Prof. Dr.-Ing. Michael Wensing Tatiana Weiß Prof. Dr. Klaus Riedle  
+Module coordinator: Dr.-Ing. Sebastian Rieß Prof. Dr.-Ing. Michael Wensing
+Contents: Content: Thermodynamic basics, primary energy situation worldwide, sustainable energy resources, CO2 capture and storage, CO2-free energy sources and processes (water, wind, biomass, geothermal energy, photovoltaics), energy management (energy demand, energy reserves, primary energy sources, environmental impact, sustainable and fossil power plant types in comparison; thermal cycle processes (steam turbines, gas turbines, engines, combined processes); renewable power plants, effects of sustainable energy sources on the machine design in power plants, energy economics, efficient usage, energy storage, electro-chemical power processes, climate change, renewable energies Description of the exercise: The exercise programme, which is scheduled with 3 SWS, is conducted in seminar form. Participants are divided into groups that work together on a project on regenerative energy supply. Project contents can be, for example, concepts for CO2 reduction for a neighbourhood, a city, region or a larger industrial company. The exercise is accompanied as a project course by experienced experts from industry who are available to the students for discussion. Meetings take place weekly during the exercise times. As a result, the project groups submit a report on their findings and give a final presentation. These two performances together constitute the students' examination performance. There is no separate examination.
+Learning objectives and skills: Students who successfully participate in this module: •know technologies and components of power plant engineering •have a fundamental overview of energy-economic issues in power plant technology •are able to analyze energy conversion processes for the generation of power and electrical energy in thermal and other power plants •can understand the technical implementation of power plants and develop and evaluate proposals for optimization •apply thermodynamic principles for process optimization and can further develop these methods for process optimization 
+
+Prerequisites: To succeed in this course, students will need to apply acquired knowledge from basics in process engineering especially engineering thermodynamics and principles of transport. Basic knowledge in general chemistry is beneficial.
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Workload in clock hours: Contact hours: 45 h Independent study: 105 h
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •Rao, K. R. "Energy and power generation handbook." ASME, (New York, 2011) (2011). •Sethi, V. K. "Low Carbon Technologies (LCT) and Carbon Capture & Sequestration (CCS)Key to Green Power Mission for Energy Security and Environmental Sustainability." Carbon Utilization. Springer, Singapore, 2017. 45-57. •Drbal, Larry, Kayla Westra, and Pat Boston, eds. Power plant engineering. Springer Science & Business Media, 2012. •DiPippo, Ron, ed. Geothermal power generation: Developments and innovation. Woodhead Publishing, 2016. •Blanco, Manuel, and Lourdes Ramirez Santigosa, eds. Advances in concentrating solar thermal research and technology. Woodhead Publishing, 2016. •Earnest, Joshua, and Sthuthi Rachel. Wind power technology. PHI Learning Pvt. Ltd., 2019. •Basu, Prabir. Biomass gasification, pyrolysis and torrefaction: practical design and theory. Academic press, 2018. 
+
+, Module name 42922: Thin-film processing 5 ECTS
+Course / lectures: Vorlesung: Thin-Film Processing (2 SWS ) - Übung : Thin-Film Processing (Exercises) (3 SWS ) -
+Lecturers: Prof. Dr. Robin Klupp Taylor Prof. Dr.-Ing. Andreas Bück Dr. Giulia Magnabosco Prof. Dr. Nicolas Vogel  
+Module coordinator: Prof. Dr. Nicolas Vogel
+Contents: Students who participate in this course will learn principles of the different process steps involved in the formation of thin films on solid substrates, both from liquid- and from gas phases. Individual lectures of the course involve the following topics: •Drying Technology: Transformation of liquid precursors and dispersions into solid films •Self-organisation processes occurring during the film formation •Industrial coating processes and technologies •Characterisation of thin-films •Properties of thin films
+Learning objectives and skills: Students who participate in this course will become familiar with the different aspects of thin films, from physical principles governing the formation of thin films to their resulting properties. Students who successfully participate in this module can: •Understand the physical principles of thin film formation •Correlate the properties of colloidal dispersions and liquid interfaces with the resulting film formation properties •Control the film structure via the evaporation profile •Select and explain different industrial coating processes to control film formation •Assess and explain the optical, electronic and mechanical properties of thin films
+Integration in curriculum: semester: 1;2;3;4
+Module compatibility: Elective modules from other specialisation 1-2 Master of Science Clean Energy Processes 20212 Specialisation modules 1-4 Master of Science Clean Energy Processes 20212
+Method of examination: Variable
+Grading procedure: Variable (100%)
+Module frequency: only in winter semester 13Workload in clock hoursContact hours: 75 h 
+Workload in clock hours: Contact hours: 75 h 
+
+Module duration: 1 semester
+Teaching and examination language: english
+Bibliography: •F.-W. Bach, A. Laarmann, T. Wenz (Eds.), Modern Surface Technology, Wiley, Weinheim, FRG, 2006.[Full Text] •J. Bachmann, Atomic Layer Deposition in Energy Conversion Applications, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2017.[Full Text] •Cohen, E.D. and Gutoff, E.B. (1992) Modern coating and drying technology, VCH, New York, NY. •Frey, H. and Khan, H.R. (2015) Handbook of Thin-Film Technology, Springer Berlin Heidelberg, Berlin, Heidelberg. •Y. Lin, X. Chen (Eds.), Advanced Nano Deposition Methods, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2016.[Full Text] •Martin, P.M. (2010) Handbook of deposition technologies for films and coatings: Science, applications and technology, 3rd edn, Elsevier, Amsterdam, Boston. •M. Ohring, Materials science of thin films: Deposition and structure / Milton Ohring, 2nd ed., Academic Press, San Diego, CA, 2002. [Full Text]

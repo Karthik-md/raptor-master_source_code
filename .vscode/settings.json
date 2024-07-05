@@ -1,0 +1,6 @@
+{
+    "accessibility.signals.progress": {
+        "sound": "off",
+        "announcement": "off"
+    }
+}

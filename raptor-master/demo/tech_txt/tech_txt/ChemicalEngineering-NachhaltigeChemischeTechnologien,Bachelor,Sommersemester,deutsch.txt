@@ -1,0 +1,395 @@
+
+, Modulbezeichnung 62050: Allgemeine und Anorganische Chemie General and inorganic chemistry7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Karsten Meyer
+Inhalt: (1) Allgemeine Chemie: Aufbau der Materie, Stöchiometrische Grundgesetze, Aggregatzustände, Gasgesetze und Atommassenbestimmung, Atombau und Periodensystem, Chemische Bindung, Molekülstrukturen (VSEPR, Hybridisierung), Struktur-Eigenschafts-Beziehungen, Chemische Reaktionen, Thermodynamik, Reaktionskinetik, Massenwirkungsgesetz, Löslichkeitsprodukt, Säure-Base-Gleichgewichte, Elektrochemie, Regeln und Einheiten. (2) Anorganische Chemie: Ausgewählte Hauptgruppenelemente mit den Schwerpunkten: Physikalische Eigenschaften, Vorkommen, Darstellung in Labor und Technik, Chemische Eigenschaften, wichtigste Verbindungen, Anwendungen in Natur und Technik. Chemische Terminologie und Nomenklatur. Themen im Rahmen des Praktikums: Elementare Sicherheitsfragen beim Umgang mit Gefahrstoffen im nasschemischen und qualitativ analytischen Bereich. Sicherer Umgang mit den dabei verwendeten Chemikalien. Erlernen von Konzepten des chemischen Experimentierens. Erlernen der wissenschaftlichen Dokumentation durch Führen eines Laborjournals. Qualitative Analyse ausgewählter Kationen und Anionen. Quantitative Analyse durch Titration (Säure-Base, Komplexometrie, Iodometrie). 6Lernziele und KompetenzenDie Studierenden: •verstehen die Grundlagen der anorganischen Chemie sowie der qualitativen und quantitativen Analyse als Basis für die Kernfächer der technischen Chemie •kennen die chemische Terminologie und einfache Syntheseprinzipien •verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen •erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen •können mit Gefahrstoffen und Abfällen in chemischen Laboratorien sicher umgehen 
+Lernziele und Kompetenzen: Die Studierenden: •verstehen die Grundlagen der anorganischen Chemie sowie der qualitativen und quantitativen Analyse als Basis für die Kernfächer der technischen Chemie •kennen die chemische Terminologie und einfache Syntheseprinzipien •verstehen Beziehungen zwischen Struktur und Eigenschaften verschiedener chemischer Verbindungen •erwerben Fachkompetenzen und kritisches Verständnis der Chemie ausgewählter Hauptgruppenelemente des Periodensystems und können die Zusammenhänge zwischen ihren physikalischen und chemischen Eigenschaften unter anwendungsorientierten Gesichtspunkten nachvollziehen •können mit Gefahrstoffen und Abfällen in chemischen Laboratorien sicher umgehen 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (180 Minuten) Praktikumsleistung
+Berechnung der Modulnote: Klausur (100%) Praktikumsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesung: Lehrbuch der Anorganischen Chemie; Holleman-Wiberg; 2007 Allgemeine und Anorganische Chemie; Binnewies, Jäckel, Willner; 2003 Anorganische Chemie, Housecroft, Sharpe; 2006 Praktikum: Jander/Blasius Anorganische Chemie I+II: Einführung & Qualitative Analyse / Quantitative Analyse & Präparate; 2011 
+
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: Die Bachelorarbeit umfasst eine praktische Tätigkeit an einem aktuellen Forschungsprojekt der Lehrstühle des Chemie- und Bioingenieurwesens. Folgende Themenbereiche stehen zur Verfügung: •Chemische Reaktionstechnik •Energieverfahrenstechnik •Mechanische Verfahrenstechnik •Medizinische Biotechnologie •Multiscale Simulation •Prozessmaschinen und Apparatetechnik •Strömungsmechanik •Technische Thermodynamik •Thermische Verfahrenstechnik 6Lernziele und KompetenzenDie Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete des Chemieingenieurwesens und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern 7Voraussetzungen für die TeilnahmeZulassungsvoraussetzung zur Bachelorarbeit ist der Erwerb von mindestens 110 ECTS-Punkten sowie der erfolgreiche Abschluss der GOP (s. ABMPO/TechFak) 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und Prüfungsleistungenschriftlich (5 Monate) mündlich (30 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Grundlagen des wissenschaftlichen Arbeitens in einem der ausgewählten Fachgebiete des Chemieingenieurwesens und können eine begrenzte Fragestellung auf diesem Gebiet selbständig bearbeiten •setzen sich kritisch mit wissenschaftlichen Ergebnissen auseinander und ordnen diese in den jeweiligen Erkenntnisstand ein •wenden die Grundlagen der Forschungsmethodik an, indem sie relevante Informationen sammeln, Daten und Informationen interpretieren und bewerten •können komplexe fachbezogene Inhalte klar und zielgruppengerecht schriftlich und mündlich präsentieren und argumentativ vertreten •können ihren eigenen Fortschritt überwachen und steuern
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: schriftlich (5 Monate) mündlich (30 Minuten) 
+
+Berechnung der Modulnote: schriftlich (80%) mündlich (20%)
+Turnus des Angebots: keine Angaben zum Turnus des Angebots hinterlegt! 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: ?? Semester (keine Angaben zur Dauer des Moduls hinterlegt)
+Unterrichts- und Prüfungssprache: 1
+Literaturhinweise: 
+
+, Modulbezeichnung 66040: Experimentalphysik Experimental physics7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Reinhard Neder
+Inhalt: •Mechanik: Bewegungsgleichungen im 1D-, 3D, Kreisbewegungen, Newton'sche Axiome, Kräfte, Potentielle Energie, Kinetische Energie, Energieerhaltung, Impuls, Stöße, Drehbewegungen, Drehmoment, Drehimpuls, Erhaltungssätze •Fluide: Dichte, Druck, Auftrieb; Fluide in Bewegung: Bernoulligleichung, reale Fluide, Viskosität •Schwingungen: Harmonische Schwingungen, Pendel, gedämpfte Schwingungen •Wellen: Wellengleichung, Geschwindigkeit, Interferenz •Optik: Grundlegende Strahlenoptik, Linsen •Wellenoptik: Beugung am Spalt, Beugung am Doppelspalt •Elektrizität: Elektrostatik: Coulombkraft, El. Feld, Kondensatoren, einfache Stromkreise; Magnetismus: Induktion, Wechselstromkreise 6Lernziele und KompetenzenDie Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und Prüfungsleistungenschriftlich (120 Minuten) 11Berechnung der Modulnoteschriftlich (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 75 h Eigenstudium: 150 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheDeutsch 
+Lernziele und Kompetenzen: Die Studierenden •erklären die Grundlagen der Experimentalphysik aus den Bereichen der Mechanik, Fluide, Schwingungen, Wellen, Optik und Elektrizität •setzen die Vorlesungsinhalte mit Hilfe thematisch passender Übungsaufgaben praktisch um.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: schriftlich (120 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch 
+
+Literaturhinweise: D. Halliday, R. Resnick: Halliday Physik, Bachelor Edition, Wiley-VCH P. A. Tipler, G. Mosca: Physik, Spektrum Akad. Verlag E. Hering, R. Martin, M. Stohrer: Physik für Ingenieure, Springer D. Meschede: Gehrtsen Physik, Springer 
+
+Lehrveranstaltungen: Übung : Übungen zu Konstruktionslehre (1.0 SWS ) 2 ECTS Vorlesung: Konstruktionslehre (2.0 SWS ) 3 ECTS
+Lehrende: Dr.-Ing. Wolfgang Wirth  
+Modulverantwortliche/r: Dr.-Ing. Wolfgang Wirth
+Lernziele und Kompetenzen: Die Studierenden: •verfügen über grundlegende Kenntnisse der normgerechten Darstellung von Bauteilen und Baugruppen in Konstruktionszeichnungen •können Zeichnungen lesen •können normgerechte technische Zeichnungen selbständig anfertigen •erkennen Maschinenelemente in technischen Zeichnungen •verstehen Fließbilder unterschiedlichen Detaillierungsgrades und nutzen diese Kompetenz zu beschreiben von Prozessen der Verfahrenstechnik •verfügen über einen Überblick über wichtige Konstruktionselemente und deren Berechnungsverfahren 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (120 Minuten) Übungsleistung
+Berechnung der Modulnote: Klausur (100%) Übungsleistung (0%)
+Turnus des Angebots: nur im Wintersemester 13Wiederholung der PrüfungenDie Prüfungen dieses Moduls können nur einmal wiederholt werden.
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Labisch, S.; Wählisch, G.: Technisches Zeichnen, 6. Auflage, Springer-Fachmedien, Wiesbaden, 2020 •Geschke, H. W., Helmetag, M., Wehr, W.: Böttcher Forberg Technisches •Zeichnen, 26. Auflage, B.G. Teubner Stuttgart, 2014 •Hoischen: Technisches Zeichnen, 30. Auflage, W. Girardet, Essen 2005 •Klein,M.: Einführung in die DIN-Normen, 14. Auflage, Beuth- Verlag, Berlin, 2008 •DUBBEL - Taschenbuch für den Maschinenbau, 25. Auflage, Springer, Berlin, 2018 • Skript zur Vorlesung 
+
+, Modulbezeichnung 67490: Mathematik für CEN 1 Mathematics for CEN 17,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr. Wigand Rathmann
+Inhalt: *Grundlagen* Aussagenlogik, Mengen, Relationen, Abbildungen *Zahlensysteme* natürliche, ganze, rationale und reelle Zahlen, komplexe Zahlen *Vektorräume* Grundlagen, Lineare Abhängigkeit, Spann, Basis, Dimension, euklidische Vektor- und Untervektorräume, affine Räume *Matrizen, Lineare Abbildungen, Lineare Gleichungssysteme* Matrixalgebra, Lösungsstruktur linearer Gleichungssysteme, Gauß-Algorithmus, inverse Matrizen, Matrixtypen, lineare Abbildungen, Determinanten, Kern und Bild, Eigenwerte und Eigenvektoren, Basis, Ausgleichsrechnung *Grundlagen Analysis einer Veränderlichen* Grenzwert, Stetigkeit, elementare Funktionen, Umkehrfunktionen 6Lernziele und KompetenzenDie Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 
+Lernziele und Kompetenzen: Die Studierenden •erklären grundlegende Begriffe und Strukturen der Mathematik •erklären den Aufbau von Zahlensystemen im Allgemeinen und der Obengenannten im Speziellen •rechnen mit komplexen Zahlen in Normal- und Polardarstellung und Wechseln zwischen diesen Darstellungen •berechnen lineare Abhängigkeiten, Unterräume, Basen, Skalarprodukte, Determinanten •vergleichen Lösungsmethoden zu linearen Gleichungssystemen •bestimmen Lösungen zu Eigenwertproblemen •überprüfen Eigenschaften linearer Abbildungen und Matrizen •überprüfen die Konvergenz von Zahlenfolgen •ermitteln Grenzwerte und überprüfen Stetigkeit •entwickeln Beweise anhand grundlegender Beweismethoden aus den genannten Themenbereichen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 
+
+Method of examination: schriftlich (90 Minuten) Übungsleistung
+Berechnung der Modulnote: schriftlich (100%) Übungsleistung (0%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 Fried, Mathematik für Ingenieure I für Dummies I, Wiley A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson v. Finckenstein et.al: Arbeitsbuch Mathematik fuer Ingenieure: Band I Analysis und Lineare Algebra. Teubner-Verlag 2006, ISBN 9783835100343 Meyberg, K., Vachenauer, P.: Höhere Mathematik 1. 6. Auflage, Sprinbger-Verlag, Berlin, 2001 
+
+, Modulbezeichnung 67501: Mathematik für CEN 2 Mathematics for CEN 27,5 ECTS
+Lehrveranstaltungen: Übung : Übungen zur Mathematik für Ingenieure D2: CBI, CEN, LSE (2.0 SWS )2,5 ECTS Vorlesung: Mathematik für Ingenieure D2: CBI, CEN, LSE, IP, MWT, NT (4.0 SWS )-
+Lehrende: Prof. Dr. Wolfgang Achtziger David Kanzler  
+Modulverantwortliche/r: Prof. Dr. Wolfgang Achtziger Wilhelm Merz
+Inhalt: *Differentialrechnung einer Veränderlichen* Ableitung mit Rechenregeln, Mittelwertsätze, LHospital, Taylor-Formel, Kurvendiskussion *Integralrechnung einer Veränderlichen* Riemann-Integral, Hauptsatz der Infinitesimalrechnung, Mittelwertsätze, Partialbruchzerlegung, uneigentliche Integration *Folgen und Reihen* reelle und komplexe Zahlenfolgen, Konvergenzbegriff und - sätze, Folgen und Reihen von Funktionen, gleichmäßige Konvergenz, Potenzreihen, iterative Lösung nichtlinearer Gleichungen *Grundlagen Analysis mehrerer Veränderlicher* Grenzwert, Stetigkeit, Differentiation, partielle Ableitungen, totale Ableitung, allgemeine Taylor-Formel 6Lernziele und KompetenzenDie Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 
+Lernziele und Kompetenzen: Die Studierenden •analysieren Funktionen einer reellen Veränderlichen mit Hilfe der Differentialrechnung •berechnen Integrale von Funktionen mit einer reellen Veränderlichen •stellen technisch-naturwissenschaftliche Problemstellungen mit mathematischen Modellen dar und lösen diese •erklären den Konvergenzbegriff bei Folgen und Reihen •berechnen Grenzwerte und rechnen mit diesen •analysieren und klassifizieren Funktionen mehrerer reeller Veränderlicher an Hand grundlegender Eigenschaften •wenden grundlegende Beweistechniken in o.g. Bereichen an •erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Vorlesungsstoffes
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 
+
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Skripte des Dozenten M. Fried, Mathematik für Ingenieure I für Dummies und Mathematik für Ingenieure II für Dummies, Wiley W. Merz, P. Knabner, Mathematik für Ingenieure und Naturwissenschaftler, Springer, 2013 K. Finck von Finckenstein, J. Lehn et. al., Arbeitsbuch für Ingenieure, Band I, Teubner A. Hoffmann, B. Marx, W. Vogt, Mathematik für Ingenieure 1, Pearson 
+
+, Modulbezeichnung 92091: Mechanische Verfahrenstechnik Mechanical process engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr.-Ing. Wolfgang Peukert
+Inhalt: Im Rahmen des Moduls werden die wichtigsten Grundlagen disperser Partikelsysteme behandelt. Ausgehend von der Kennzeichnung disperser Systeme (Partikelgröße und Partikelform) wird zunächst die Bewegung einzelner Partikeln in Fluiden behandelt. Dann werden Partikelgrößenverteilungen eingeführt, Grundlagen des Trennens und des Mischens behandelt. Mit Hilfe der Dimensionsanalyse wird auch das Mischen und Rühren in Flüssigkeiten angeschnitten. Als Beispiele für Wechselwirkungen in dispersen Systemen werden die Benetzung als Grundlagen der Entfeuchtung sowie Haftkräfte als Grundlage für die Agglomeration behandelt. Als Beispiel für die Partikelproduktion wird das Zerkleinern behandelt. Die Dynamik disperser Systeme wird durch Populationsbilanzen beschrieben. Die Kennzeichnung von Packungen sowie deren Durchströmung werden anschliessend behandelt. Wirbelschicht, Förderung und eine Einführung in das Fliessen von Schüttgütern schliessen die Vorlesung ab. 6Lernziele und KompetenzenDie Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren 7Voraussetzungen für die TeilnahmeKeine 
+Lernziele und Kompetenzen: Die Studierenden: •beherrschen die Grundlagen der Partikeltechnik •verstehen die Bewegung von Partikeln und deren Partikelgrößenverteilungen •verstehen den Aufbau von Packungen und Schüttgütern sowie deren Durchströmung •erwerben Grundlagen über die Prozesse des Trennens, Mischens, Zerkleinerns und Fluidisierens sowie deren Beschreibung über Dimensionsanalysen und Populationsbilanzen •können durch zusätzliches Vertiefen in Übungen und Tutorien das Erlernte auf verfahrenstechnische Fragenstellungen anwenden und so eigenständig Probleme aus dem Bereich der mechanischen Verfahrenstechnik lösen •können die erlernten Grundlagen in wissenschaftlichen Experimenten anwenden und sind in der Lage diese zu planen und eigenständig durchzuführen •können die Ergebnisse der eigenständig durchgeführten Experimente protokollieren, analysieren sowie kritisch diskutieren
+Voraussetzungen für die Teilnahme: Keine 
+
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Peukert: Skriptum zur Vorlesung H. Rumpf: Particle Technology Stiess: Mechanische Verfahrenstechnik Schubert: Handbuch der Mechanischen Verfahrenstechnik 
+
+, Modulbezeichnung 94125: Messtechnik: Sensorik und Messverfahren Measurement technology: sensors and measuring methods7,5 ECTS
+Lehrveranstaltungen: Praktikum : Messtechnikpraktikum (2.0 SWS ) - Vorlesung: Messtechnik 1 - Messtechnik und Analytik (2.0 SWS )- Übung : Übung Messtechnik 1 - Messtechnik und Analytik (1.0 SWS )-
+Lehrende: Dr. Cornelia Damm Dr. Jochen Schmidt Dr.-Ing. Christian Lübbert  
+Modulverantwortliche/r: Dr. Cornelia Damm
+Inhalt: Die Vorlesung (2SWS) ist eng verknüpft mit einer Übung (2SWS). In der Vorlesung werden Messmethoden für unterschiedliche physikalische Größen vorgestellt. In der Übung wird der Vorlesungsinhalt vertieft und Rechenaufgaben zu typischen messtechnischen Problemen gemeinsam gelöst. In der Vorlesung werden folgende Themen erörtert: •Einführung und Grundbegriffe •Versuchsauswertung und Messfehler (Systematische & statistische Fehler, Gauß'sche Fehlerfortpflanzung) •Schätzungen, Statistische Tests und Vertrauensintervalle •Chemische Analytik (Chromatographie, elektrochemische Methoden) •Strahlungs- und Temperaturmessung •Spektrometrie (UV/Vis, Infrarot) •Elektrische und magnetische Größen •Druck •Mechanische und geometrische Größen •Fluide Systeme 6Lernziele und KompetenzenDie Studierenden •kennen die wichtigsten Methoden der elektrischen und nichtelektrischen Messtechnik sowie der chemischen Analytik •beurteilen verschiedene Ansätze der Messwertaufnahme hinsichtlich ihrer Stärken und Schwächen •wenden die Grundkriterien zur Beurteilung von Messwerten auf neue analytische Problemstellungen an 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenPraktikumsleistung Klausur (90 Minuten) Prüfungsleistung: Klausur 90 min mit Drittelnoten 
+Lernziele und Kompetenzen: Die Studierenden •kennen die wichtigsten Methoden der elektrischen und nichtelektrischen Messtechnik sowie der chemischen Analytik •beurteilen verschiedene Ansätze der Messwertaufnahme hinsichtlich ihrer Stärken und Schwächen •wenden die Grundkriterien zur Beurteilung von Messwerten auf neue analytische Problemstellungen an
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Praktikumsleistung Klausur (90 Minuten) Prüfungsleistung: Klausur 90 min mit Drittelnoten 
+
+Berechnung der Modulnote: Praktikumsleistung (17%) Klausur (83%) Die Klausurnote entspricht der Modulnote.
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: E-Books sind in der Regel nur innerhalb des FAU-Netzes (CIP-Pool, WLAN, VPN) zugänglich. Messtechnik Generell (Lehrbücher) •Bernhard, F. (2014), Handbuch der Technischen Temperaturmessung, Springer Berlin Heidelberg, Berlin, Heidelberg.(E-Book) •Hoffmann, J. (ed) (2007) Handbuch der Messtechnik, 3rd edn, Hanser, München. (viele Exemplare in der UB: 3. Ausgabe, 4. Ausgabe) •Morris, A.S. and Langari, R. (2016) Measurement and instrumentation: Theory and application, Elsevier, AP, Amsterdam, Boston. (E-Book) •Patience, G.S. (2018) Experimental methods and instrumentation for chemical engineers, Elsevier, Amsterdam. (E-Book) •Placko, D. (2007) Fundamentals of instrumentation and measurement, ISTE Ltd, Newport Beach, Calif., London. (E- Book) •Ripka, P. and Tipek, A. (2010) Modern sensors handbook, Wiley Online Library, Hoboken. (E-Book) •Skoog, D.A., Holler, F.J., Crouch, S.R. (2013) Instrumentelle Analytik: Grundlagen - Geräte - Anwendungen, 6th edn, Springer Spektrum, Berlin, Heidelberg. (viele Exemplare in der UB: 5. Ausgabe, 6. Ausgabe) •Webster, J.G. and Eren, H. (2014) Measurement, instrumentation, and sensors handbook: Spatial, mechanical, thermal, and radiation measurement / edited by John G. Webster, Halit Eren, CRC Press, Boca Raton. (Exemplar in der UB: 2. Ausgabe Vol. 1 2. Ausgabe Vol. 2) Chemische Messtechnik (Lehrbücher) 
+
+
+, Modulbezeichnung 94165: Nachhaltige Chemische Prozesstechnik Sustainable chemical process engineering7,5 ECTS
+Lehrveranstaltungen: Vorlesung: Nachhaltige Chemische Prozesstechnik (3.0 SWS )7,5 ECTS Übung : Nachhaltige Chemische Prozesstechnik - Seminar (2.0 SWS )-
+Lehrende: Marco Haumann Dr.-Ing. Detlef Freitag Prof. Dr. Tanja Franken  
+Modulverantwortliche/r: Prof. Dr. Tanja Franken Dr.-Ing. Detlef Freitag Marco Haumann
+Inhalt: Im Modul werden den Studierenden die Grundzüge der Nachhaltigen Chemischen Prozesstechnik vorgestellt. Hierbei werden die wesentlichen Produktionsverfahren für wichtige Basischemikalien, das Konzept der Katalyse und der Nachhaltigkeitsbetrachtung diskutiert. Weiterhin wird an ausgewählten Beispielen aus der Chemischen Prozesstechnik die Grundlagen in Reaktoren, prozesstechnische und nachhaltige Kenngrößen, sowie energetische Betrachtungen vermittelt. 6Lernziele und KompetenzenDie Studierenden •reflektieren auf welche Faktoren es für eine Nachhaltige Prozessentwicklung ankommt •können die wichtigen chemischen Grundreaktionen und Trennverfahren einschließlich der dazugehörigen apparativen Lösungen nachvollziehen •charakterisieren und bewerten die Rohstoffe sowie die Eigenschaften der Produkte •sind sich der Interdisziplinarität des Chemieingenieurwesens und dessen fachlichen Zusammenhängen mit den Inhalten der weiteren Studienfächer bewußt 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenÜbungsleistung Klausur (90 Minuten) 11Berechnung der ModulnoteÜbungsleistung (0%) Klausur (100%) 12Turnus des Angebots nur im Sommersemester 
+Lernziele und Kompetenzen: Die Studierenden •reflektieren auf welche Faktoren es für eine Nachhaltige Prozessentwicklung ankommt •können die wichtigen chemischen Grundreaktionen und Trennverfahren einschließlich der dazugehörigen apparativen Lösungen nachvollziehen •charakterisieren und bewerten die Rohstoffe sowie die Eigenschaften der Produkte •sind sich der Interdisziplinarität des Chemieingenieurwesens und dessen fachlichen Zusammenhängen mit den Inhalten der weiteren Studienfächer bewußt
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Übungsleistung Klausur (90 Minuten)
+Berechnung der Modulnote: Übungsleistung (0%) Klausur (100%)
+Turnus des Angebots: nur im Sommersemester 
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Vorlesungsskripte/Folien 
+
+, Modulbezeichnung 94131: Nachhaltige Chemische Technologie 1 - Rohstoffe Sustainable chemical technologies 1 - Materials5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Martin Hartmann
+Inhalt: •Rohstoffversorgung, Lagerstätten •Bedarf, Ressourcen und Reserven gängiger Rohstoffe •Beschreibung ausgewählter Prozesse zum Abbau und zur Aufreinigung bedeutender Rohstoffe •Diskussion von ökologischen, ökonomischen und sozialen Aspekten (Nachhaltigkeit), Recyclingoptionen •Substituierbarkeit von Rohstoffen •Rohstoffe im Fokus: Kohle, Öl, Gas, nachwachsende Rohstoffe, Rohstoffe für Metalle, Mineralsalze, technische Gase, Silikate und Baustoffe 6Lernziele und KompetenzenDie Studierenden: •beschreiben und erklären die Rohstoffbasis der modernen chemischen Industrie und deren zukünftige Entwicklung •beurteilen die Nachhaltigkeit und Wirtschaftlichkeit der Nutzung nachwachsender Rohstoffe unter umwelt- und sozialverträglichen Gesichtspunkten •können mit Hilfe der in der Vorlesung gegebenen Fachinformationen und aufgrund eigener Recherchen Strategien für den ressourcen-schonenden Einsatz von Rohstoffen ermitteln, skizzieren, berurteilen und mit dem gegenwertigen Stand der Technik vergleichen 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) Übungsleistung 11Berechnung der ModulnoteKlausur (80%) Übungsleistung (20%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Studierenden: •beschreiben und erklären die Rohstoffbasis der modernen chemischen Industrie und deren zukünftige Entwicklung •beurteilen die Nachhaltigkeit und Wirtschaftlichkeit der Nutzung nachwachsender Rohstoffe unter umwelt- und sozialverträglichen Gesichtspunkten •können mit Hilfe der in der Vorlesung gegebenen Fachinformationen und aufgrund eigener Recherchen Strategien für den ressourcen-schonenden Einsatz von Rohstoffen ermitteln, skizzieren, berurteilen und mit dem gegenwertigen Stand der Technik vergleichen
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (90 Minuten) Übungsleistung
+Berechnung der Modulnote: Klausur (80%) Übungsleistung (20%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 63491: Organische Chemie Organic Chemistry7,5 ECTS
+Lehrveranstaltungen: Hauptseminar : Seminar zum organisch-chemischen Praktikum für Chemieingenieure (1.0 SWS )- Praktikum : Organisch-chemisches Praktikum für Chemieingenieure (3.0 SWS )- Vorlesung: Organische Chemie (4.0 SWS ) -
+Lehrende: Prof. Dr. Andriy Mokhir  
+Modulverantwortliche/r: Prof. Dr. Andriy Mokhir
+Inhalt: (1) Grundlagen der Organischen Chemie: Die chemische Bindung, Schreibweisen in der Organischen Chemie, funktionelle Gruppen, IUPAC-Nomenklatur (2) Alkane: Radikalreaktionen, Stereochemie, Nukleophile aliphatische Substitution (SN-Reaktionen) (3) Alkene: Eliminierungsreaktionen (E), Additionsreaktionen (4) Alkine: Eigenschaften, Darstellung, Reaktionen (5) Carbonylverbindungen: Eigenschaften, Synthese, Reaktionen, C-C- Knüpfungsreaktionen (6) Carbonsäuren und ihre Derivate: Eigenschaften, Darstellung, Synthese von Derivaten, Reaktionen (7) Aromaten: Aromatizität, elektrophile und nukleophile aromatische Substitution, Reaktionen von Diazoniumsalzen (8) Chemie der Farbstoffe: Grundlagen, Azofarbstoffe, Triphenylmethanfarbstoffe (9) Waschmittel: Grundlagen, Beispiele (10) Polymere: Grundlagen, Beispiele 6Lernziele und KompetenzenDie Studierenden: beherrschen die Grundlagen der Organischen Chemie; haben die Grundkenntnisse über die wichtigsten organischen Stoffklassen; kennen die wichtigsten Reaktionen der Stoffumwandlungen und verstehen deren Mechanismen; besitzen die Fähigkeiten die Reaktivität der organischen Substanzen einzuschätzen; können die einfachsten organischen Reaktionen sicher, nachhaltig und umweltfreundlich durchführen und deren Produkte isolieren und charakterisieren. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenPraktikumsleistung schriftlich (180 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden: beherrschen die Grundlagen der Organischen Chemie; haben die Grundkenntnisse über die wichtigsten organischen Stoffklassen; kennen die wichtigsten Reaktionen der Stoffumwandlungen und verstehen deren Mechanismen; besitzen die Fähigkeiten die Reaktivität der organischen Substanzen einzuschätzen; können die einfachsten organischen Reaktionen sicher, nachhaltig und umweltfreundlich durchführen und deren Produkte isolieren und charakterisieren.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Praktikumsleistung schriftlich (180 Minuten) 
+
+Berechnung der Modulnote: Praktikumsleistung (0%) schriftlich (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: K. P. C. Vollhardt, N. E. Schore Organische Chemie, Wiley-VCH, Weinheim 
+
+, Modulbezeichnung 62495: Physikalische Chemie Physical chemistry5 ECTS
+Lehrveranstaltungen: Vorlesung: Physikalische Chemie für CBI, CEN u. LSE (2.0 SWS, SoSe 2024 )- Tutorium: Tutorien zur Physikalischen Chemie für CBI, CEN u. LSE (2.0 SWS, SoSe 2024 )- Übung : Übung zur Physikalischen Chemie für CBI, CEN u. LSE (1.0 SWS, SoSe 2024 )-
+Lehrende: Prof. Dr. Jörg Libuda  
+Modulverantwortliche/r: Prof. Dr. Jörg Libuda
+Inhalt: (1) Chemische Reaktionskinetik: Grundlagen der chemischen Kinetik; Experimentelle Methoden der Reaktionskinetik; Kinetik komplexer Reaktionssysteme; Theorie der Kinetik; Katalyse. (2) Aufbau der Materie: Grenzen der klassischen Mechanik u. Elektrodynamik; Einführung in die Quantenmechanik; einfache quantenmechanische Modelle; Aufbau der Atome; chemische Bindung u. Aufbau der Moleküle. (3) Spektroskopie: Wechselwirkung von Strahlung und Materie; Rotations- und Schwingungsspektroskopie; elektronische Spektroskopien. Themen im Rahmen des Physikalisch-chemischen Praktikums: (1) Chemische Thermodynamik: Wärmekapazität, Reaktionsenthalpie; kinetische Gastheorie. (2) Phasen- / Grenzflächengleichgewichte: Adsorptionsisothermen, chemisches Gleichgewicht, chemisches Potenzial. (3) Elektrochemie: Leitfähigkeit, Elektrolyte, EMK, Nernst-Gleichung, Zell- und Zersetzungsspannung, Überspannung. (4) chemische Kinetik: Reaktionsgeschwindigkeit und -ordnung, Einfluss der Temperatur und Aktivierungsenergie. (5) Aufbau der Materie / Alternative Energieerzeugung: Atommodelle, Bändermodell, Halbleiter, Dotierung. (6) Spektroskopie: Franck-Condon-Prinzip, Jablonski-Diagramm, Fluoreszenz, Raman-Effekt, Rayleigh-Streuung. 6Lernziele und KompetenzenDie Studierenden •interpretieren die Grundprinzipien der chemischen Thermodynamik •fassen die Grundlagen die chemischen Reaktionskinetik zusammen und geben die theoretischen Hintergründe der Kinetik komplexer Systeme wieder •kennen die Grenzen der klassischen Physik und beschreiben einfache quantenmechanische Modelle •erläutern die Grundlagen des Aufbaus der Materie und der Wechselwirkung zwischen Strahlung und Materie •erklären die Zusammenhänge zwischen Moleküleigenschaften und gemessenen Spektren •geben grundlegende Zusammenhänge bei Phasenübergängen und Gleichgewichten wieder 
+Lernziele und Kompetenzen: Die Studierenden •interpretieren die Grundprinzipien der chemischen Thermodynamik •fassen die Grundlagen die chemischen Reaktionskinetik zusammen und geben die theoretischen Hintergründe der Kinetik komplexer Systeme wieder •kennen die Grenzen der klassischen Physik und beschreiben einfache quantenmechanische Modelle •erläutern die Grundlagen des Aufbaus der Materie und der Wechselwirkung zwischen Strahlung und Materie •erklären die Zusammenhänge zwischen Moleküleigenschaften und gemessenen Spektren •geben grundlegende Zusammenhänge bei Phasenübergängen und Gleichgewichten wieder 
+
+Einpassung in Studienverlaufsplan: Semester: 2
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: schriftlich (90 Minuten)
+Berechnung der Modulnote: schriftlich (100%)
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 2 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: G. Wedler, H.-J. Freund: Lehrbuch der Physikalischen Chemie, Wiley- VCH P. W. Atkins, C. A. Trapp: Physikalische Chemie, Wiley-VCH 
+
+, Modulbezeichnung 94731: Reaktionstechnik Chemical reaction Engineering5 ECTS
+Lehrveranstaltungen: Übung : Exercise Chemical Reaction Engineering (2.0 SWS )- Vorlesung: Reaktionstechnik / Chemical Reaction Engineering (2.0 SWS )- Tutorium: Tutorium zur Vorlesung Reaktionstechnik / Tutorial Chemical Reaction Engineering (1.0 SWS )-
+Lehrende: Dennis Weber Patrick Schühle Adrian Seitz Marco Haumann Prof. Dr. Tanja Franken  
+Modulverantwortliche/r: Patrick Schühle Dr. Peter Schulz Prof. Dr. Peter Wasserscheid
+Inhalt: Im Rahmen des Moduls Chemische Reaktionstechnik (Kernfach) werden folgende Themen behandelt: The subject Chemical Reaction Engineering (B.Sc.) comprises the following topics: •Stöchiometrie komplexer Reaktionen (Stoichiometry of complex Reaction systems) •Bilanzierung chemischer Anlagen (Mass and energy balancing of chemical plants) •Kinetik und Auswertung kinetischer Messungen (Kinetics and Analysis of kinetic measurements) •Kinetik heterogen katalysierter Oberflächenreaktionen (Kinetics of heterogeneously catalyzed reactions) •Stofftransport und Chemische Reaktion (Mass Transport and chemical reaction) •Verweilzeitmessungen idealer Reaktoren (Residence Time Distribution Measurements of ideal reactors) •Umsatz/Ausbeute in idealen, isothermen Reaktoren (Conversion/Yield in ideal, isothermal reactors) •Beschreibung realer Reaktoren (Description of real reactors) 6Lernziele und KompetenzenDie Studierenden •kennen und verstehen grundlegende Vorgehensweisen der Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und Praktikumsversuche und lösen diese kooperativ 7Voraussetzungen für die TeilnahmeUm an den Veranstaltungen teilzunehmen, ist die Anmeldung für den zugehörigen StudOn-Kurs verpflichtend. 
+Lernziele und Kompetenzen: Die Studierenden •kennen und verstehen grundlegende Vorgehensweisen der Reaktionstechnik •interpretieren Reaktionsbedingungen anhand derer ein Reaktormodell aufgestellt wird •organisieren selbständig die gemeinsame Bearbeitung der Übungsaufgaben und Praktikumsversuche und lösen diese kooperativ
+Voraussetzungen für die Teilnahme: Um an den Veranstaltungen teilzunehmen, ist die Anmeldung für den zugehörigen StudOn-Kurs verpflichtend. 
+
+Einpassung in Studienverlaufsplan: Semester: 6
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Fitzer, Fritz, Emig, Einführung in die Chemische Reaktionstechnik, Springer Verlag, 4. Auflage, Berlin 1995 Baerns, Hofmann, Renken, Chemische Reaktionstechnik, Thieme Verlag, Stuttgart. Jess, Wasserscheid, Chemical Technology, Wiley Verlag, 2019. 
+
+, Modulbezeichnung 92474: Technische Thermodynamik Technical thermodynamics7,5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Dr.-Ing. Franz Huber Prof. Dr.-Ing. Stefan Will
+Inhalt: •Grundbegriffe der Technischen Thermodynamik •Ideale Gase und deren Zustandsgleichungen •1. und 2. Hauptsatz der Thermodynamik •Grenzen der Umwandlung von Energien •Thermodynamische Eigenschaften reiner Stoffe •Kreisprozesse •Ideale Gas- und Gas-Dampf-Gemische •Prozesse mit feuchter Luft 6Lernziele und KompetenzenDie Studierenden •kennen die Begriffe und Grundlagen der Technischen Thermodynamik •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bwerten diese aufgrund charakteristischer Kennzahlen •optimieren thermodynamische Prozesse •können selbständig thermodynamische Experimente durchführen und die Ergebnisse auswerten •lösen auch komplexe Fragestellungen der Technischen Thermodynamik 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 3 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 135 h 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Begriffe und Grundlagen der Technischen Thermodynamik •erstellen energetische und exergetische Bilanzen •wenden thermodynamische Methodik für die Berechnung der Zustandseigenschaften sowie von Zustandsänderungen reiner Fluide an •berechnen relevante thermodynamische Prozesse und bwerten diese aufgrund charakteristischer Kennzahlen •optimieren thermodynamische Prozesse •können selbständig thermodynamische Experimente durchführen und die Ergebnisse auswerten •lösen auch komplexe Fragestellungen der Technischen Thermodynamik
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 3
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •Vorlesungsskript •A. Leipertz, Technische Thermodynamik •H.D. Baehr, S. Kabelac, Thermodynamik 
+
+, Modulbezeichnung 94081: Thermische Verfahrenstechnik Separation science and technology5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Matthias Thommes
+Inhalt: In diesem Modul wird eine Einführung in die thermischen Trennverfahren gegeben. Dies umfasst die Grundlagen der Rektifikation, Absorption, Adsorption, Chromatographie, Trocknung, Extraktion, Membranprozesse und Kristallisation. Für jedes Trennverfahren werden die physikalisch-chemischen Grundlagen, die wichtigsten Berechnungsmethoden und Apparate sowie einige technische Beispiele behandelt. Darüber hinaus wird eine Einführung in die praktische Auslegung von Trennapparaten an beispielhaft ausgewählten Trennoperationen realisiert. 6Lernziele und KompetenzenFachkompetenz Wissen Die Studierenden kennen die wichtigsten Trennverfahren. Diese sind Membranprozesse, Destillation, Rektifikation, Absorption, Adsorption und Extraktion. Verstehen Die Studierenden verstehen die Triebkräfte sowie die Grundlagen der jeweiligen Unitoperations. Anwenden Die Studierenden sind in der Lage ihr Wissen über die verschiedenen Unitoperations mit ihrem Wissen aus der chemischen Thermodynamik zu kombinieren und können so Trennapparate auslegen und bilanzieren. Analysieren Die Studierenden können anhand ihrer Kenntnisse analysieren welche Unitoperation für welche Trennoperation die Richtige ist. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenKlausur (120 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 
+Lernziele und Kompetenzen: Fachkompetenz Wissen Die Studierenden kennen die wichtigsten Trennverfahren. Diese sind Membranprozesse, Destillation, Rektifikation, Absorption, Adsorption und Extraktion. Verstehen Die Studierenden verstehen die Triebkräfte sowie die Grundlagen der jeweiligen Unitoperations. Anwenden Die Studierenden sind in der Lage ihr Wissen über die verschiedenen Unitoperations mit ihrem Wissen aus der chemischen Thermodynamik zu kombinieren und können so Trennapparate auslegen und bilanzieren. Analysieren Die Studierenden können anhand ihrer Kenntnisse analysieren welche Unitoperation für welche Trennoperation die Richtige ist.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: Klausur (120 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: 
+
+, Modulbezeichnung 1500: Wahlmodul aus dem Angebot der FAU Elective modules from the university module catalog5 ECTS
+Lehrveranstaltungen: und somit auch keine
+Modulverantwortliche/r: 5
+Inhalt: keine Inhaltsbeschreibung hinterlegt! 6Lernziele und KompetenzenDie individuell in den gewählten Modulen erworbenen Kompetenzen können den Modulbeschreibungen der gewählten Module entnommen werden. Vom individuellen Modul unabhängige Kompetenzen: Die Studierenden erwerben zusätzliche Kenntnisse und Kompetenzen in einem neuen Fachgebiet oder vertiefen vorhandenes Wissen in einem bereits im LSE-Curriculum enthaltenen Themenfeld. Die Studierenden erwerben Selbst- und Sozialkompetenz durch eine breite, fachrichtungsübergreifende Qualifizierung innerhalb der individuell gewählten Module. Die Studierenden schärfen durch die Wahlfreiheit ihr individuelles Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in Studienverlaufsplankeine Einpassung in Studienverlaufsplan hinterlegt! 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und Prüfungsleistungen 11Berechnung der Modulnote 12Turnus des Angebots in jedem Semester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: ?? h (keine Angaben zum Arbeitsaufwand in Präsenzzeit hinterlegt) Eigenstudium: ?? h (keine Angaben zum Arbeitsaufwand im Eigenstudium hinterlegt) 14 Dauer des Moduls 1 Semester 15Unterrichts- und Prüfungssprache 16 Literaturhinweise 
+Lernziele und Kompetenzen: Die individuell in den gewählten Modulen erworbenen Kompetenzen können den Modulbeschreibungen der gewählten Module entnommen werden. Vom individuellen Modul unabhängige Kompetenzen: Die Studierenden erwerben zusätzliche Kenntnisse und Kompetenzen in einem neuen Fachgebiet oder vertiefen vorhandenes Wissen in einem bereits im LSE-Curriculum enthaltenen Themenfeld. Die Studierenden erwerben Selbst- und Sozialkompetenz durch eine breite, fachrichtungsübergreifende Qualifizierung innerhalb der individuell gewählten Module. Die Studierenden schärfen durch die Wahlfreiheit ihr individuelles Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld.
+Voraussetzungen für die Teilnahme: Keine
+Verwendbarkeit des Moduls: Pflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232
+Method of examination: 1
+Berechnung der Modulnote: 1
+Turnus des Angebots: in jedem Semester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: 1
+Literaturhinweise: 
+
+
+, Modulbezeichnung 97040: Einführung in die Regelungstechnik Introduction to control engineering5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Thomas Moor
+Inhalt: Grundlagen der klassischen Regelungstechnik •Lineare zeitinvariante Eingrößensysteme im Frequenz- und Zeitbereich •Sensitivitäten des Standardregelkreises •Bode-Diagramm und Nyquist-Kriterium •Entwurf von Standardreglern •Algebraische Entwurfsmethoden •Erweiterte Regelkreisarchitekturen Anwendungsstudien aus den Bereichen •Mechanische Systeme •Verfahrenstechnische Prozesse 6Lernziele und KompetenzenDie Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20152 Wahlpflichtmodul 1+2 Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 60 h Eigenstudium: 90 h 14 Dauer des Moduls 1 Semester 
+Lernziele und Kompetenzen: Die Teilnehmer •erklären und illustrieren die vorgestellten Entwurfsziele und Entwurfsverfahren anhand von Beispielen, •erkennen elementare mathematische Zusammenhänge zwischen Systemtheorie und Reglerentwurf, •können die vorgestellten Entwurfsverfahren auf einfache Anwendungsfälle anwenden und kritisch hinterfragen, •erkennen im Anwendungskontext gegenläufige oder sich ausschließende Entwurfsziele.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester 
+
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Unbehauen, H.: Regelungstechnik I, Vieweg, 1982 Glattfelder, A.H., Schaufelberger, W.: Lineare Regelsysteme, VDH Verlag, 1996 Goodwin, G.C., et al.: Control System Design, Prentice Hall, 2001 
+
+, Modulbezeichnung 92774: Electrochemistry 5 ECTS
+Lehrveranstaltungen: Übung : Exercise Electrochemistry (3.0 SWS ) 3 ECTS Vorlesung: Electrochemistry (2.0 SWS ) -
+Lehrende: Prof. Dr. Karl Mayrhofer Dr. Dominik Dworschak  
+Modulverantwortliche/r: Prof. Dr. Karl Mayrhofer
+Inhalt: The lecture and Übung of the first semester provide a fundamental insight into electrochemical systems and discuss basic thermodynamics, double layer theory, conductance and migration etc. Based on this knowledge, students will be able to understand electrochemical problems, suggest methods to solve them and understand the background of many practical electrochemical systems and applications. Moreover, they will receive an intensive insight into electrochemical analytical methods necessary to investigate electrochemical reactions. In the practical part they will apply this knowledge and investigate standard electrochemical reactions, and will also design a program to model the results. -Electrochemical thermodynamics (5 lectures) introduction (scope and role of electrochemistry, short history), electrochemical potentials, Nernst-equation, electrodes, conductance, transference number, mobility, solvation of ions, the Born-equation, Debye-Hückel theory, junction potentials, ion selective electrodes (concept of pH, the glass electrode, other ion selective electrodes), transport phenomena, electrified interfaces: double layer theories, adsorption (adsorption isotherms), surface excesses, electrocapillary equation, electrokinetic properties -Electrochemical methods (7 lectures) electrochemical cells/reactors, electrochemical instrumentation, potential step methods, potential sweep methods, galvanostatic methods, stripping analysis, hydrodynamic methods (RDE, RRDE), impedance (1 lecture), scanning techniques (electrochemical STM, SECM, SFC, AFM ), intro to the second semester courses -Electrochemistry in applications (3 lectures) Corrosion, metal deposition (coatings); Electroanalysis, electrochemical sensors, modified electrodes; Lithography galvoforming, semiconductors, information storage, bioelectrochemistry, photoelectrochemistry, conducting polymers Student competencies achieved: •Understand the thermodynamic fundamentals of electrochemical processes •Knowledge of modern electrochemical methods and their application •Interpret data from electrochemical measurements 6Lernziele und KompetenzenThe module provides a fundamental insight into electrochemical systems and discusses basic thermodynamics, double layer theory, conductance and migration etc. Based on this knowledge, students 
+Lernziele und Kompetenzen: The module provides a fundamental insight into electrochemical systems and discusses basic thermodynamics, double layer theory, conductance and migration etc. Based on this knowledge, students 
+
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise: •Electrochemical methods: fundamentals and applications by A. J. Bard, L. R. Faulkner, 2nd ed., Wiley, 2000 •Elektrochemie by C. H. Hamann, W. Vielstich, 4th ed., Wiley, 2005 •Electrochemistry Principles, Methods, and Applications by C. M. A. Brett und A. M. O. Brett. Oxford University Press, 1993 •Electrode kinetics for chemists, chemical engineers, and materials scientists by E. Gileadi, Wiley-VCH, 1993 
+
+, Modulbezeichnung 42933: Experimental fluid mechanics 5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Experimental Fluid Mechanics (Strömungsmesstechnik) (3.0 SWS )5 ECTS
+Lehrende: Prof. Dr. Andreas Wierschem  
+Modulverantwortliche/r: Prof. Dr. Andreas Wierschem
+Inhalt: Content: •Flow visualization •Measurement techniques for velocity: Particle Image and Tracking Velocimetry and Laser Doppler anemometry, ultrasound, •Measurement techniques for flow rate, pressure, temperature, concentration, free surfaces •Applicability and limitations, typical errors •2-, 2+1-, 3-dimensional techniques, time-resolved techniques •Data acquisition and processing 6Lernziele und KompetenzenStudents who participate in this course will become familiar with measurement techniques in fluid mechanics. Students who successfully participate in this module: •Have an overview over the most extended and important measurement techniques •Understand the principles of the different techniques •Know and understand the abilities and limitations of the techniques •Can to select an appropriate technique for a given task •Can identify and avoid typical measurement errors 7Voraussetzungen für die Teilnahme*Prerequisites:* To succeed in this course, students will need to apply acquired knowledge from fluid mechanics. Basic knowledge in physics and measurement techniques is beneficial. 8Einpassung in StudienverlaufsplanSemester: 1;2;3;4 9Verwendbarkeit des ModulsWahlpflichtmodul 1+2 Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenVariabel mündlich, 30 min 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Sommersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheEnglisch 
+Lernziele und Kompetenzen: Students who participate in this course will become familiar with measurement techniques in fluid mechanics. Students who successfully participate in this module: •Have an overview over the most extended and important measurement techniques •Understand the principles of the different techniques •Know and understand the abilities and limitations of the techniques •Can to select an appropriate technique for a given task •Can identify and avoid typical measurement errors
+Einpassung in Studienverlaufsplan: Semester: 1;2;3;4
+Method of examination: Variabel mündlich, 30 min
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch 
+
+Literaturhinweise: •Tropea, Yarin, Foss: Handbook of Experimental Fluid Mechanics, Springer •Merzkirch: Flow Visualization, Academic Press •Mayinger, Feldmann: Optical Measurements, Springer 
+
+, Modulbezeichnung 92776: Fundamentals of electrical engineering 5 ECTS
+Lehrveranstaltungen: Tutorium: Group Tutorial 2 (2.0 SWS ) - Vorlesung: Fundamentals of Electrical Engineering (2.0 SWS )5 ECTS Übung : Fundamentals of Electrical Engineering - Exercises (2.0 SWS )-
+Lehrende: Hans Rosenberger Prof. Dr.-Ing. Ralf Müller  
+Modulverantwortliche/r: Prof. Dr.-Ing. Ralf Müller
+Inhalt: •Elektrostatisches Feld •Stationäres elektrisches Strömungsfeld •Gleichstromnetzwerke •Stationäres Magnetfeld •Zeitlich veränderliches elektromagnetisches Feld •Zeitlich periodische Vorgänge •Ausgleichsvorgänge •Halbleiterbauelemente und ausgewählte Grundschaltungen ==== •Electrostatic field •Stationary electric flow field •Direct current networks •Stationary magnetic field •Time-varying electromagnetic field •Time periodic processes •Transient processes •Semiconductor devices and selected basic circuits 6Lernziele und Kompetenzen•Die Studierenden erläutern die Grundkonzepte von elektrische Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatisches Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. Die Studierenden beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •Die Studierenden erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •Die Studierenden erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetze. Mit Hilfe der Kirchhoffsche Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. 
+Lernziele und Kompetenzen: •Die Studierenden erläutern die Grundkonzepte von elektrische Ladung und Ladungsverteilungen. Sie nutzen das Coulombsche Gesetz und analysieren die elektrische Feldstärke, berechnen das elektrostatisches Potential und die elektrische Spannung. Sie bestimmen die elektrische Flussdichte und wenden das Gaußsche Gesetz an. Die Studierenden beschreiben Randbedingungen der Feldgrößen und bestimmen den Einfluss von Materie im elektrostatischen Feld. Sie bestimmen die relevanten Größen an Kondensator und Kapazität und ermitteln den Energiegehalt des elektrischen Feldes. •Die Studierenden erläutern die Begriffe Strom und Stromdichte, sie verwenden das Ohmsche Gesetz und erläutern das Verhalten an Grenzflächen. Sie ermitteln Energie und Leistung. •Die Studierenden erläutern die Rolle von Spannungs- und Stromquellen in Gleichstromnetze. Mit Hilfe der Kirchhoffsche Gleichungen analysieren sie einfache Widerstandsnetzwerke, die Wechselwirkung zwischen Quelle und Verbraucher und allgemeine Netzwerke. 
+
+Inhalt: e an, um selbständig einfache und dabei dennoch möglichst praxisnahe kleine Probleme systematisch zu lösen. Sie kontrollieren dabei selbst ihren Lernfortschritt und besprechen Fragen mit einem Tutoren, woraus sich Fachgespräche entwickeln, wie sie die ähnlich später in Verhandlungen und bei der Produktentwicklung mit Fachingenieurinnen und Fachingenieuren aus Elektro- und Informationstechnik führen müssen, sowie im interdisziplinären Dialog mit Elektro- und Informationstechnikern und Physikern. •Die Studierenden erkennen die Vorzüge einer regelmäßigen Nachbereitung und Vertiefung des Stoffes, da sie in diesem Modul ein für ihr Fachstudium fremdes Gebiet 
+
+
+Voraussetzungen für die Teilnahme: The students use methods of vector analysis and use Cartesian coordinates, cylindrical and polar coordinates. They solve systems of linear equations and calculate with complex numbers. They use the trigonometric formulas and solve linear ordinary differential equations with constant coefficients in transient processes. Students know and understand basic physical concepts, especially quantities and quantity equations.
+Einpassung in Studienverlaufsplan: Semester: 6
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise: •Manuskript zur Vorlesung / Lecture notes 
+
+
+, Modulbezeichnung 63370: Grenzflächen in der Biotechnologie Process engineering interfaces in biotechnology5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Nicolas Vogel
+Inhalt: Einführung in Bedeutung von Grenzflächen in Natur und Biotechnologie Molekulare Wechselwirkungen: Wie wechselwirken einzelne Moleküle Mikroskopische Wechselwirkungen: Wie verhindert man Aggregation von Proteinen und kolloidalen Systemen? Makroskopische Wechselwirkungen: Wie erklärt man Haftkräfte auf Basis der molekularen Wechselwirkungen Flüssige Grenzflächen: Wie entsteht Oberflächenspannung? Was ist der Kontaktwinkel? Welchen Einfluss haben Tenside und Proteine auf Flüssigkeiten, Emulsionen und Schäume? Adsorption an Oberflächen: Warum adsorbieren Moleküle an Grenzflächen? Adsorption und Grenzflächenüberschuss Messmethoden und Adsorptionsisothermen Einfluss von Porengeometrie, Porengröße, Kontaktwinkel und Krümmung auf Adsorption- und Phasenverhalten Adsorption von Tensiden, Proteinen an Oberflächen und in porösen Materialien sowie ausgewählte Anwendungen (z.B. Trennverfahren) 6Lernziele und KompetenzenDie Studierenden: kennen grundlegende, verschiedene molekulare Wechselwirkungen in Materie verfügen über Grundkenntnisse zur physikalischen und chemischen Beschreibung von Grenzflächen verbinden molekulare und makroskopische Vorstellungen von Wechselwirkungen verstehen die Unterschiede zwischen Oberflächen- und Volumenmolekülen erklären Benetzungsphenomene ausgehend von molekularen Wechselwirkungen und Substratgeometrie verfügen über Grundkenntnisse von Adsorptionsprozessen an Oberflächen und porösen Materialien erklären entsprechende Ansätze und wenden diese auf Fragen der Biotechnologie an 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 
+Lernziele und Kompetenzen: Die Studierenden: kennen grundlegende, verschiedene molekulare Wechselwirkungen in Materie verfügen über Grundkenntnisse zur physikalischen und chemischen Beschreibung von Grenzflächen verbinden molekulare und makroskopische Vorstellungen von Wechselwirkungen verstehen die Unterschiede zwischen Oberflächen- und Volumenmolekülen erklären Benetzungsphenomene ausgehend von molekularen Wechselwirkungen und Substratgeometrie verfügen über Grundkenntnisse von Adsorptionsprozessen an Oberflächen und porösen Materialien erklären entsprechende Ansätze und wenden diese auf Fragen der Biotechnologie an
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5 
+
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: Lehrbuch: Butt, H.-J., Graf, K.; Kappl, M.; Physics and Chemistry of Interfaces, Wiley-VCH, Berlin 2013, ISBN 978-3-527-41216-7 Lehrbuch: Israelachvili J.; Intermolecular and Surface Forces, Rev. 3rd Edition, Academic Press, ISBN: 9780123919274 Lehrbuch: D. H. Everett : Basic Principles of Colloid Science, 1998, RCC, ISBN: 978-1-84755-020-0 
+
+, Modulbezeichnung 92772: Renewable energies 5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Katharina Herkendell
+Inhalt: •Climate change and energy transition •Renewable electricity generation and transmission •Wind energy •Photovoltaics •Bioenergy •Geothermal energy •Hydropower •Heat and electricity storage •Sector coupling and system integration 6Lernziele und KompetenzenStudents who participate in this course will become familiar with basic concepts of conventional energies. Students who successfully participate in this module will •know the fundamentals of renewable energy conversion processes •assess environmental and social aspects of renewable energy conversion. 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 1 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20152 Wahlpflichtmodul 1+2 Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 11Berechnung der ModulnoteKlausur (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 45 h Eigenstudium: 105 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheEnglisch 16 Literaturhinweise •Slides published via StudOn 
+Lernziele und Kompetenzen: Students who participate in this course will become familiar with basic concepts of conventional energies. Students who successfully participate in this module will •know the fundamentals of renewable energy conversion processes •assess environmental and social aspects of renewable energy conversion.
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 1
+Method of examination: Klausur (90 Minuten)
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch
+Literaturhinweise: •Slides published via StudOn 
+
+
+, Modulbezeichnung 42932: Scientific computing in engineering 2 5 ECTS
+Lehrveranstaltungen: Im aktuellen Semester werden keine Lehrveranstaltungen zu dem Modul angeboten. Für weitere Auskünfte zum Lehrveranstaltungsangebot kontaktieren Sie bitte die Modul-Verantwortlichen.
+Lehrende: -  
+Modulverantwortliche/r: Prof. Dr. Jens Harting
+Inhalt: •Process system modeling •Fluid mechanics and dimensionless parameters •Cellular automata •Lattice gas and lattice Boltzmann methods •Multiphase flows •Reaction-diffusion systems •Molecular dynamics •Monte Carlo simulations •Programming in modern programming languages such as Python or Julia. 6Lernziele und KompetenzenThe students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 5 9Verwendbarkeit des ModulsWahlpflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20152 Wahlpflichtmodul 1+2 Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenVariabel 11Berechnung der ModulnoteVariabel (100%) 12Turnus des Angebots nur im Wintersemester 13Arbeitsaufwand in ZeitstundenPräsenzzeit: 90 h Eigenstudium: 60 h 14 Dauer des Moduls 1 Semester 15Unterrichts- und PrüfungsspracheEnglisch 
+Lernziele und Kompetenzen: The students •model process systems and can formulate practical examples mathematically, implement simple algorithms on the computer and perform simulations •know and use methods such as cellular automata, lattice Boltzmann methods, molecular dynamics, computational fluid dynamics and Monte Carlo simulations •interpret results independently and can present them visually
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 5
+Method of examination: Variabel
+Berechnung der Modulnote: Variabel (100%)
+Turnus des Angebots: nur im Wintersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Englisch 
+
+Literaturhinweise: 
+
+, Modulbezeichnung 94161: Werkstoffkunde Materials science5 ECTS
+Lehrveranstaltungen: Vorlesung mit Übung: Werkstoffkunde für Studierende des CBI und CEN (3.0 SWS )5 ECTS
+Lehrende: Heinz Werner Höppel Tobias Fey Dr.-Ing. Joachim Kaschta  
+Modulverantwortliche/r: Heinz Werner Höppel
+Inhalt: •Anforderungen an Werkstoffe •kristalline und makromolekulare Werkstoffe •nichtmetallische anorganische Werkstoffe •Zustandsdiagramme binärer Systeme •Stähle •Gusseisen •Phasenumwandlungen •mechanische Eigenschaften für elastische und plastische Verformung •Metallurgie, Kunststofftechnik, Gläser und Keramik, Verbundwerkstoffe 6Lernziele und KompetenzenDie Studierenden •kennen die Eigenschaften und Struktur kristalliner Werkstoffe, Polymere, Gläser und Keramiken •verstehen Zustandsdiagramme, beispielsweise das Eisen- Kohlenstoff-Zustandsdiagramm •nennen verschiedene metallische Werkstoffgruppen wie Stahl, Gusseisen, Leichtmetalle (Aluminium, Magnesium, Titan) und Superlegierungen •kennen wichtigste Polymerisationsverfahren •verstehen die Zusammenhänge zwischen der Struktur und den Eigenschaften amorpher und teilkristalliner Polymeren sowie deren Einfluss auf das mechanische Verhalten •können das Verformungsverhalten von Polymerwerkstoffen anhand von Modellen und molekularen Verformungsmechanismen für die verschiedenen Zustandsbereiche beschreiben, wobei auch auf heterogene Werkstoffe wie Faserverbunde eingegangen wird 7Voraussetzungen für die TeilnahmeKeine 8Einpassung in StudienverlaufsplanSemester: 2 9Verwendbarkeit des ModulsPflichtmodul Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20152 Wahlpflichtmodul 1+2 Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien 20232 10Studien- und PrüfungsleistungenKlausur (90 Minuten) 
+Lernziele und Kompetenzen: Die Studierenden •kennen die Eigenschaften und Struktur kristalliner Werkstoffe, Polymere, Gläser und Keramiken •verstehen Zustandsdiagramme, beispielsweise das Eisen- Kohlenstoff-Zustandsdiagramm •nennen verschiedene metallische Werkstoffgruppen wie Stahl, Gusseisen, Leichtmetalle (Aluminium, Magnesium, Titan) und Superlegierungen •kennen wichtigste Polymerisationsverfahren •verstehen die Zusammenhänge zwischen der Struktur und den Eigenschaften amorpher und teilkristalliner Polymeren sowie deren Einfluss auf das mechanische Verhalten •können das Verformungsverhalten von Polymerwerkstoffen anhand von Modellen und molekularen Verformungsmechanismen für die verschiedenen Zustandsbereiche beschreiben, wobei auch auf heterogene Werkstoffe wie Faserverbunde eingegangen wird
+Voraussetzungen für die Teilnahme: Keine
+Einpassung in Studienverlaufsplan: Semester: 2
+Method of examination: Klausur (90 Minuten) 
+
+Berechnung der Modulnote: Klausur (100%)
+Turnus des Angebots: nur im Sommersemester
+Dauer des Moduls: 1 Semester
+Unterrichts- und Prüfungssprache: Deutsch
+Literaturhinweise: •B. Ilschner: Werkstoffwissenschaften. Springer, 1982, 1989 •B. Ilschner, R.F. Singer.: Werkstoffwissenschaften und Fertigungstechnik. Springer, 2002 •H.J. Bargel, G. Schulze: Werkstoffkunde. VDI Verlag, 1994 •W. Schatt, H. Worch: Einführung in die Werkstoffwissenschaften. Deutscher Verlag für Grundstoffindustrie, Stuttgart, 1996 •E. Macherauch: Praktikum in Werkstoffkunde.Vieweg •W. Domke: Werkstoffkunde und Werkstoffprüfung. W. Girardet, Essen •W. Weißbach: Werkstoffkunde und Werkstoffprüfung.Vieweg •J. Rösler, H. Harders, M. Bäker: Mechanisches Verhalten der Werkstoffe. Teubner •W.D. Callister: Materials Science and Engineering: An Introduction, Wiley •J.F. Shackelford: Werkstofftechnologie für Ingenieure, Pearson
